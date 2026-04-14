@@ -1,0 +1,53 @@
+topics:
+  defense_budget:
+    display: 國防預算
+    keywords:
+    - defense budget
+    - 國防預算
+    - military spending
+    - 軍費
+    - defense spending
+    - Pentagon budget
+    - NATO spending
+  arms_export:
+    display: 軍售
+    keywords:
+    - arms export
+    - 軍售
+    - arms deal
+    - weapons sale
+    - military sale
+    - arms transfer
+    - FMS
+  missile_defense:
+    display: 飛彈防禦
+    keywords:
+    - missile defense
+    - 飛彈防禦
+    - THAAD
+    - Patriot
+    - Iron Dome
+    - missile system
+    - air defense
+    - 防空
+  drone_warfare:
+    display: 無人機作戰
+    keywords:
+    - drone
+    - 無人機
+    - UAV
+    - UAS
+    - unmanned
+    - drone warfare
+    - autonomous weapon
+    - loitering munition
+  cybersecurity:
+    display: 網路安全
+    keywords:
+    - cybersecurity
+    - 網路安全
+    - cyber attack
+    - cyber defense
+    - 資安
+    - cyber warfare
+    - information warfare

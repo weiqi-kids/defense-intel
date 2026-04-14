@@ -1,0 +1,192 @@
+companies:
+- id: lockheed
+  name: Lockheed Martin
+  aliases:
+  - 洛馬
+  - 洛克希德馬丁
+  ticker: LMT
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 航太防務
+  description: 全球最大國防承包商，F-35 製造商
+  downstream:
+  - palantir
+- id: rtx
+  name: RTX Corporation
+  aliases:
+  - RTX
+  - Raytheon
+  ticker: RTX
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 飛彈/航電
+  description: 飛彈系統與航空電子
+  downstream:
+  - palantir
+- id: northrop
+  name: Northrop Grumman
+  aliases:
+  - 諾格
+  - 諾斯洛普格魯曼
+  ticker: NOC
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 轟炸機/太空
+  description: B-21 轟炸機與太空系統
+- id: general_dynamics
+  name: General Dynamics
+  aliases:
+  - 通用動力
+  ticker: GD
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 艦艇/裝甲
+  description: 核潛艇與裝甲車輛
+- id: l3harris
+  name: L3Harris Technologies
+  aliases: []
+  ticker: LHX
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 通訊/電戰
+  description: 軍事通訊與電子戰系統
+- id: bae
+  name: BAE Systems
+  aliases:
+  - 英國航太
+  ticker: BA.L
+  market: LSE
+  currency: GBP
+  position: midstream
+  role: 防務
+  description: 歐洲最大國防承包商
+- id: thales
+  name: Thales
+  aliases:
+  - 泰雷茲
+  ticker: HO.PA
+  market: EURONEXT
+  currency: EUR
+  position: midstream
+  role: 電子/網安
+  description: 法國國防電子與網路安全
+- id: leonardo
+  name: Leonardo
+  aliases:
+  - 李奧納多
+  ticker: LDO.MI
+  market: MIL
+  currency: EUR
+  position: midstream
+  role: 直升機/電子
+  description: 義大利國防與航太集團
+- id: rheinmetall
+  name: Rheinmetall
+  aliases:
+  - 萊茵金屬
+  ticker: RHM.DE
+  market: XETRA
+  currency: EUR
+  position: midstream
+  role: 裝甲/彈藥
+  description: 德國裝甲車與彈藥製造商
+- id: aidc
+  name: AIDC
+  aliases:
+  - 漢翔航空
+  - 漢翔
+  ticker: 2634.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 航太
+  description: 台灣航太國防製造商
+- id: hanwha_aero
+  name: Hanwha Aerospace
+  aliases:
+  - 韓華航太
+  - 한화에어로스페이스
+  ticker: 012450.KS
+  market: KRX
+  currency: KRW
+  position: midstream
+  role: 航太/防務
+  description: 韓國航太與國防製造商
+- id: elbit
+  name: Elbit Systems
+  aliases:
+  - 艾爾比特
+  ticker: ESLT
+  market: NASDAQ
+  currency: USD
+  position: midstream
+  role: 無人機/電子
+  description: 以色列國防電子與無人機
+- id: saab
+  name: Saab AB
+  aliases:
+  - 紳寶
+  ticker: SAAB-B.ST
+  market: STO
+  currency: SEK
+  position: midstream
+  role: 戰機/潛艇
+  description: 瑞典國防集團，Gripen 戰機
+- id: palantir
+  name: Palantir Technologies
+  aliases: []
+  ticker: PLTR
+  market: NYSE
+  currency: USD
+  position: downstream
+  role: 軍事AI
+  description: 軍事與情報分析平台
+  upstream:
+  - lockheed
+  - rtx
+- id: kratos
+  name: Kratos Defense & Security Solutions
+  aliases: []
+  ticker: KTOS
+  market: NASDAQ
+  currency: USD
+  position: downstream
+  role: 無人機/標靶
+  description: 無人機系統與標靶載具
+etfs:
+- id: ita
+  name: iShares U.S. Aerospace & Defense ETF
+  ticker: ITA
+  market: BATS
+  currency: USD
+  description: 美國航太國防 ETF
+- id: ppa
+  name: Invesco Aerospace & Defense ETF
+  ticker: PPA
+  market: NYSE
+  currency: USD
+  description: 航太國防 ETF
+supply_chain_positions:
+  upstream: []
+  midstream:
+  - 航太防務
+  - 飛彈/航電
+  - 轟炸機/太空
+  - 艦艇/裝甲
+  - 通訊/電戰
+  - 防務
+  - 電子/網安
+  - 直升機/電子
+  - 裝甲/彈藥
+  - 航太
+  - 航太/防務
+  - 無人機/電子
+  - 戰機/潛艇
+  downstream:
+  - 軍事AI
+  - 無人機/標靶
