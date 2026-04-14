@@ -1,0 +1,91 @@
+{
+  "company_count": 15,
+  "topic_count": 5,
+  "alias_count": 37,
+  "positive_word_count": 27,
+  "negative_word_count": 27,
+  "negation_word_count": 18,
+  "importance_rule_count": 10,
+  "base_score": 0.5,
+  "max_score": 1.0,
+  "volume_spike_threshold": 100,
+  "sentiment_shift_threshold": 0.5,
+  "silent_days_threshold": 14,
+  "companies": [
+    {
+      "id": "lockheed",
+      "short_name": "Lockheed Martin",
+      "tier": ""
+    },
+    {
+      "id": "rtx",
+      "short_name": "RTX Corporation",
+      "tier": ""
+    },
+    {
+      "id": "northrop",
+      "short_name": "Northrop Grumman",
+      "tier": ""
+    },
+    {
+      "id": "general_dynamics",
+      "short_name": "General Dynamics",
+      "tier": ""
+    },
+    {
+      "id": "l3harris",
+      "short_name": "L3Harris Technologies",
+      "tier": ""
+    },
+    {
+      "id": "bae",
+      "short_name": "BAE Systems",
+      "tier": ""
+    },
+    {
+      "id": "thales",
+      "short_name": "Thales",
+      "tier": ""
+    },
+    {
+      "id": "leonardo",
+      "short_name": "Leonardo",
+      "tier": ""
+    },
+    {
+      "id": "rheinmetall",
+      "short_name": "Rheinmetall",
+      "tier": ""
+    },
+    {
+      "id": "aidc",
+      "short_name": "AIDC",
+      "tier": ""
+    },
+    {
+      "id": "hanwha_aero",
+      "short_name": "Hanwha Aerospace",
+      "tier": ""
+    },
+    {
+      "id": "elbit",
+      "short_name": "Elbit Systems",
+      "tier": ""
+    },
+    {
+      "id": "saab",
+      "short_name": "Saab AB",
+      "tier": ""
+    },
+    {
+      "id": "palantir",
+      "short_name": "Palantir Technologies",
+      "tier": ""
+    },
+    {
+      "id": "kratos",
+      "short_name": "Kratos Defense & Security Solutions",
+      "tier": ""
+    }
+  ]
+}
