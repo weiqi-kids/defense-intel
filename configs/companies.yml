@@ -10,6 +10,7 @@ companies:
   position: midstream
   role: 航太防務
   description: 全球最大國防承包商，F-35 製造商
+  rss_url: https://news.lockheedmartin.com/rss
   downstream:
   - palantir
 - id: rtx
@@ -36,6 +37,7 @@ companies:
   position: midstream
   role: 轟炸機/太空
   description: B-21 轟炸機與太空系統
+  rss_url: https://investor.northropgrumman.com/rss/news-releases.xml
 - id: general_dynamics
   name: General Dynamics
   aliases:
@@ -46,6 +48,7 @@ companies:
   position: midstream
   role: 艦艇/裝甲
   description: 核潛艇與裝甲車輛
+  rss_url: https://investorrelations.gd.com/rss/news-releases.xml
 - id: l3harris
   name: L3Harris Technologies
   aliases: []
@@ -65,6 +68,7 @@ companies:
   position: midstream
   role: 防務
   description: 歐洲最大國防承包商
+  rss_url: https://investors.baesystems.com/rss/news
 - id: thales
   name: Thales
   aliases:
@@ -75,6 +79,7 @@ companies:
   position: midstream
   role: 電子/網安
   description: 法國國防電子與網路安全
+  rss_url: https://www.thalesgroup.com/en/rssfeed/press-releases
 - id: leonardo
   name: Leonardo
   aliases:
@@ -158,6 +163,7 @@ companies:
   position: downstream
   role: 無人機/標靶
   description: 無人機系統與標靶載具
+  rss_url: https://ir.kratosdefense.com/rss/news-releases.xml
 etfs:
 - id: ita
   name: iShares U.S. Aerospace & Defense ETF

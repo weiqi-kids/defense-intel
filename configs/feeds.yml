@@ -1,0 +1,64 @@
+# Defense & Aerospace industry news feeds
+feeds:
+# --- Company IR feeds ---
+- id: lockheed_ir
+  name: Lockheed Martin News
+  url: https://news.lockheedmartin.com/rss
+  description: Lockheed Martin press releases and news
+
+- id: northrop_ir
+  name: Northrop Grumman Investor News
+  url: https://investor.northropgrumman.com/rss/news-releases.xml
+  description: Northrop Grumman investor news and press releases
+
+- id: gd_ir
+  name: General Dynamics Investor News
+  url: https://investorrelations.gd.com/rss/news-releases.xml
+  description: General Dynamics press releases
+
+- id: bae_ir
+  name: BAE Systems Regulatory News
+  url: https://investors.baesystems.com/rss/news
+  description: BAE Systems regulatory and investor news
+
+- id: thales_news
+  name: Thales Group Press Releases
+  url: https://www.thalesgroup.com/en/journalist/thaless-rss-feeds
+  description: Thales Group press releases and news
+
+- id: kratos_ir
+  name: Kratos Defense Investor News
+  url: https://ir.kratosdefense.com/rss/news-releases.xml
+  description: Kratos Defense press releases and investor news
+
+# --- Industry media feeds ---
+- id: defense_news
+  name: Defense News
+  url: https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml
+  description: Authoritative source for defense industry news since 1986
+
+- id: breaking_defense
+  name: Breaking Defense
+  url: https://breakingdefense.com/feed/
+  description: Defense technology, policy and national security news
+
+- id: the_war_zone
+  name: The War Zone
+  url: https://www.twz.com/feed
+  description: In-depth military and defense reporting
+
+- id: defense_one
+  name: Defense One
+  url: https://www.defenseone.com/rss/
+  description: Defense policy, technology and management coverage
+
+# --- Google News topic feeds ---
+- id: google_defense_budget
+  name: Google News - Defense Budget
+  url: https://news.google.com/rss/search?q=defense+budget+military+spending&hl=en
+  description: Google News aggregation for defense budget and military spending
+
+- id: google_arms_sales
+  name: Google News - Arms Sales
+  url: https://news.google.com/rss/search?q=arms+sales+defense+contract+military&hl=en
+  description: Google News aggregation for arms sales and defense contracts
