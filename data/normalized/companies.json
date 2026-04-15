@@ -6,17 +6,17 @@
       "short_name": "洛馬",
       "position": "midstream",
       "role": "航太防務",
-      "x": 0.08,
-      "y": 0.36
+      "x": 0.5,
+      "y": 0.35
     },
     {
       "id": "rtx",
       "name": "RTX Corporation",
-      "short_name": "RTX Corporation",
+      "short_name": "RTX",
       "position": "midstream",
       "role": "飛彈/航電",
-      "x": 0.248,
-      "y": 0.36
+      "x": 0.5,
+      "y": 0.38
     },
     {
       "id": "northrop",
@@ -24,8 +24,8 @@
       "short_name": "諾格",
       "position": "midstream",
       "role": "轟炸機/太空",
-      "x": 0.416,
-      "y": 0.36
+      "x": 0.5,
+      "y": 0.4
     },
     {
       "id": "general_dynamics",
@@ -33,8 +33,8 @@
       "short_name": "通用動力",
       "position": "midstream",
       "role": "艦艇/裝甲",
-      "x": 0.584,
-      "y": 0.36
+      "x": 0.5,
+      "y": 0.42
     },
     {
       "id": "l3harris",
@@ -42,8 +42,8 @@
       "short_name": "L3Harris Technologies",
       "position": "midstream",
       "role": "通訊/電戰",
-      "x": 0.752,
-      "y": 0.36
+      "x": 0.5,
+      "y": 0.45
     },
     {
       "id": "bae",
@@ -51,8 +51,8 @@
       "short_name": "英國航太",
       "position": "midstream",
       "role": "防務",
-      "x": 0.92,
-      "y": 0.36
+      "x": 0.5,
+      "y": 0.47
     },
     {
       "id": "thales",
@@ -60,7 +60,7 @@
       "short_name": "泰雷茲",
       "position": "midstream",
       "role": "電子/網安",
-      "x": 0.08,
+      "x": 0.5,
       "y": 0.5
     },
     {
@@ -69,8 +69,8 @@
       "short_name": "李奧納多",
       "position": "midstream",
       "role": "直升機/電子",
-      "x": 0.248,
-      "y": 0.5
+      "x": 0.5,
+      "y": 0.53
     },
     {
       "id": "rheinmetall",
@@ -78,8 +78,8 @@
       "short_name": "萊茵金屬",
       "position": "midstream",
       "role": "裝甲/彈藥",
-      "x": 0.416,
-      "y": 0.5
+      "x": 0.5,
+      "y": 0.55
     },
     {
       "id": "aidc",
@@ -87,8 +87,8 @@
       "short_name": "漢翔航空",
       "position": "midstream",
       "role": "航太",
-      "x": 0.584,
-      "y": 0.5
+      "x": 0.5,
+      "y": 0.57
     },
     {
       "id": "hanwha_aero",
@@ -96,8 +96,8 @@
       "short_name": "韓華航太",
       "position": "midstream",
       "role": "航太/防務",
-      "x": 0.752,
-      "y": 0.5
+      "x": 0.5,
+      "y": 0.6
     },
     {
       "id": "elbit",
@@ -105,8 +105,8 @@
       "short_name": "艾爾比特",
       "position": "midstream",
       "role": "無人機/電子",
-      "x": 0.92,
-      "y": 0.5
+      "x": 0.5,
+      "y": 0.62
     },
     {
       "id": "saab",
@@ -115,7 +115,7 @@
       "position": "midstream",
       "role": "戰機/潛艇",
       "x": 0.5,
-      "y": 0.64
+      "y": 0.65
     },
     {
       "id": "palantir",
@@ -123,8 +123,8 @@
       "short_name": "Palantir Technologies",
       "position": "downstream",
       "role": "軍事AI",
-      "x": 0.08,
-      "y": 0.83
+      "x": 0.5,
+      "y": 0.7
     },
     {
       "id": "kratos",
@@ -132,8 +132,8 @@
       "short_name": "Kratos Defense & Security Solutions",
       "position": "downstream",
       "role": "無人機/標靶",
-      "x": 0.92,
-      "y": 0.83
+      "x": 0.5,
+      "y": 0.96
     }
   ],
   "links": [
@@ -150,14 +150,20 @@
   ],
   "etfs": [
     {
-      "id": "ita",
+      "id": "etf_ita",
       "name": "iShares U.S. Aerospace & Defense ETF",
-      "ticker": "ITA"
+      "ticker": "ITA",
+      "market": "BATS",
+      "currency": "USD",
+      "description": "美國航太國防 ETF"
     },
     {
-      "id": "ppa",
+      "id": "etf_ppa",
       "name": "Invesco Aerospace & Defense ETF",
-      "ticker": "PPA"
+      "ticker": "PPA",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "航太國防 ETF"
     }
   ]
 }

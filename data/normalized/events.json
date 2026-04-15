@@ -1,1001 +1,1901 @@
 [
   {
-    "id": "rss-16490",
+    "id": "rss-57033",
     "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "The Smart Advantage: How Artificial Intelligence Is Transforming Inspection And Metrology In Semiconductor Manufacturing",
-    "summary": "<p>Deep learning enables systems to detect and flag issues that could otherwise be misread or missed entirely. </p>\n<p>The post <a href=\"https://semiengineering.com/the-smart-advantage-how-artificial-",
+    "title": "Amid focus on Strait of Hormuz, experts sound warning on Yemen’s Houthis and Red Sea",
+    "summary": "Foreign policy experts warn that the strait is not the only potential choke point that Iran and its proxies could leverage amid the war.",
     "sources": [
       {
         "type": "news",
-        "title": "The Smart Advantage: How Artificial Intelligence Is Transforming Inspection And Metrology In Semiconductor Manufacturing",
-        "url": "https://semiengineering.com/the-smart-advantage-how-artificial-intelligence-is-transforming-inspection-and-metrology-in-semiconductor-manufacturing/",
-        "fetchedAt": "2026-04-14T23:00:40.615445Z",
-        "excerpt": "<p>Deep learning enables systems to detect and flag issues that could otherwise be misread or missed entirely. </p>\n<p>The post <a href=\"https://semiengineering.com/the-smart-advantage-how-artificial-intelligence-is-transforming-inspection-and-metrology-in-semiconductor-manufacturing/\">The Smart Advantage: How Artificial Intelligence Is Transforming Inspection And Metrology In Semiconductor Manufacturing</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</"
+        "title": "Amid focus on Strait of Hormuz, experts sound warning on Yemen’s Houthis and Red Sea",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/04/14/amid-focus-on-strait-of-hormuz-experts-sound-warning-on-yemens-houthis-and-red-sea/",
+        "fetchedAt": "2026-04-15T09:14:12.432079Z",
+        "excerpt": "Foreign policy experts warn that the strait is not the only potential choke point that Iran and its proxies could leverage amid the war."
       }
     ]
   },
   {
-    "id": "rss-37924",
+    "id": "rss-48076",
     "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "Heterogeneous NPU Data Movement: What The Execution Flow Shows",
-    "summary": "<p>A concrete example of how architectural boundaries influence system behavior.</p>\n<p>The post <a href=\"https://semiengineering.com/heterogeneous-npu-data-movement-what-the-execution-flow-shows/\">He",
+    "title": "Italy suspends defense agreement with Israel",
+    "summary": "The announcement marks a change for Italy, which has been a loyal ally to Israel for years and has been viewed by Trump as a trusted partner in Europe.",
     "sources": [
       {
         "type": "news",
-        "title": "Heterogeneous NPU Data Movement: What The Execution Flow Shows",
-        "url": "https://semiengineering.com/heterogeneous-npu-data-movement-what-the-execution-flow-shows/",
-        "fetchedAt": "2026-04-14T23:00:40.615456Z",
-        "excerpt": "<p>A concrete example of how architectural boundaries influence system behavior.</p>\n<p>The post <a href=\"https://semiengineering.com/heterogeneous-npu-data-movement-what-the-execution-flow-shows/\">Heterogeneous NPU Data Movement: What The Execution Flow Shows</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
+        "title": "Italy suspends defense agreement with Israel",
+        "url": "https://www.defensenews.com/global/europe/2026/04/14/italy-suspends-defense-agreement-with-israel/",
+        "fetchedAt": "2026-04-15T09:14:12.432092Z",
+        "excerpt": "The announcement marks a change for Italy, which has been a loyal ally to Israel for years and has been viewed by Trump as a trusted partner in Europe."
       }
     ]
   },
   {
-    "id": "rss-777",
+    "id": "rss-71617",
     "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "Research Bits: Apr. 14",
-    "summary": "<p>Memristors: Authentication for edge devices; ultra-high temperature operation; DNA plus perovskites.</p>\n<p>The post <a href=\"https://semiengineering.com/research-bits-apr-14/\">Research Bits: Apr. ",
+    "title": "Lebanon and Israel talks set to begin in Washington",
+    "summary": "The talks mark a rare diplomatic engagement between two parties technically at war since 1948.",
     "sources": [
       {
         "type": "news",
-        "title": "Research Bits: Apr. 14",
-        "url": "https://semiengineering.com/research-bits-apr-14/",
-        "fetchedAt": "2026-04-14T23:00:40.615459Z",
-        "excerpt": "<p>Memristors: Authentication for edge devices; ultra-high temperature operation; DNA plus perovskites.</p>\n<p>The post <a href=\"https://semiengineering.com/research-bits-apr-14/\">Research Bits: Apr. 14</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
+        "title": "Lebanon and Israel talks set to begin in Washington",
+        "url": "https://www.defensenews.com/global/mideast-africa/2026/04/14/lebanon-and-israel-talks-set-to-begin-in-washington/",
+        "fetchedAt": "2026-04-15T09:14:12.432094Z",
+        "excerpt": "The talks mark a rare diplomatic engagement between two parties technically at war since 1948."
       }
     ]
   },
   {
-    "id": "rss-39503",
+    "id": "rss-96604",
     "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "Chip Industry Technical Paper Roundup: Apr. 14",
-    "summary": "<p>Silicon spin qubits based on GAA; causal AI for AMS design; wide-bandgap automotive reliability; agentic HLS; co-packaged optics; constraint programming for semiconductor manufacturing; automated s",
+    "title": "Swedish, Polish firms invest in TNT plants to quench Europe’s ammo thirst",
+    "summary": "Swebal’s new factory is to have the capacity to produce more than 4,000 metric tons of TNT annually. Russia is estimated to make 50,000 tons per year.",
     "sources": [
       {
         "type": "news",
-        "title": "Chip Industry Technical Paper Roundup: Apr. 14",
-        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-apr-14/",
-        "fetchedAt": "2026-04-14T23:00:40.615460Z",
-        "excerpt": "<p>Silicon spin qubits based on GAA; causal AI for AMS design; wide-bandgap automotive reliability; agentic HLS; co-packaged optics; constraint programming for semiconductor manufacturing; automated security assertions with LLMs.</p>\n<p>The post <a href=\"https://semiengineering.com/chip-industry-technical-paper-roundup-apr-14/\">Chip Industry Technical Paper Roundup: Apr. 14</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
+        "title": "Swedish, Polish firms invest in TNT plants to quench Europe’s ammo thirst",
+        "url": "https://www.defensenews.com/global/europe/2026/04/14/swedish-polish-firms-invest-in-tnt-plants-to-quench-europes-ammo-thirst/",
+        "fetchedAt": "2026-04-15T09:14:12.432096Z",
+        "excerpt": "Swebal’s new factory is to have the capacity to produce more than 4,000 metric tons of TNT annually. Russia is estimated to make 50,000 tons per year."
       }
     ]
   },
   {
-    "id": "rss-88667",
+    "id": "rss-84796",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Australia touts first GMLRS artillery rocket assembled Down Under",
+    "summary": "Lockheed's rocket is the poster child for Australia’s Guided Weapons and Explosive Ordnance (GWEO) Enterprise, which seeks make strike weapons locally.",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Australia touts first GMLRS artillery rocket assembled Down Under",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/04/14/australia-touts-first-gmlrs-artillery-rocket-assembled-down-under/",
+        "fetchedAt": "2026-04-15T09:14:12.432098Z",
+        "excerpt": "Lockheed's rocket is the poster child for Australia’s Guided Weapons and Explosive Ordnance (GWEO) Enterprise, which seeks make strike weapons locally."
+      }
+    ]
+  },
+  {
+    "id": "rss-25551",
     "date": "Mon, 13 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "EDA And IP Numbers Up Again, But Numbers Are More Nuanced",
-    "summary": "<p>Q4 numbers reflect strengths and weaknesses in different segments.</p>\n<p>The post <a href=\"https://semiengineering.com/eda-and-ip-numbers-up-again-but-numbers-are-more-nuanced/\">EDA And IP Numbers",
+    "title": "US Navy should rely on allies to boost maritime industrial base, report says",
+    "summary": "As the Navy builds its presence in the Middle East, experts argue that the force should rely more on allies to improve the U.S. maritime industrial base.",
     "sources": [
       {
         "type": "news",
-        "title": "EDA And IP Numbers Up Again, But Numbers Are More Nuanced",
-        "url": "https://semiengineering.com/eda-and-ip-numbers-up-again-but-numbers-are-more-nuanced/",
-        "fetchedAt": "2026-04-14T23:00:40.615464Z",
-        "excerpt": "<p>Q4 numbers reflect strengths and weaknesses in different segments.</p>\n<p>The post <a href=\"https://semiengineering.com/eda-and-ip-numbers-up-again-but-numbers-are-more-nuanced/\">EDA And IP Numbers Up Again, But Numbers Are More Nuanced</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
+        "title": "US Navy should rely on allies to boost maritime industrial base, report says",
+        "url": "https://www.defensenews.com/naval/2026/04/13/us-navy-should-rely-on-allies-to-boost-maritime-industrial-base-report-says/",
+        "fetchedAt": "2026-04-15T09:14:12.432099Z",
+        "excerpt": "As the Navy builds its presence in the Middle East, experts argue that the force should rely more on allies to improve the U.S. maritime industrial base."
       }
     ]
   },
   {
-    "id": "rss-55513",
+    "id": "rss-80458",
     "date": "Mon, 13 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "Startup Funding: Q1 2026",
-    "summary": "<p>Massive rounds for AI, EDA, and manufacturing; 80 startups raise $8.4B.</p>\n<p>The post <a href=\"https://semiengineering.com/startup-funding-q1-2026/\">Startup Funding: Q1 2026</a> appeared first on",
+    "title": "US military eyes high-energy ‘laser dome’ for domestic air defense",
+    "summary": "The U.S. military's pursuit of high-energy laser weapons for American air defense comes amid the expanding threat of low-cost weaponized drones.",
     "sources": [
       {
         "type": "news",
-        "title": "Startup Funding: Q1 2026",
-        "url": "https://semiengineering.com/startup-funding-q1-2026/",
-        "fetchedAt": "2026-04-14T23:00:40.615467Z",
-        "excerpt": "<p>Massive rounds for AI, EDA, and manufacturing; 80 startups raise $8.4B.</p>\n<p>The post <a href=\"https://semiengineering.com/startup-funding-q1-2026/\">Startup Funding: Q1 2026</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
+        "title": "US military eyes high-energy ‘laser dome’ for domestic air defense",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/04/13/us-military-eyes-high-energy-laser-dome-for-domestic-air-defense/",
+        "fetchedAt": "2026-04-15T09:14:12.432101Z",
+        "excerpt": "The U.S. military's pursuit of high-energy laser weapons for American air defense comes amid the expanding threat of low-cost weaponized drones."
       }
     ]
   },
   {
-    "id": "rss-89227",
+    "id": "rss-51563",
     "date": "Mon, 13 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "Why Hardware Monitoring Needs Infrastructure, Not Just Sensors",
-    "summary": "<p>Embedded intelligence enables a system to respond to critical events before they cause failures in runtime applications. </p>\n<p>The post <a href=\"https://semiengineering.com/why-hardware-monitorin",
+    "title": "Turkey pushes for larger role in Europe’s defense as Trump questions NATO",
+    "summary": "Shutting out Ankara from EU defense initiatives would cause more damage than the U.S. pulling troops from the continent, warned Turkey's defense minister.",
     "sources": [
       {
         "type": "news",
-        "title": "Why Hardware Monitoring Needs Infrastructure, Not Just Sensors",
-        "url": "https://semiengineering.com/why-hardware-monitoring-needs-infrastructure-not-just-sensors/",
-        "fetchedAt": "2026-04-14T23:00:40.615469Z",
-        "excerpt": "<p>Embedded intelligence enables a system to respond to critical events before they cause failures in runtime applications. </p>\n<p>The post <a href=\"https://semiengineering.com/why-hardware-monitoring-needs-infrastructure-not-just-sensors/\">Why Hardware Monitoring Needs Infrastructure, Not Just Sensors</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
+        "title": "Turkey pushes for larger role in Europe’s defense as Trump questions NATO",
+        "url": "https://www.defensenews.com/global/europe/2026/04/13/turkey-pushes-for-larger-role-in-europes-defense-as-trump-questions-nato/",
+        "fetchedAt": "2026-04-15T09:14:12.432102Z",
+        "excerpt": "Shutting out Ankara from EU defense initiatives would cause more damage than the U.S. pulling troops from the continent, warned Turkey's defense minister."
       }
     ]
   },
   {
-    "id": "rss-64768",
+    "id": "rss-28836",
     "date": "Mon, 13 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "GPU Rowhammer Attacks Beyond Data Corruption (U. of Toronto)",
-    "summary": "<p>A new technical paper, &#8220;GPUBreach: Privilege Escalation Attacks via GPU Rowhammer,&#8221; was published by researchers at University of Toronto. Summary &#8220;GPUBreach shows that GPU Rowham",
+    "title": "US blockade of Iran will be major military endeavor, experts say",
+    "summary": "The U.S. military has not offered basic details yet about the blockade, including how many U.S. warships will enforce it. ",
     "sources": [
       {
         "type": "news",
-        "title": "GPU Rowhammer Attacks Beyond Data Corruption (U. of Toronto)",
-        "url": "https://semiengineering.com/gpu-rowhammer-attacks-beyond-data-corruption-u-of-toronto/",
-        "fetchedAt": "2026-04-14T23:00:40.615473Z",
-        "excerpt": "<p>A new technical paper, &#8220;GPUBreach: Privilege Escalation Attacks via GPU Rowhammer,&#8221; was published by researchers at University of Toronto. Summary &#8220;GPUBreach shows that GPU Rowhammer attacks can move beyond data corruption to real privilege escalation. By corrupting GPU page tables, an unprivileged CUDA kernel can gain arbitrary GPU memory read/write, and then chain that capability... <a class=\"read_more\" href=\"https://semiengineering.com/gpu-rowhammer-attacks-beyond-data-co"
+        "title": "US blockade of Iran will be major military endeavor, experts say",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/04/13/us-blockade-of-iran-will-be-major-military-endeavor-experts-say/",
+        "fetchedAt": "2026-04-15T09:14:12.432104Z",
+        "excerpt": "The U.S. military has not offered basic details yet about the blockade, including how many U.S. warships will enforce it. "
       }
     ]
   },
   {
-    "id": "rss-58476",
+    "id": "rss-82101",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Study suggests Russia could conquer Baltic states in 90 days",
+    "summary": "Opinions among officials and analysts vary greatly when it comes to Russia’s perceived appetite for attacking the Baltic nations, which are part of NATO.",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Study suggests Russia could conquer Baltic states in 90 days",
+        "url": "https://www.defensenews.com/global/europe/2026/04/13/study-suggests-russia-could-conquer-baltic-states-in-90-days/",
+        "fetchedAt": "2026-04-15T09:14:12.432108Z",
+        "excerpt": "Opinions among officials and analysts vary greatly when it comes to Russia’s perceived appetite for attacking the Baltic nations, which are part of NATO."
+      }
+    ]
+  },
+  {
+    "id": "rss-86761",
     "date": "Sun, 12 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "Silent Data Corruption:  A Major Reliability Challenge in Large-Scale LLM Training (TU Berlin)",
-    "summary": "<p>A new technical paper, &#8220;Exploring Silent Data Corruption as a Reliability Challenge in LLM Training,&#8221; was published by researchers at Technische Universitat Berlin. Abstract &#8220;As L",
+    "title": "US Navy to blockade Strait of Hormuz ‘effective immediately,’ Trump says",
+    "summary": "“Any Iranian who fires at us, or at peaceful vessels, will be BLOWN TO HELL!” the president wrote on Sunday.",
     "sources": [
       {
         "type": "news",
-        "title": "Silent Data Corruption:  A Major Reliability Challenge in Large-Scale LLM Training (TU Berlin)",
-        "url": "https://semiengineering.com/silent-data-corruption-a-major-reliability-challenge-in-large-scale-llm-training-tu-berlin/",
-        "fetchedAt": "2026-04-14T23:00:40.615476Z",
-        "excerpt": "<p>A new technical paper, &#8220;Exploring Silent Data Corruption as a Reliability Challenge in LLM Training,&#8221; was published by researchers at Technische Universitat Berlin. Abstract &#8220;As Large Language Models (LLMs) scale in size and complexity, the consequences of failures during training become increasingly severe. A major challenge arises from Silent Data Corruption (SDC): hardware-induced faults that... <a class=\"read_more\" href=\"https://semiengineering.com/silent-data-corruption"
+        "title": "US Navy to blockade Strait of Hormuz ‘effective immediately,’ Trump says",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-navy-to-blockade-strait-of-hormuz-effective-immediately-trump-says/",
+        "fetchedAt": "2026-04-15T09:14:12.432975Z",
+        "excerpt": "“Any Iranian who fires at us, or at peaceful vessels, will be BLOWN TO HELL!” the president wrote on Sunday."
       }
     ]
   },
   {
-    "id": "rss-5112",
+    "id": "rss-75754",
     "date": "Sun, 12 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "An Engineering Roadmap Toward Completely Neural Computers (Meta AI, KAUST)",
-    "summary": "<p>A new technical paper, &#8220;Neural Computers,&#8221; was published by researchers at Meta AI and KAUST. Abstract &#8220;We propose a new frontier: Neural Computers (NCs) &#8212; an emerging machi",
+    "title": "US-Iran peace talks end without deal as delegations leave Pakistan",
+    "summary": "Each side blamed the other for the failure of the 21-hour negotiations to end fighting that has killed thousands and roiled the global economy. ",
     "sources": [
       {
         "type": "news",
-        "title": "An Engineering Roadmap Toward Completely Neural Computers (Meta AI, KAUST)",
-        "url": "https://semiengineering.com/an-engineering-roadmap-toward-completely-neural-computers-meta-ai-kaust/",
-        "fetchedAt": "2026-04-14T23:00:40.615478Z",
-        "excerpt": "<p>A new technical paper, &#8220;Neural Computers,&#8221; was published by researchers at Meta AI and KAUST. Abstract &#8220;We propose a new frontier: Neural Computers (NCs) &#8212; an emerging machine form that unifies computation, memory, and I/O in a learned runtime state. Unlike conventional computers, which execute explicit programs, agents, which act over external execution environments, and... <a class=\"read_more\" href=\"https://semiengineering.com/an-engineering-roadmap-toward-completely"
+        "title": "US-Iran peace talks end without deal as delegations leave Pakistan",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-iran-peace-talks-end-without-deal-as-delegations-leave-pakistan/",
+        "fetchedAt": "2026-04-15T09:14:12.432980Z",
+        "excerpt": "Each side blamed the other for the failure of the 21-hour negotiations to end fighting that has killed thousands and roiled the global economy. "
       }
     ]
   },
   {
-    "id": "rss-39367",
-    "date": "Fri, 10 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " After jumping 2,200% over the last twelve months, DDR4 spot prices fall 5%, the first decline in nearly a year — DDR5 pricing sees some relief in China channel market ",
-    "summary": "\n                             DDR4 16Gb spot prices fell about 5% over the past month to roughly $74.10, ending nearly a year of consecutive monthly gains. \n                                           ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " After jumping 2,200% over the last twelve months, DDR4 spot prices fall 5%, the first decline in nearly a year — DDR5 pricing sees some relief in China channel market ",
-        "url": "https://www.tomshardware.com/tech-industry/ddr4-spot-prices-fall-for-first-time-in-nearly-a-year-as-chinese-channel-inventory-clears",
-        "fetchedAt": "2026-04-14T23:00:41.346501Z",
-        "excerpt": "\n                             DDR4 16Gb spot prices fell about 5% over the past month to roughly $74.10, ending nearly a year of consecutive monthly gains. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-10073",
-    "date": "Fri, 03 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Memory will consume 30% of hyperscaler AI data center spending this year, a 4X increase over 2023 — Nvidia gets preferential supply terms well below standard market rates, says analyst firm ",
-    "summary": "\n                             SemiAnalysis estimates on Thursday that memory will account for roughly 30% of total hyperscaler capex in calendar year 2026. \n                                           ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Memory will consume 30% of hyperscaler AI data center spending this year, a 4X increase over 2023 — Nvidia gets preferential supply terms well below standard market rates, says analyst firm ",
-        "url": "https://www.tomshardware.com/tech-industry/memory-will-consume-30-percent-of-hyperscaler-spending-this-year",
-        "fetchedAt": "2026-04-14T23:00:41.346512Z",
-        "excerpt": "\n                             SemiAnalysis estimates on Thursday that memory will account for roughly 30% of total hyperscaler capex in calendar year 2026. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-58728",
-    "date": "Sun, 22 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Micron predicts that cars will need 300GB of RAM — memory-laden vehicles could exacerbate shortages but create 'robust long-term growth in automotive memory demand' ",
-    "summary": "\n                             Micron CEO Sanjay Mehrotra predicts that self-driving vehicles would require at least 300GB of RAM, meaning increasing demand could drive another memory chip shortage as ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Micron predicts that cars will need 300GB of RAM — memory-laden vehicles could exacerbate shortages but create 'robust long-term growth in automotive memory demand' ",
-        "url": "https://www.tomshardware.com/pc-components/dram/micron-predicts-that-cars-will-need-300gb-of-ram-memory-laden-vehicles-could-exacerbate-shortages-but-create-robust-long-term-growth-in-automotive-memory-demand",
-        "fetchedAt": "2026-04-14T23:00:41.346514Z",
-        "excerpt": "\n                             Micron CEO Sanjay Mehrotra predicts that self-driving vehicles would require at least 300GB of RAM, meaning increasing demand could drive another memory chip shortage as these cars are essentially AI supercomputers on wheels. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-97335",
-    "date": "Sun, 22 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Corsair’s limited-time memory sale brings 25% savings, but persistent DDR5 price hikes paint a grim outlook for buyers ",
-    "summary": "\n                             While Corsair’s DDR5 deal offers notable discounts, rising DRAM prices mean buyers still pay significantly more than before. \n                                            ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Corsair’s limited-time memory sale brings 25% savings, but persistent DDR5 price hikes paint a grim outlook for buyers ",
-        "url": "https://www.tomshardware.com/pc-components/ram/corsairs-limited-time-memory-sale-brings-25-percent-savings-but-persistent-ddr5-price-hikes-paint-a-grim-outlook-for-buyers",
-        "fetchedAt": "2026-04-14T23:00:41.346516Z",
-        "excerpt": "\n                             While Corsair’s DDR5 deal offers notable discounts, rising DRAM prices mean buyers still pay significantly more than before. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-66850",
-    "date": "Wed, 18 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " SK Group chairman says memory chip shortage will last until 2030 — wafer supply trails demand by 20% ",
-    "summary": "\n                             SK Group chairman Chey Tae-won told reporters at Nvidia's GTC conference in San Jose on Monday that the global memory chip shortage is likely to persist for another four ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " SK Group chairman says memory chip shortage will last until 2030 — wafer supply trails demand by 20% ",
-        "url": "https://www.tomshardware.com/pc-components/dram/sk-group-chairman-says-memory-chip-shortage-will-last-until-2030",
-        "fetchedAt": "2026-04-14T23:00:41.346517Z",
-        "excerpt": "\n                             SK Group chairman Chey Tae-won told reporters at Nvidia's GTC conference in San Jose on Monday that the global memory chip shortage is likely to persist for another four to five years. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-36279",
-    "date": "Wed, 11 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Seagate CCO says storage price hikes are ‘the new normal’ — demand enters an unprecedented ‘supercycle’ driven by AI growth  ",
-    "summary": "\n                             Seagate CCO Ban-Seng Teh said this week that memory price hikes are \"the new normal\" for the storage industry, describing current market conditions as a supercycle driven",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Seagate CCO says storage price hikes are ‘the new normal’ — demand enters an unprecedented ‘supercycle’ driven by AI growth  ",
-        "url": "https://www.tomshardware.com/tech-industry/seagate-cco-says-memory-price-hikes-are-the-new-normal",
-        "fetchedAt": "2026-04-14T23:00:41.346519Z",
-        "excerpt": "\n                             Seagate CCO Ban-Seng Teh said this week that memory price hikes are \"the new normal\" for the storage industry, describing current market conditions as a supercycle driven by AI data center demand that shows no sign of following historical patterns of recovery. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-91153",
-    "date": "Sun, 08 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Memory bit flips cause up to 15% of Firefox crashes, asserts Mozilla engineer — figure inferred from 470,000 auto-submitted crash reports ",
-    "summary": "\n                             A Mozilla engineer has shared survey data and calculations suggesting that up to 15% of Firefox crashes are due to a bit flip. \n                                          ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Memory bit flips cause up to 15% of Firefox crashes, asserts Mozilla engineer — figure inferred from 470,000 auto-submitted crash reports ",
-        "url": "https://www.tomshardware.com/pc-components/ram/bit-flips-cause-up-to-15-percent-of-firefox-crashes-asserts-mozilla-engineer-figure-inferred-from-470-000-auto-submitted-crash-reports",
-        "fetchedAt": "2026-04-14T23:00:41.346520Z",
-        "excerpt": "\n                             A Mozilla engineer has shared survey data and calculations suggesting that up to 15% of Firefox crashes are due to a bit flip. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-93881",
-    "date": "Fri, 06 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Apple pulls $4,000 512GB Mac Studio upgrade option as AI RAM squeeze continues, raises 256GB upgrade price — M3 256GB upgrade now costs $2,000 ",
-    "summary": "\n                             The 512GB option, which was exclusive to the M3 Ultra chip and previously cost $4,000, no longer appears on Apple's configuration page. \n                                 ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Apple pulls $4,000 512GB Mac Studio upgrade option as AI RAM squeeze continues, raises 256GB upgrade price — M3 256GB upgrade now costs $2,000 ",
-        "url": "https://www.tomshardware.com/tech-industry/apple-pulls-512-mac-studio-upgrade-option",
-        "fetchedAt": "2026-04-14T23:00:41.346521Z",
-        "excerpt": "\n                             The 512GB option, which was exclusive to the M3 Ultra chip and previously cost $4,000, no longer appears on Apple's configuration page. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-55620",
-    "date": "Thu, 05 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Spiralling memory spot prices could trigger 'industry cycle collapse,' report warns — NAND wafer costs surge 25% in a single month ",
-    "summary": "\n                             DDR5 16G (2Gx8) chips averaged $39, up 7.4% month-over-month, while 1Tb TLC flash wafers jumped 25% to $25. \n                                                             ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Spiralling memory spot prices could trigger 'industry cycle collapse,' report warns — NAND wafer costs surge 25% in a single month ",
-        "url": "https://www.tomshardware.com/tech-industry/memory-spot-prices-climbed-again-in-february-nand-wafer-costs-surge-25-percent",
-        "fetchedAt": "2026-04-14T23:00:41.346523Z",
-        "excerpt": "\n                             DDR5 16G (2Gx8) chips averaged $39, up 7.4% month-over-month, while 1Tb TLC flash wafers jumped 25% to $25. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-9790",
-    "date": "Tue, 03 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " AI memory crunch forces DRAM market into 'hourly pricing' model, report claims — small and medium-sized businesses fighting for survival ",
-    "summary": "\n                             According to DigiTimes, these companies began struggling to absorb soaring memory costs in the second half of 2025. \n                                                     ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " AI memory crunch forces DRAM market into 'hourly pricing' model, report claims — small and medium-sized businesses fighting for survival ",
-        "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-now-shifting-hourly-as-smaller-firms-fight-over-scraps",
-        "fetchedAt": "2026-04-14T23:00:41.346524Z",
-        "excerpt": "\n                             According to DigiTimes, these companies began struggling to absorb soaring memory costs in the second half of 2025. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-68977",
-    "date": "Tue, 03 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " 2026 will bring sharpest PC declines in over a decade — PC shipments to fall 10.4% ",
-    "summary": "\n                             The forecast puts 2026 on track for the steepest device shipment contraction in over a decade, according to Ranjit Atwal, senior director analyst at Gartner. \n           ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " 2026 will bring sharpest PC declines in over a decade — PC shipments to fall 10.4% ",
-        "url": "https://www.tomshardware.com/tech-industry/2026-will-bring-sharpest-pc-declines-in-over-a-decade",
-        "fetchedAt": "2026-04-14T23:00:41.346525Z",
-        "excerpt": "\n                             The forecast puts 2026 on track for the steepest device shipment contraction in over a decade, according to Ranjit Atwal, senior director analyst at Gartner. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-81792",
-    "date": "Mon, 02 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Entry-level PC market to ‘disappear’ by 2028 — rising memory prices pile more strain on consumer PC market ",
-    "summary": "\n                             A 130% surge in combined DRAM and SSD prices by the end of 2026 will push PC prices up 17% compared to 2025 levels and wipe out the sub-$500 PC market. \n                 ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Entry-level PC market to ‘disappear’ by 2028 — rising memory prices pile more strain on consumer PC market ",
-        "url": "https://www.tomshardware.com/tech-industry/rising-memory-prices-pile-more-strain-on-consumer-pc-market",
-        "fetchedAt": "2026-04-14T23:00:41.346526Z",
-        "excerpt": "\n                             A 130% surge in combined DRAM and SSD prices by the end of 2026 will push PC prices up 17% compared to 2025 levels and wipe out the sub-$500 PC market. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-80145",
-    "date": "Sun, 22 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " 55 years ago, the first computer search warrant was issued — in February 1971, a Santa Clara judge authorized police to seize punch cards and a 'computer memory bank' ",
-    "summary": "\n                             In February 1971, an order authorized Oakland Police to enter offices in Palo Alto and homes in Menlo Park to look not just for papers but also for data stored on machine",
-    "sources": [
-      {
-        "type": "news",
-        "title": " 55 years ago, the first computer search warrant was issued — in February 1971, a Santa Clara judge authorized police to seize punch cards and a 'computer memory bank' ",
-        "url": "https://www.tomshardware.com/tech-industry/55-years-ago-today-the-first-computer-search-warrant-was-issued",
-        "fetchedAt": "2026-04-14T23:00:41.346527Z",
-        "excerpt": "\n                             In February 1971, an order authorized Oakland Police to enter offices in Palo Alto and homes in Menlo Park to look not just for papers but also for data stored on machines. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-28620",
-    "date": "Mon, 16 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Turkish wedding party receives Nvidia RTX 5090, RAM necklaces, and Intel CPU for elaborate wedding gifts — A Turkish tech delight for the age of PC shortages  ",
-    "summary": "\n                             A video from a Turkish wedding reveals a delighted bride and groom being showered with opulent PC tech gifts. \n                                                           ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Turkish wedding party receives Nvidia RTX 5090, RAM necklaces, and Intel CPU for elaborate wedding gifts — A Turkish tech delight for the age of PC shortages  ",
-        "url": "https://www.tomshardware.com/pc-components/ddr5/turkish-wedding-party-receive-rtx-5090-ram-and-intel-cpu-wedding-gifts-a-turkish-tech-delight-for-the-ai-age",
-        "fetchedAt": "2026-04-14T23:00:41.346528Z",
-        "excerpt": "\n                             A video from a Turkish wedding reveals a delighted bride and groom being showered with opulent PC tech gifts. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-22804",
-    "date": "Sun, 15 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " OpenClaw-fueled ordering frenzy creates Apple Mac shortage — delivery for high Unified Memory units now ranges from 6 days to 6 weeks ",
-    "summary": "\n                             The Unified Memory architecture used by Apple Macs and MacBooks make it the ideal device for locally run agentic AI, driving demand for high-memory models and increasing ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " OpenClaw-fueled ordering frenzy creates Apple Mac shortage — delivery for high Unified Memory units now ranges from 6 days to 6 weeks ",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openclaw-fueled-ordering-frenzy-creates-apple-mac-shortage-delivery-for-high-unified-memory-units-now-ranges-from-6-days-to-6-weeks",
-        "fetchedAt": "2026-04-14T23:00:41.346530Z",
-        "excerpt": "\n                             The Unified Memory architecture used by Apple Macs and MacBooks make it the ideal device for locally run agentic AI, driving demand for high-memory models and increasing order lead times to more than a month. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-20932",
-    "date": "Sat, 14 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " 7x increase in memory costs fueling price increases in ISP-provided routers, gateways, and set-top boxes — home fiber rollouts may slow, and installations could become more expensive ",
-    "summary": "\n                             7x DRAM price jump affecting ISP routers, gateways, and STBs \n                                                                                                            ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " 7x increase in memory costs fueling price increases in ISP-provided routers, gateways, and set-top boxes — home fiber rollouts may slow, and installations could become more expensive ",
-        "url": "https://www.tomshardware.com/networking/routers/isp-provided-routers-gateways-and-set-top-boxes-face-price-increases-due-to-7x-uplift-in-memory-costs-home-fiber-rollouts-may-slow-and-installations-could-become-more-expensive",
-        "fetchedAt": "2026-04-14T23:00:41.346531Z",
-        "excerpt": "\n                             7x DRAM price jump affecting ISP routers, gateways, and STBs \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-69183",
-    "date": "Fri, 13 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Framework's latest update brings more bad news about memory and storage pricing crisis — RAM costs increased to $12 to $16 per GB, recommends purchasing some models elsewhere for Framework Laptop DIY Edition customers ",
-    "summary": "\n                             Framework said that it's releasing a monthly update to monitor the memory chip situation and also announced that it will try to keep its RAM pricing as close as possible ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Framework's latest update brings more bad news about memory and storage pricing crisis — RAM costs increased to $12 to $16 per GB, recommends purchasing some models elsewhere for Framework Laptop DIY Edition customers ",
-        "url": "https://www.tomshardware.com/laptops/framework-releases-monthly-update-about-memory-and-storage-pricing-woes-ram-costs-increased-to-usd12-to-usd16-per-gb-recommends-purchasing-some-models-elsewhere-for-framework-laptop-diy-edition-customers",
-        "fetchedAt": "2026-04-14T23:00:41.346532Z",
-        "excerpt": "\n                             Framework said that it's releasing a monthly update to monitor the memory chip situation and also announced that it will try to keep its RAM pricing as close as possible to the weighted average of its costs. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-33272",
-    "date": "Wed, 11 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Samsung and SK hynix shorten memory contracts as pricing power shifts back to suppliers — both companies now at 40-50% operating margins  ",
-    "summary": "\n                             Samsung and SK hynix have begun moving away from long-term, fixed-price supply contracts, replacing them with shorter agreements and post-settlement pricing mechanisms. \n",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Samsung and SK hynix shorten memory contracts as pricing power shifts back to suppliers — both companies now at 40-50% operating margins  ",
-        "url": "https://www.tomshardware.com/tech-industry/samsung-and-sk-hynix-shorten-memory-contracts-as-pricing-power-shifts-back-to-suppliers",
-        "fetchedAt": "2026-04-14T23:00:41.346533Z",
-        "excerpt": "\n                             Samsung and SK hynix have begun moving away from long-term, fixed-price supply contracts, replacing them with shorter agreements and post-settlement pricing mechanisms. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-95730",
-    "date": "Thu, 05 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Leading PC manufacturers considering using Chinese memory chips, report claims — HP and Dell qualifying CXMT DRAM, Acer and Asus asking Chinese partners to source locally-made memory chips ",
-    "summary": "\n                             HP and Dell are reportedly qualifying CXMT memory chips for their products, while Asus and Acer are asking their partners to source locally-made memory modules. The ongoi",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Leading PC manufacturers considering using Chinese memory chips, report claims — HP and Dell qualifying CXMT DRAM, Acer and Asus asking Chinese partners to source locally-made memory chips ",
-        "url": "https://www.tomshardware.com/pc-components/dram/leading-pc-manufacturers-considering-using-chinese-memory-chips-report-claims-hp-and-dell-qualifying-cxmt-dram-acer-and-asus-asking-chinese-partners-to-source-locally-made-memory-chips",
-        "fetchedAt": "2026-04-14T23:00:41.346535Z",
-        "excerpt": "\n                             HP and Dell are reportedly qualifying CXMT memory chips for their products, while Asus and Acer are asking their partners to source locally-made memory modules. The ongoing memory chip shortage is forcing even big companies to look for alternative sources to Micron, Samsung, and SK hynix. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-69786",
-    "date": "Mon, 02 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " AI infrastructure surge begins squeezing Apple’s component costs — company considering supplier other than TSMC for lower-end chips, report claims ",
-    "summary": "\n                             Apple is beginning to feel the downstream effects of the AI infrastructure boom, as surging demand for data center hardware pushes up component costs and weakens its leve",
-    "sources": [
-      {
-        "type": "news",
-        "title": " AI infrastructure surge begins squeezing Apple’s component costs — company considering supplier other than TSMC for lower-end chips, report claims ",
-        "url": "https://www.tomshardware.com/tech-industry/ai-infrastructure-surge-begins-squeezing-apples-component-costs",
-        "fetchedAt": "2026-04-14T23:00:41.346536Z",
-        "excerpt": "\n                             Apple is beginning to feel the downstream effects of the AI infrastructure boom, as surging demand for data center hardware pushes up component costs and weakens its leverage. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-7756",
-    "date": "Sun, 12 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " $27 platypus PCIe adapter converts half-height GPUs into full-height while adding two M.2 slots for SSDs — enthusiast demos low-profile RTX 4060 with two SSDs thanks to PCIe bifurcation ",
-    "summary": "\n                             A Redditor got his hands on this PCIe adapter that does the job of two different ones at the same time. It converts half-height GPUs into full height while adding M.2 slo",
-    "sources": [
-      {
-        "type": "news",
-        "title": " $27 platypus PCIe adapter converts half-height GPUs into full-height while adding two M.2 slots for SSDs — enthusiast demos low-profile RTX 4060 with two SSDs thanks to PCIe bifurcation ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/usd27-platypus-pcie-adapter-converts-half-height-gpus-into-full-height-while-adding-two-m-2-slots-for-ssds-enthusiast-demos-low-profile-rtx-4060-with-two-ssds-thanks-to-pcie-bifurcation",
-        "fetchedAt": "2026-04-14T23:00:41.541359Z",
-        "excerpt": "\n                             A Redditor got his hands on this PCIe adapter that does the job of two different ones at the same time. It converts half-height GPUs into full height while adding M.2 slots for storage expansion. All this is possible thanks to PCIe bifurcation, splitting an x16 slot into x8 for the GPU, and two x4 lanes for the SSDs. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-41659",
+    "id": "rss-67674",
     "date": "Sat, 11 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Two manufacturers commit to keep Blu-ray alive after others quit manufacturing — Verbatim and I-O Data extend Blu-ray supply pledge as manufacturers exit the market ",
-    "summary": "\n                             Verbatim Japan and I-O Data have widened their joint commitment to keep recordable Blu-ray products on shelves in Japan, this time covering drive hardware as well as medi",
+    "title": "US military begins clearing Strait of Hormuz, Trump says",
+    "summary": "Reports emerged Saturday about the presence of U.S. Navy ships in the strait.",
     "sources": [
       {
         "type": "news",
-        "title": " Two manufacturers commit to keep Blu-ray alive after others quit manufacturing — Verbatim and I-O Data extend Blu-ray supply pledge as manufacturers exit the market ",
-        "url": "https://www.tomshardware.com/tech-industry/verbatim-and-i-o-data-extend-blu-ray-supply-pledge-as-manufacturers-exit-the-market",
-        "fetchedAt": "2026-04-14T23:00:41.541369Z",
-        "excerpt": "\n                             Verbatim Japan and I-O Data have widened their joint commitment to keep recordable Blu-ray products on shelves in Japan, this time covering drive hardware as well as media. \n                                                                                                            "
+        "title": "US military begins clearing Strait of Hormuz, Trump says",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/04/11/us-military-begins-clearing-strait-of-hormuz-trump-says/",
+        "fetchedAt": "2026-04-15T09:14:12.432982Z",
+        "excerpt": "Reports emerged Saturday about the presence of U.S. Navy ships in the strait."
       }
     ]
   },
   {
-    "id": "rss-68161",
+    "id": "rss-82925",
     "date": "Fri, 10 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Vdura hikes its enterprise SSD pricing, now costs 22.6x more than hard drives — the price of a 30TB SSD has climbed 472% ",
-    "summary": "\n                             Vdura has materially revised the enterprise SSD pricing figures in its Flash Volatility Index, telling customers in an April 8 update that the cost of a 30TB TLC enterpri",
+    "title": "The president who threatened to end a civilization is supposed to guarantee Ukraine’s survival",
+    "summary": "Trump's Iran war has diverted diplomats and drained interceptor stockpiles — just as his envoys were supposed to deliver security guarantees to Kyiv.",
     "sources": [
       {
         "type": "news",
-        "title": " Vdura hikes its enterprise SSD pricing, now costs 22.6x more than hard drives — the price of a 30TB SSD has climbed 472% ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/vdura-sharply-revises-its-enterprise-ssd-pricing-figures",
-        "fetchedAt": "2026-04-14T23:00:41.541371Z",
-        "excerpt": "\n                             Vdura has materially revised the enterprise SSD pricing figures in its Flash Volatility Index, telling customers in an April 8 update that the cost of a 30TB TLC enterprise drive climbed 472%. \n                                                                                                            "
+        "title": "The president who threatened to end a civilization is supposed to guarantee Ukraine’s survival",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/04/10/the-president-who-threatened-to-end-a-civilization-is-supposed-to-guarantee-ukraines-survival/",
+        "fetchedAt": "2026-04-15T09:14:12.432984Z",
+        "excerpt": "Trump's Iran war has diverted diplomats and drained interceptor stockpiles — just as his envoys were supposed to deliver security guarantees to Kyiv."
       }
     ]
   },
   {
-    "id": "rss-11805",
+    "id": "rss-27813",
     "date": "Fri, 10 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " 30 years of Lexar: What a look inside its R&D labs and factory reveals about its plans for an AI-ready future ",
-    "summary": "\n                             Lexar toured us around its R&D labs and production facilities to see how it's building storage solutions for today and tomorrow. \n                                        ",
+    "title": "Pentagon, FAA sign agreement on deploying anti-drone laser system near Mexico",
+    "summary": "The agreement came after the FAA conducted testing in New Mexico on the laser system used by the Pentagon and Homeland Security Department.",
     "sources": [
       {
         "type": "news",
-        "title": " 30 years of Lexar: What a look inside its R&D labs and factory reveals about its plans for an AI-ready future ",
-        "url": "https://www.tomshardware.com/pc-components/storage/30-years-of-lexar-what-a-look-inside-its-r-and-d-labs-and-factory-reveals-about-its-plans-for-an-ai-ready-future",
-        "fetchedAt": "2026-04-14T23:00:41.541375Z",
-        "excerpt": "\n                             Lexar toured us around its R&D labs and production facilities to see how it's building storage solutions for today and tomorrow. \n                                                                                                            "
+        "title": "Pentagon, FAA sign agreement on deploying anti-drone laser system near Mexico",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/04/10/pentagon-faa-sign-agreement-on-deploying-anti-drone-laser-system-near-mexico/",
+        "fetchedAt": "2026-04-15T09:14:12.432985Z",
+        "excerpt": "The agreement came after the FAA conducted testing in New Mexico on the laser system used by the Pentagon and Homeland Security Department."
       }
     ]
   },
   {
-    "id": "rss-26759",
+    "id": "rss-18145",
     "date": "Fri, 10 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Engineer installs 3.5-inch floppy drive in a Tesla — modern EV recognizes and runs ancient storage device, even plays an MP3 file from diskette ",
-    "summary": "\n                             An engineer and software developer was able to make a 3.5-inch floppy drive work seamlessly with the Tesla with just a USB-to-FDD converter. \n                            ",
+    "title": "Pentagon, Lockheed Martin agree to $4.7 billion PAC-3 interceptor deal",
+    "summary": "Lockheed in January discussed a target of increasing annual PAC-3 interceptor production from approximately 600 to 2,000 over a span of seven years.",
     "sources": [
       {
         "type": "news",
-        "title": " Engineer installs 3.5-inch floppy drive in a Tesla — modern EV recognizes and runs ancient storage device, even plays an MP3 file from diskette ",
-        "url": "https://www.tomshardware.com/pc-components/storage/engineer-installs-3-5-inch-floppy-drive-in-a-tesla-modern-ev-recognizes-and-runs-ancient-storage-device-even-plays-an-mp3-file-from-diskette",
-        "fetchedAt": "2026-04-14T23:00:41.541377Z",
-        "excerpt": "\n                             An engineer and software developer was able to make a 3.5-inch floppy drive work seamlessly with the Tesla with just a USB-to-FDD converter. \n                                                                                                            "
+        "title": "Pentagon, Lockheed Martin agree to $4.7 billion PAC-3 interceptor deal",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/04/10/pentagon-lockheed-martin-agree-to-47-billion-pac-3-interceptor-deal/",
+        "fetchedAt": "2026-04-15T09:14:12.432987Z",
+        "excerpt": "Lockheed in January discussed a target of increasing annual PAC-3 interceptor production from approximately 600 to 2,000 over a span of seven years."
       }
     ]
   },
   {
-    "id": "rss-21706",
-    "date": "Tue, 07 Ap",
+    "id": "rss-65033",
+    "date": "Fri, 10 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " 2TB SanDisk memory card card surfaces for eye-watering $2,000 — top-tier Extreme Pro UHS-II SD promises more than 300 MB/s sequential read and write performance ",
-    "summary": "\n                             The 2TB SanDisk Extreme Pro UHS-II SD card costs $2,000, bringing its price per GB to nearly $1, making it more than four times more expensive than much faster microSD Ex",
+    "title": "US Navy ends USS Boise submarine overhaul after price tag soars",
+    "summary": "The U.S. Navy began a maintenance overhaul on the USS Boise in 2024 for $1.2 billion.",
     "sources": [
       {
         "type": "news",
-        "title": " 2TB SanDisk memory card card surfaces for eye-watering $2,000 — top-tier Extreme Pro UHS-II SD promises more than 300 MB/s sequential read and write performance ",
-        "url": "https://www.tomshardware.com/pc-components/storage/2tb-sandisk-memory-card-card-surfaces-for-eye-watering-usd2-000-top-tier-extreme-pro-uhs-ii-sd-promises-more-than-300-mb-s-sequential-read-and-write-performance",
-        "fetchedAt": "2026-04-14T23:00:41.541379Z",
-        "excerpt": "\n                             The 2TB SanDisk Extreme Pro UHS-II SD card costs $2,000, bringing its price per GB to nearly $1, making it more than four times more expensive than much faster microSD Express cards. \n                                                                                                            "
+        "title": "US Navy ends USS Boise submarine overhaul after price tag soars",
+        "url": "https://www.defensenews.com/news/your-navy/2026/04/10/us-navy-ends-uss-boise-submarine-overhaul-after-price-tag-soars/",
+        "fetchedAt": "2026-04-15T09:14:12.432988Z",
+        "excerpt": "The U.S. Navy began a maintenance overhaul on the USS Boise in 2024 for $1.2 billion."
       }
     ]
   },
   {
-    "id": "rss-16443",
-    "date": "Mon, 06 Ap",
+    "id": "rss-17455",
+    "date": "Fri, 10 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " WD Innovation Day 2026 press Q&A transcript: roadmap plans to reach 60TB with ePMR and 100TB via HAMR by 2029 — 'at some point, the laws of physics will require us to transition to HAMR' ",
-    "summary": "\n                             WD's leadership, now fully split from Sandisk, talks about its expectations for the future with industry analysts. We cover the full transcript of the press-only session ",
+    "title": "Italian government shakes up Leonardo leadership, replacing Cingolani as CEO",
+    "summary": "Some sources said Cingolani's focus on non-kinetic priorities may have led to the surprise move, with Lorenzo Mariani of MBDA taking over the top job.",
     "sources": [
       {
         "type": "news",
-        "title": " WD Innovation Day 2026 press Q&A transcript: roadmap plans to reach 60TB with ePMR and 100TB via HAMR by 2029 — 'at some point, the laws of physics will require us to transition to HAMR' ",
-        "url": "https://www.tomshardware.com/pc-components/hdds/wd-innovation-day-2026-press-q-and-a-transcript-roadmap-plans-to-reach-60tb-with-epmr-and-100tb-via-hamr-by-2029-at-some-point-the-laws-of-physics-will-require-us-to-transition-to-hamr",
-        "fetchedAt": "2026-04-14T23:00:41.541380Z",
-        "excerpt": "\n                             WD's leadership, now fully split from Sandisk, talks about its expectations for the future with industry analysts. We cover the full transcript of the press-only session right here. \n                                                                                                            "
+        "title": "Italian government shakes up Leonardo leadership, replacing Cingolani as CEO",
+        "url": "https://www.defensenews.com/global/europe/2026/04/10/italian-government-shakes-up-leonardo-leadership-replacing-cingolani-as-ceo/",
+        "fetchedAt": "2026-04-15T09:14:12.432990Z",
+        "excerpt": "Some sources said Cingolani's focus on non-kinetic priorities may have led to the surprise move, with Lorenzo Mariani of MBDA taking over the top job."
       }
     ]
   },
   {
-    "id": "rss-71107",
-    "date": "Sat, 04 Ap",
+    "id": "rss-27515",
+    "date": "Fri, 10 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Sharge Disk Pro 2TB review: Great sustained writes, active cooling, and a built-in hub ",
-    "summary": "\n                             Sharge's Disk Pro pairs a snappy 10 Gbps SSD with a handy port hub and active cooling, all in a compact, eye-catching shell with a magnetic back. It's an impressive packa",
+    "title": "Ukrainian drone makers visit Paris looking for co-production deals",
+    "summary": "“We come with our lessons learned,” Kamyshin said. “We offer a model which is definitely beneficial for your country, for your industry, for your economy.\"",
     "sources": [
       {
         "type": "news",
-        "title": " Sharge Disk Pro 2TB review: Great sustained writes, active cooling, and a built-in hub ",
-        "url": "https://www.tomshardware.com/pc-components/external-ssds/sharge-disk-pro-2tb-review",
-        "fetchedAt": "2026-04-14T23:00:41.541381Z",
-        "excerpt": "\n                             Sharge's Disk Pro pairs a snappy 10 Gbps SSD with a handy port hub and active cooling, all in a compact, eye-catching shell with a magnetic back. It's an impressive package for gamers and road warriors, but you'll pay a high price for all these features. \n                                                                                                            "
+        "title": "Ukrainian drone makers visit Paris looking for co-production deals",
+        "url": "https://www.defensenews.com/global/europe/2026/04/10/ukrainian-drone-makers-visit-paris-looking-for-co-production-deals/",
+        "fetchedAt": "2026-04-15T09:14:12.432991Z",
+        "excerpt": "“We come with our lessons learned,” Kamyshin said. “We offer a model which is definitely beneficial for your country, for your industry, for your economy.\""
       }
     ]
   },
   {
-    "id": "rss-53654",
-    "date": "Thu, 02 Ap",
+    "id": "rss-17598",
+    "date": "Fri, 10 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " GameStop NVMe SSD 2TB SSD Review: A surprisingly capable budget drive for the PS5 ",
-    "summary": "\n                             The GameStop NVMe SSD is a decent gamer-oriented drive with good performance and a nice heatsink at a reasonable price. SMI and Samsung hardware come together for a compe",
+    "title": "UK’s Starmer and Trump discussed military options for Strait of Hormuz",
+    "summary": "French President Emmanuel Macron also has raised the possibility of Europeans securing the crucial waterway, but only after the war ends.",
     "sources": [
       {
         "type": "news",
-        "title": " GameStop NVMe SSD 2TB SSD Review: A surprisingly capable budget drive for the PS5 ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/gamestop-nvme-ssd-2tb-ssd-review",
-        "fetchedAt": "2026-04-14T23:00:41.541383Z",
-        "excerpt": "\n                             The GameStop NVMe SSD is a decent gamer-oriented drive with good performance and a nice heatsink at a reasonable price. SMI and Samsung hardware come together for a compelling package. \n                                                                                                            "
+        "title": "UK’s Starmer and Trump discussed military options for Strait of Hormuz",
+        "url": "https://www.defensenews.com/global/europe/2026/04/10/uks-starmer-and-trump-discussed-military-options-for-strait-of-hormuz/",
+        "fetchedAt": "2026-04-15T09:14:12.432993Z",
+        "excerpt": "French President Emmanuel Macron also has raised the possibility of Europeans securing the crucial waterway, but only after the war ends."
       }
     ]
   },
   {
-    "id": "rss-58971",
-    "date": "Tue, 31 Ma",
+    "id": "rss-79095",
+    "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Kioxia discontinues 2D NAND products, last shipments to be made in 2028 — 1980s planar NAND memory reaches end of life ",
-    "summary": "\n                             After nearly four decades in production, Kioxia is set to discontinue its final 2D NAND devices by late 2028. \n                                                           ",
+    "title": "Space Force to finalize acquisition portfolio structure over next two months",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/04/space-force-to-finalize-acquisition-portfolio-structure-over-next-two-months/\"><img width=\"1024\" height=\"576\" src=\"https://breakingdefense.com/wp-conten",
     "sources": [
       {
         "type": "news",
-        "title": " Kioxia discontinues 2D NAND products, last shipments to be made in 2028 — 1980s planar NAND memory reaches end of life ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/kioxia-discontinues-2d-nand-products-last-shipments-to-be-made-in-2028-1980s-planar-nand-memory-reaches-end-of-life",
-        "fetchedAt": "2026-04-14T23:00:41.541384Z",
-        "excerpt": "\n                             After nearly four decades in production, Kioxia is set to discontinue its final 2D NAND devices by late 2028. \n                                                                                                            "
+        "title": "Space Force to finalize acquisition portfolio structure over next two months",
+        "url": "https://breakingdefense.com/2026/04/space-force-to-finalize-acquisition-portfolio-structure-over-next-two-months/",
+        "fetchedAt": "2026-04-15T09:14:12.613120Z",
+        "excerpt": "<p><a href=\"https://breakingdefense.com/2026/04/space-force-to-finalize-acquisition-portfolio-structure-over-next-two-months/\"><img width=\"1024\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/Garrant-1024x576.png\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"max-width: 100%; height: auto!important;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/Garrant-1024x576.png 1024w, https:/"
       }
     ]
   },
   {
-    "id": "rss-75970",
-    "date": "Tue, 31 Ma",
+    "id": "rss-97119",
+    "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " At just $17.68 per Terabyte, this 22TB external Seagate Expansion HDD is one of the cheapest hard drives on the market — backup copious amounts of data for $389 ",
-    "summary": "\n                             It's World Backup Day! Have you considered how your data is protected and stored? \n                                                                                       ",
+    "title": "White House wants Pentagon to demo nuclear space power by 2031",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/04/white-house-wants-pentagon-to-demo-nuclear-space-power-by-2031/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/site",
     "sources": [
       {
         "type": "news",
-        "title": " At just $17.68 per Terabyte, this 22TB external Seagate Expansion HDD is one of the cheapest hard drives on the market — backup copious amounts of data for $389 ",
-        "url": "https://www.tomshardware.com/pc-components/external-hdds/at-just-usd17-68-per-terabyte-this-22tb-external-seagate-expansion-hdd-is-one-of-the-cheapest-hard-drives-on-the-market-backup-copious-amounts-of-data-for-usd389",
-        "fetchedAt": "2026-04-14T23:00:41.541385Z",
-        "excerpt": "\n                             It's World Backup Day! Have you considered how your data is protected and stored? \n                                                                                                            "
+        "title": "White House wants Pentagon to demo nuclear space power by 2031",
+        "url": "https://breakingdefense.com/2026/04/white-house-wants-pentagon-to-demo-nuclear-space-power-by-2031/",
+        "fetchedAt": "2026-04-15T09:14:12.613132Z",
+        "excerpt": "<p><a href=\"https://breakingdefense.com/2026/04/white-house-wants-pentagon-to-demo-nuclear-space-power-by-2031/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/260414_artemis_moon_surface_NASA-e1776195113215-1024x577.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"max-width: 100%; height: auto!important;\" decoding=\"async\" srcset=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/260414_artemis_moon_surface_NA"
       }
     ]
   },
   {
-    "id": "rss-60654",
-    "date": "Tue, 31 Ma",
+    "id": "rss-38702",
+    "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Grab an SSD or HDD upgrade for World Backup Day 2026 to keep your files safe, with 1TB drives starting from $109 — beat the AI-fueled storage price hikes with these savings on internal and external drives, enclosures, and accessories ",
-    "summary": "\n                             It's time to celebrate World Backup Day 2026 with these huge promotional deals on storage, from discounted hard drives to SSD cloners, flash drives, and more. \n          ",
+    "title": "Australia gets new military leaders, including first female army chief",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/04/australia-gets-new-military-leaders-including-first-female-army-chief/\"><img width=\"1024\" height=\"683\" src=\"https://breakingdefense.com/wp-content/uploa",
     "sources": [
       {
         "type": "news",
-        "title": " Grab an SSD or HDD upgrade for World Backup Day 2026 to keep your files safe, with 1TB drives starting from $109 — beat the AI-fueled storage price hikes with these savings on internal and external drives, enclosures, and accessories ",
-        "url": "https://www.tomshardware.com/pc-components/storage/grab-an-ssd-or-hdd-upgrade-for-world-backup-day-2026-to-keep-your-files-safe-with-1tb-drives-starting-from-usd109-beat-the-ai-fueled-storage-price-hikes-with-these-savings-on-internal-and-external-drives-enclosures-and-accessories",
-        "fetchedAt": "2026-04-14T23:00:41.541386Z",
-        "excerpt": "\n                             It's time to celebrate World Backup Day 2026 with these huge promotional deals on storage, from discounted hard drives to SSD cloners, flash drives, and more. \n                                                                                                            "
+        "title": "Australia gets new military leaders, including first female army chief",
+        "url": "https://breakingdefense.com/2026/04/australia-gets-new-military-leaders-including-first-female-army-chief/",
+        "fetchedAt": "2026-04-15T09:14:12.613135Z",
+        "excerpt": "<p><a href=\"https://breakingdefense.com/2026/04/australia-gets-new-military-leaders-including-first-female-army-chief/\"><img width=\"1024\" height=\"683\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/20250709adf8710603_4237-1024x683.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"max-width: 100%; height: auto!important;\" decoding=\"async\" srcset=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/20250709adf8710603_4237-1024x683.jpg 1024w, htt"
       }
     ]
   },
   {
-    "id": "rss-11475",
-    "date": "Tue, 31 Ma",
+    "id": "rss-44670",
+    "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " This $28 floppy disk SSD enclosure is a fun and fast way to keep your storage safe — both practical and nostalgic, this rugged USB-C aluminum enclosure for M.2 drives supports speeds of up to 1,200 MB/s ",
-    "summary": "\n                             Take your files on-the-go with this classic-looking SSD enclosure from Hagibis in celeberation of World Backup Day. Just $27.99 nets you this USB-C 3.2 Gen 2 M.2 NVMe SSD",
+    "title": "Redefining mobile artillery for a faster, more lethal fight",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/04/redefining-mobile-artillery-for-a-faster-more-lethal-fight/\"><img width=\"1024\" height=\"747\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13",
     "sources": [
       {
         "type": "news",
-        "title": " This $28 floppy disk SSD enclosure is a fun and fast way to keep your storage safe — both practical and nostalgic, this rugged USB-C aluminum enclosure for M.2 drives supports speeds of up to 1,200 MB/s ",
-        "url": "https://www.tomshardware.com/pc-components/storage/this-usd28-floppy-disk-ssd-enclosure-is-a-fun-and-fast-way-to-keep-your-storage-safe-both-practical-and-nostalgic-this-rugged-usb-c-aluminum-enclosure-for-m-2-drives-supports-speeds-of-up-to-1-200-mb-s",
-        "fetchedAt": "2026-04-14T23:00:41.541388Z",
-        "excerpt": "\n                             Take your files on-the-go with this classic-looking SSD enclosure from Hagibis in celeberation of World Backup Day. Just $27.99 nets you this USB-C 3.2 Gen 2 M.2 NVMe SSD enclosure, shaped like an old floppy disk. \n                                                                                                            "
+        "title": "Redefining mobile artillery for a faster, more lethal fight",
+        "url": "https://breakingdefense.com/2026/04/redefining-mobile-artillery-for-a-faster-more-lethal-fight/",
+        "fetchedAt": "2026-04-15T09:14:12.613137Z",
+        "excerpt": "<p><a href=\"https://breakingdefense.com/2026/04/redefining-mobile-artillery-for-a-faster-more-lethal-fight/\"><img width=\"1024\" height=\"747\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/Elbit-1-1024x747.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"Elbit America’s SIGMA Mobile Tactical Cannon allows for artillery support that can quickly relocate as needed. (Photo courtesy of Elbit America.)\" style=\"max-width: 100%; height: auto!important;\" decoding=\"async\" l"
       }
     ]
   },
   {
-    "id": "rss-38246",
-    "date": "Sat, 28 Ma",
+    "id": "rss-28647",
+    "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Samsung preps PCIe 5.0 QLC SSD with a controller based on open-source RISC-V architecture — BM9K1 delivers speeds up to 11.4 GB/s for 'personal AI workloads' ",
-    "summary": "\n                             The BM9K1 reportedly delivers sequential read speeds of up to 11.4 GB/s, which Samsung said is 1.6 times faster than its predecessor, the PCIe 4.0 BM9C1. \n               ",
+    "title": "1:5 kill ratio: Ukraine inflicts heavy Russian losses using drones, says Finnish president",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/04/15-kill-ratio-ukraine-inflicts-heavy-russian-losses-using-drones-says-finnish-president/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.co",
     "sources": [
       {
         "type": "news",
-        "title": " Samsung preps PCIe 5.0 QLC SSD with a controller based on open-source RISC-V architecture — BM9K1 delivers speeds up to 11.4 GB/s for 'personal AI workloads' ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/samsung-announces-bm9k1-pcie-5-0-qlc-ssd",
-        "fetchedAt": "2026-04-14T23:00:41.541389Z",
-        "excerpt": "\n                             The BM9K1 reportedly delivers sequential read speeds of up to 11.4 GB/s, which Samsung said is 1.6 times faster than its predecessor, the PCIe 4.0 BM9C1. \n                                                                                                            "
+        "title": "1:5 kill ratio: Ukraine inflicts heavy Russian losses using drones, says Finnish president",
+        "url": "https://breakingdefense.com/2026/04/15-kill-ratio-ukraine-inflicts-heavy-russian-losses-using-drones-says-finnish-president/",
+        "fetchedAt": "2026-04-15T09:14:12.613140Z",
+        "excerpt": "<p><a href=\"https://breakingdefense.com/2026/04/15-kill-ratio-ukraine-inflicts-heavy-russian-losses-using-drones-says-finnish-president/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/03/260319_ukraine_drone_interceptor_GettyImages-2265265238-e1773928346625.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"max-width: 100%; height: auto!important;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://breakingdefense.com/wp-content/u"
       }
     ]
   },
   {
-    "id": "rss-84934",
-    "date": "Sat, 28 Ma",
+    "id": "rss-82070",
+    "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Sony freezes memory card orders in Japan amid growing storage crisis — the company attributes the cause to ‘shortage of semiconductors’ ",
-    "summary": "\n                             Sony Japan has announced that it will no longer accept orders for almost its entire lineup of CFexpress and SD memory cards as of March 27. \n                             ",
+    "title": "A peek into munitions spending, and a chat with Sweden’s DefMin",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/04/a-peek-into-munitions-spending-and-a-chat-with-swedens-defmin/\"><img width=\"1024\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites",
     "sources": [
       {
         "type": "news",
-        "title": " Sony freezes memory card orders in Japan amid growing storage crisis — the company attributes the cause to ‘shortage of semiconductors’ ",
-        "url": "https://www.tomshardware.com/tech-industry/sony-suspends-nearly-all-memory-card-orders-in-japan",
-        "fetchedAt": "2026-04-14T23:00:41.541390Z",
-        "excerpt": "\n                             Sony Japan has announced that it will no longer accept orders for almost its entire lineup of CFexpress and SD memory cards as of March 27. \n                                                                                                            "
+        "title": "A peek into munitions spending, and a chat with Sweden’s DefMin",
+        "url": "https://breakingdefense.com/2026/04/a-peek-into-munitions-spending-and-a-chat-with-swedens-defmin/",
+        "fetchedAt": "2026-04-15T09:14:12.613143Z",
+        "excerpt": "<p><a href=\"https://breakingdefense.com/2026/04/a-peek-into-munitions-spending-and-a-chat-with-swedens-defmin/\"><img width=\"1024\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/BP215-Play-button_-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"max-width: 100%; height: auto!important;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/BP215-Play-button_-1024x576.jpg 1024w, https:"
       }
     ]
   },
   {
-    "id": "rss-12667",
-    "date": "Fri, 27 Ma",
+    "id": "rss-54119",
+    "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Exceptional fake SSD clone of Samsung 990 Pro is almost impossible to spot — near-identical performance blurs the line between real and fake as AI crunch drives knock-off market ",
-    "summary": "\n                             Japanese news outlet Akiba PC Hotline! examines a fake Samsung 990 Pro SSD that's starting to show up in the Japanese market. \n                                           ",
+    "title": "The US and Iran are using new weapons in the war. Here’s what to know.",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/04/in-iran-conflict-tehran-and-washington-fight-with-new-weapons/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites",
     "sources": [
       {
         "type": "news",
-        "title": " Exceptional fake SSD clone of Samsung 990 Pro is almost impossible to spot — near-identical performance blurs the line between real and fake as AI crunch drives knock-off market ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/exceptional-fake-ssd-clone-of-samsung-990-pro-is-almost-impossible-to-spot-near-identical-performance-blurs-the-line-between-real-and-fake-as-ai-crunch-drives-knock-off-market",
-        "fetchedAt": "2026-04-14T23:00:41.541391Z",
-        "excerpt": "\n                             Japanese news outlet Akiba PC Hotline! examines a fake Samsung 990 Pro SSD that's starting to show up in the Japanese market. \n                                                                                                            "
+        "title": "The US and Iran are using new weapons in the war. Here’s what to know.",
+        "url": "https://breakingdefense.com/2026/04/in-iran-conflict-tehran-and-washington-fight-with-new-weapons/",
+        "fetchedAt": "2026-04-15T09:14:12.613145Z",
+        "excerpt": "<p><a href=\"https://breakingdefense.com/2026/04/in-iran-conflict-tehran-and-washington-fight-with-new-weapons/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/260414_iran_missile_GettyImages-1996171859-e1776177052574.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"max-width: 100%; height: auto!important;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/260414_iran_mis"
       }
     ]
   },
   {
-    "id": "rss-88687",
-    "date": "Wed, 25 Ma",
+    "id": "rss-74151",
+    "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Samsung’s 870 EVO SATA SSD quietly gets 8TB variant despite storage shortage and skyrocketing pricing — new model spotted in Europe for €1,300 with higher cache and endurance ",
-    "summary": "\n                             Samsung’s unlisted 870 EVO 8TB model appears at European retailers with pricing starting at €1,300. \n                                                                     ",
+    "title": "Inside the rise of Project Maven and AI warfare [Book excerpt]",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/04/inside-the-rise-of-project-maven-and-ai-warfare-book-excerpt/\"><img width=\"1024\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/",
     "sources": [
       {
         "type": "news",
-        "title": " Samsung’s 870 EVO SATA SSD quietly gets 8TB variant despite storage shortage and skyrocketing pricing — new model spotted in Europe for €1,300 with higher cache and endurance ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/samsungs-870-evo-sata-ssd-quietly-gets-8tb-variant-despite-ai-storage-struggle-new-model-spotted-in-europe-for-eur1-300-with-higher-cache-and-endurance",
-        "fetchedAt": "2026-04-14T23:00:41.541393Z",
-        "excerpt": "\n                             Samsung’s unlisted 870 EVO 8TB model appears at European retailers with pricing starting at €1,300. \n                                                                                                            "
+        "title": "Inside the rise of Project Maven and AI warfare [Book excerpt]",
+        "url": "https://breakingdefense.com/2026/04/inside-the-rise-of-project-maven-and-ai-warfare-book-excerpt/",
+        "fetchedAt": "2026-04-15T09:14:12.613148Z",
+        "excerpt": "<p><a href=\"https://breakingdefense.com/2026/04/inside-the-rise-of-project-maven-and-ai-warfare-book-excerpt/\"><img width=\"1024\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2023/01/230105_navy_digital_gfx-1024x576.png\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"max-width: 100%; height: auto!important;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://breakingdefense.com/wp-content/uploads/sites/13/2023/01/230105_navy_digital_gfx-1024x576.png 1024"
       }
     ]
   },
   {
-    "id": "rss-65309",
-    "date": "Wed, 25 Ma",
+    "id": "rss-71011",
+    "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Seagate FireCuda 530R 2TB SSD Review: A stealthy workstation powerhouse ",
-    "summary": "\n                             The Seagate FireCuda 530R is a specialized workstation SSD that prioritizes reliability and performance consistency. With high write endurance and bundled data recovery s",
+    "title": "Rolls-Royce modern AE Engines power the future of Army aviation – and more",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/04/rolls-royce-modern-ae-engines-power-the-future-of-army-aviation-and-more/\"><img width=\"1024\" height=\"688\" src=\"https://breakingdefense.com/wp-content/up",
     "sources": [
       {
         "type": "news",
-        "title": " Seagate FireCuda 530R 2TB SSD Review: A stealthy workstation powerhouse ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/seagate-firecuda-530r-2tb-ssd-review",
-        "fetchedAt": "2026-04-14T23:00:41.541394Z",
-        "excerpt": "\n                             The Seagate FireCuda 530R is a specialized workstation SSD that prioritizes reliability and performance consistency. With high write endurance and bundled data recovery services, it provides extra peace of mind. \n                                                                                                            "
+        "title": "Rolls-Royce modern AE Engines power the future of Army aviation – and more",
+        "url": "https://breakingdefense.com/2026/04/rolls-royce-modern-ae-engines-power-the-future-of-army-aviation-and-more/",
+        "fetchedAt": "2026-04-15T09:14:12.613150Z",
+        "excerpt": "<p><a href=\"https://breakingdefense.com/2026/04/rolls-royce-modern-ae-engines-power-the-future-of-army-aviation-and-more/\"><img width=\"1024\" height=\"688\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/RR_AE1107_1280x860_Gray-1024x688.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"Rolls-Royce is proud to be a member of team FLRAA, with AE 1107 engines powering the MV-75, providing the Army with twice the speed and range of the current fleet\" style=\"max-width: 10"
       }
     ]
   },
   {
-    "id": "rss-62795",
+    "id": "rss-22489",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall and Destinus to combine forces in new missile systems joint venture",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/04/rheinmetall-and-destinus-to-combine-forces-in-new-missile-systems-joint-venture/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-con",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Rheinmetall and Destinus to combine forces in new missile systems joint venture",
+        "url": "https://breakingdefense.com/2026/04/rheinmetall-and-destinus-to-combine-forces-in-new-missile-systems-joint-venture/",
+        "fetchedAt": "2026-04-15T09:14:12.613155Z",
+        "excerpt": "<p><a href=\"https://breakingdefense.com/2026/04/rheinmetall-and-destinus-to-combine-forces-in-new-missile-systems-joint-venture/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/260413_rheinmetall_missile_GettyImages-2265553468-e1776104925116.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"max-width: 100%; height: auto!important;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://breakingdefense.com/wp-content/uploads/sites/1"
+      }
+    ]
+  },
+  {
+    "id": "rss-78826",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Winning the cognitive domain — A methodology built for democratic constraints",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/04/winning-the-cognitive-domain-a-methodology-built-for-democratic-constraints/\"><img width=\"1024\" height=\"614\" src=\"https://breakingdefense.com/wp-content",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Winning the cognitive domain — A methodology built for democratic constraints",
+        "url": "https://breakingdefense.com/2026/04/winning-the-cognitive-domain-a-methodology-built-for-democratic-constraints/",
+        "fetchedAt": "2026-04-15T09:14:12.613158Z",
+        "excerpt": "<p><a href=\"https://breakingdefense.com/2026/04/winning-the-cognitive-domain-a-methodology-built-for-democratic-constraints/\"><img width=\"1024\" height=\"614\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/thedigitalartist-cyber-security-3374252-1024x614.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"Credit: TheDigitalArtist, Pixabay https://pixabay.com/illustrations/cyber-security-technology-network-3374252/\" style=\"max-width: 100%; height: auto!important;\" deco"
+      }
+    ]
+  },
+  {
+    "id": "rss-93969",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Estonia to halt $587M Infantry Fighting Vehicle buy in favor of drones, air defense",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/04/estonia-to-halt-587m-infantry-fighting-vehicle-buy-in-favor-of-drones-air-defense/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-c",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Estonia to halt $587M Infantry Fighting Vehicle buy in favor of drones, air defense",
+        "url": "https://breakingdefense.com/2026/04/estonia-to-halt-587m-infantry-fighting-vehicle-buy-in-favor-of-drones-air-defense/",
+        "fetchedAt": "2026-04-15T09:14:12.613160Z",
+        "excerpt": "<p><a href=\"https://breakingdefense.com/2026/04/estonia-to-halt-587m-infantry-fighting-vehicle-buy-in-favor-of-drones-air-defense/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/260413_estonia_drone_exercise_7796690-scaled-e1776098365509-1024x577.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"max-width: 100%; height: auto!important;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://breakingdefense.com/wp-content/uploads/s"
+      }
+    ]
+  },
+  {
+    "id": "rss-35445",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Nowhere to hide: Iran war spotlights military challenges posed by space-based remote sensing",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/04/nowhere-to-hide-iran-war-spotlights-military-challenges-posed-by-space-based-remote-sensing/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefens",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Nowhere to hide: Iran war spotlights military challenges posed by space-based remote sensing",
+        "url": "https://breakingdefense.com/2026/04/nowhere-to-hide-iran-war-spotlights-military-challenges-posed-by-space-based-remote-sensing/",
+        "fetchedAt": "2026-04-15T09:14:12.613162Z",
+        "excerpt": "<p><a href=\"https://breakingdefense.com/2026/04/nowhere-to-hide-iran-war-spotlights-military-challenges-posed-by-space-based-remote-sensing/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/GettyImages-2267928939-scaled-e1776099825914-1024x577.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"max-width: 100%; height: auto!important;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://breakingdefense.com/wp-content/uploads/sites/"
+      }
+    ]
+  },
+  {
+    "id": "rss-37766",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "The Pentagon wants a 188 percent bump for missile procurement. Can industry deliver?",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/04/the-pentagon-wants-a-188-percent-bump-for-missile-procurement-can-industry-deliver/\"><img width=\"1024\" height=\"535\" src=\"https://breakingdefense.com/wp-",
+    "sources": [
+      {
+        "type": "news",
+        "title": "The Pentagon wants a 188 percent bump for missile procurement. Can industry deliver?",
+        "url": "https://breakingdefense.com/2026/04/the-pentagon-wants-a-188-percent-bump-for-missile-procurement-can-industry-deliver/",
+        "fetchedAt": "2026-04-15T09:14:12.613164Z",
+        "excerpt": "<p><a href=\"https://breakingdefense.com/2026/04/the-pentagon-wants-a-188-percent-bump-for-missile-procurement-can-industry-deliver/\"><img width=\"1024\" height=\"535\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/03/9542620-1024x535.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"max-width: 100%; height: auto!important;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/03/9542620-1024x535.jpg 1024w, https:/"
+      }
+    ]
+  },
+  {
+    "id": "rss-83750",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "With Joint Innovation Outpost, Army ‘operationalized an acquisition cell’",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/04/with-joint-innovation-outpost-army-operationalized-an-acquisition-cell/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uplo",
+    "sources": [
+      {
+        "type": "news",
+        "title": "With Joint Innovation Outpost, Army ‘operationalized an acquisition cell’",
+        "url": "https://breakingdefense.com/2026/04/with-joint-innovation-outpost-army-operationalized-an-acquisition-cell/",
+        "fetchedAt": "2026-04-15T09:14:12.613168Z",
+        "excerpt": "<p><a href=\"https://breakingdefense.com/2026/04/with-joint-innovation-outpost-army-operationalized-an-acquisition-cell/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/9446274-e1775836411443-1024x577.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"max-width: 100%; height: auto!important;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/9446274-e1775836411443-1024x577."
+      }
+    ]
+  },
+  {
+    "id": "rss-11917",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "B-21 Raider Seen From Above For The First Time",
+    "summary": "<p>A new image of aerial refueling trials gives us our first full overhead look at the B-21 and a glimpse at some very interesting features.</p>\n<p>The post <a href=\"https://www.twz.com/air/b-21-raide",
+    "sources": [
+      {
+        "type": "news",
+        "title": "B-21 Raider Seen From Above For The First Time",
+        "url": "https://www.twz.com/air/b-21-raider-like-you-have-never-seen-it-before",
+        "fetchedAt": "2026-04-15T09:14:15.800995Z",
+        "excerpt": "<p>A new image of aerial refueling trials gives us our first full overhead look at the B-21 and a glimpse at some very interesting features.</p>\n<p>The post <a href=\"https://www.twz.com/air/b-21-raider-like-you-have-never-seen-it-before\">B-21 Raider Seen From Above For The First Time</a> appeared first on <a href=\"https://www.twz.com\">The War Zone</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-75725",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Navy MQ-4C Triton Surveillance Drone Crash In The Middle East Finally Confirmed",
+    "summary": "<p>The MQ-4C had been flying over the Persian Gulf on April 9 when it suddenly disappeared from online flight tracking sites.</p>\n<p>The post <a href=\"https://www.twz.com/air/navy-mq-4c-triton-surveil",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Navy MQ-4C Triton Surveillance Drone Crash In The Middle East Finally Confirmed",
+        "url": "https://www.twz.com/air/navy-mq-4c-triton-surveillance-drone-crash-in-the-middle-east-finally-confirmed",
+        "fetchedAt": "2026-04-15T09:14:15.801004Z",
+        "excerpt": "<p>The MQ-4C had been flying over the Persian Gulf on April 9 when it suddenly disappeared from online flight tracking sites.</p>\n<p>The post <a href=\"https://www.twz.com/air/navy-mq-4c-triton-surveillance-drone-crash-in-the-middle-east-finally-confirmed\">Navy MQ-4C Triton Surveillance Drone Crash In The Middle East Finally Confirmed</a> appeared first on <a href=\"https://www.twz.com\">The War Zone</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-76283",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Navy Turns Around Ships Trying To Run Blockade Of Iran (Updated)",
+    "summary": "<p>Meanwhile, CENTCOM says the blockade is working as communications between Washington and Tehran continue in hopes of more in-person talks.</p>\n<p>The post <a href=\"https://www.twz.com/news-features",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Navy Turns Around Ships Trying To Run Blockade Of Iran (Updated)",
+        "url": "https://www.twz.com/news-features/ships-passed-through-u-s-navy-blockade-reports",
+        "fetchedAt": "2026-04-15T09:14:15.801007Z",
+        "excerpt": "<p>Meanwhile, CENTCOM says the blockade is working as communications between Washington and Tehran continue in hopes of more in-person talks.</p>\n<p>The post <a href=\"https://www.twz.com/news-features/ships-passed-through-u-s-navy-blockade-reports\">Navy Turns Around Ships Trying To Run Blockade Of Iran (Updated)</a> appeared first on <a href=\"https://www.twz.com\">The War Zone</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-72783",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Air Guard Warns Of Dire Consequences If At Least 72 Fighters Aren’t Bought Annually",
+    "summary": "<p>Air National Guard leaders have called upon Congress to approve multiyear funding for 72 to 100 new fighters annually.</p>\n<p>The post <a href=\"https://www.twz.com/air/air-guard-warns-of-dire-conse",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Air Guard Warns Of Dire Consequences If At Least 72 Fighters Aren’t Bought Annually",
+        "url": "https://www.twz.com/air/air-guard-warns-of-dire-consequences-if-at-least-72-fighters-arent-bought-annually",
+        "fetchedAt": "2026-04-15T09:14:15.801010Z",
+        "excerpt": "<p>Air National Guard leaders have called upon Congress to approve multiyear funding for 72 to 100 new fighters annually.</p>\n<p>The post <a href=\"https://www.twz.com/air/air-guard-warns-of-dire-consequences-if-at-least-72-fighters-arent-bought-annually\">Air Guard Warns Of Dire Consequences If At Least 72 Fighters Aren’t Bought Annually</a> appeared first on <a href=\"https://www.twz.com\">The War Zone</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-12631",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Angry Kitten Jamming Pod Testing On HC-130J Focuses On Receiving Threat Updates Via Satellite",
+    "summary": "<p>Being able to rapidly reprogram Angry Kitten pods remotely based on the real-time threat environment would be hugely valuable.</p>\n<p>The post <a href=\"https://www.twz.com/air/angry-kitten-jamming-",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Angry Kitten Jamming Pod Testing On HC-130J Focuses On Receiving Threat Updates Via Satellite",
+        "url": "https://www.twz.com/air/angry-kitten-jamming-pod-testing-on-hc-130j-focuses-on-receiving-threat-updates-via-satellite",
+        "fetchedAt": "2026-04-15T09:14:15.801012Z",
+        "excerpt": "<p>Being able to rapidly reprogram Angry Kitten pods remotely based on the real-time threat environment would be hugely valuable.</p>\n<p>The post <a href=\"https://www.twz.com/air/angry-kitten-jamming-pod-testing-on-hc-130j-focuses-on-receiving-threat-updates-via-satellite\">Angry Kitten Jamming Pod Testing On HC-130J Focuses On Receiving Threat Updates Via Satellite</a> appeared first on <a href=\"https://www.twz.com\">The War Zone</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-60176",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Naval Blockade Of Iran Now In Full Effect (Updated)",
+    "summary": "<p>Maritime restrictions have been put in place by the U.S. along the entire Iranian coastline, not just the Strait of Hormuz. </p>\n<p>The post <a href=\"https://www.twz.com/news-features/naval-blockad",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Naval Blockade Of Iran Now In Full Effect (Updated)",
+        "url": "https://www.twz.com/news-features/naval-blockade-of-iran-now-in-full-effect",
+        "fetchedAt": "2026-04-15T09:14:15.801013Z",
+        "excerpt": "<p>Maritime restrictions have been put in place by the U.S. along the entire Iranian coastline, not just the Strait of Hormuz. </p>\n<p>The post <a href=\"https://www.twz.com/news-features/naval-blockade-of-iran-now-in-full-effect\">Naval Blockade Of Iran Now In Full Effect (Updated)</a> appeared first on <a href=\"https://www.twz.com\">The War Zone</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-68631",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "This May Be Our Best Look At Ukraine’s Secretive New Surface-To-Air Missile",
+    "summary": "<p>The Koral surface-to-air missile apparently made its public debut as part of a recent lineup of homegrown weapon systems.</p>\n<p>The post <a href=\"https://www.twz.com/land/this-may-be-our-best-look",
+    "sources": [
+      {
+        "type": "news",
+        "title": "This May Be Our Best Look At Ukraine’s Secretive New Surface-To-Air Missile",
+        "url": "https://www.twz.com/land/this-may-be-our-best-look-at-ukraines-secretive-new-surface-to-air-missile",
+        "fetchedAt": "2026-04-15T09:14:15.801016Z",
+        "excerpt": "<p>The Koral surface-to-air missile apparently made its public debut as part of a recent lineup of homegrown weapon systems.</p>\n<p>The post <a href=\"https://www.twz.com/land/this-may-be-our-best-look-at-ukraines-secretive-new-surface-to-air-missile\">This May Be Our Best Look At Ukraine’s Secretive New Surface-To-Air Missile</a> appeared first on <a href=\"https://www.twz.com\">The War Zone</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-66510",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Flurry Of Navy Minesweepers Appear To Be Heading Toward The Middle East",
+    "summary": "<p>The migration of U.S. Navy minesweeping assets west from the Pacific indicates preparations are underway for a major de-mining operation.</p>\n<p>The post <a href=\"https://www.twz.com/sea/flurry-of-",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Flurry Of Navy Minesweepers Appear To Be Heading Toward The Middle East",
+        "url": "https://www.twz.com/sea/flurry-of-navy-minesweepers-appear-to-be-heading-toward-the-middle-east",
+        "fetchedAt": "2026-04-15T09:14:15.801017Z",
+        "excerpt": "<p>The migration of U.S. Navy minesweeping assets west from the Pacific indicates preparations are underway for a major de-mining operation.</p>\n<p>The post <a href=\"https://www.twz.com/sea/flurry-of-navy-minesweepers-appear-to-be-heading-toward-the-middle-east\">Flurry Of Navy Minesweepers Appear To Be Heading Toward The Middle East</a> appeared first on <a href=\"https://www.twz.com\">The War Zone</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-58380",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Regent Squire Wing-In-Ground Effect Drone Demonstrator Makes First Flight",
+    "summary": "<p>Squire is designed to take on multiple roles and the Marines say they are monitoring the aircraft's progress.</p>\n<p>The post <a href=\"https://www.twz.com/air/regent-squire-wing-in-ground-effect-dr",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Regent Squire Wing-In-Ground Effect Drone Demonstrator Makes First Flight",
+        "url": "https://www.twz.com/air/regent-squire-wing-in-ground-effect-drone-demonstrator-makes-first-flight",
+        "fetchedAt": "2026-04-15T09:14:15.801019Z",
+        "excerpt": "<p>Squire is designed to take on multiple roles and the Marines say they are monitoring the aircraft's progress.</p>\n<p>The post <a href=\"https://www.twz.com/air/regent-squire-wing-in-ground-effect-drone-demonstrator-makes-first-flight\">Regent Squire Wing-In-Ground Effect Drone Demonstrator Makes First Flight</a> appeared first on <a href=\"https://www.twz.com\">The War Zone</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-31914",
+    "date": "Sun, 12 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "KC-135 Tanker Covered In Shrapnel Patches Seen Landing In UK",
+    "summary": "<p>A KC-135 damaged in an Iranian strike has made its way to RAF Mildenhall in the UK thanks to field repairs. </p>\n<p>The post <a href=\"https://www.twz.com/air/battle-damaged-kc-135-seen-covered-in-s",
+    "sources": [
+      {
+        "type": "news",
+        "title": "KC-135 Tanker Covered In Shrapnel Patches Seen Landing In UK",
+        "url": "https://www.twz.com/air/battle-damaged-kc-135-seen-covered-in-shrapnel-patches",
+        "fetchedAt": "2026-04-15T09:14:15.801021Z",
+        "excerpt": "<p>A KC-135 damaged in an Iranian strike has made its way to RAF Mildenhall in the UK thanks to field repairs. </p>\n<p>The post <a href=\"https://www.twz.com/air/battle-damaged-kc-135-seen-covered-in-shrapnel-patches\">KC-135 Tanker Covered In Shrapnel Patches Seen Landing In UK</a> appeared first on <a href=\"https://www.twz.com\">The War Zone</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-70529",
+    "date": "Sun, 12 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Carrier Tracker As of April 12, 2026",
+    "summary": "<p>Trump orders U.S. Navy to blockade Strait of Hormuz as a third carrier strike group steams towards the CENTCOM area of responsibility. </p>\n<p>The post <a href=\"https://www.twz.com/sea/carrier-trac",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Carrier Tracker As of April 12, 2026",
+        "url": "https://www.twz.com/sea/carrier-tracker-as-of-april-12-2026",
+        "fetchedAt": "2026-04-15T09:14:15.801022Z",
+        "excerpt": "<p>Trump orders U.S. Navy to blockade Strait of Hormuz as a third carrier strike group steams towards the CENTCOM area of responsibility. </p>\n<p>The post <a href=\"https://www.twz.com/sea/carrier-tracker-as-of-april-12-2026\">Carrier Tracker As of April 12, 2026</a> appeared first on <a href=\"https://www.twz.com\">The War Zone</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-23117",
+    "date": "Sat, 11 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "U.S. Navy Destroyer Equipped With New Launcher For Unknown Weapons",
+    "summary": "<p>The Arleigh Burke class destroyer USS Carl M. Levin has received an interesting new addition to its aft upper deck.</p>\n<p>The post <a href=\"https://www.twz.com/news-features/mystery-launcher-appea",
+    "sources": [
+      {
+        "type": "news",
+        "title": "U.S. Navy Destroyer Equipped With New Launcher For Unknown Weapons",
+        "url": "https://www.twz.com/news-features/mystery-launcher-appears-on-u-s-navy-destroyer",
+        "fetchedAt": "2026-04-15T09:14:15.801024Z",
+        "excerpt": "<p>The Arleigh Burke class destroyer USS Carl M. Levin has received an interesting new addition to its aft upper deck.</p>\n<p>The post <a href=\"https://www.twz.com/news-features/mystery-launcher-appears-on-u-s-navy-destroyer\">U.S. Navy Destroyer Equipped With New Launcher For Unknown Weapons</a> appeared first on <a href=\"https://www.twz.com\">The War Zone</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-37989",
+    "date": "Fri, 10 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week",
+    "summary": "<p>A tactical pause?</p>\n<p>The post <a href=\"https://www.twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-187\">Bunker Talk: Let’s Talk About All The T",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week",
+        "url": "https://www.twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-187",
+        "fetchedAt": "2026-04-15T09:14:15.801026Z",
+        "excerpt": "<p>A tactical pause?</p>\n<p>The post <a href=\"https://www.twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-187\">Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week</a> appeared first on <a href=\"https://www.twz.com\">The War Zone</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-93156",
+    "date": "Fri, 10 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Hezbollah Ramping Up FPV Drone Attacks On IDF In Lebanon",
+    "summary": "<p>As Israel drives deeper into Lebanon, it is presenting more targets for Hezbollah's FPV drones.</p>\n<p>The post <a href=\"https://www.twz.com/air/hezbollah-ramping-up-fpv-drone-attacks-on-idf-in-leb",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Hezbollah Ramping Up FPV Drone Attacks On IDF In Lebanon",
+        "url": "https://www.twz.com/air/hezbollah-ramping-up-fpv-drone-attacks-on-idf-in-lebanon",
+        "fetchedAt": "2026-04-15T09:14:15.801027Z",
+        "excerpt": "<p>As Israel drives deeper into Lebanon, it is presenting more targets for Hezbollah's FPV drones.</p>\n<p>The post <a href=\"https://www.twz.com/air/hezbollah-ramping-up-fpv-drone-attacks-on-idf-in-lebanon\">Hezbollah Ramping Up FPV Drone Attacks On IDF In Lebanon</a> appeared first on <a href=\"https://www.twz.com\">The War Zone</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-29644",
+    "date": "Fri, 10 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Iran’s Chokehold On Hormuz Remains On The Eve Of Peace Talks In Pakistan (Updated)",
+    "summary": "<p>The list of contested issues that the U.S. and Iran will have to come to some form of agreement on is long and complex. </p>\n<p>The post <a href=\"https://www.twz.com/news-features/irans-chokehold-o",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Iran’s Chokehold On Hormuz Remains On The Eve Of Peace Talks In Pakistan (Updated)",
+        "url": "https://www.twz.com/news-features/irans-chokehold-on-hormuz-remains-on-the-eve-of-peace-talks-in-pakistan",
+        "fetchedAt": "2026-04-15T09:14:15.801029Z",
+        "excerpt": "<p>The list of contested issues that the U.S. and Iran will have to come to some form of agreement on is long and complex. </p>\n<p>The post <a href=\"https://www.twz.com/news-features/irans-chokehold-on-hormuz-remains-on-the-eve-of-peace-talks-in-pakistan\">Iran’s Chokehold On Hormuz Remains On The Eve Of Peace Talks In Pakistan (Updated)</a> appeared first on <a href=\"https://www.twz.com\">The War Zone</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-87259",
+    "date": "Fri, 10 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Operation Epic Fury U.S. Aircraft Losses Visualized",
+    "summary": "<p>Here are all the known American aircraft losses during the nearly six week-long war with Iran.</p>\n<p>The post <a href=\"https://www.twz.com/air/operation-epic-fury-u-s-aircraft-losses-visualized\">O",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Operation Epic Fury U.S. Aircraft Losses Visualized",
+        "url": "https://www.twz.com/air/operation-epic-fury-u-s-aircraft-losses-visualized",
+        "fetchedAt": "2026-04-15T09:14:15.801031Z",
+        "excerpt": "<p>Here are all the known American aircraft losses during the nearly six week-long war with Iran.</p>\n<p>The post <a href=\"https://www.twz.com/air/operation-epic-fury-u-s-aircraft-losses-visualized\">Operation Epic Fury U.S. Aircraft Losses Visualized</a> appeared first on <a href=\"https://www.twz.com\">The War Zone</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-84561",
+    "date": "Fri, 10 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Navy Calls It Quits On Attack Submarine USS Boise’s Never Ending Overhaul",
+    "summary": "<p>The USS Boise has been stuck in limbo for more than a third of its career, and was still years and billions of dollars away from returning to service.</p>\n<p>The post <a href=\"https://www.twz.com/s",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Navy Calls It Quits On Attack Submarine USS Boise’s Never Ending Overhaul",
+        "url": "https://www.twz.com/sea/navy-calls-it-quits-on-attack-submarine-uss-boises-never-ending-overhaul",
+        "fetchedAt": "2026-04-15T09:14:15.801033Z",
+        "excerpt": "<p>The USS Boise has been stuck in limbo for more than a third of its career, and was still years and billions of dollars away from returning to service.</p>\n<p>The post <a href=\"https://www.twz.com/sea/navy-calls-it-quits-on-attack-submarine-uss-boises-never-ending-overhaul\">Navy Calls It Quits On Attack Submarine USS Boise&#8217;s Never Ending Overhaul</a> appeared first on <a href=\"https://www.twz.com\">The War Zone</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-56600",
+    "date": "Fri, 10 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Bahrain First To Claim F-16 Block 70 Air-To-Air Kills",
+    "summary": "<p>The Bahraini advanced F-16 shot down two Iranian drones during the conflict in the Middle East earlier this month. </p>\n<p>The post <a href=\"https://www.twz.com/air/bahrain-first-to-claim-f-16-bloc",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Bahrain First To Claim F-16 Block 70 Air-To-Air Kills",
+        "url": "https://www.twz.com/air/bahrain-first-to-claim-f-16-block-70-air-to-air-kills",
+        "fetchedAt": "2026-04-15T09:14:15.801034Z",
+        "excerpt": "<p>The Bahraini advanced F-16 shot down two Iranian drones during the conflict in the Middle East earlier this month. </p>\n<p>The post <a href=\"https://www.twz.com/air/bahrain-first-to-claim-f-16-block-70-air-to-air-kills\">Bahrain First To Claim F-16 Block 70 Air-To-Air Kills</a> appeared first on <a href=\"https://www.twz.com\">The War Zone</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-43956",
+    "date": "Thu, 09 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "How America’s Shahed-136 Kamikaze Drone Clone Suddenly Became An “Indispensable” Weapon Of War",
+    "summary": "<p>Michael Horowitz, who pushed for the LUCAS drone program while at the Pentagon, offers unique insights into its genesis and future.</p>\n<p>The post <a href=\"https://www.twz.com/news-features/how-am",
+    "sources": [
+      {
+        "type": "news",
+        "title": "How America’s Shahed-136 Kamikaze Drone Clone Suddenly Became An “Indispensable” Weapon Of War",
+        "url": "https://www.twz.com/news-features/how-americas-shahed-136-clone-became-an-indispensible-weapon-of-war",
+        "fetchedAt": "2026-04-15T09:14:15.801036Z",
+        "excerpt": "<p>Michael Horowitz, who pushed for the LUCAS drone program while at the Pentagon, offers unique insights into its genesis and future.</p>\n<p>The post <a href=\"https://www.twz.com/news-features/how-americas-shahed-136-clone-became-an-indispensible-weapon-of-war\">How America&#8217;s Shahed-136 Kamikaze Drone Clone Suddenly Became An &#8220;Indispensable&#8221; Weapon Of War</a> appeared first on <a href=\"https://www.twz.com\">The War Zone</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-67420",
+    "date": "Thu, 09 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Iran Ceasefire Hangs In Balance As Israel Bombards Lebanon (Updated)",
+    "summary": "<p>Energy prices are climbing amid concerns that shipping through the strait remains minimal even after the U.S.‑Iran ceasefire announcement.</p>\n<p>The post <a href=\"https://www.twz.com/news-features",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Iran Ceasefire Hangs In Balance As Israel Bombards Lebanon (Updated)",
+        "url": "https://www.twz.com/news-features/iran-ceasefire-hangs-in-balance-as-israel-bombards-lebanon",
+        "fetchedAt": "2026-04-15T09:14:15.801041Z",
+        "excerpt": "<p>Energy prices are climbing amid concerns that shipping through the strait remains minimal even after the U.S.‑Iran ceasefire announcement.</p>\n<p>The post <a href=\"https://www.twz.com/news-features/iran-ceasefire-hangs-in-balance-as-israel-bombards-lebanon\">Iran Ceasefire Hangs In Balance As Israel Bombards Lebanon (Updated)</a> appeared first on <a href=\"https://www.twz.com\">The War Zone</a>.</p>\n"
+      }
+    ]
+  },
+  {
+    "id": "rss-66277",
+    "date": "Thu, 09 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "NATO defense spending tracker - Atlantic Council",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ1NuRHFYdXE2bEdVclRIdkdnXzRPeVlhMHZNTmRzMUFQZGNaY1VOYXZWb1NqV01TNVp1WVBoejFUWjdlTlZfY3NTRm9hRldfN0VXdHFHUXZleE8zSjJ6bnFScXB1Q2F2eFF6bjBKVk",
+    "sources": [
+      {
+        "type": "news",
+        "title": "NATO defense spending tracker - Atlantic Council",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ1NuRHFYdXE2bEdVclRIdkdnXzRPeVlhMHZNTmRzMUFQZGNaY1VOYXZWb1NqV01TNVp1WVBoejFUWjdlTlZfY3NTRm9hRldfN0VXdHFHUXZleE8zSjJ6bnFScXB1Q2F2eFF6bjBKVk5jSnNwV1ZpcFZ5QUxtMlJOOVdIbUpaNExTYWpwR0FaUjJ5cXFIdGNjcU1uWGZHUDNnMlotazhkWDFmUQ?oc=5",
+        "fetchedAt": "2026-04-15T09:14:16.926153Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ1NuRHFYdXE2bEdVclRIdkdnXzRPeVlhMHZNTmRzMUFQZGNaY1VOYXZWb1NqV01TNVp1WVBoejFUWjdlTlZfY3NTRm9hRldfN0VXdHFHUXZleE8zSjJ6bnFScXB1Q2F2eFF6bjBKVk5jSnNwV1ZpcFZ5QUxtMlJOOVdIbUpaNExTYWpwR0FaUjJ5cXFIdGNjcU1uWGZHUDNnMlotazhkWDFmUQ?oc=5\" target=\"_blank\">NATO defense spending tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlantic Council</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-4728",
+    "date": "Fri, 03 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Trump calls for a major increase in defense spending alongside cuts in domestic spending - PBS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOVnJxeXI3TDJCNmFpU2RNb0syZlRsYUxGaGg4MzE0QUhMaFp5YXFYNVlzaklrbUMwbndtWnBpcnd0R1hpMDJENnpEVktmTDlrMXJJNlNsMlR1UGFqUFZVcEI4Y3BwYzFpVHdjN2F1dz",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Trump calls for a major increase in defense spending alongside cuts in domestic spending - PBS",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVnJxeXI3TDJCNmFpU2RNb0syZlRsYUxGaGg4MzE0QUhMaFp5YXFYNVlzaklrbUMwbndtWnBpcnd0R1hpMDJENnpEVktmTDlrMXJJNlNsMlR1UGFqUFZVcEI4Y3BwYzFpVHdjN2F1dzh1QTFKZWRqWmpFdlVVTTdKWE5MQ0F3X0NXR2hsQ2pFT3hWUDAwVS1uSENKcWdZRVQ0Z3A4QUozdXdIaDBkUE8yaEtkMlNydjcwTWM4TzhvT29FcVQ30gHKAUFVX3lxTE5wOUZURVpVdGhoMy1NbFRQSGhQOUpQNWJPR0xONDFwcU9ubVFKdnZjaDFVQjVBeFpvMW1PdjdpSHJaV2Y4R3VHQ3U5UnJGcU12SW1UWTl3aDZJYy1Ld3dpakh1d1NIWkc3WEVCeDRyVFMwUVBzNDRkVGV1WF8xR1E4NVJFWkdNQ3l0ZDVCNnNzVEZtMWs1cVRWRzUyODNHS0F3VFM0S2l0NzdOcWpVak1yNTQ1SHBfNlNpTDJneUltVGZ3WUIzdVotdlE?oc=5",
+        "fetchedAt": "2026-04-15T09:14:16.926164Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOVnJxeXI3TDJCNmFpU2RNb0syZlRsYUxGaGg4MzE0QUhMaFp5YXFYNVlzaklrbUMwbndtWnBpcnd0R1hpMDJENnpEVktmTDlrMXJJNlNsMlR1UGFqUFZVcEI4Y3BwYzFpVHdjN2F1dzh1QTFKZWRqWmpFdlVVTTdKWE5MQ0F3X0NXR2hsQ2pFT3hWUDAwVS1uSENKcWdZRVQ0Z3A4QUozdXdIaDBkUE8yaEtkMlNydjcwTWM4TzhvT29FcVQ30gHKAUFVX3lxTE5wOUZURVpVdGhoMy1NbFRQSGhQOUpQNWJPR0xONDFwcU9ubVFKdnZjaDFVQjVBeFpvMW1PdjdpSHJaV2Y4R3VHQ3U5UnJGcU12SW1UWTl3aDZJYy1Ld3dpakh1d1NIWkc3WEVCeDRyVFMwUVBzNDRkVGV1WF8xR1E4NVJFWkdNQ3"
+      }
+    ]
+  },
+  {
+    "id": "rss-20511",
+    "date": "Fri, 03 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "White House Seeks $1.5 Trillion for Defense in New Budget Request - The New York Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPUUpmNUNoamtwQWpWN2tnSnZDNFZqeVM0dENzb3AtS1BCOHM2RmVfV2g0OVQtWlRpUTZ5UmVibVExMFBaRXZFbW1TUS1yUDhqRm44eDktTmsxcEF3Rlk0WEFrVUFDU1IyWTFqTlpnZz",
+    "sources": [
+      {
+        "type": "news",
+        "title": "White House Seeks $1.5 Trillion for Defense in New Budget Request - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUUpmNUNoamtwQWpWN2tnSnZDNFZqeVM0dENzb3AtS1BCOHM2RmVfV2g0OVQtWlRpUTZ5UmVibVExMFBaRXZFbW1TUS1yUDhqRm44eDktTmsxcEF3Rlk0WEFrVUFDU1IyWTFqTlpnZzdYTTNncUY0ZTk0NVlBSFNaaTBCWGo?oc=5",
+        "fetchedAt": "2026-04-15T09:14:16.926167Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPUUpmNUNoamtwQWpWN2tnSnZDNFZqeVM0dENzb3AtS1BCOHM2RmVfV2g0OVQtWlRpUTZ5UmVibVExMFBaRXZFbW1TUS1yUDhqRm44eDktTmsxcEF3Rlk0WEFrVUFDU1IyWTFqTlpnZzdYTTNncUY0ZTk0NVlBSFNaaTBCWGo?oc=5\" target=\"_blank\">White House Seeks $1.5 Trillion for Defense in New Budget Request</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-1308",
+    "date": "Fri, 03 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "The White House has a war-funding sales pitch the GOP might not buy - Politico",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE80U2xXQVpYcG82aHVwNzViQUhXdjRlQTJMWW92Qmp5VnE0U08wNFYwUU1vNEdITWxBekhmQ1RhUXhmV0ZqMF90XzJDM1Jqb0NJZDlkZ1poemgwZmhlSTBuTldHRjdGN29KZHhTVVFDVm",
+    "sources": [
+      {
+        "type": "news",
+        "title": "The White House has a war-funding sales pitch the GOP might not buy - Politico",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80U2xXQVpYcG82aHVwNzViQUhXdjRlQTJMWW92Qmp5VnE0U08wNFYwUU1vNEdITWxBekhmQ1RhUXhmV0ZqMF90XzJDM1Jqb0NJZDlkZ1poemgwZmhlSTBuTldHRjdGN29KZHhTVVFDVmlEcUJ2UVVoNGwtZnpOY1U?oc=5",
+        "fetchedAt": "2026-04-15T09:14:16.926169Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE80U2xXQVpYcG82aHVwNzViQUhXdjRlQTJMWW92Qmp5VnE0U08wNFYwUU1vNEdITWxBekhmQ1RhUXhmV0ZqMF90XzJDM1Jqb0NJZDlkZ1poemgwZmhlSTBuTldHRjdGN29KZHhTVVFDVmlEcUJ2UVVoNGwtZnpOY1U?oc=5\" target=\"_blank\">The White House has a war-funding sales pitch the GOP might not buy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-65653",
+    "date": "Fri, 03 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Trump seeks massive $1.5tn for defence alongside cuts in domestic spending - BBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TdWtVS0czWWw5Sm1MTUNyNjRPNkRoLVNqdFJZMWVLZG1jTlFRcHU2cTk1LUxJVjQ4UTM3REMwZUs5OVJubGVHTUQ5Q1Q3XzNtUWV5dldudS1VQQ?oc=5\" target=\"_blank\">Trump",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Trump seeks massive $1.5tn for defence alongside cuts in domestic spending - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TdWtVS0czWWw5Sm1MTUNyNjRPNkRoLVNqdFJZMWVLZG1jTlFRcHU2cTk1LUxJVjQ4UTM3REMwZUs5OVJubGVHTUQ5Q1Q3XzNtUWV5dldudS1VQQ?oc=5",
+        "fetchedAt": "2026-04-15T09:14:16.926171Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TdWtVS0czWWw5Sm1MTUNyNjRPNkRoLVNqdFJZMWVLZG1jTlFRcHU2cTk1LUxJVjQ4UTM3REMwZUs5OVJubGVHTUQ5Q1Q3XzNtUWV5dldudS1VQQ?oc=5\" target=\"_blank\">Trump seeks massive $1.5tn for defence alongside cuts in domestic spending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-8589",
+    "date": "Sun, 05 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Trump proposes \"historic\" defense spending budget, eyes 10% cut to other federal programs - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMVA1Ym02OGJuQkdHMnFmTGd3cjNKdVFYY2xYQkx6S1JlRERLVnV2d19QR0xLRUlkb2c5bE1uUHpkZnVRSUM2RjlRbXUxVkt6empwVnF5Z2UzUWYxU0x5Q1J3T3pDSmVfTExGX05zdT",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Trump proposes \"historic\" defense spending budget, eyes 10% cut to other federal programs - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMVA1Ym02OGJuQkdHMnFmTGd3cjNKdVFYY2xYQkx6S1JlRERLVnV2d19QR0xLRUlkb2c5bE1uUHpkZnVRSUM2RjlRbXUxVkt6empwVnF5Z2UzUWYxU0x5Q1J3T3pDSmVfTExGX05zdTEtSE1xcE9CRVZDOThGUUpwVVZ0R2VhSGk0R1JBblhPVjRFWXRaWWpBZVhPTTI5TU02ZHF3NG5ERHB1TXdRWGY5dkdOVXZHTmg2RzI1UmptdTFTZw?oc=5",
+        "fetchedAt": "2026-04-15T09:14:16.926173Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMVA1Ym02OGJuQkdHMnFmTGd3cjNKdVFYY2xYQkx6S1JlRERLVnV2d19QR0xLRUlkb2c5bE1uUHpkZnVRSUM2RjlRbXUxVkt6empwVnF5Z2UzUWYxU0x5Q1J3T3pDSmVfTExGX05zdTEtSE1xcE9CRVZDOThGUUpwVVZ0R2VhSGk0R1JBblhPVjRFWXRaWWpBZVhPTTI5TU02ZHF3NG5ERHB1TXdRWGY5dkdOVXZHTmg2RzI1UmptdTFTZw?oc=5\" target=\"_blank\">Trump proposes \"historic\" defense spending budget, eyes 10% cut to other federal programs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-99939",
+    "date": "Fri, 03 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "US defense spending would rise $445bn under Trump budget plan, with steep cuts elsewhere - The Guardian",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOZnZ4bzdmQVpmV2JETFU1eUU4VVpDY1RKX2VqTTI2X19IeWZnM205TEdTM3NCLUZMQVgxNW1DZmpMc2NmOVUwbV9vRHBtTVFNS0RzM0xqUGFwZXVqX3dyNlU1dHBCTHVfa1RLZkRQRn",
+    "sources": [
+      {
+        "type": "news",
+        "title": "US defense spending would rise $445bn under Trump budget plan, with steep cuts elsewhere - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZnZ4bzdmQVpmV2JETFU1eUU4VVpDY1RKX2VqTTI2X19IeWZnM205TEdTM3NCLUZMQVgxNW1DZmpMc2NmOVUwbV9vRHBtTVFNS0RzM0xqUGFwZXVqX3dyNlU1dHBCTHVfa1RLZkRQRnQtTmFlSzk0bW5vcC1yVmxfeFBFT0RNNkhiSTZ5SVUzbw?oc=5",
+        "fetchedAt": "2026-04-15T09:14:16.926175Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOZnZ4bzdmQVpmV2JETFU1eUU4VVpDY1RKX2VqTTI2X19IeWZnM205TEdTM3NCLUZMQVgxNW1DZmpMc2NmOVUwbV9vRHBtTVFNS0RzM0xqUGFwZXVqX3dyNlU1dHBCTHVfa1RLZkRQRnQtTmFlSzk0bW5vcC1yVmxfeFBFT0RNNkhiSTZ5SVUzbw?oc=5\" target=\"_blank\">US defense spending would rise $445bn under Trump budget plan, with steep cuts elsewhere</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-18302",
+    "date": "Fri, 03 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Trump seeks historic $1.5 trillion for military in Congress budget request - Al Jazeera",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOLWpIVFRORHh2ei1HUXlpWER0eUtXUUhFV0lLSU9UWXJEdG5OV2tsdWxHNVBlbnFneTNnMDhQT3NYd0w2UUJfLXlOZ2JIdG9tQlM5czg5a1FxQmNwTHRQRENoM3pLVUVnU0lLSTgxZz",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Trump seeks historic $1.5 trillion for military in Congress budget request - Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLWpIVFRORHh2ei1HUXlpWER0eUtXUUhFV0lLSU9UWXJEdG5OV2tsdWxHNVBlbnFneTNnMDhQT3NYd0w2UUJfLXlOZ2JIdG9tQlM5czg5a1FxQmNwTHRQRENoM3pLVUVnU0lLSTgxZzRGTDY2ZnYzWGVQQkpabnFEY0lIb1pCN3RtdHZvS1B3RDkzSzJ2NEhleEFoc3Ztcnh0c3REOUctZjVxRkR2ejV4bHhoQdIBuAFBVV95cUxNMEtET2JnTmRWNUMxTkR1RldDRGZDZ29jUllLUlJ4NmozcEhXMWlsZ1JhSm5zNW9jTkNiMmRGdFh3Si1UWERUcG1oUlZiR1Jpcm1Ra3VjaE1wWEcxRGJKZUZuQjZTSVFoSkQyNDhpU05ub3ZDeE1lazUzZDVCd3YteWloYkJQV0o3YmJ6blFCZ3A1RXZqcUZaVm95X1MzNEJiRF8yYV95VG1PWGtEaU5qSG50a3RfSmlh?oc=5",
+        "fetchedAt": "2026-04-15T09:14:16.926177Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOLWpIVFRORHh2ei1HUXlpWER0eUtXUUhFV0lLSU9UWXJEdG5OV2tsdWxHNVBlbnFneTNnMDhQT3NYd0w2UUJfLXlOZ2JIdG9tQlM5czg5a1FxQmNwTHRQRENoM3pLVUVnU0lLSTgxZzRGTDY2ZnYzWGVQQkpabnFEY0lIb1pCN3RtdHZvS1B3RDkzSzJ2NEhleEFoc3Ztcnh0c3REOUctZjVxRkR2ejV4bHhoQdIBuAFBVV95cUxNMEtET2JnTmRWNUMxTkR1RldDRGZDZ29jUllLUlJ4NmozcEhXMWlsZ1JhSm5zNW9jTkNiMmRGdFh3Si1UWERUcG1oUlZiR1Jpcm1Ra3VjaE1wWEcxRGJKZUZuQjZTSVFoSkQyNDhpU05ub3ZDeE1lazUzZDVCd3YteWloYkJQV0o3YmJ6blFCZ3A1RXZqcUZaVm"
+      }
+    ]
+  },
+  {
+    "id": "rss-95220",
+    "date": "Fri, 03 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Trump’s Budget Falls Short on the Spending Programs Driving the Federal Debt - Cato Institute",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNYVhvcmZncHRKWTY4MjVzWDliaGlJX1c3cUhxSDRnM1MwYi1tajkwVTFQZTM4ZHBJcVJxRTh2UGlhQ3BMOFFMN2dmd2pYcGJRYjBld3dld2VuWExocUp6WmVYMHl3SmJsclpvd200cn",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Trump’s Budget Falls Short on the Spending Programs Driving the Federal Debt - Cato Institute",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYVhvcmZncHRKWTY4MjVzWDliaGlJX1c3cUhxSDRnM1MwYi1tajkwVTFQZTM4ZHBJcVJxRTh2UGlhQ3BMOFFMN2dmd2pYcGJRYjBld3dld2VuWExocUp6WmVYMHl3SmJsclpvd200cnJ5bkZHdjJIel81alhmMEk1eVBteEFKZjFjaWI5cXpwUnVhM3NJ?oc=5",
+        "fetchedAt": "2026-04-15T09:14:16.926179Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNYVhvcmZncHRKWTY4MjVzWDliaGlJX1c3cUhxSDRnM1MwYi1tajkwVTFQZTM4ZHBJcVJxRTh2UGlhQ3BMOFFMN2dmd2pYcGJRYjBld3dld2VuWExocUp6WmVYMHl3SmJsclpvd200cnJ5bkZHdjJIel81alhmMEk1eVBteEFKZjFjaWI5cXpwUnVhM3NJ?oc=5\" target=\"_blank\">Trump’s Budget Falls Short on the Spending Programs Driving the Federal Debt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cato Institute</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-76543",
     "date": "Mon, 23 Ma",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " MacBook Neo costs more in Portugal due to copyright levy for piracy compensation taxes — storage costs extra in multiple countries, thanks to draconian laws that pre-punish buyers ",
-    "summary": "\n                             Macbook Neo Portuguese copyright levy fee highlights draconian piracy compensation laws \n                                                                                 ",
+    "title": "Trump’s Proposed Military Spending Would Be a “Bloody New Deal” - The Equation - Union of Concerned Scientists",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQTW1qeGc5azRkSkgxZk9mdkxQWVJndTJXcHRPVDV6ay1NcW03NkhVU1lTMEZ0cmtRWGcybXpBblRQbmVSTHdkYXlhaFltcExzR0d2UjJhWTQ2dnE4QmlKNEQzazJIRHZmTTBHNjAwRn",
     "sources": [
       {
         "type": "news",
-        "title": " MacBook Neo costs more in Portugal due to copyright levy for piracy compensation taxes — storage costs extra in multiple countries, thanks to draconian laws that pre-punish buyers ",
-        "url": "https://www.tomshardware.com/pc-components/storage/macbook-neo-costs-more-in-portugal-due-to-copyright-levy-for-piracy-compensation-taxes-storage-costs-extra-in-multiple-countries-thanks-to-draconian-laws-that-pre-punish-buyers",
-        "fetchedAt": "2026-04-14T23:00:41.541395Z",
-        "excerpt": "\n                             Macbook Neo Portuguese copyright levy fee highlights draconian piracy compensation laws \n                                                                                                            "
+        "title": "Trump’s Proposed Military Spending Would Be a “Bloody New Deal” - The Equation - Union of Concerned Scientists",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTW1qeGc5azRkSkgxZk9mdkxQWVJndTJXcHRPVDV6ay1NcW03NkhVU1lTMEZ0cmtRWGcybXpBblRQbmVSTHdkYXlhaFltcExzR0d2UjJhWTQ2dnE4QmlKNEQzazJIRHZmTTBHNjAwRnRRWHlsNW5nMDh6akFYZW02SllYODh2czFicVg3WXJFc2pWNlkxR294VHhmZw?oc=5",
+        "fetchedAt": "2026-04-15T09:14:16.926182Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQTW1qeGc5azRkSkgxZk9mdkxQWVJndTJXcHRPVDV6ay1NcW03NkhVU1lTMEZ0cmtRWGcybXpBblRQbmVSTHdkYXlhaFltcExzR0d2UjJhWTQ2dnE4QmlKNEQzazJIRHZmTTBHNjAwRnRRWHlsNW5nMDh6akFYZW02SllYODh2czFicVg3WXJFc2pWNlkxR294VHhmZw?oc=5\" target=\"_blank\">Trump’s Proposed Military Spending Would Be a “Bloody New Deal”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Equation - Union of Concerned Scientists</font>"
       }
     ]
   },
   {
-    "id": "rss-82143",
-    "date": "Sun, 22 Ma",
+    "id": "rss-59362",
+    "date": "Fri, 03 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " City has roads named Tape Drive and Disk Drive from bygone HDD-making era — area was once home to the StorageTek empire ",
-    "summary": "\n                             Tape Drive and Disk Drive rods in the Louisville/Broomfield area are a relic of the STK diskmaker's time in the city. \n                                                   ",
+    "title": "Trump's budget calls for $1.5 trillion in military spending, cuts to everything else - LiveNOW from FOX",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNNlkzcGw2U0VNZTBmbDVmblpNeU8tdVp1ZllvSThTWVVBeUVMcGN6R1lPNHJXRFFncnJhV2RFdWFSQUxnLTB6Y1pDS0RoWEM0RkgxNFU1RTBVR1JUQUt5bkRHejZ0ajJ4eXVGT09xNX",
     "sources": [
       {
         "type": "news",
-        "title": " City has roads named Tape Drive and Disk Drive from bygone HDD-making era — area was once home to the StorageTek empire ",
-        "url": "https://www.tomshardware.com/tech-industry/city-has-roads-named-tape-drive-and-disk-drive-from-bygone-hdd-making-era-area-was-once-home-to-the-storagetek-empire",
-        "fetchedAt": "2026-04-14T23:00:41.541396Z",
-        "excerpt": "\n                             Tape Drive and Disk Drive rods in the Louisville/Broomfield area are a relic of the STK diskmaker's time in the city. \n                                                                                                            "
+        "title": "Trump's budget calls for $1.5 trillion in military spending, cuts to everything else - LiveNOW from FOX",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNlkzcGw2U0VNZTBmbDVmblpNeU8tdVp1ZllvSThTWVVBeUVMcGN6R1lPNHJXRFFncnJhV2RFdWFSQUxnLTB6Y1pDS0RoWEM0RkgxNFU1RTBVR1JUQUt5bkRHejZ0ajJ4eXVGT09xNXh6LW1KVkZRZUhqcjdUeGpWeXFGQy1YSnFzeXFOV3d4WEZoODBJaFRmdlFldmVfUGlEVFVySUhR0gGrAUFVX3lxTFBMZFBCY2JKVUFmY3ZWRmprcElENGZKRjNnbThUQVA2ZkVwakdCSFQ3anF3ZXFaSzJGUzEtM0czZDgzcEg2eDdHeTduVlNhSzNjdkFfS0I1ektoTnJkY2UwTHVEVjNlUUtvTlI2QzYyTnI5bkVpUkVkdHpRY3Nva3BiNTZRZlFBZ2VKWXVfMUx3bDU5ZnBKR0ZfTW8xXzlfODhZQTRqaTMwQ3JPNA?oc=5",
+        "fetchedAt": "2026-04-15T09:14:16.926184Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNNlkzcGw2U0VNZTBmbDVmblpNeU8tdVp1ZllvSThTWVVBeUVMcGN6R1lPNHJXRFFncnJhV2RFdWFSQUxnLTB6Y1pDS0RoWEM0RkgxNFU1RTBVR1JUQUt5bkRHejZ0ajJ4eXVGT09xNXh6LW1KVkZRZUhqcjdUeGpWeXFGQy1YSnFzeXFOV3d4WEZoODBJaFRmdlFldmVfUGlEVFVySUhR0gGrAUFVX3lxTFBMZFBCY2JKVUFmY3ZWRmprcElENGZKRjNnbThUQVA2ZkVwakdCSFQ3anF3ZXFaSzJGUzEtM0czZDgzcEg2eDdHeTduVlNhSzNjdkFfS0I1ektoTnJkY2UwTHVEVjNlUUtvTlI2QzYyTnI5bkVpUkVkdHpRY3Nva3BiNTZRZlFBZ2VKWXVfMUx3bDU5ZnBKR0ZfTW8xXzlfODhZQTRqaT"
+      }
+    ]
+  },
+  {
+    "id": "rss-82152",
+    "date": "Fri, 03 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "White House seeks massive increase in defense spending and looks to slash housing, social services and health care - CNN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxORUh0eU1VejZoT1owX2tiRVZyTHhKTFdkUkEzLXd5QjhEZ1Z5UmR5SkloWndWMlo4bWFNdE9rWkFKRUlmTXlfQ0E3dGY5cXdyZlc4UFU0TFF3SlpDdGZiUklCMXdOSjZfZkFUTnJBbE",
+    "sources": [
+      {
+        "type": "news",
+        "title": "White House seeks massive increase in defense spending and looks to slash housing, social services and health care - CNN",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORUh0eU1VejZoT1owX2tiRVZyTHhKTFdkUkEzLXd5QjhEZ1Z5UmR5SkloWndWMlo4bWFNdE9rWkFKRUlmTXlfQ0E3dGY5cXdyZlc4UFU0TFF3SlpDdGZiUklCMXdOSjZfZkFUTnJBbExVQnZVQW9XZWZKZlVZUllFbkZqY2daNG1uWUhWMTBDRE1VSWtl?oc=5",
+        "fetchedAt": "2026-04-15T09:14:16.926186Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxORUh0eU1VejZoT1owX2tiRVZyTHhKTFdkUkEzLXd5QjhEZ1Z5UmR5SkloWndWMlo4bWFNdE9rWkFKRUlmTXlfQ0E3dGY5cXdyZlc4UFU0TFF3SlpDdGZiUklCMXdOSjZfZkFUTnJBbExVQnZVQW9XZWZKZlVZUllFbkZqY2daNG1uWUhWMTBDRE1VSWtl?oc=5\" target=\"_blank\">White House seeks massive increase in defense spending and looks to slash housing, social services and health care</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-28005",
+    "date": "Fri, 03 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Trump Seeks $1.5 Trillion for Military, the Largest Request in Modern History - WSJ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNdlJ6aWROLTg5aGVyeFVCWnR5ZGl4OG9maGpFaXlqNWlOMTY3X0xvZzdETWJQTDBTWWk5UXR3WVN0M0oxZjNZbk4tTGZ1dmc2WDNVTVoyVnd3aXRja3RmM05TRkp5WG9IaUVYMms2Z1",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Trump Seeks $1.5 Trillion for Military, the Largest Request in Modern History - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdlJ6aWROLTg5aGVyeFVCWnR5ZGl4OG9maGpFaXlqNWlOMTY3X0xvZzdETWJQTDBTWWk5UXR3WVN0M0oxZjNZbk4tTGZ1dmc2WDNVTVoyVnd3aXRja3RmM05TRkp5WG9IaUVYMms2Z1JMVU1jRWJLcklkYldvYVRnUHJaRlVtSGM3LTRkQkhybXVjcWFxU1o2d1laVmdUanNNc3NBYnVBMUItOWhyOHc?oc=5",
+        "fetchedAt": "2026-04-15T09:14:16.926189Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNdlJ6aWROLTg5aGVyeFVCWnR5ZGl4OG9maGpFaXlqNWlOMTY3X0xvZzdETWJQTDBTWWk5UXR3WVN0M0oxZjNZbk4tTGZ1dmc2WDNVTVoyVnd3aXRja3RmM05TRkp5WG9IaUVYMms2Z1JMVU1jRWJLcklkYldvYVRnUHJaRlVtSGM3LTRkQkhybXVjcWFxU1o2d1laVmdUanNNc3NBYnVBMUItOWhyOHc?oc=5\" target=\"_blank\">Trump Seeks $1.5 Trillion for Military, the Largest Request in Modern History</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-82796",
+    "date": "Sun, 12 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Opinion | Trump wants a bigger military. Congress should attach one condition. - The Washington Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQN3d6dnUzWjNGR0hGdjJRcGRmOTlMekUxY1Fodl93czNNYjhma2tiNXJwZ3h1RlkzUVhpaF9jdFoxeG1XU041Znp6SExIMHNTem1WX0dFa0FUX1pINkFIU2h5LWtGSmhIQWFvcllLNm",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Opinion | Trump wants a bigger military. Congress should attach one condition. - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN3d6dnUzWjNGR0hGdjJRcGRmOTlMekUxY1Fodl93czNNYjhma2tiNXJwZ3h1RlkzUVhpaF9jdFoxeG1XU041Znp6SExIMHNTem1WX0dFa0FUX1pINkFIU2h5LWtGSmhIQWFvcllLNmV1cXk5QkxaVE1RcnZlaU5adW03Z0c4bVlQRDRBTmdoNHViZ3RtSWZDVA?oc=5",
+        "fetchedAt": "2026-04-15T09:14:16.926190Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQN3d6dnUzWjNGR0hGdjJRcGRmOTlMekUxY1Fodl93czNNYjhma2tiNXJwZ3h1RlkzUVhpaF9jdFoxeG1XU041Znp6SExIMHNTem1WX0dFa0FUX1pINkFIU2h5LWtGSmhIQWFvcllLNmV1cXk5QkxaVE1RcnZlaU5adW03Z0c4bVlQRDRBTmdoNHViZ3RtSWZDVA?oc=5\" target=\"_blank\">Opinion | Trump wants a bigger military. Congress should attach one condition.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-31148",
+    "date": "Fri, 03 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Trump's 2027 budget asks Congress for $1.5 trillion in defense spending, with 10% cuts elsewhere - CBS News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2pMY19ndEVPUW9BRDk2N0N1WFhVZnBqNFhSQmFZcEN4am11dWREc2tPSlRYaWlLR2lYbFVVdFFZNU5mZmZ1blFSNzNpNl85SldqYVdjTXlPOGszcHczbjBUUlViQ040ZUhuZjQteU",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Trump's 2027 budget asks Congress for $1.5 trillion in defense spending, with 10% cuts elsewhere - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2pMY19ndEVPUW9BRDk2N0N1WFhVZnBqNFhSQmFZcEN4am11dWREc2tPSlRYaWlLR2lYbFVVdFFZNU5mZmZ1blFSNzNpNl85SldqYVdjTXlPOGszcHczbjBUUlViQ040ZUhuZjQteUpLck1HYnRlcnZLaUFJSmlFVdIBhgFBVV95cUxOTUxNYmlZMW85WlowY2paLXA2VlNTSEExUHE3VUNycFg3NEZkd2lpaGtMR1dzQmhIUnJUQVdhdkYzdU5KVEZJNlNfeGZCa2l3RnpTVWZfMGpYdDhxS1l3OVBXQjVaa3JMWTQ3VldnLW8xLXBWcUVYZl9tV012WFh1bTFyTzJaUQ?oc=5",
+        "fetchedAt": "2026-04-15T09:14:16.926193Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2pMY19ndEVPUW9BRDk2N0N1WFhVZnBqNFhSQmFZcEN4am11dWREc2tPSlRYaWlLR2lYbFVVdFFZNU5mZmZ1blFSNzNpNl85SldqYVdjTXlPOGszcHczbjBUUlViQ040ZUhuZjQteUpLck1HYnRlcnZLaUFJSmlFVdIBhgFBVV95cUxOTUxNYmlZMW85WlowY2paLXA2VlNTSEExUHE3VUNycFg3NEZkd2lpaGtMR1dzQmhIUnJUQVdhdkYzdU5KVEZJNlNfeGZCa2l3RnpTVWZfMGpYdDhxS1l3OVBXQjVaa3JMWTQ3VldnLW8xLXBWcUVYZl9tV012WFh1bTFyTzJaUQ?oc=5\" target=\"_blank\">Trump's 2027 budget asks Congress for $1.5 trillion in defense spendi"
+      }
+    ]
+  },
+  {
+    "id": "rss-20790",
+    "date": "Fri, 03 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Trump’s military spending bonanza has Republicans overlooking the debt - MS NOW",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1hbTJldjlMVkkyakFybjVlc2xmTDhrRnI2MXFjYUhZWDZjWFNxcndJNmtJdlBkRkppYWhFcHhHeUFkUmNONHV1ZEIzNmI4cndiR1l3ZjJkZ2VfazVLSUl5Zm5DVUtXZml4bjZv?oc=5\"",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Trump’s military spending bonanza has Republicans overlooking the debt - MS NOW",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hbTJldjlMVkkyakFybjVlc2xmTDhrRnI2MXFjYUhZWDZjWFNxcndJNmtJdlBkRkppYWhFcHhHeUFkUmNONHV1ZEIzNmI4cndiR1l3ZjJkZ2VfazVLSUl5Zm5DVUtXZml4bjZv?oc=5",
+        "fetchedAt": "2026-04-15T09:14:16.926195Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1hbTJldjlMVkkyakFybjVlc2xmTDhrRnI2MXFjYUhZWDZjWFNxcndJNmtJdlBkRkppYWhFcHhHeUFkUmNONHV1ZEIzNmI4cndiR1l3ZjJkZ2VfazVLSUl5Zm5DVUtXZml4bjZv?oc=5\" target=\"_blank\">Trump’s military spending bonanza has Republicans overlooking the debt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MS NOW</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-63314",
+    "date": "Thu, 02 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Trump proposes $1.5 trillion defense budget, banking on $350 billion from reconciliation - Breaking Defense",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQenpIb09Td2d4NnBaX1J2dVFwblFEbFZxV0pMbk9ZdFo1Tl8yX2w5clc5RnlQaVZEd3VvMWhRSVRkNjJOVnJGb3gwTmpDbDFDMlZGREI4bEltVEYxRXcxTE9vcEZDNDRKNXRzNE5CMX",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Trump proposes $1.5 trillion defense budget, banking on $350 billion from reconciliation - Breaking Defense",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQenpIb09Td2d4NnBaX1J2dVFwblFEbFZxV0pMbk9ZdFo1Tl8yX2w5clc5RnlQaVZEd3VvMWhRSVRkNjJOVnJGb3gwTmpDbDFDMlZGREI4bEltVEYxRXcxTE9vcEZDNDRKNXRzNE5CMXRkendtNTRpcHZnM1pJaGZHT1M0WGhtVVBiSWpfUEwwYjJMZTRyV1JaWlM3anBnMXlwUzNZN3Bnb3g4cGt5Q05DZXFGVnBVOVJzc3JwQ3ZKUzZWZw?oc=5",
+        "fetchedAt": "2026-04-15T09:14:16.926197Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQenpIb09Td2d4NnBaX1J2dVFwblFEbFZxV0pMbk9ZdFo1Tl8yX2w5clc5RnlQaVZEd3VvMWhRSVRkNjJOVnJGb3gwTmpDbDFDMlZGREI4bEltVEYxRXcxTE9vcEZDNDRKNXRzNE5CMXRkendtNTRpcHZnM1pJaGZHT1M0WGhtVVBiSWpfUEwwYjJMZTRyV1JaWlM3anBnMXlwUzNZN3Bnb3g4cGt5Q05DZXFGVnBVOVJzc3JwQ3ZKUzZWZw?oc=5\" target=\"_blank\">Trump proposes $1.5 trillion defense budget, banking on $350 billion from reconciliation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Breaking Defense</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-96587",
+    "date": "Fri, 03 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Trump budget seeks $1.5T in defense spending alongside cuts in domestic programs - AP News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOWkgteFA3YWNoZEdteTdab3JUazAteEsxaF96Rm93RTdvVlhwTHpUdnpQUnB4TGJ1cGw0c041MTNydkI3S2Q3ajVyM21NQi1mQWZnT2pLUUh4eGE3TFJMc3gzNFJwYWptbGxwQW5idl",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Trump budget seeks $1.5T in defense spending alongside cuts in domestic programs - AP News",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWkgteFA3YWNoZEdteTdab3JUazAteEsxaF96Rm93RTdvVlhwTHpUdnpQUnB4TGJ1cGw0c041MTNydkI3S2Q3ajVyM21NQi1mQWZnT2pLUUh4eGE3TFJMc3gzNFJwYWptbGxwQW5idlByLTJQd3dHUTl6dUUyNmJEWmVqM2V3WU81UEFHQmNOb2NuRFMtbW5RY2VNSUNfS0lkN1E4?oc=5",
+        "fetchedAt": "2026-04-15T09:14:16.926198Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOWkgteFA3YWNoZEdteTdab3JUazAteEsxaF96Rm93RTdvVlhwTHpUdnpQUnB4TGJ1cGw0c041MTNydkI3S2Q3ajVyM21NQi1mQWZnT2pLUUh4eGE3TFJMc3gzNFJwYWptbGxwQW5idlByLTJQd3dHUTl6dUUyNmJEWmVqM2V3WU81UEFHQmNOb2NuRFMtbW5RY2VNSUNfS0lkN1E4?oc=5\" target=\"_blank\">Trump budget seeks $1.5T in defense spending alongside cuts in domestic programs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-64458",
+    "date": "Mon, 06 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "White House Seeks 40 Percent Increase in Military Spending - The New York Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tRWZtRmdjejBPcGw5RXlmTmllX1BnMEFPenpWSU1KTUZtbk5kRDZERk5VY2d6c2ltWURWN1lZb2ZPaWFPRmVYX1ZQNEZGaXI1UG1YaUYyeU1sVXJ4QTRGTXFrUQ?oc=5\" target=\"_",
+    "sources": [
+      {
+        "type": "news",
+        "title": "White House Seeks 40 Percent Increase in Military Spending - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tRWZtRmdjejBPcGw5RXlmTmllX1BnMEFPenpWSU1KTUZtbk5kRDZERk5VY2d6c2ltWURWN1lZb2ZPaWFPRmVYX1ZQNEZGaXI1UG1YaUYyeU1sVXJ4QTRGTXFrUQ?oc=5",
+        "fetchedAt": "2026-04-15T09:14:16.926200Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tRWZtRmdjejBPcGw5RXlmTmllX1BnMEFPenpWSU1KTUZtbk5kRDZERk5VY2d6c2ltWURWN1lZb2ZPaWFPRmVYX1ZQNEZGaXI1UG1YaUYyeU1sVXJ4QTRGTXFrUQ?oc=5\" target=\"_blank\">White House Seeks 40 Percent Increase in Military Spending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-85080",
+    "date": "Fri, 03 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "News Wrap: Trump seeking $1.5 trillion for military spending in new budget - PBS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSF9UQWFYdWlLVVNoUE1teTBHR243MVp2bXd5Zlp6Q0lDLUx6VjF3a0RkS083WTlYRWQtSlRtc2hWLTZUUGlxNzhVWG51UXVIS0hnMl9YaGhNcG0zb29NX1ZxYTFxYTEza0pUdDJqZz",
+    "sources": [
+      {
+        "type": "news",
+        "title": "News Wrap: Trump seeking $1.5 trillion for military spending in new budget - PBS",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSF9UQWFYdWlLVVNoUE1teTBHR243MVp2bXd5Zlp6Q0lDLUx6VjF3a0RkS083WTlYRWQtSlRtc2hWLTZUUGlxNzhVWG51UXVIS0hnMl9YaGhNcG0zb29NX1ZxYTFxYTEza0pUdDJqZzhEODlpTEdEaDEwZDdRd1VVRHVIa1JROWZaelo4bno1Q3RpMFJwa1RhbHJRRDJRWERWTWlDZDFBMEdqZw?oc=5",
+        "fetchedAt": "2026-04-15T09:14:16.926202Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSF9UQWFYdWlLVVNoUE1teTBHR243MVp2bXd5Zlp6Q0lDLUx6VjF3a0RkS083WTlYRWQtSlRtc2hWLTZUUGlxNzhVWG51UXVIS0hnMl9YaGhNcG0zb29NX1ZxYTFxYTEza0pUdDJqZzhEODlpTEdEaDEwZDdRd1VVRHVIa1JROWZaelo4bno1Q3RpMFJwa1RhbHJRRDJRWERWTWlDZDFBMEdqZw?oc=5\" target=\"_blank\">News Wrap: Trump seeking $1.5 trillion for military spending in new budget</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PBS</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-74219",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Weapons maker with NJ presence scores contracts under Trump - NJ Spotlight News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUlNRGtkVXk0RlhwSXV4VW10SUdDT214dlQwLUpCV1BES1YwaVFzX19ZWl94NmZXRXdKYmZ4N0lrbnVySEdZR3ZFSk1QQk1wV2VLR3h0aS1TV01DT25sZHlIMjZURFIwQ21LWlJqOW",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Weapons maker with NJ presence scores contracts under Trump - NJ Spotlight News",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUlNRGtkVXk0RlhwSXV4VW10SUdDT214dlQwLUpCV1BES1YwaVFzX19ZWl94NmZXRXdKYmZ4N0lrbnVySEdZR3ZFSk1QQk1wV2VLR3h0aS1TV01DT25sZHlIMjZURFIwQ21LWlJqOWV3MkhLQllOeURLLS10VlhpZHlnQTV5LTFOS3RRcGFHTjhyRGZ1QjhpSm9xMGc3RU9NMGc5TWpZN0hpeXMtME5JQzZDS0NVd0djQVE?oc=5",
+        "fetchedAt": "2026-04-15T09:14:17.585713Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUlNRGtkVXk0RlhwSXV4VW10SUdDT214dlQwLUpCV1BES1YwaVFzX19ZWl94NmZXRXdKYmZ4N0lrbnVySEdZR3ZFSk1QQk1wV2VLR3h0aS1TV01DT25sZHlIMjZURFIwQ21LWlJqOWV3MkhLQllOeURLLS10VlhpZHlnQTV5LTFOS3RRcGFHTjhyRGZ1QjhpSm9xMGc3RU9NMGc5TWpZN0hpeXMtME5JQzZDS0NVd0djQVE?oc=5\" target=\"_blank\">Weapons maker with NJ presence scores contracts under Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NJ Spotlight News</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-4339",
+    "date": "Thu, 02 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "The U.S. Defense Industry in Europe in the age of America First - Fondation pour la Recherche Stratégique",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUVpZlc5MmpSWDdwNHdQOC1BZkJPelBXVnl3RU9JdlFReldWbUZWTnY4ZXI4QnhvejFEb3ljQ2l5cmNfUmhzdTZLVk1mSXpteTVld3VGN2l3TTZCeWRvcXBMV0pjdGpYbnRRSUdrTz",
+    "sources": [
+      {
+        "type": "news",
+        "title": "The U.S. Defense Industry in Europe in the age of America First - Fondation pour la Recherche Stratégique",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUVpZlc5MmpSWDdwNHdQOC1BZkJPelBXVnl3RU9JdlFReldWbUZWTnY4ZXI4QnhvejFEb3ljQ2l5cmNfUmhzdTZLVk1mSXpteTVld3VGN2l3TTZCeWRvcXBMV0pjdGpYbnRRSUdrTzUzRjVCblpyTlZWV2l3dTlxN1AxLTJlRXVOQXdhVzMwTHBpbHhNRGJ3dVZyN0RBMEN4MDdZeTNUQWJqWHk0eXJHVnlB?oc=5",
+        "fetchedAt": "2026-04-15T09:14:17.585726Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUVpZlc5MmpSWDdwNHdQOC1BZkJPelBXVnl3RU9JdlFReldWbUZWTnY4ZXI4QnhvejFEb3ljQ2l5cmNfUmhzdTZLVk1mSXpteTVld3VGN2l3TTZCeWRvcXBMV0pjdGpYbnRRSUdrTzUzRjVCblpyTlZWV2l3dTlxN1AxLTJlRXVOQXdhVzMwTHBpbHhNRGJ3dVZyN0RBMEN4MDdZeTNUQWJqWHk0eXJHVnlB?oc=5\" target=\"_blank\">The U.S. Defense Industry in Europe in the age of America First</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fondation pour la Recherche Stratégique</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-30916",
+    "date": "Tue, 07 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Best Defense Stocks to Buy in 2026 and How to Invest in Them - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOaFRwZm5fRTRUMDJTeEVUMHJrd3U3bUJreWVIOWE1VjhSNW14UmgtMHJ5cmlleFVVZE94dkxqWHlZdV9GQlg5ZnhLLUNkQjlXVlJqTTdiWUtxb3JtczlQTUMwOTFMb0IwRDFQaXJ5bj",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Best Defense Stocks to Buy in 2026 and How to Invest in Them - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaFRwZm5fRTRUMDJTeEVUMHJrd3U3bUJreWVIOWE1VjhSNW14UmgtMHJ5cmlleFVVZE94dkxqWHlZdV9GQlg5ZnhLLUNkQjlXVlJqTTdiWUtxb3JtczlQTUMwOTFMb0IwRDFQaXJ5bjJXa2JnMVhFQVdneS1veUFXb21IbndMQWZTNU5mRWVuVQ?oc=5",
+        "fetchedAt": "2026-04-15T09:14:17.585729Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOaFRwZm5fRTRUMDJTeEVUMHJrd3U3bUJreWVIOWE1VjhSNW14UmgtMHJ5cmlleFVVZE94dkxqWHlZdV9GQlg5ZnhLLUNkQjlXVlJqTTdiWUtxb3JtczlQTUMwOTFMb0IwRDFQaXJ5bjJXa2JnMVhFQVdneS1veUFXb21IbndMQWZTNU5mRWVuVQ?oc=5\" target=\"_blank\">Best Defense Stocks to Buy in 2026 and How to Invest in Them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-24362",
+    "date": "Sun, 22 Fe",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Defense: Trump looks to remake foreign weapons sales - Punchbowl News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5GTVZlaTVLWGFhSjByMmhuYmtNbVNvQlQtT2QtYzJPLS1JOVpFaGNQRUdOT1dzamJOZnlBR1lqVEU5T0tvR00yTXhHajdzQkIzRGVXeFhjbEtwVXFEbl9PME4zSXlZLV94OW9EZDlfVm",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Defense: Trump looks to remake foreign weapons sales - Punchbowl News",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GTVZlaTVLWGFhSjByMmhuYmtNbVNvQlQtT2QtYzJPLS1JOVpFaGNQRUdOT1dzamJOZnlBR1lqVEU5T0tvR00yTXhHajdzQkIzRGVXeFhjbEtwVXFEbl9PME4zSXlZLV94OW9EZDlfVmVnWlE0REE?oc=5",
+        "fetchedAt": "2026-04-15T09:14:17.585731Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5GTVZlaTVLWGFhSjByMmhuYmtNbVNvQlQtT2QtYzJPLS1JOVpFaGNQRUdOT1dzamJOZnlBR1lqVEU5T0tvR00yTXhHajdzQkIzRGVXeFhjbEtwVXFEbl9PME4zSXlZLV94OW9EZDlfVmVnWlE0REE?oc=5\" target=\"_blank\">Defense: Trump looks to remake foreign weapons sales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Punchbowl News</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-89168",
+    "date": "Wed, 31 De",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Pentagon says Lockheed Martin gets $328.5 million Taiwan military sale contract - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTG15QklWa1pmSHh3Q1BNdEM4MGlhTTNwQzB3QVpobUo2eWlzRTF0TmpVRUFFRF9GWlJRLVNPQjlJdFQ1emE0bWFzMVM2NGxWRC11aWpmMnBYUzBfdHN3QXB3WEpONi15Z1U0T19pbn",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Pentagon says Lockheed Martin gets $328.5 million Taiwan military sale contract - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTG15QklWa1pmSHh3Q1BNdEM4MGlhTTNwQzB3QVpobUo2eWlzRTF0TmpVRUFFRF9GWlJRLVNPQjlJdFQ1emE0bWFzMVM2NGxWRC11aWpmMnBYUzBfdHN3QXB3WEpONi15Z1U0T19pbnhjWjhUVjQ1REFYRjRDV0x5bGNjOWFSZ1ZDUWFlLTlsOFFXc3I4Zk5ZSDFhdU8xVnltUVluX1lWT3BXOXFVVlJ4aktNdU1ObHlucFM1RzRkajhack53TW1Ia2hOaGkwRGdMQXFOQUpvZw?oc=5",
+        "fetchedAt": "2026-04-15T09:14:17.585733Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTG15QklWa1pmSHh3Q1BNdEM4MGlhTTNwQzB3QVpobUo2eWlzRTF0TmpVRUFFRF9GWlJRLVNPQjlJdFQ1emE0bWFzMVM2NGxWRC11aWpmMnBYUzBfdHN3QXB3WEpONi15Z1U0T19pbnhjWjhUVjQ1REFYRjRDV0x5bGNjOWFSZ1ZDUWFlLTlsOFFXc3I4Zk5ZSDFhdU8xVnltUVluX1lWT3BXOXFVVlJ4aktNdU1ObHlucFM1RzRkajhack53TW1Ia2hOaGkwRGdMQXFOQUpvZw?oc=5\" target=\"_blank\">Pentagon says Lockheed Martin gets $328.5 million Taiwan military sale contract</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-86370",
+    "date": "Thu, 12 Fe",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Pentagon Consolidates Arms Exports With Tighter Oversight - The Defense Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBaNUwtN0hkMGZPVlAwQzNNTmtlNWZTdFRaUUIwSXJVZ0RWc1RNQnlQaV9aOFJfUGpXcFB5T1hrWlpQaHBlQ1NsSkQwejNqaTVtSDVVcjhHTVNuUHA2NEdIVDhuTF9rZTFsejRuUXdaR1",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Pentagon Consolidates Arms Exports With Tighter Oversight - The Defense Post",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaNUwtN0hkMGZPVlAwQzNNTmtlNWZTdFRaUUIwSXJVZ0RWc1RNQnlQaV9aOFJfUGpXcFB5T1hrWlpQaHBlQ1NsSkQwejNqaTVtSDVVcjhHTVNuUHA2NEdIVDhuTF9rZTFsejRuUXdaR1J5cGJXOXhieEpn0gF_QVVfeXFMTzJITmdLNVJPLXVjMDhnQ0R6S3ZKSVpONkszZmc1M0dVRElsMFp1UHdyQllUM2hiblRYRTRFUk02amptUXU0RUxnUWlJVUxfa2VjRzJlX1Jab3VOaHJKY2EyZXFjaVhNS1M5WEdPZkh2WXFxaFo0bkhCa3AzOFdESQ?oc=5",
+        "fetchedAt": "2026-04-15T09:14:17.585736Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBaNUwtN0hkMGZPVlAwQzNNTmtlNWZTdFRaUUIwSXJVZ0RWc1RNQnlQaV9aOFJfUGpXcFB5T1hrWlpQaHBlQ1NsSkQwejNqaTVtSDVVcjhHTVNuUHA2NEdIVDhuTF9rZTFsejRuUXdaR1J5cGJXOXhieEpn0gF_QVVfeXFMTzJITmdLNVJPLXVjMDhnQ0R6S3ZKSVpONkszZmc1M0dVRElsMFp1UHdyQllUM2hiblRYRTRFUk02amptUXU0RUxnUWlJVUxfa2VjRzJlX1Jab3VOaHJKY2EyZXFjaVhNS1M5WEdPZkh2WXFxaFo0bkhCa3AzOFdESQ?oc=5\" target=\"_blank\">Pentagon Consolidates Arms Exports With Tighter Oversight</a>&nbsp;&nbsp;<font color=\"#6f"
+      }
+    ]
+  },
+  {
+    "id": "rss-7150",
+    "date": "Fri, 23 Ja",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Pakistan’s Flurry of Arms Sales - Defense Security Monitor",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFlvR3BJT2NmcnlRQWsxNU1YY2FISkk1NWFVc0xsYms1a04tcGwxVnlCRi1Kb1pBcTFJS3hvZnU3bWR2ME5LT3lRX1RaZHZBRW9TbVBkRm9Ub25pZW1IbHN6OXUzUndsY2tyQmxIT0",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Pakistan’s Flurry of Arms Sales - Defense Security Monitor",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFlvR3BJT2NmcnlRQWsxNU1YY2FISkk1NWFVc0xsYms1a04tcGwxVnlCRi1Kb1pBcTFJS3hvZnU3bWR2ME5LT3lRX1RaZHZBRW9TbVBkRm9Ub25pZW1IbHN6OXUzUndsY2tyQmxIT0hicXo4cU5CLUp1WGtBWE9mWE13TThvbW8?oc=5",
+        "fetchedAt": "2026-04-15T09:14:17.585738Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFlvR3BJT2NmcnlRQWsxNU1YY2FISkk1NWFVc0xsYms1a04tcGwxVnlCRi1Kb1pBcTFJS3hvZnU3bWR2ME5LT3lRX1RaZHZBRW9TbVBkRm9Ub25pZW1IbHN6OXUzUndsY2tyQmxIT0hicXo4cU5CLUp1WGtBWE9mWE13TThvbW8?oc=5\" target=\"_blank\">Pakistan’s Flurry of Arms Sales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Defense Security Monitor</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-56968",
+    "date": "Wed, 11 Fe",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Pentagon Is Making A Naughty Or Nice List Of Defense Contractors - The War Zone",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxONWM0T29aT2VyMVphNElORmV6RG40Y2lqV3JiRVJkWk5GX0c2cHR2OUtZYjRjOXJEZUxVSVVnem9BRlZ6bUpJWUJuOEU4M0ROMzhHSk00UkRkeVlOUW9rOUNNaER4R21zZkVJb1otRE",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Pentagon Is Making A Naughty Or Nice List Of Defense Contractors - The War Zone",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONWM0T29aT2VyMVphNElORmV6RG40Y2lqV3JiRVJkWk5GX0c2cHR2OUtZYjRjOXJEZUxVSVVnem9BRlZ6bUpJWUJuOEU4M0ROMzhHSk00UkRkeVlOUW9rOUNNaER4R21zZkVJb1otRExFeGU5WEw0T1h0ZTByeWlJWktEZ0lWVEl3eUhsNmo1cG9pcmM3ckNYSDh5ZWV6WGM?oc=5",
+        "fetchedAt": "2026-04-15T09:14:17.585740Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxONWM0T29aT2VyMVphNElORmV6RG40Y2lqV3JiRVJkWk5GX0c2cHR2OUtZYjRjOXJEZUxVSVVnem9BRlZ6bUpJWUJuOEU4M0ROMzhHSk00UkRkeVlOUW9rOUNNaER4R21zZkVJb1otRExFeGU5WEw0T1h0ZTByeWlJWktEZ0lWVEl3eUhsNmo1cG9pcmM3ckNYSDh5ZWV6WGM?oc=5\" target=\"_blank\">Pentagon Is Making A Naughty Or Nice List Of Defense Contractors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The War Zone</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-4388",
+    "date": "Mon, 09 Fe",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Air Force Contract, Arms Executive Order Spark Bullish Move For Boeing, Defense Stocks - Investor's Business Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOLTZlNnBoZDhQMERxV05SbDVwZnhhR3NyYzUxS2tvb1pNOGlZMmpXTV9uQVBRTjkxM3VJNGpCaEFueWNjWmVrX0pFOUZ3MmNBSUFzdE5FSWFzUHg1WUczLWJfdzJxYnJnWWV3YXU3dT",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Air Force Contract, Arms Executive Order Spark Bullish Move For Boeing, Defense Stocks - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOLTZlNnBoZDhQMERxV05SbDVwZnhhR3NyYzUxS2tvb1pNOGlZMmpXTV9uQVBRTjkxM3VJNGpCaEFueWNjWmVrX0pFOUZ3MmNBSUFzdE5FSWFzUHg1WUczLWJfdzJxYnJnWWV3YXU3dTRiOUotemtpNG5pMm5FMWRZTmpEc0dmU0ltemtCMWJxaVZBX1ZERWpSaEgtcU5CcU9KS21xWWFWdGo5RTR5STIzQzF1czZjN3RIMW1vQ2hwSkpUS2V3RW5xamE3U2d2QzRhdHJWMEVodVJ6X0p1VEt0Qw?oc=5",
+        "fetchedAt": "2026-04-15T09:14:17.585743Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOLTZlNnBoZDhQMERxV05SbDVwZnhhR3NyYzUxS2tvb1pNOGlZMmpXTV9uQVBRTjkxM3VJNGpCaEFueWNjWmVrX0pFOUZ3MmNBSUFzdE5FSWFzUHg1WUczLWJfdzJxYnJnWWV3YXU3dTRiOUotemtpNG5pMm5FMWRZTmpEc0dmU0ltemtCMWJxaVZBX1ZERWpSaEgtcU5CcU9KS21xWWFWdGo5RTR5STIzQzF1czZjN3RIMW1vQ2hwSkpUS2V3RW5xamE3U2d2QzRhdHJWMEVodVJ6X0p1VEt0Qw?oc=5\" target=\"_blank\">Air Force Contract, Arms Executive Order Spark Bullish Move For Boeing, Defense Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">I"
+      }
+    ]
+  },
+  {
+    "id": "rss-59116",
+    "date": "Wed, 29 Oc",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Hegseth to unveil arms sale overhaul - Politico",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQT29VLWp1SDlvWU5rS1lXbnp4b1ZWNG1MMTRFbVU3dTVVZFBsYThVbDlVVEJCRUZpdk50TGZDWEN3dTVKaWxveWZxMzJETXNiMnNvODltemRFWndvQ1Bxa3JqUmI5aUZUeVNsd3F6WX",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Hegseth to unveil arms sale overhaul - Politico",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT29VLWp1SDlvWU5rS1lXbnp4b1ZWNG1MMTRFbVU3dTVVZFBsYThVbDlVVEJCRUZpdk50TGZDWEN3dTVKaWxveWZxMzJETXNiMnNvODltemRFWndvQ1Bxa3JqUmI5aUZUeVNsd3F6WXpmR0J1NkgwTU5ScmdCQVp2ako3TUJXX3JKYm83TFNKTQ?oc=5",
+        "fetchedAt": "2026-04-15T09:14:17.585744Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQT29VLWp1SDlvWU5rS1lXbnp4b1ZWNG1MMTRFbVU3dTVVZFBsYThVbDlVVEJCRUZpdk50TGZDWEN3dTVKaWxveWZxMzJETXNiMnNvODltemRFWndvQ1Bxa3JqUmI5aUZUeVNsd3F6WXpmR0J1NkgwTU5ScmdCQVp2ako3TUJXX3JKYm83TFNKTQ?oc=5\" target=\"_blank\">Hegseth to unveil arms sale overhaul</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-37753",
+    "date": "Mon, 12 Ja",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Russia Is Losing Money on Jet Sales to China but Can’t Do Anything About It, Leaked Files Show - UNITED24 Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPaVZ4Vmhkay1hbUFkN21EU05TeF9WM01BUEZpQzRuOXFvcTNqNUhubm5kVS1RN19YMmRzbXduMVZEamp1VEtvbVVqSVMzd0xubEtYSmY2QjRaTzVYRFhXZFpUOUZUYkpFak8tUHc1WD",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Russia Is Losing Money on Jet Sales to China but Can’t Do Anything About It, Leaked Files Show - UNITED24 Media",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaVZ4Vmhkay1hbUFkN21EU05TeF9WM01BUEZpQzRuOXFvcTNqNUhubm5kVS1RN19YMmRzbXduMVZEamp1VEtvbVVqSVMzd0xubEtYSmY2QjRaTzVYRFhXZFpUOUZUYkpFak8tUHc1WDljUmY1V2ZHMmV0WUQ1VGtickJJd3BJeVlSb01JWEhkMVRVaUY0aDUzUjlMcTZPVU5UemxCTUs1Z1FWV3dFaF9xZnE4dWFyV09SWklJX0dZUWkya1Y2eHhOSXdn?oc=5",
+        "fetchedAt": "2026-04-15T09:14:17.585747Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPaVZ4Vmhkay1hbUFkN21EU05TeF9WM01BUEZpQzRuOXFvcTNqNUhubm5kVS1RN19YMmRzbXduMVZEamp1VEtvbVVqSVMzd0xubEtYSmY2QjRaTzVYRFhXZFpUOUZUYkpFak8tUHc1WDljUmY1V2ZHMmV0WUQ1VGtickJJd3BJeVlSb01JWEhkMVRVaUY0aDUzUjlMcTZPVU5UemxCTUs1Z1FWV3dFaF9xZnE4dWFyV09SWklJX0dZUWkya1Y2eHhOSXdn?oc=5\" target=\"_blank\">Russia Is Losing Money on Jet Sales to China but Can’t Do Anything About It, Leaked Files Show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UNITED24 Media</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-6636",
+    "date": "Wed, 29 Oc",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Hegseth is said to plan overhaul of U.S. arms sales to speed deliveries to allies (LMT:NYSE) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxONTcwdTZKVXR0MGRkS1d2VEp2TjE1dFJvSzEzNHR5Y2tzVlUyR2pRNGdZbnl5N2l1b3RCZzZMZzJ5MHY2bS1qSnU4Uno3X0lFZVdNZDRPV25lT2k5UDdwWWpZTHpIMThmSF9jaDFhSH",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Hegseth is said to plan overhaul of U.S. arms sales to speed deliveries to allies (LMT:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONTcwdTZKVXR0MGRkS1d2VEp2TjE1dFJvSzEzNHR5Y2tzVlUyR2pRNGdZbnl5N2l1b3RCZzZMZzJ5MHY2bS1qSnU4Uno3X0lFZVdNZDRPV25lT2k5UDdwWWpZTHpIMThmSF9jaDFhSHdoZFJRODAyQjFKcVZsQ01YRldEbU50Tnh2c1lXU0lieG54dXVNUjVIOTdCaEtRcWE5MTJ4SS1pNmZjcjQtcGRjamdySUVlbDJqRUE?oc=5",
+        "fetchedAt": "2026-04-15T09:14:17.585749Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxONTcwdTZKVXR0MGRkS1d2VEp2TjE1dFJvSzEzNHR5Y2tzVlUyR2pRNGdZbnl5N2l1b3RCZzZMZzJ5MHY2bS1qSnU4Uno3X0lFZVdNZDRPV25lT2k5UDdwWWpZTHpIMThmSF9jaDFhSHdoZFJRODAyQjFKcVZsQ01YRldEbU50Tnh2c1lXU0lieG54dXVNUjVIOTdCaEtRcWE5MTJ4SS1pNmZjcjQtcGRjamdySUVlbDJqRUE?oc=5\" target=\"_blank\">Hegseth is said to plan overhaul of U.S. arms sales to speed deliveries to allies (LMT:NYSE)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-76664",
+    "date": "Thu, 30 Oc",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "South Korea and the Middle East’s Defense Localization Drive: A New Strategic Fit - The Washington Institute",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUGlDN2drV0tPV0FyOE9nZFUxTDNLUlIyQzRFQVl5NTNObml0NFFBQXB0ODltX25obFpXY1dCQk01bHgza0tBY1ptX0VOWUhkNEtjM0VlbkptbjBRbUZ4Q3dDN0hPU1BJVmJLRVZNb0",
+    "sources": [
+      {
+        "type": "news",
+        "title": "South Korea and the Middle East’s Defense Localization Drive: A New Strategic Fit - The Washington Institute",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUGlDN2drV0tPV0FyOE9nZFUxTDNLUlIyQzRFQVl5NTNObml0NFFBQXB0ODltX25obFpXY1dCQk01bHgza0tBY1ptX0VOWUhkNEtjM0VlbkptbjBRbUZ4Q3dDN0hPU1BJVmJLRVZNb0dWR1Z1SkVaT2Y1RVVFUmZqWjBpUExWVnBRWVVhSm14a3JfTTAzWGhsM3JkQ3RBZkNTeVJaNXZpOE9ybjYxUlVSaU5NektsQTNzVmV5X2FGTWJBZDA?oc=5",
+        "fetchedAt": "2026-04-15T09:14:17.585751Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUGlDN2drV0tPV0FyOE9nZFUxTDNLUlIyQzRFQVl5NTNObml0NFFBQXB0ODltX25obFpXY1dCQk01bHgza0tBY1ptX0VOWUhkNEtjM0VlbkptbjBRbUZ4Q3dDN0hPU1BJVmJLRVZNb0dWR1Z1SkVaT2Y1RVVFUmZqWjBpUExWVnBRWVVhSm14a3JfTTAzWGhsM3JkQ3RBZkNTeVJaNXZpOE9ybjYxUlVSaU5NektsQTNzVmV5X2FGTWJBZDA?oc=5\" target=\"_blank\">South Korea and the Middle East’s Defense Localization Drive: A New Strategic Fit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Institute</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-63802",
+    "date": "Fri, 31 Oc",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Turkey’s arms exports and mercenaries fuel instability in Africa, report says - Stockholm Center for Freedom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDFUN19EZ1NtZjFBYVFYWDB2UmhaSmlLSU02YUM5b19qZ0NGcG1HTV9HbU5ZTE4wWkVDVzFwN2QzQW9yUHhqcEJVQVcwb05oXzF3MkxXRy1mMzRMTXRJMWY4Qm5CTS1pVHRrR1pVa0",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Turkey’s arms exports and mercenaries fuel instability in Africa, report says - Stockholm Center for Freedom",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDFUN19EZ1NtZjFBYVFYWDB2UmhaSmlLSU02YUM5b19qZ0NGcG1HTV9HbU5ZTE4wWkVDVzFwN2QzQW9yUHhqcEJVQVcwb05oXzF3MkxXRy1mMzRMTXRJMWY4Qm5CTS1pVHRrR1pVa0MxbHVlbWlGdS13OUhXcUdsWWdRTVpsa3Zrbm11TmhkenVoS3hBdTVNa2lDTEthdXVRSkE?oc=5",
+        "fetchedAt": "2026-04-15T09:14:17.585753Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDFUN19EZ1NtZjFBYVFYWDB2UmhaSmlLSU02YUM5b19qZ0NGcG1HTV9HbU5ZTE4wWkVDVzFwN2QzQW9yUHhqcEJVQVcwb05oXzF3MkxXRy1mMzRMTXRJMWY4Qm5CTS1pVHRrR1pVa0MxbHVlbWlGdS13OUhXcUdsWWdRTVpsa3Zrbm11TmhkenVoS3hBdTVNa2lDTEthdXVRSkE?oc=5\" target=\"_blank\">Turkey’s arms exports and mercenaries fuel instability in Africa, report says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stockholm Center for Freedom</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-51781",
+    "date": "Tue, 04 No",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Erdogan’s defense contractor walks free as US abruptly drops NATO corruption case - Nordic Monitor",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxObkJ2U01mOXR1b2FBaWtKR3k1ckVVeEVTUjJvVElDckZ0Rkx1RXlyV3RXVXlRbFMybjd4a281b0RWOTMwZElRRF84aDQ0VW5fUVZpakdqWHFQMUFDbUV4NUl5VWlUb3hncF9CZ25GdV",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Erdogan’s defense contractor walks free as US abruptly drops NATO corruption case - Nordic Monitor",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObkJ2U01mOXR1b2FBaWtKR3k1ckVVeEVTUjJvVElDckZ0Rkx1RXlyV3RXVXlRbFMybjd4a281b0RWOTMwZElRRF84aDQ0VW5fUVZpakdqWHFQMUFDbUV4NUl5VWlUb3hncF9CZ25GdVFzWDQ3TEpKZk9mTmlyWmdJMTV2OHRkRGZtWF9XYmszZzVSemM5QnFlNURwQ3NwVV81VnNPc1h3blJrc08zQkVJdmdNam5hdw?oc=5",
+        "fetchedAt": "2026-04-15T09:14:17.585755Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxObkJ2U01mOXR1b2FBaWtKR3k1ckVVeEVTUjJvVElDckZ0Rkx1RXlyV3RXVXlRbFMybjd4a281b0RWOTMwZElRRF84aDQ0VW5fUVZpakdqWHFQMUFDbUV4NUl5VWlUb3hncF9CZ25GdVFzWDQ3TEpKZk9mTmlyWmdJMTV2OHRkRGZtWF9XYmszZzVSemM5QnFlNURwQ3NwVV81VnNPc1h3blJrc08zQkVJdmdNam5hdw?oc=5\" target=\"_blank\">Erdogan’s defense contractor walks free as US abruptly drops NATO corruption case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nordic Monitor</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-13396",
+    "date": "Tue, 03 Fe",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Japan, US to Streamline Arms Sales After Tokyo Flags Delivery Backlogs - The Defense Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9VUEZXTVpEX1NkMTNfdm5vNEtqQ1FueFl1OGJCVzFRaUlWNUx5eUxsWElIRDlUWW5uWEN4akZGZ1hzbDNGWWhINXpNc1RrdDVTZnR6N1lzX3FONHJNaTM3aU9UZVZONlpqdDZ2Xy1Nck",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Japan, US to Streamline Arms Sales After Tokyo Flags Delivery Backlogs - The Defense Post",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VUEZXTVpEX1NkMTNfdm5vNEtqQ1FueFl1OGJCVzFRaUlWNUx5eUxsWElIRDlUWW5uWEN4akZGZ1hzbDNGWWhINXpNc1RrdDVTZnR6N1lzX3FONHJNaTM3aU9UZVZONlpqdDZ2Xy1NckNWQdIBd0FVX3lxTE5mNTMzWE9CTFl0WjhSdXI0bVY3ZENpSWJfeXJQcXQ0c3laMHRHak83VC13MGtIVmhLekZFM2lHb3p3VFpaV0tlbEtlSF9aYjlQbE1SNVE5SVpzRVhWb2dUTVoxeTVaMFptM1lYbjZVMWJ1b1VBRDRr?oc=5",
+        "fetchedAt": "2026-04-15T09:14:17.585757Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9VUEZXTVpEX1NkMTNfdm5vNEtqQ1FueFl1OGJCVzFRaUlWNUx5eUxsWElIRDlUWW5uWEN4akZGZ1hzbDNGWWhINXpNc1RrdDVTZnR6N1lzX3FONHJNaTM3aU9UZVZONlpqdDZ2Xy1NckNWQdIBd0FVX3lxTE5mNTMzWE9CTFl0WjhSdXI0bVY3ZENpSWJfeXJQcXQ0c3laMHRHak83VC13MGtIVmhLekZFM2lHb3p3VFpaV0tlbEtlSF9aYjlQbE1SNVE5SVpzRVhWb2dUTVoxeTVaMFptM1lYbjZVMWJ1b1VBRDRr?oc=5\" target=\"_blank\">Japan, US to Streamline Arms Sales After Tokyo Flags Delivery Backlogs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The"
+      }
+    ]
+  },
+  {
+    "id": "rss-43469",
+    "date": "Tue, 08 Ju",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Profits of War: Top Beneficiaries of Pentagon Spending, 2020 – 2024 - Quincy Institute for Responsible Statecraft",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNYzZvYmstdUJhUEQ5LXJJdDYxd2xjYlRTRGtxNmtxTlJzU2F4SHd3SDlIbUwxSEJEaWhMRHZ5VUctMDRvNkVsRFhZcFl5Y1ZJVmIwR2V6bVRlMVFqS1ZxMFllb1BwUDJkS3EyRjN1Tz",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Profits of War: Top Beneficiaries of Pentagon Spending, 2020 – 2024 - Quincy Institute for Responsible Statecraft",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYzZvYmstdUJhUEQ5LXJJdDYxd2xjYlRTRGtxNmtxTlJzU2F4SHd3SDlIbUwxSEJEaWhMRHZ5VUctMDRvNkVsRFhZcFl5Y1ZJVmIwR2V6bVRlMVFqS1ZxMFllb1BwUDJkS3EyRjN1TzhyVUtvRjZkTjA2VEx5OERZckFObkVyYTYxaGVyajdXZ09ESmZ4RU1CMlQ2bzQ?oc=5",
+        "fetchedAt": "2026-04-15T09:14:17.585759Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNYzZvYmstdUJhUEQ5LXJJdDYxd2xjYlRTRGtxNmtxTlJzU2F4SHd3SDlIbUwxSEJEaWhMRHZ5VUctMDRvNkVsRFhZcFl5Y1ZJVmIwR2V6bVRlMVFqS1ZxMFllb1BwUDJkS3EyRjN1TzhyVUtvRjZkTjA2VEx5OERZckFObkVyYTYxaGVyajdXZ09ESmZ4RU1CMlQ2bzQ?oc=5\" target=\"_blank\">Profits of War: Top Beneficiaries of Pentagon Spending, 2020 – 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quincy Institute for Responsible Statecraft</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-15201",
+    "date": "Thu, 24 Ju",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Inside the congressional Foreign Arms Sales Task Force’s effort to spearhead reform - DefenseScoop",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPc2o4YkVZaVBvU0o5NlVpa1JqdTlGcUxITmtkVnk0eXpOY3RZai1sYkhqd285ajRsUjJIUl9tbmtqNlBlcDdITFFOLW9peXJuMUZGMTVyb2l4Nm5IX0FGQkFCRmFaMEYxTEJnVWlyaj",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Inside the congressional Foreign Arms Sales Task Force’s effort to spearhead reform - DefenseScoop",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc2o4YkVZaVBvU0o5NlVpa1JqdTlGcUxITmtkVnk0eXpOY3RZai1sYkhqd285ajRsUjJIUl9tbmtqNlBlcDdITFFOLW9peXJuMUZGMTVyb2l4Nm5IX0FGQkFCRmFaMEYxTEJnVWlyajNlbkZkNGoxcVA4d0FWWmREWFlyWlhOYzdiSW5vcXdsX2t3ekl1bDZGb3o0RQ?oc=5",
+        "fetchedAt": "2026-04-15T09:14:17.585761Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPc2o4YkVZaVBvU0o5NlVpa1JqdTlGcUxITmtkVnk0eXpOY3RZai1sYkhqd285ajRsUjJIUl9tbmtqNlBlcDdITFFOLW9peXJuMUZGMTVyb2l4Nm5IX0FGQkFCRmFaMEYxTEJnVWlyajNlbkZkNGoxcVA4d0FWWmREWFlyWlhOYzdiSW5vcXdsX2t3ekl1bDZGb3o0RQ?oc=5\" target=\"_blank\">Inside the congressional Foreign Arms Sales Task Force’s effort to spearhead reform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DefenseScoop</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-95892",
+    "date": "Thu, 22 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Bipartisan bill seeks to put arms sales lobbyists on ice for 3-years - Responsible Statecraft",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5KSFZ5TWxNUWdpcWJrcW9TMWFyaUZRTkpQZnRqTl9tOTQtX2hqY1Z4U3RuQ3hDcDMtVC0zaEx4ODM2b2FUbFA3eTZ3Y3ExRF9lV0ZXSHctTF96cmJKc0tjN3ZYS2Fidjhad1ZJVw?oc=",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Bipartisan bill seeks to put arms sales lobbyists on ice for 3-years - Responsible Statecraft",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KSFZ5TWxNUWdpcWJrcW9TMWFyaUZRTkpQZnRqTl9tOTQtX2hqY1Z4U3RuQ3hDcDMtVC0zaEx4ODM2b2FUbFA3eTZ3Y3ExRF9lV0ZXSHctTF96cmJKc0tjN3ZYS2Fidjhad1ZJVw?oc=5",
+        "fetchedAt": "2026-04-15T09:14:17.585763Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5KSFZ5TWxNUWdpcWJrcW9TMWFyaUZRTkpQZnRqTl9tOTQtX2hqY1Z4U3RuQ3hDcDMtVC0zaEx4ODM2b2FUbFA3eTZ3Y3ExRF9lV0ZXSHctTF96cmJKc0tjN3ZYS2Fidjhad1ZJVw?oc=5\" target=\"_blank\">Bipartisan bill seeks to put arms sales lobbyists on ice for 3-years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Responsible Statecraft</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-49569",
+    "date": "Fri, 22 Au",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "How US Weapons Sales to Foreign Markets Are Changing - GovCon Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBpWkNvbWtHSkRYRnRmU1Ryc0xzajl4Sk1lbEViTEYzc29GRThVdkpRNVc2RXhPMks4TjZfaUF3MG9fcFpoLXAzeV9UVmZYNi1SLV9YSXhtdVluQUVfODJBX1pQRTVwMl95VlB6dEVOcH",
+    "sources": [
+      {
+        "type": "news",
+        "title": "How US Weapons Sales to Foreign Markets Are Changing - GovCon Wire",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpWkNvbWtHSkRYRnRmU1Ryc0xzajl4Sk1lbEViTEYzc29GRThVdkpRNVc2RXhPMks4TjZfaUF3MG9fcFpoLXAzeV9UVmZYNi1SLV9YSXhtdVluQUVfODJBX1pQRTVwMl95VlB6dEVOcHZ4TzVEWm81TVZqNFBqdw?oc=5",
+        "fetchedAt": "2026-04-15T09:14:17.585765Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBpWkNvbWtHSkRYRnRmU1Ryc0xzajl4Sk1lbEViTEYzc29GRThVdkpRNVc2RXhPMks4TjZfaUF3MG9fcFpoLXAzeV9UVmZYNi1SLV9YSXhtdVluQUVfODJBX1pQRTVwMl95VlB6dEVOcHZ4TzVEWm81TVZqNFBqdw?oc=5\" target=\"_blank\">How US Weapons Sales to Foreign Markets Are Changing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GovCon Wire</font>"
       }
     ]
   }
