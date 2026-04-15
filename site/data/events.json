@@ -1,5 +1,81 @@
 [
   {
+    "id": "unknown-2026-04-14-004",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "negative",
+    "title": "1:5 kill ratio: Ukraine inflicts heavy Russian losses using drones, says Finnish president",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/04/15-kill-ratio-ukraine-inflicts-heavy-russian-losses-using-drones-says-finnish-president/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.co",
+    "sources": []
+  },
+  {
+    "id": "rheinmetall-2026-04-14-005",
+    "date": "2026-04-14",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "missile_defense"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall and Destinus to combine forces in new missile systems joint venture",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/04/rheinmetall-and-destinus-to-combine-forces-in-new-missile-systems-joint-venture/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-con",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-14-007",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Navy MQ-4C Triton Surveillance Drone Crash In The Middle East Finally Confirmed",
+    "summary": "<p>The MQ-4C had been flying over the Persian Gulf on April 9 when it suddenly disappeared from online flight tracking sites.</p>\n<p>The post <a href=\"https://www.twz.com/air/navy-mq-4c-triton-surveil",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-13-001",
+    "date": "2026-04-13",
+    "companies": [],
+    "topics": [
+      "missile_defense",
+      "drone_warfare"
+    ],
+    "impact": "positive",
+    "title": "US military eyes high-energy ‘laser dome’ for domestic air defense",
+    "summary": "The U.S. military's pursuit of high-energy laser weapons for American air defense comes amid the expanding threat of low-cost weaponized drones.",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-13-006",
+    "date": "2026-04-13",
+    "companies": [],
+    "topics": [
+      "missile_defense",
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Estonia to halt $587M Infantry Fighting Vehicle buy in favor of drones, air defense",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/04/estonia-to-halt-587m-infantry-fighting-vehicle-buy-in-favor-of-drones-air-defense/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-c",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-13-008",
+    "date": "2026-04-13",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Regent Squire Wing-In-Ground Effect Drone Demonstrator Makes First Flight",
+    "summary": "<p>Squire is designed to take on multiple roles and the Marines say they are monitoring the aircraft's progress.</p>\n<p>The post <a href=\"https://www.twz.com/air/regent-squire-wing-in-ground-effect-dr",
+    "sources": []
+  },
+  {
     "id": "rtx-2026-04-12-001",
     "date": "2026-04-12",
     "companies": [
@@ -9,6 +85,298 @@
     "impact": "neutral",
     "title": " $27 platypus PCIe adapter converts half-height GPUs into full-height while adding two M.2 slots for SSDs — enthusiast demos low-profile RTX 4060 with two SSDs thanks to PCIe bifurcation ",
     "summary": "\n                             A Redditor got his hands on this PCIe adapter that does the job of two different ones at the same time. It converts half-height GPUs into full height while adding M.2 slo",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-10-002",
+    "date": "2026-04-10",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Pentagon, FAA sign agreement on deploying anti-drone laser system near Mexico",
+    "summary": "The agreement came after the FAA conducted testing in New Mexico on the laser system used by the Pentagon and Homeland Security Department.",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-10-003",
+    "date": "2026-04-10",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Ukrainian drone makers visit Paris looking for co-production deals",
+    "summary": "“We come with our lessons learned,” Kamyshin said. “We offer a model which is definitely beneficial for your country, for your industry, for your economy.\"",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-10-009",
+    "date": "2026-04-10",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Hezbollah Ramping Up FPV Drone Attacks On IDF In Lebanon",
+    "summary": "<p>As Israel drives deeper into Lebanon, it is presenting more targets for Hezbollah's FPV drones.</p>\n<p>The post <a href=\"https://www.twz.com/air/hezbollah-ramping-up-fpv-drone-attacks-on-idf-in-leb",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-10-010",
+    "date": "2026-04-10",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Bahrain First To Claim F-16 Block 70 Air-To-Air Kills",
+    "summary": "<p>The Bahraini advanced F-16 shot down two Iranian drones during the conflict in the Middle East earlier this month. </p>\n<p>The post <a href=\"https://www.twz.com/air/bahrain-first-to-claim-f-16-bloc",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-09-011",
+    "date": "2026-04-09",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "How America’s Shahed-136 Kamikaze Drone Clone Suddenly Became An “Indispensable” Weapon Of War",
+    "summary": "<p>Michael Horowitz, who pushed for the LUCAS drone program while at the Pentagon, offers unique insights into its genesis and future.</p>\n<p>The post <a href=\"https://www.twz.com/news-features/how-am",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-09-012",
+    "date": "2026-04-09",
+    "companies": [],
+    "topics": [
+      "defense_budget"
+    ],
+    "impact": "neutral",
+    "title": "NATO defense spending tracker - Atlantic Council",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ1NuRHFYdXE2bEdVclRIdkdnXzRPeVlhMHZNTmRzMUFQZGNaY1VOYXZWb1NqV01TNVp1WVBoejFUWjdlTlZfY3NTRm9hRldfN0VXdHFHUXZleE8zSjJ6bnFScXB1Q2F2eFF6bjBKVk",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-06-024",
+    "date": "2026-04-06",
+    "companies": [],
+    "topics": [
+      "defense_budget"
+    ],
+    "impact": "positive",
+    "title": "White House Seeks 40 Percent Increase in Military Spending - The New York Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tRWZtRmdjejBPcGw5RXlmTmllX1BnMEFPenpWSU1KTUZtbk5kRDZERk5VY2d6c2ltWURWN1lZb2ZPaWFPRmVYX1ZQNEZGaXI1UG1YaUYyeU1sVXJ4QTRGTXFrUQ?oc=5\" target=\"_",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-03-013",
+    "date": "2026-04-03",
+    "companies": [],
+    "topics": [
+      "defense_budget"
+    ],
+    "impact": "neutral",
+    "title": "Trump budget seeks $1.5 trillion in defense spending alongside domestic program cuts - NPR",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBMRFdpSEhael9QZzlkSlVwSGVaM1NPbTlSMGNLSzBaS0EzRDNpSW50dS1IRkVwUDh6aWp3SFlrbTFWbjFNQ3QyalZIQkJmZEN4Q3NxbF9iY29qMHRMcnJWRGwwbjZtdWUwTWJDbUV1MV",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-03-014",
+    "date": "2026-04-03",
+    "companies": [],
+    "topics": [
+      "defense_budget"
+    ],
+    "impact": "neutral",
+    "title": "US defense spending would rise $445bn under Trump budget plan, with steep cuts elsewhere - The Guardian",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOZnZ4bzdmQVpmV2JETFU1eUU4VVpDY1RKX2VqTTI2X19IeWZnM205TEdTM3NCLUZMQVgxNW1DZmpMc2NmOVUwbV9vRHBtTVFNS0RzM0xqUGFwZXVqX3dyNlU1dHBCTHVfa1RLZkRQRn",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-03-016",
+    "date": "2026-04-03",
+    "companies": [],
+    "topics": [
+      "defense_budget"
+    ],
+    "impact": "positive",
+    "title": "White House seeks massive increase in defense spending and looks to slash housing, social services and health care - CNN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxORUh0eU1VejZoT1owX2tiRVZyTHhKTFdkUkEzLXd5QjhEZ1Z5UmR5SkloWndWMlo4bWFNdE9rWkFKRUlmTXlfQ0E3dGY5cXdyZlc4UFU0TFF3SlpDdGZiUklCMXdOSjZfZkFUTnJBbE",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-03-017",
+    "date": "2026-04-03",
+    "companies": [],
+    "topics": [
+      "defense_budget"
+    ],
+    "impact": "neutral",
+    "title": "Trump's budget calls for $1.5 trillion in military spending, cuts to everything else - LiveNOW from FOX",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNNlkzcGw2U0VNZTBmbDVmblpNeU8tdVp1ZllvSThTWVVBeUVMcGN6R1lPNHJXRFFncnJhV2RFdWFSQUxnLTB6Y1pDS0RoWEM0RkgxNFU1RTBVR1JUQUt5bkRHejZ0ajJ4eXVGT09xNX",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-03-018",
+    "date": "2026-04-03",
+    "companies": [],
+    "topics": [
+      "defense_budget"
+    ],
+    "impact": "neutral",
+    "title": "Trump’s budget proposes massive defense spending with 10% cut to other programs - Military Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMWpMdFdOd2ZnZkpCOUZxYjdpYzR3V0hpTU5COC1TUW9DbV8xRjFHT3U4SExOTll1b0FhaUh5OWkxQXdwdkZyTU9yWXBYMUdHcmhKc1UxY2dULU5BOThNRkJWYVRweU44dU9RNVJobn",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-03-019",
+    "date": "2026-04-03",
+    "companies": [],
+    "topics": [
+      "defense_budget"
+    ],
+    "impact": "neutral",
+    "title": "Trump's 2027 budget asks Congress for $1.5 trillion in defense spending, with 10% cuts elsewhere - CBS News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2pMY19ndEVPUW9BRDk2N0N1WFhVZnBqNFhSQmFZcEN4am11dWREc2tPSlRYaWlLR2lYbFVVdFFZNU5mZmZ1blFSNzNpNl85SldqYVdjTXlPOGszcHczbjBUUlViQ040ZUhuZjQteU",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-03-020",
+    "date": "2026-04-03",
+    "companies": [],
+    "topics": [
+      "defense_budget"
+    ],
+    "impact": "neutral",
+    "title": "Trump’s military spending bonanza has Republicans overlooking the debt - MS NOW",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1hbTJldjlMVkkyakFybjVlc2xmTDhrRnI2MXFjYUhZWDZjWFNxcndJNmtJdlBkRkppYWhFcHhHeUFkUmNONHV1ZEIzNmI4cndiR1l3ZjJkZ2VfazVLSUl5Zm5DVUtXZml4bjZv?oc=5\"",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-03-021",
+    "date": "2026-04-03",
+    "companies": [],
+    "topics": [
+      "defense_budget"
+    ],
+    "impact": "neutral",
+    "title": "Golden Dome, out-years and lots of missiles: Details of Trump's $1.5T defense budget request - Breaking Defense",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbDBVbjNWZWZUMXdsYTBncWtSVXFXYjFnd3Zwa3NCQnRDaDdHVjFjMDNTVi0tY2laUTBCLUI4UkJnYk4ydi1jME5ZZ3E0UGdHR3pNdlhFZ2t5RUhSenRSSGV1Q0tGZVBWZXJrVENmSE",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-03-022",
+    "date": "2026-04-03",
+    "companies": [],
+    "topics": [
+      "defense_budget"
+    ],
+    "impact": "positive",
+    "title": "White House asks for massive $1.5 trillion defense budget – a 40% increase - Le Monde.fr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMWxNNzZlV0wxb0p0cmJJNzlDZGxHQTMwSG91WGlMWTdONFBBSFcta3VJOGhfeWh1eWt5Q21UTG5YZXN0MmZoakIwWWdCMDhpb1VjTXBLMzBIbGU1Q3ExLWVkemVKMGIzaUJ1cm9YUz",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-03-023",
+    "date": "2026-04-03",
+    "companies": [],
+    "topics": [
+      "defense_budget"
+    ],
+    "impact": "neutral",
+    "title": "‘Bold,’ ‘bloated’: Congress has mixed reaction to $1.5 trillion defense budget request - Stars and Stripes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPRnBwaW1uZXJ5bEhjUlc1VmVLMnNjTS1MQU9wMDR4UVhPdnl0ZmR2QmtuU3AwQjhVZ0VxTUQwcUpCQlFfM1BTTVl1QUJrT3NpU2U1bVdTQjNnRFd3WldtNmJqdmR6RGo1YmJvSDdWZH",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-23-015",
+    "date": "2026-03-23",
+    "companies": [],
+    "topics": [
+      "defense_budget"
+    ],
+    "impact": "neutral",
+    "title": "Trump’s Proposed Military Spending Would Be a “Bloody New Deal” - The Equation - Union of Concerned Scientists",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQTW1qeGc5azRkSkgxZk9mdkxQWVJndTJXcHRPVDV6ay1NcW03NkhVU1lTMEZ0cmtRWGcybXpBblRQbmVSTHdkYXlhaFltcExzR0d2UjJhWTQ2dnE4QmlKNEQzazJIRHZmTTBHNjAwRn",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-02-22-025",
+    "date": "2026-02-22",
+    "companies": [],
+    "topics": [
+      "arms_export"
+    ],
+    "impact": "neutral",
+    "title": "Defense: Trump looks to remake foreign weapons sales - Punchbowl News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5GTVZlaTVLWGFhSjByMmhuYmtNbVNvQlQtT2QtYzJPLS1JOVpFaGNQRUdOT1dzamJOZnlBR1lqVEU5T0tvR00yTXhHajdzQkIzRGVXeFhjbEtwVXFEbl9PME4zSXlZLV94OW9EZDlfVm",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-02-12-027",
+    "date": "2026-02-12",
+    "companies": [],
+    "topics": [
+      "arms_export"
+    ],
+    "impact": "neutral",
+    "title": "Pentagon Consolidates Arms Exports With Tighter Oversight - The Defense Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBaNUwtN0hkMGZPVlAwQzNNTmtlNWZTdFRaUUIwSXJVZ0RWc1RNQnlQaV9aOFJfUGpXcFB5T1hrWlpQaHBlQ1NsSkQwejNqaTVtSDVVcjhHTVNuUHA2NEdIVDhuTF9rZTFsejRuUXdaR1",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-01-02-028",
+    "date": "2026-01-02",
+    "companies": [],
+    "topics": [
+      "arms_export"
+    ],
+    "impact": "neutral",
+    "title": "Iran offers crypto payments for arms exports - The Jerusalem Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFAwVlRkZnFmSDBTckpyZi1iMlplamQxc1FSUU1Ybk42QVhJdkx6VC1HNUVseDh2OFkxNXpVTGJmcG9MVGE1cXRtRnFrSGhydV9JbWptdVdVNE90bjFsTzhKMF9LcmRMRUhjMlE?oc=5\" ",
+    "sources": []
+  },
+  {
+    "id": "lockheed-2025-12-31-026",
+    "date": "2025-12-31",
+    "companies": [
+      "lockheed"
+    ],
+    "topics": [
+      "arms_export"
+    ],
+    "impact": "neutral",
+    "title": "Pentagon says Lockheed Martin gets $328.5 million Taiwan military sale contract - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTG15QklWa1pmSHh3Q1BNdEM4MGlhTTNwQzB3QVpobUo2eWlzRTF0TmpVRUFFRF9GWlJRLVNPQjlJdFQ1emE0bWFzMVM2NGxWRC11aWpmMnBYUzBfdHN3QXB3WEpONi15Z1U0T19pbn",
+    "sources": []
+  },
+  {
+    "id": "northrop-2025-12-26-029",
+    "date": "2025-12-26",
+    "companies": [
+      "northrop"
+    ],
+    "topics": [
+      "arms_export"
+    ],
+    "impact": "positive",
+    "title": "China “Shadow Boxes” U.S. Defense Firms; Hits Boeing, Northrop & 18 Others With Sanctions After Record Taiwan Arms Deal - EurAsian Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPaEFmSWE1NkhqRW9aNk01dS0yTXR4MC1iNUxndmU3RXZUeU55czhhbXpadUN0UVVMalh4ZFVGM2hrSUw3cHItSWhUVGd3X3NKc1ZFRnBNX3BlckpXcjlrN1RfWmk1NEFqTVJNSVRtdG",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-10-31-030",
+    "date": "2025-10-31",
+    "companies": [],
+    "topics": [
+      "arms_export"
+    ],
+    "impact": "neutral",
+    "title": "Turkey’s arms exports and mercenaries fuel instability in Africa, report says - Stockholm Center for Freedom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDFUN19EZ1NtZjFBYVFYWDB2UmhaSmlLSU02YUM5b19qZ0NGcG1HTV9HbU5ZTE4wWkVDVzFwN2QzQW9yUHhqcEJVQVcwb05oXzF3MkxXRy1mMzRMTXRJMWY4Qm5CTS1pVHRrR1pVa0",
     "sources": []
   }
 ]
