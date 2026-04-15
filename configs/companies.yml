@@ -24,6 +24,7 @@ companies:
   position: midstream
   role: 飛彈/航電
   description: 飛彈系統與航空電子
+  rss_url: https://news.google.com/rss/search?q="RTX+Corporation"&hl=en&gl=US&ceid=US:en
   downstream:
   - palantir
 - id: northrop
@@ -58,6 +59,7 @@ companies:
   position: midstream
   role: 通訊/電戰
   description: 軍事通訊與電子戰系統
+  rss_url: https://news.google.com/rss/search?q="L3Harris+Technologies"&hl=en&gl=US&ceid=US:en
 - id: bae
   name: BAE Systems
   aliases:
@@ -90,6 +92,7 @@ companies:
   position: midstream
   role: 直升機/電子
   description: 義大利國防與航太集團
+  rss_url: https://news.google.com/rss/search?q="Leonardo"+helicopter+defense&hl=en&gl=US&ceid=US:en
 - id: rheinmetall
   name: Rheinmetall
   aliases:
@@ -100,6 +103,7 @@ companies:
   position: midstream
   role: 裝甲/彈藥
   description: 德國裝甲車與彈藥製造商
+  rss_url: https://news.google.com/rss/search?q="Rheinmetall"&hl=en&gl=US&ceid=US:en
 - id: aidc
   name: AIDC
   aliases:
@@ -111,6 +115,7 @@ companies:
   position: midstream
   role: 航太
   description: 台灣航太國防製造商
+  rss_url: https://news.google.com/rss/search?q="AIDC"+aerospace&hl=en&gl=US&ceid=US:en
 - id: hanwha_aero
   name: Hanwha Aerospace
   aliases:
@@ -122,6 +127,7 @@ companies:
   position: midstream
   role: 航太/防務
   description: 韓國航太與國防製造商
+  rss_url: https://news.google.com/rss/search?q="Hanwha+Aerospace"&hl=en&gl=US&ceid=US:en
 - id: elbit
   name: Elbit Systems
   aliases:
@@ -132,6 +138,7 @@ companies:
   position: midstream
   role: 無人機/電子
   description: 以色列國防電子與無人機
+  rss_url: https://news.google.com/rss/search?q="Elbit+Systems"&hl=en&gl=US&ceid=US:en
 - id: saab
   name: Saab AB
   aliases:
@@ -142,6 +149,7 @@ companies:
   position: midstream
   role: 戰機/潛艇
   description: 瑞典國防集團，Gripen 戰機
+  rss_url: https://news.google.com/rss/search?q="Saab+AB"+fighter+submarine&hl=en&gl=US&ceid=US:en
 - id: palantir
   name: Palantir Technologies
   aliases: []
@@ -151,6 +159,7 @@ companies:
   position: downstream
   role: 軍事AI
   description: 軍事與情報分析平台
+  rss_url: https://news.google.com/rss/search?q="Palantir+Technologies"&hl=en&gl=US&ceid=US:en
   upstream:
   - lockheed
   - rtx
