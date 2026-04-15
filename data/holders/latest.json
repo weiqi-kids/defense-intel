@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T09:14:24.977308+00:00",
+  "updated_at": "2026-04-15T12:07:02.159270+00:00",
   "companies": {
     "lockheed": {
       "name": "Lockheed Martin",
@@ -345,19 +345,19 @@
           "holder": "Paradigm Asset Management Company, LLC",
           "shares": 68000,
           "pct_held": 0.0,
-          "value": 152184000
+          "value": 152932000
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 34614,
           "pct_held": 0.0,
-          "value": 77466132
+          "value": 77846886
         },
         {
           "holder": "Gamma Investing LLC",
           "shares": 4940,
           "pct_held": 0.0,
-          "value": 11055720
+          "value": 11110060
         }
       ]
     },
@@ -370,13 +370,13 @@
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 25064,
           "pct_held": 0.01,
-          "value": 6709633
+          "value": 6712138
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 1926,
           "pct_held": 0.0,
-          "value": 515590
+          "value": 515782
         }
       ]
     },
@@ -389,19 +389,19 @@
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 43482,
           "pct_held": 0.01,
-          "value": 2495866
+          "value": 2491953
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 6129,
           "pct_held": 0.0,
-          "value": 351804
+          "value": 351252
         },
         {
           "holder": "Atlas Capital Advisors Inc",
           "shares": 4410,
           "pct_held": 0.0,
-          "value": 253134
+          "value": 252737
         }
       ]
     },
@@ -414,19 +414,19 @@
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 2544,
           "pct_held": 0.01,
-          "value": 3817017
+          "value": 3834825
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 596,
           "pct_held": 0.0,
-          "value": 894238
+          "value": 898410
         },
         {
           "holder": "Gamma Investing LLC",
           "shares": 40,
           "pct_held": 0.0,
-          "value": 60016
+          "value": 60296
         }
       ]
     },
@@ -506,7 +506,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 3429,
           "pct_held": 0.0,
-          "value": 2107806
+          "value": 2108149
         }
       ]
     },
