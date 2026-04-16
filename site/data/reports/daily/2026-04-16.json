@@ -1,0 +1,103 @@
+{
+  "date": "2026-04-16",
+  "generated_at": "2026-04-16T09:13:43.985595Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-16-011",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Senate Republicans back Trump military sales to Israel",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "arms_export"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-16-021",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Australia boosts military spending as Iran war makes global impact - abcnews.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "defense_budget"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "arms_export": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "defense_budget": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "arms_export",
+        "count": 1
+      },
+      {
+        "id": "defense_budget",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為軍售、國防預算相關動態：「Senate Republicans back Trump military sales to Israel」。主要關注主題為軍售、國防預算，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Senate Republicans back Trump military sales to Israel（軍售）",
+        "level": "green"
+      },
+      {
+        "text": "Australia boosts military spending as Iran war makes global impact - abcnews.com（國防預算）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
