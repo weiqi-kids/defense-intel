@@ -1,0 +1,69 @@
+{
+  "date": "2026-04-17",
+  "generated_at": "2026-04-17T09:12:48.655650Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-17-014",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Impact of Defense Budget Allocations on NSN Demand Trends - vocal.media",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "defense_budget"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "defense_budget": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "defense_budget",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為國防預算相關動態：「Impact of Defense Budget Allocations on NSN Demand Trends...」。主要關注主題為國防預算，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Impact of Defense Budget Allocations on NSN Demand Trends - vocal.media（國防預算）",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

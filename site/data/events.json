@@ -1,5 +1,17 @@
 [
   {
+    "id": "unknown-2026-04-17-014",
+    "date": "2026-04-17",
+    "companies": [],
+    "topics": [
+      "defense_budget"
+    ],
+    "impact": "neutral",
+    "title": "Impact of Defense Budget Allocations on NSN Demand Trends - vocal.media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQkhNeGRPX0J4Q291NEhseFZPLWU1anJIa2tRRExxdzRxdTdwYm5oWjhzTFo4UUs2a3hTd0pSeGhIeld2VFBUV2ZfMkNTaGd3VEJLdTBqdmNFTzRaWlNTRnZ1RV9xMXcxM2xMOHM2V0",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-16-011",
     "date": "2026-04-16",
     "companies": [],
@@ -21,6 +33,142 @@
     "impact": "neutral",
     "title": "Australia boosts military spending as Iran war makes global impact - abcnews.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPYU1ha1hmRmNQRDB4b0NvMDZZV2FFVmRub0FKOTJiSXZ2eXQzREo1X0RBcDFxZnQ1SWZUZFhmcEg1dHl5aUdYd255TWlIdHpBU184YzBZTm9IaFduMXlMTjhzVTh3U1F1RzJTRnJnM0",
+    "sources": []
+  },
+  {
+    "id": "rheinmetall-2026-04-16-001",
+    "date": "2026-04-16",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "defense_budget"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall: A Multi-Combat System Provider At The Start Of A NATO Spending Super Cycle - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQaVFEM3JHQXU0cU84bnhCdDdWT1dBOWt1RDRpTWo3OEFyVjFQX3RyTlRMd2xHQkhfTmVxVHI1Zk1RemxJQWNpUngyODkxUFpwVEs5WnRmaTlhUDVUcENyV2JndldzczZWR0dPQVVBWH",
+    "sources": []
+  },
+  {
+    "id": "elbit-2026-04-16-002",
+    "date": "2026-04-16",
+    "companies": [
+      "elbit"
+    ],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Elbit's Starliner UAV to start test flights in Canada's Arctic - The Jerusalem Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qRzFtNG5saktYbTQ0dVo4TEs0UFRLNElfMnJwOGdpQkppcnRlRFJRcnVQUzQ1bEJyNVQ4bzYwTW9XYzBmYS1fLVFvZlhGaE1ObkpPTmVmYThPa1VZcmxmZ0JiYw?oc=5\" target=\"_",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-16-004",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Starlink outage hit drone tests, exposing Pentagon’s growing reliance on SpaceX",
+    "summary": "Last August, a global outage across Elon Musk’s satellite network left U.S. Navy unmanned surface vessels bobbing off California, halting operations.",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-16-005",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "How the US military could clear mines from the Strait of Hormuz",
+    "summary": "An arsenal of drones, explosive‑laden robots and helicopters can help reduce risk, though de‑mining crews could still be vulnerable to Iranian attacks.",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-16-006",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "EU pumps over $1 billion into defense R&D, centered around  Ukraine war lessons",
+    "summary": "The choice of funded projects marks a shift to 21st-century warfare, with loitering munitions and affordable mass drone production high on the agenda.",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-16-007",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Cheap Interceptor Drones Proven In Ukraine Protected U.S. Troops Against Iranian Shaheds",
+    "summary": "<p>The Army's top official lauded the Merops drone's performance defending against Iranian long-range kamikaze drones. </p>\n<p>The post <a href=\"https://www.twz.com/land/cheap-interceptor-drones-prove",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-16-008",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Super-Adaptable Mayhem 10 Swarming Drone Evolved From The Switchblade",
+    "summary": "<p>AeroVironment's Mayhem 10 is highly-modular and can seek and destroy enemy radars, jam comms, reconnoiter, strike armor and more.</p>\n<p>The post <a href=\"https://www.twz.com/air/super-adaptable-ma",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-16-009",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Army Eyes Drone Tankers To Refuel Its New MV-75 Cheyenne II Tiltrotors",
+    "summary": "<p>The Army and Bell have pointed to the U.S. Navy's MQ-25 Stingray drone tanker as an example of what could be on the horizon.</p>\n<p>The post <a href=\"https://www.twz.com/air/army-eyes-drone-tankers",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-16-010",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "positive",
+    "title": "Production Of AH-64 Apache’s New Counter-Drone Cannon Shell Ammunition Ramping-Up",
+    "summary": "<p>The Army anticipates a five-fold increase in procurement of the XM1225 APEX ammo.</p>\n<p>The post <a href=\"https://www.twz.com/air/production-of-ah-64-apaches-new-counter-drone-cannon-shell-ammunit",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-16-012",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "defense_budget"
+    ],
+    "impact": "neutral",
+    "title": "UK's Reeves says debt, taxes should not fund military spending boost - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOSlRiNUctTkpUN2RjRzRYdm9IVThIR0xhRkY0R2dnWDFmYmZOWXpvZkp5ekpzbXBmck81LWdIdzBBYVZXMTJuQ1RPYkd4VEVsR3UxVGcyVE5VOWdaS2xQWEtCTjM5TGV6alF6Sll5cV",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-16-017",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "defense_budget"
+    ],
+    "impact": "neutral",
+    "title": "US Taxpayers April 16: Military Spending Surge Costs Hundreds More - Meyka",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNYmhGOExIOE5qWnBiT3JHcXF5Yng0OHEtNHNfT2R4S01DMHlWRnE5Ni1JNHNja2dvUlRDQzVQNGdfMTlzdnZLa2M4amhXUWJHdFIxS1hDcVNiQjBPb3BsYlhJMGRxUFI0MURaY25VVk",
     "sources": []
   },
   {
@@ -304,6 +452,18 @@
     "impact": "neutral",
     "title": "At 175x Earnings, Palantir Isn’t Really As Expensive As It Looks - Trefis",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNE1iMGRhZS11b2ltRDhOY2s1TzVXTmp4Rjh5Tzk5bzdWOWhYbE9JME1BWjVfdkVhcW9heVZJdXJSWUNKdWt3dXZ1ckFmT0puWkgyLVVsTjFtcmx0d0pzVkxXNWgxcFZwMF9NcERXYT",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-14-003",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Serbia and Israel to jointly manufacture combat drones, Vucic says - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNUUNQemxkZlE0Tl8yN3RMT00xWUVhTUtVb1c4Zm5ZdFY5UGo3RTNYYmZNd0t5WERjMjg1VnZCRHhoMGhRN2FjUDhMSl9OUFduNlNyajFwdUpyYUVtNk9pM204amw3LXRHTEYwSzFEYX",
     "sources": []
   },
   {
@@ -757,6 +917,18 @@
     "sources": []
   },
   {
+    "id": "unknown-2026-04-03-015",
+    "date": "2026-04-03",
+    "companies": [],
+    "topics": [
+      "defense_budget"
+    ],
+    "impact": "neutral",
+    "title": "Trump seeks $1.5 trillion for defense spending in 2027 budget request - The Hill",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOR0l2aV9TMkpaZk80N3A0ZmF1WjNOWkl1NVVkekdGWE5BQ0dfTGRHRzJjSDZqekxsQ2Q3WEZtaWdsalMxTU1EZmZ3YXdxby1vRlVFT2VvNzRYM2NSVERjWUNXV1FQajV4d0NwLWRYUE",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-02-003",
     "date": "2026-04-02",
     "companies": [],
@@ -806,6 +978,18 @@
     "impact": "neutral",
     "title": "Ukraine hits back against Rheinmetall CEO's housewives' drones comments - Reuters",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPSFQxeTVLWldEZGFBcjNBcUc4aVpGWW1CdmQ3ODhHMWhTcENQMXdMcXk5ZFRORWtnRGtyTEd2UDdsaDhySW5OeEpDZkdfY2pwUUhkOFotNUk1WU5qSXc5UTdYWHNKc19hQWx2VzJaMX",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-30-016",
+    "date": "2026-03-30",
+    "companies": [],
+    "topics": [
+      "defense_budget"
+    ],
+    "impact": "neutral",
+    "title": "US to Release Defense Budget Details for Fiscal 2027 on April 21 - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNeGtOUFFCeHZzVThrSGx4WHhZbHlrOHNJTE41cHBkZDFmcDNaOW1DZDBNV19yOWd6SU5xTTZqSHYyWUl1c1d0bFRjTm51MGlOY2d0dHpWTTJveDVMTGN3WTVsSnVtenBBVUp2WEhSel",
     "sources": []
   },
   {
