@@ -12,6 +12,54 @@
     "sources": []
   },
   {
+    "id": "unknown-2026-04-17-003",
+    "date": "2026-04-17",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Air Force unit executes test of Anduril’s semiautonomous combat drone",
+    "summary": "Airmen operated Auduril's YFQ-44A jet-powered combat drone, which could someday fly alongside piloted fighters.",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-17-004",
+    "date": "2026-04-17",
+    "companies": [],
+    "topics": [
+      "defense_budget"
+    ],
+    "impact": "neutral",
+    "title": "Australia refines its defense strategy and investment plan",
+    "summary": "The government has laid out an aim for defense spending to reach 3% of GDP by 2033-34.",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-17-005",
+    "date": "2026-04-17",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "NATO revamps air surveillance approach for the ‘cost-war’ of low-flying drones, missiles",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/04/nato-revamps-air-surveillance-approach-for-the-cost-war-of-low-flying-drones-missiles/\"><img width=\"1024\" height=\"575\" src=\"https://breakingdefense.com/",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-17-006",
+    "date": "2026-04-17",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "YFQ-44 Fury Fighter Drone Wraps Contested Operations Test That Could Accelerate Its Fielding",
+    "summary": "<p>“An 85 percent solution in the hands of a warfighter today is infinitely better than a 100 percent solution that never arrives.”</p>\n<p>The post <a href=\"https://www.twz.com/air/yfq-44-fury-fighter",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-16-011",
     "date": "2026-04-16",
     "companies": [],
@@ -643,6 +691,18 @@
     "sources": []
   },
   {
+    "id": "unknown-2026-04-10-008",
+    "date": "2026-04-10",
+    "companies": [],
+    "topics": [
+      "defense_budget"
+    ],
+    "impact": "neutral",
+    "title": "Trump’s $1.5T defense budget to weather harsh scrutiny on Capitol Hill - Breaking Defense",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd0Z4SDZIemo5NnhXczdXTGpNS0txV3RSZ3FYeDI3YVYyb1ppWGJ1MkxJYkRScy1xZmNrTHI2SnpnM3djN2xhWVpsemZnelBrcUMwUHdPUVlOZ1pKNlZQM0xjSVk3c0VUdjFqeTlFMk",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-09-011",
     "date": "2026-04-09",
     "companies": [],
@@ -1187,6 +1247,32 @@
     "impact": "neutral",
     "title": "Turkey’s arms exports and mercenaries fuel instability in Africa, report says - Stockholm Center for Freedom",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDFUN19EZ1NtZjFBYVFYWDB2UmhaSmlLSU02YUM5b19qZ0NGcG1HTV9HbU5ZTE4wWkVDVzFwN2QzQW9yUHhqcEJVQVcwb05oXzF3MkxXRy1mMzRMTXRJMWY4Qm5CTS1pVHRrR1pVa0",
+    "sources": []
+  },
+  {
+    "id": "hanwha_aero-2025-10-16-001",
+    "date": "2025-10-16",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace, GA-ASI to co-develop next-generation UAS - Hanwha Group",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPZEZWX3Z0NmtkdWV6dFNZa1pWX2l1aVNGSUx3SkVManVxMGZoQk9lWlFYYWk4bFlNa1RhWXlvRlF4blA4QkdTSnZpc1ZYV29GSWpTLXp2b29jbWtpNG0tb0ViR2VYWjYtZ0tZMHk5RE",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-10-01-002",
+    "date": "2025-10-01",
+    "companies": [],
+    "topics": [
+      "defense_budget"
+    ],
+    "impact": "neutral",
+    "title": "Black Hawks, subs, and Gripens top Bt31bn defense budget - Thai PBS World",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQNVVzTGQ2V3k2ZGpHODBva2tyU1VGdXhBNGdNSG9lVDkyb3BBY3JSVjBpa01yZVliOTItMmNnOVY4ZVFsZGR0RFZ3YXJYZGVQTmNHQ25VUGdJanBnMWF1MHVoRy0wcVJUcFRYRFBSbU",
     "sources": []
   },
   {
