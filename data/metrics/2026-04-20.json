@@ -1,0 +1,29 @@
+{
+  "date": "2026-04-20",
+  "total_events": 3,
+  "by_company": {
+    "rtx": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "rheinmetall": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "defense_budget": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "drone_warfare": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
