@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-21",
+  "generated_at": "2026-04-21T09:21:42.157313Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rheinmetall-2026-04-21-007",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rheinmetall Starts Mass Production of Kraken K3 Scout Naval Drones, Eyes Output of Up to 1,000 per Year - Defense Express",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "rheinmetall-2026-04-21-010",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rheinmetall begins series production of the Kraken drone - Table.Briefings",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drone_warfare": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rheinmetall",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drone_warfare",
+        "count": 2
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為萊茵金屬相關動態：「Rheinmetall Starts Mass Production of Kraken K3 Scout Nav...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Rheinmetall Starts Mass Production of Kraken K3 Scout Naval Drones, Eyes Outp...（無人機作戰）",
+        "level": "green"
+      },
+      {
+        "text": "Rheinmetall begins series production of the Kraken drone - Table.Briefings（無人機作戰）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
