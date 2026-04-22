@@ -1,0 +1,43 @@
+{
+  "date": "2026-04-22",
+  "total_events": 6,
+  "by_company": {
+    "rtx": {
+      "count": 3,
+      "sentiment_avg": 0.5
+    },
+    "northrop": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "hanwha_aero": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "defense_budget": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "missile_defense": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hanwha_aero",
+      "to": "northrop",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "missile_defense"
+      ]
+    }
+  ]
+}

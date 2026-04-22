@@ -1,0 +1,200 @@
+{
+  "date": "2026-04-22",
+  "generated_at": "2026-04-22T09:15:54.538063Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "northrop-2026-04-22-015",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Hanwha Aerospace partners Northrop on next-generation missile system - The Korea Herald",
+      "companies": [
+        "northrop",
+        "hanwha_aero"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "missile_defense"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "northrop-2026-04-22-017",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Hanwha Aerospace Partners With Northrop Grumman on Long-Range Missile System - Seoul Economic Daily",
+      "companies": [
+        "northrop",
+        "hanwha_aero"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "missile_defense"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "rtx-2026-04-22-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "RTX Earnings Call: Record Backlog, Guidance Raised - TipRanks",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "rtx-2026-04-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "RTX's Franchises Stand to Benefit From Secular Aerospace Demand Growth and Rising Defense Budgets - Morningstar",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "defense_budget"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "rtx-2026-04-22-013",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "RTX (RTX) Is Down 7.7% After Raising 2026 Guidance On Broad-Based Strength - Has The Bull Case Changed? - Yahoo Finance",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "defense_budget": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "missile_defense": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "hanwha_aero",
+      "to": "northrop",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "missile_defense"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rtx",
+        "count": 3
+      },
+      {
+        "id": "hanwha_aero",
+        "count": 3
+      },
+      {
+        "id": "northrop",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "missile_defense",
+        "count": 3
+      },
+      {
+        "id": "defense_budget",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為RTX、韓華航太、諾格相關動態：「Hanwha Aerospace partners Northrop on next-generation mis...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hanwha Aerospace partners Northrop on next-generation missile system - The Ko...（飛彈防禦）",
+        "level": "yellow"
+      },
+      {
+        "text": "Hanwha Aerospace Partners With Northrop Grumman on Long-Range Missile System ...（飛彈防禦）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
