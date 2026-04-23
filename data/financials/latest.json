@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-22T09:15:51.698636Z",
-  "quarter": "2025-12-31",
+  "updated_at": "2026-04-23T09:22:35.112994Z",
+  "quarter": "2025-12-31, 2026-03-31",
   "companies": [
     {
       "id": "aidc",
@@ -133,14 +133,14 @@
       "name": "諾格",
       "ticker": "NOC",
       "currency": "USD",
-      "ar": 1375000000,
-      "ar_prev": 1983000000,
-      "ar_qoq": "-31%",
-      "inventory": 1309000000,
-      "inv_prev": 1615000000,
-      "inv_qoq": "-19%",
+      "ar": 1806000000,
+      "ar_prev": 1375000000,
+      "ar_qoq": "+31%",
+      "inventory": 1450000000,
+      "inv_prev": 1309000000,
+      "inv_qoq": "+11%",
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "palantir",
@@ -175,14 +175,14 @@
       "name": "RTX Corporation",
       "ticker": "RTX",
       "currency": "USD",
-      "ar": 14701000000,
-      "ar_prev": 12837000000,
-      "ar_qoq": "+15%",
-      "inventory": 13364000000,
-      "inv_prev": 13806000000,
-      "inv_qoq": "-3%",
+      "ar": 12945000000,
+      "ar_prev": 14701000000,
+      "ar_qoq": "-12%",
+      "inventory": 14153000000,
+      "inv_prev": 13364000000,
+      "inv_qoq": "+6%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "saab",
@@ -204,12 +204,12 @@
       "ticker": "HO.PA",
       "currency": "EUR",
       "ar": 3968900000,
-      "ar_prev": null,
-      "ar_qoq": "N/A",
+      "ar_prev": 6741800000,
+      "ar_qoq": "-41%",
       "inventory": 4964200000,
-      "inv_prev": null,
-      "inv_qoq": "N/A",
-      "alert": false,
+      "inv_prev": 5418800000,
+      "inv_qoq": "-8%",
+      "alert": true,
       "quarter_date": "2025-12-31"
     }
   ]

@@ -1,0 +1,49 @@
+{
+  "date": "2026-04-23",
+  "total_events": 5,
+  "by_company": {
+    "rtx": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "l3harris": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "aidc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "northrop": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hanwha_aero": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "elbit": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "drone_warfare": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "missile_defense": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "defense_budget": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
