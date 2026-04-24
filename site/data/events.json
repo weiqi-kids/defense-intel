@@ -1,5 +1,58 @@
 [
   {
+    "id": "rtx-2026-04-24-003",
+    "date": "2026-04-24",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "RTX is best positioned after aerospace earnings trio reports: BNP Paribas - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQ09BN2RPbTE2TV9ZNTlySTdyenVqN2U3ekwza3FYY1ZSbGFLUC00cjJUTElGNlotM09oRWVUVFdydzJBU08zdmFtaTlMekh4dkVvQ3A2ZFVTN1Q0R1A3UXdmMlloYVZ6aDlBQVN2Wk",
+    "sources": []
+  },
+  {
+    "id": "rheinmetall-2026-04-24-004",
+    "date": "2026-04-24",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall Receives Bundeswehr Order for FV-014 Drones, Suggesting Potential Use in Ukraine - Defense Express",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQdS1CaFVhQV9RUjA4eTRGRmFaUXY1RXdqT09pdS1Wb3dCZUxkSUlsS2NIdTFuYjRPam5oY2Y1SjlGc1dqZ0prU0Ffd25YZFdhdXRWQl9pWkVIbXBmeFdWWHVCNEh4ZllPSG1JU2pKV1",
+    "sources": []
+  },
+  {
+    "id": "rheinmetall-2026-04-24-007",
+    "date": "2026-04-24",
+    "companies": [
+      "rheinmetall",
+      "saab"
+    ],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Saab surges 24%, Rheinmetall floods the skies with drones, TKMS teams up with Navantia: Europe redraws its defense map - Escudo Digital",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMFdwX0lub2dqR21mUncyeE5USXVHc2d0ZDhDU0N5MkZjT3JKSXFwQmhoWUZiYzZrMUNGZkJTSk9lNkRWckdoaVoyRHVEOW1ScGRqYnF6SEotejQzSHJNZ09CLTZ3T0xJMm5FLUdydF",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-24-015",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "defense_budget"
+    ],
+    "impact": "neutral",
+    "title": "$1.5 Trillion U.S Defense Budget? Trump PROPOSES Largest Military Spending WW 2 After Iran War - Oneindia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQzZ2eHpuX21XUGtwTkFuUHpHazkya3BDU3lwZy1EcEdPWS1hQ3dZNkFjTW1wZ3cyRlNQVldMYklSdjBvNmtPR2ZwUld0dFNfZ0Q1bE1lRnpyNktYUFpiU2lXMGRxMGREMm1kWXZiVU",
+    "sources": []
+  },
+  {
     "id": "rtx-2026-04-23-002",
     "date": "2026-04-23",
     "companies": [
@@ -64,6 +117,121 @@
     "impact": "neutral",
     "title": "Israel orders $200 million in airborne munitions from Elbit as defense spending accelerates - CTech",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBSWEExQzdpWS1BOUtQVnNCZHRUNkljSldPUVdMV09KYkVwak41WTBRejZPaGF2T25QY05kU2lQOC1tdmE0b01TTmtoeV9KR0ZiR3o5M1NCLXZydTdsaGUxM01kV1JiMHJ6V0E?oc=5\" ",
+    "sources": []
+  },
+  {
+    "id": "rtx-2026-04-23-001",
+    "date": "2026-04-23",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Morgan Stanley adjusts RTX price target after earnings - thestreet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQeTJ4ZmVLWkc5R3dqbGxzUl8wN205TFN3aGNxOHpVaFNxZGdfaWZUSFZIR1UweUZtVDhyVjBFdEVQaERiX2d4UjdoLTc1V0VFS1gxNUZBaHUwaFl4VHJOUmwtWUttOWJNMDN6TW1LZk",
+    "sources": []
+  },
+  {
+    "id": "rheinmetall-2026-04-23-005",
+    "date": "2026-04-23",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Germany Backs Rheinmetall Loitering Munition With Multi-Billion-Euro Contract - The Defense Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNUXpadGFyaE5oZFduVUZBUVY3RFZsemlzWHRILXg2STJPeWd2N3ZtMk92LU5YbXBfamM3ekRCYTh3aGlYMHRSeTBlX0Q4TENEQnVwYU8zVjNjVG1QM0NldVBFOWR2X2NPZXFNUHNhdU",
+    "sources": []
+  },
+  {
+    "id": "rheinmetall-2026-04-23-006",
+    "date": "2026-04-23",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Loitering munition systems to be supplied to German military by Rheinmetall - Military Embedded Systems",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNODZZLVB0NkV0QXdmbmNoSWZ1bXBvTmJSS1U0bWgyb0JLY2hucGJRdk43WEdMT1ZFeGdRbjFOY2xqcW5oTWc4SmprQVNfZlVNUzhsVmhla0lqQzhRYS1UQjNmbnIxUGJHMmItbXdBOX",
+    "sources": []
+  },
+  {
+    "id": "rheinmetall-2026-04-23-008",
+    "date": "2026-04-23",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Bundeswehr orders FV-014 loitering munition from Rheinmetall - Janes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPZmJYTDBkcE40Z0J5UUhaNkE3TVE5UXhlY0FQZVBacTJMb0ZMZ1BOUkdpZHZINDJSMFhoZFUtZWFHNWJGZldreVJNV1EzNzlyWHl3enRibjA4TUl5OG5DUUFjS1Q2dGFvbGV4d2ZIM3",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-009",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Protest Targets Capital One to Demand Bank Ends Loans to Israeli Weapons Company - Truthout",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNSzZ6bnZCWV91NWJjc3lQbmVtR2NNTUNiUnl6MVRUaVRQdm92QlRMektrcDU3MmpqLWxFVThMU1F3NGVZSnFJTFpMWTBlMF9MY3N6Y3VianB6Z0dWSF9jc241QlpXeTd2MG96YzNIdE",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-010",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "In first, Ukrainian unmanned vessel launches interceptor to knock out Shahed drone",
+    "summary": "Ukraine unleashed a powerful new defense against Shahed drones that could blunt Russia's ability to force concessions in future negotiations.",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-011",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Saildrone’s Missile-Toting Spectre Enters Navy’s Medium-Sized Unmanned Ship Competition",
+    "summary": "<p>Saildrone has joined forces with defense juggernauts to supersize its proven vehicle concept and equip it with missiles and sub-hunting sensors. </p>\n<p>The post <a href=\"https://www.twz.com/sea/sa",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-012",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Navy Rushing To Arm Carrier Strike Groups With Hellfire Missiles",
+    "summary": "<p>The Navy is pushing more counter-drone hard-kill capabilities to its fleet as it comes to terms with the growing threat of one-way attack drones.</p>\n<p>The post <a href=\"https://www.twz.com/sea/ru",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-013",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "defense_budget",
+      "arms_export"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan Looks To Lock In New Arms Deal With America Amid Defense Spending Debate - Foundation for Defense of Democracies",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPNnJ2Z1IwVU1BRmxtRnlkQk5CV0VSQUdfeWFKTVlaR0xmdjkwWkhSd2JxTTU2djZTek1TTTJWRVFhcW8xX1BLRExVYzNQSmdVWEJBV25OM0tybWQ2VGVHOVZaT3JITV9IUXVqMXNybW",
     "sources": []
   },
   {
@@ -705,6 +873,30 @@
     "impact": "neutral",
     "title": "Pentagon wants $1.5 trillion budget for Golden Dome, drones, troop raises - The Hill",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNN1FJSzBEY3BsSEpGU2s3TDVnc1JJZTRUY1o0Z1NkaUVUeHZtU0NkWmx2ZDRlUDQ2U2pQX05Uc1pwemVFUTZLeTdyYk4xQmRUdUIzS2czNTdpN2lwTGt5QjRscEsxRzgzeFRRbkVjZ3",
+    "sources": []
+  },
+  {
+    "id": "rtx-2026-04-21-002",
+    "date": "2026-04-21",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "RTX: Q1 Earnings Snapshot - KVUE",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxObmFyWFhndEVLSERIb0tYbWo0VGx1bHhGSGF2MllpSm9UTmM1ZVl1amJyZjZMUVkxczhTTDk0MU5vZG1uX2JOWEEtYXkxdnZ2Q01zZHJ6OVZMZ1RaVmNWYWplc1ctSFVfeldoejFxRU",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-21-014",
+    "date": "2026-04-21",
+    "companies": [],
+    "topics": [
+      "defense_budget"
+    ],
+    "impact": "neutral",
+    "title": "Pentagon details funding strategy behind Trump’s proposed $1.45 trillion defense budget - SpaceNews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNcGY4aW45M0gzMUNCeW93MjJRQkc2bVkzVmFJV3BuWHFDek9UenRHZ2ppNnVwd2g5eTRkN1FOWldnWEFrVG1GRVNMcENhUWtsMDNHUUxtZXRJQVFhWGZHY2N5LTBWa01NZm4zOHlVUm",
     "sources": []
   },
   {

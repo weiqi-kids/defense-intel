@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T09:22:35.112994Z",
+  "updated_at": "2026-04-24T09:27:00.214369Z",
   "quarter": "2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -189,14 +189,14 @@
       "name": "紳寶",
       "ticker": "SAAB-B.ST",
       "currency": "SEK",
-      "ar": 13713000000,
-      "ar_prev": 10402000000,
-      "ar_qoq": "+32%",
-      "inventory": 25439000000,
-      "inv_prev": 24467000000,
-      "inv_qoq": "+4%",
+      "ar": 9348000000,
+      "ar_prev": 13713000000,
+      "ar_qoq": "-32%",
+      "inventory": 27357000000,
+      "inv_prev": 25439000000,
+      "inv_qoq": "+8%",
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "thales",
@@ -204,12 +204,12 @@
       "ticker": "HO.PA",
       "currency": "EUR",
       "ar": 3968900000,
-      "ar_prev": 6741800000,
-      "ar_qoq": "-41%",
+      "ar_prev": null,
+      "ar_qoq": "N/A",
       "inventory": 4964200000,
-      "inv_prev": 5418800000,
-      "inv_qoq": "-8%",
-      "alert": true,
+      "inv_prev": null,
+      "inv_qoq": "N/A",
+      "alert": false,
       "quarter_date": "2025-12-31"
     }
   ]

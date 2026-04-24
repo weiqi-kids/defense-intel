@@ -1,87 +1,87 @@
 {
   "lockheed": {
-    "earliest": "2022-11-07",
-    "latest": "2026-04-22",
-    "count": 866
+    "earliest": "2022-08-09",
+    "latest": "2026-04-23",
+    "count": 930
   },
   "rtx": {
-    "earliest": "2022-11-07",
-    "latest": "2026-04-22",
-    "count": 866
+    "earliest": "2022-08-09",
+    "latest": "2026-04-23",
+    "count": 930
   },
   "northrop": {
-    "earliest": "2022-11-07",
-    "latest": "2026-04-22",
-    "count": 866
+    "earliest": "2022-08-09",
+    "latest": "2026-04-23",
+    "count": 930
   },
   "general_dynamics": {
-    "earliest": "2022-11-07",
-    "latest": "2026-04-22",
-    "count": 866
+    "earliest": "2022-08-09",
+    "latest": "2026-04-23",
+    "count": 930
   },
   "l3harris": {
-    "earliest": "2022-11-07",
-    "latest": "2026-04-22",
-    "count": 866
+    "earliest": "2022-08-09",
+    "latest": "2026-04-23",
+    "count": 930
   },
   "bae": {
-    "earliest": "2022-11-08",
-    "latest": "2026-04-23",
-    "count": 873
+    "earliest": "2022-08-10",
+    "latest": "2026-04-24",
+    "count": 936
   },
   "thales": {
-    "earliest": "2022-11-08",
-    "latest": "2026-04-23",
-    "count": 882
+    "earliest": "2022-08-10",
+    "latest": "2026-04-24",
+    "count": 947
   },
   "leonardo": {
-    "earliest": "2022-11-08",
-    "latest": "2026-04-23",
-    "count": 875
+    "earliest": "2022-08-10",
+    "latest": "2026-04-24",
+    "count": 939
   },
   "rheinmetall": {
-    "earliest": "2022-11-08",
-    "latest": "2026-04-23",
-    "count": 878
+    "earliest": "2022-08-10",
+    "latest": "2026-04-24",
+    "count": 943
   },
   "aidc": {
-    "earliest": "2022-11-09",
-    "latest": "2026-04-23",
-    "count": 831
+    "earliest": "2022-08-11",
+    "latest": "2026-04-24",
+    "count": 894
   },
   "hanwha_aero": {
-    "earliest": "2022-11-07",
-    "latest": "2026-04-23",
-    "count": 845
+    "earliest": "2022-08-09",
+    "latest": "2026-04-24",
+    "count": 905
   },
   "elbit": {
-    "earliest": "2022-11-07",
-    "latest": "2026-04-22",
-    "count": 866
+    "earliest": "2022-08-09",
+    "latest": "2026-04-23",
+    "count": 930
   },
   "saab": {
-    "earliest": "2022-11-08",
-    "latest": "2026-04-23",
-    "count": 866
+    "earliest": "2022-08-10",
+    "latest": "2026-04-24",
+    "count": 931
   },
   "palantir": {
-    "earliest": "2022-11-07",
-    "latest": "2026-04-22",
-    "count": 866
+    "earliest": "2022-08-09",
+    "latest": "2026-04-23",
+    "count": 930
   },
   "kratos": {
-    "earliest": "2022-11-07",
-    "latest": "2026-04-22",
-    "count": 866
+    "earliest": "2022-08-09",
+    "latest": "2026-04-23",
+    "count": 930
   },
   "etf_ita": {
-    "earliest": "2022-11-07",
-    "latest": "2026-04-22",
-    "count": 866
+    "earliest": "2022-08-09",
+    "latest": "2026-04-23",
+    "count": 930
   },
   "etf_ppa": {
-    "earliest": "2022-11-07",
-    "latest": "2026-04-22",
-    "count": 866
+    "earliest": "2022-08-09",
+    "latest": "2026-04-23",
+    "count": 930
   }
 }

@@ -1,0 +1,163 @@
+{
+  "date": "2026-04-24",
+  "generated_at": "2026-04-24T09:27:03.199451Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rheinmetall-2026-04-24-007",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Saab surges 24%, Rheinmetall floods the skies with drones, TKMS teams up with Navantia: Europe redraws its defense map - Escudo Digital",
+      "companies": [
+        "rheinmetall",
+        "saab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "rtx-2026-04-24-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "RTX is best positioned after aerospace earnings trio reports: BNP Paribas - MSN",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "rheinmetall-2026-04-24-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rheinmetall Receives Bundeswehr Order for FV-014 Drones, Suggesting Potential Use in Ukraine - Defense Express",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-04-24-015",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "$1.5 Trillion U.S Defense Budget? Trump PROPOSES Largest Military Spending WW 2 After Iran War - Oneindia",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "defense_budget"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drone_warfare": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "defense_budget": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rheinmetall",
+        "count": 2
+      },
+      {
+        "id": "rtx",
+        "count": 1
+      },
+      {
+        "id": "saab",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drone_warfare",
+        "count": 2
+      },
+      {
+        "id": "defense_budget",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為萊茵金屬、RTX、紳寶相關動態：「Saab surges 24%, Rheinmetall floods the skies with drones...」。主要關注主題為無人機作戰、國防預算，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Saab surges 24%, Rheinmetall floods the skies with drones, TKMS teams up with...（無人機作戰）",
+        "level": "yellow"
+      },
+      {
+        "text": "RTX is best positioned after aerospace earnings trio reports: BNP Paribas - MSN",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
