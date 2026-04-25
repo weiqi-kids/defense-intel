@@ -53,6 +53,130 @@
     "sources": []
   },
   {
+    "id": "rtx-2026-04-24-002",
+    "date": "2026-04-24",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "RTX Q1 2026: $22.1B Revenue and 21% EPS Growth Back the Defense Thesis - TIKR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOcFUxalJBQnhRTHZwR3ltcHM1S0VrcWVfR1lxR1Z5U3d3eWpGaXpMNE5Ub3RCbmxYQUVwX1Vmc3FSXzZWak5ZWUNJQjRGSzZWbDU2WDNtRW9xNFNydG1zTTQ1V0hQQ0l1UmpDamZ0RV",
+    "sources": []
+  },
+  {
+    "id": "l3harris-2026-04-24-003",
+    "date": "2026-04-24",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "L3Harris Technologies to Post Q1 Earnings: Here's What's in the Cards - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQazV2cXZGR2FIano2WVQ2Q2dDVk1tYnNtUjF3a0FmOS1yQ3FXdEhKRF9XcDFUSFV0Y0twUTE4ejB2cXg0dnJvdzNja3Qwd1FxSFpUWnEzaW8zazFWNEd1UW9PanUzOGw5UVU4YjM1TE",
+    "sources": []
+  },
+  {
+    "id": "l3harris-2026-04-24-004",
+    "date": "2026-04-24",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "L3Harris (LHX) falls 4.3% as investors reposition ahead of earnings amid broader defense-stock weakness - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZGFDcWM4Qi1ocGQ4MjBBeHV4MVRqVzRiY3QxbVpwRGdkLXVaNmRBOWZ6WHZET3h3WGlKY0IyVXlFYi1wSldLamtpMjJoTVVUalFMM3ZCS296bGg2cmRySUhucWNRZjBPQTl2N29fY2",
+    "sources": []
+  },
+  {
+    "id": "l3harris-2026-04-24-005",
+    "date": "2026-04-24",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "L3Harris Opens High-Volume VAMPIRE Production Line in Huntsville - Inside Unmanned Systems",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ3h4T0hESGtFdHhJZm0yeldRRlNzZFZ0b09YVTJrdngtQ3JQNGZfa0JtMmhOZm5FbFlCaGxZT2cxdW5ROUZoTEhMM3pXcTJhZVh4ME12VXA3cHFiVGRwbEk3bnlfcDNuMEtLblBUZE",
+    "sources": []
+  },
+  {
+    "id": "elbit-2026-04-24-006",
+    "date": "2026-04-24",
+    "companies": [
+      "elbit"
+    ],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Pro-Palestinian activists break into suspected Elbit Systems drone factory - Al Jazeera",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWlhvQlNiZ3VDNUtIWThQNUg1RkRGclhjM2JqNGxzZ2d6cENrY3VXRlhzWURRNkdoTFJ2U1I1YUF4NDl6eFhudGhyZTZEOW4yNXRkeEhvcUNQQ3BicTQzd01FWS1XQlRkWkJSWDJZRk",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-24-007",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Activist intended to 'dismantle drones' in raid - BBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zVTUtZXNQX2xSR3phRGhudGlEODZPU1doa21kOWVTeWM0SkRtVjBZUGxZNldVRktzU2pGaEZFdUNpRHJMWjRNNXZUa1dOaUM1U2lfTV80RUktZw?oc=5\" target=\"_blank\">Activ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-24-008",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Why the US Marine Corps wants a new anti-tank loitering munition",
+    "summary": "The service wants the kamikaze drone to have a range of at least around 15 miles and be light enough to be carried by two dismounted Marines.  ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-24-009",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "The US military wants a fleet of missile-killing laser drones",
+    "summary": "The U.S. military is once again pursuing flying directed energy weapons to counter threats to American airspace.",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-24-010",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Australia awards contracts for counter-drone tech based on lasers, interceptors",
+    "summary": "Both products will eventually integrate into a command-and-control system developed under the Army’s umbrella Land 156 counter-unmanned aerial system push.",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-24-011",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Ukraine’s Drone-Hunting An-28 Turboprop Is Now Launching Interceptor Drones",
+    "summary": "<p>The latest evolution of Ukraine’s rugged An-28 Cash turboprop counter-drone platform combines interceptor drones and Minigun armament.</p>\n<p>The post <a href=\"https://www.twz.com/air/ukraines-dron",
+    "sources": []
+  },
+  {
     "id": "rtx-2026-04-23-002",
     "date": "2026-04-23",
     "companies": [
@@ -232,6 +356,21 @@
     "impact": "neutral",
     "title": "Taiwan Looks To Lock In New Arms Deal With America Amid Defense Spending Debate - Foundation for Defense of Democracies",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPNnJ2Z1IwVU1BRmxtRnlkQk5CV0VSQUdfeWFKTVlaR0xmdjkwWkhSd2JxTTU2djZTek1TTTJWRVFhcW8xX1BLRExVYzNQSmdVWEJBV25OM0tybWQ2VGVHOVZaT3JITV9IUXVqMXNybW",
+    "sources": []
+  },
+  {
+    "id": "lockheed-2026-04-23-001",
+    "date": "2026-04-23",
+    "companies": [
+      "lockheed",
+      "rtx"
+    ],
+    "topics": [
+      "defense_budget"
+    ],
+    "impact": "neutral",
+    "title": "Lockheed Martin vs. RTX: Defense Spending Is Surging — Here’s Who Wins - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQRjRYeXRjSGRvWHl1Skg1dkZPRmZRMzFRcXdXbGdseGVWdkZXaWt4WGEwTHNDeWtJSW9nb2dneVJMak5STTNFcHQ4b2dwd3kxS3FZa2pyc2dWckdZNUg4bmNkTmtJNnpvSHJXTThsT1",
     "sources": []
   },
   {

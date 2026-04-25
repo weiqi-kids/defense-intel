@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T09:27:00.214369Z",
+  "updated_at": "2026-04-25T08:46:12.864528Z",
   "quarter": "2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -119,14 +119,14 @@
       "name": "洛馬",
       "ticker": "LMT",
       "currency": "USD",
-      "ar": 3901000000,
-      "ar_prev": 3844000000,
-      "ar_qoq": "+1%",
-      "inventory": 3524000000,
-      "inv_prev": 3749000000,
-      "inv_qoq": "-6%",
-      "alert": false,
-      "quarter_date": "2025-12-31"
+      "ar": 2322000000,
+      "ar_prev": 3901000000,
+      "ar_qoq": "-40%",
+      "inventory": 4251000000,
+      "inv_prev": 3524000000,
+      "inv_qoq": "+21%",
+      "alert": true,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "northrop",
@@ -204,12 +204,12 @@
       "ticker": "HO.PA",
       "currency": "EUR",
       "ar": 3968900000,
-      "ar_prev": null,
-      "ar_qoq": "N/A",
+      "ar_prev": 6741800000,
+      "ar_qoq": "-41%",
       "inventory": 4964200000,
-      "inv_prev": null,
-      "inv_qoq": "N/A",
-      "alert": false,
+      "inv_prev": 5418800000,
+      "inv_qoq": "-8%",
+      "alert": true,
       "quarter_date": "2025-12-31"
     }
   ]
