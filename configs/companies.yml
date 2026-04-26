@@ -13,6 +13,7 @@ companies:
   rss_url: https://news.lockheedmartin.com/rss
   downstream:
   - palantir
+  fetch_mode: http
 - id: rtx
   name: RTX Corporation
   aliases:
@@ -27,6 +28,7 @@ companies:
   rss_url: https://news.google.com/rss/search?q="RTX+Corporation"&hl=en&gl=US&ceid=US:en
   downstream:
   - palantir
+  fetch_mode: http
 - id: northrop
   name: Northrop Grumman
   aliases:
@@ -39,6 +41,7 @@ companies:
   role: 轟炸機/太空
   description: B-21 轟炸機與太空系統
   rss_url: https://investor.northropgrumman.com/rss/news-releases.xml
+  fetch_mode: http
 - id: general_dynamics
   name: General Dynamics
   aliases:
@@ -50,6 +53,7 @@ companies:
   role: 艦艇/裝甲
   description: 核潛艇與裝甲車輛
   rss_url: https://investorrelations.gd.com/rss/news-releases.xml
+  fetch_mode: http
 - id: l3harris
   name: L3Harris Technologies
   aliases: []
@@ -60,6 +64,7 @@ companies:
   role: 通訊/電戰
   description: 軍事通訊與電子戰系統
   rss_url: https://news.google.com/rss/search?q="L3Harris+Technologies"&hl=en&gl=US&ceid=US:en
+  fetch_mode: http
 - id: bae
   name: BAE Systems
   aliases:
@@ -71,6 +76,7 @@ companies:
   role: 防務
   description: 歐洲最大國防承包商
   rss_url: https://investors.baesystems.com/rss/news
+  fetch_mode: http
 - id: thales
   name: Thales
   aliases:
@@ -82,6 +88,7 @@ companies:
   role: 電子/網安
   description: 法國國防電子與網路安全
   rss_url: https://www.thalesgroup.com/en/rssfeed/press-releases
+  fetch_mode: http
 - id: leonardo
   name: Leonardo
   aliases:
@@ -93,6 +100,7 @@ companies:
   role: 直升機/電子
   description: 義大利國防與航太集團
   rss_url: https://news.google.com/rss/search?q="Leonardo"+helicopter+defense&hl=en&gl=US&ceid=US:en
+  fetch_mode: http
 - id: rheinmetall
   name: Rheinmetall
   aliases:
@@ -104,6 +112,7 @@ companies:
   role: 裝甲/彈藥
   description: 德國裝甲車與彈藥製造商
   rss_url: https://news.google.com/rss/search?q="Rheinmetall"&hl=en&gl=US&ceid=US:en
+  fetch_mode: http
 - id: aidc
   name: AIDC
   aliases:
@@ -116,6 +125,7 @@ companies:
   role: 航太
   description: 台灣航太國防製造商
   rss_url: https://news.google.com/rss/search?q="AIDC"+aerospace&hl=en&gl=US&ceid=US:en
+  fetch_mode: http
 - id: hanwha_aero
   name: Hanwha Aerospace
   aliases:
@@ -128,6 +138,7 @@ companies:
   role: 航太/防務
   description: 韓國航太與國防製造商
   rss_url: https://news.google.com/rss/search?q="Hanwha+Aerospace"&hl=en&gl=US&ceid=US:en
+  fetch_mode: http
 - id: elbit
   name: Elbit Systems
   aliases:
@@ -139,6 +150,7 @@ companies:
   role: 無人機/電子
   description: 以色列國防電子與無人機
   rss_url: https://news.google.com/rss/search?q="Elbit+Systems"&hl=en&gl=US&ceid=US:en
+  fetch_mode: http
 - id: saab
   name: Saab AB
   aliases:
@@ -150,6 +162,7 @@ companies:
   role: 戰機/潛艇
   description: 瑞典國防集團，Gripen 戰機
   rss_url: https://news.google.com/rss/search?q="Saab+AB"+fighter+submarine&hl=en&gl=US&ceid=US:en
+  fetch_mode: http
 - id: palantir
   name: Palantir Technologies
   aliases: []
@@ -163,6 +176,7 @@ companies:
   upstream:
   - lockheed
   - rtx
+  fetch_mode: http
 - id: kratos
   name: Kratos Defense & Security Solutions
   aliases: []
@@ -173,6 +187,7 @@ companies:
   role: 無人機/標靶
   description: 無人機系統與標靶載具
   rss_url: https://ir.kratosdefense.com/rss/news-releases.xml
+  fetch_mode: http
 etfs:
 - id: ita
   name: iShares U.S. Aerospace & Defense ETF
