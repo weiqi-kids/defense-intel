@@ -1,6 +1,6 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T08:54:46.082441Z",
+  "generated_at": "2026-04-26T14:09:50.851675Z",
   "top_events": [
     {
       "rank": 1,
@@ -118,24 +118,24 @@
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 8,
+    "total_events": 11,
     "sentiment_distribution": {
       "positive": 1,
-      "neutral": 7,
+      "neutral": 10,
       "negative": 0
     },
     "top_companies": [
       {
         "id": "palantir",
-        "count": 3
+        "count": 4
       },
       {
         "id": "l3harris",
-        "count": 2
+        "count": 3
       },
       {
         "id": "rtx",
-        "count": 1
+        "count": 2
       },
       {
         "id": "elbit",
@@ -150,14 +150,14 @@
     ]
   },
   "filter_audit": {
-    "total_raw": 295,
-    "dup_title": 96,
-    "too_old": 83,
-    "gate1_blocked": 74,
-    "gate2_blocked": 29,
-    "passed": 13,
-    "pass_rate": "6.5%",
-    "gate2_block_rate": "14.6%",
+    "total_raw": 575,
+    "dup_title": 195,
+    "too_old": 183,
+    "gate1_blocked": 117,
+    "gate2_blocked": 61,
+    "passed": 19,
+    "pass_rate": "5.0%",
+    "gate2_block_rate": "16.1%",
     "gate2_samples": [
       "Advisors Capital Management LLC Acquires 8,993 Shares of RTX Corporation $RTX - MarketBeat",
       "RTX Corporation: Gift Exit Despite Solid Results (NYSE:RTX) - Seeking Alpha",
@@ -168,7 +168,7 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 8 則事件，焦點為Palantir Technologies、L3Harris Technologies、RTX相關動態：「Six anti-Israel activists charged for ramming down UAV fa...」。整體情緒偏正面，市場信心回溫。",
+    "summary": "今日共 11 則事件，焦點為Palantir Technologies、L3Harris Technologies、RTX相關動態：「Six anti-Israel activists charged for ramming down UAV fa...」。整體情緒偏正面，市場信心回溫。",
     "signals": [
       {
         "text": "Six anti-Israel activists charged for ramming down UAV factory gate, tearing ...（無人機作戰）",

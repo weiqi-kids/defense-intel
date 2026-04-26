@@ -1,17 +1,17 @@
 {
   "date": "2026-04-26",
-  "total_events": 8,
+  "total_events": 11,
   "by_company": {
     "palantir": {
-      "count": 3,
-      "sentiment_avg": 0.17
+      "count": 4,
+      "sentiment_avg": 0.12
     },
     "rtx": {
-      "count": 1,
+      "count": 2,
       "sentiment_avg": 0.0
     },
     "l3harris": {
-      "count": 2,
+      "count": 3,
       "sentiment_avg": 0.0
     },
     "elbit": {

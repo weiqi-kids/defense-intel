@@ -146,6 +146,60 @@
     ]
   },
   {
+    "id": "rtx-2026-04-26-009",
+    "date": "2026-04-26",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "RTX wins $3.81B US Navy F-135 engine production contract modification - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wJBVV95cUxNSjFjV0FFX3VtWG1MS1E4bGp4QXBEb2RpSk1iYkFsY1VOclIyZTNVaHBiOEdqb1NoOS1TNkhKZDY0djV0X3Bnb0k3TFNCMVBEZ042T1RWMmV2VEZnaE1qWG5QRGhSUHZzVXdqcEhhNl",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNSjFjV0FFX3VtWG1MS1E4bGp4QXBEb2RpSk1iYkFsY1VOclIyZTNVaHBiOEdqb1NoOS1TNkhKZDY0djV0X3Bnb0k3TFNCMVBEZ042T1RWMmV2VEZnaE1qWG5QRGhSUHZzVXdqcEhhNlpHckcyQ09yZW9OLTliM0t0RzhLZ282X0ktM3k4RzM5dlN5eHFDSXBzTl9maFNiVEhWYXZCTFk0WWo5bFJLUl9XVDdvcmV5VFU3c0NQcTYxS1FuRzc5MkhYZFRmQnpDX19YZXVjZnpLemhaaVRuRDhjVWJTZGYzUGdEcGkzRGdpSkhocG52ckNGNVBMMllOZnFoOV9SOC1zYVh4LWd3Nm1nNm5oYkM0NmF3d1E3bDZvSE5wM3FMMnFkV2djRUN0Wk1Ldk9FclpMdWNpS0M2c1BqdEJHY1JQYmxsVHNCLS12VURKeU5NdEZwNktOdll4Q2ttMURtR2hTWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-04-26-010",
+    "date": "2026-04-26",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "L3Harris closes $1B investment from Department of Defense in missile business solutions - Magnolia Reporter",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPSTVkSmJWTG96M2puMldOczdUYzl1TTd0NnJRcm0yc1BzMHR1djAwRzdHU0lZZmtKdG9MbUNBT0lZS3FfM05tdVJad3lkemdzOVFUbFY4Q0Z5MlgtZk5SN3ZaRDU4a0NSeDFxNEYyeG",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSTVkSmJWTG96M2puMldOczdUYzl1TTd0NnJRcm0yc1BzMHR1djAwRzdHU0lZZmtKdG9MbUNBT0lZS3FfM05tdVJad3lkemdzOVFUbFY4Q0Z5MlgtZk5SN3ZaRDU4a0NSeDFxNEYyeG5qUjg1WS1RQnI5bTFzREFURDVGc2lwYUprYzQ0UWVLSll0N2w2Zm1PS1dONkFqWGFNQ2g3cEtEbzFSWDBqM3lSTDNWNmFTcDQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-04-26-011",
+    "date": "2026-04-26",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Vanyar Launch Tests Depth Of Palantir Foundry And AIP Demand - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPMmV2TUNfOWJudWVvT3F3R3M2TG01akhrQmYwNVRSd2pXYjRMRHJ3aXRBVUVvMmJqUG1ZTjFVV1c5NVNScDZ6cWIwTnNFZV9MUVpmMEVVcjJDdGNVbDdfMnpaMjFfSllMZUtpeHk0U1",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMmV2TUNfOWJudWVvT3F3R3M2TG01akhrQmYwNVRSd2pXYjRMRHJ3aXRBVUVvMmJqUG1ZTjFVV1c5NVNScDZ6cWIwTnNFZV9MUVpmMEVVcjJDdGNVbDdfMnpaMjFfSllMZUtpeHk0U1NybDNTQmROZ0pDT3FGTkNoYkhCSkVWRHIzd3E1S0JGbm5vNUlTNER0ZndrZWdnS0tt?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "elbit-2026-04-25-001",
     "date": "2026-04-25",
     "companies": [
@@ -808,6 +862,24 @@
       {
         "name": "palantir",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80UlBOVy1ZYlRGTnlwdUZuMHR3WWlSdk9ESG5wYWlieXEtWjBvTWJQZnN1S2ZMWmJTc2NfbTlwZHpONGJjZS1YYmVRdmNWdWt4MXVVTG1TajVPNWxWTmJnOXRuZkNuR3F3enU2RTlvRGozUHdPMUt1MXEyYTlYMjg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-04-24-032",
+    "date": "2026-04-24",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "One AI Stock Outpacing NVIDIA & Palantir - Why It's a Better Buy - Zacks Investment Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOS1pyLUxVZWE1QXFPM08td1RrQnNscjY5a1d0TEVZbUxTUThQeGV5bC1SUWhUSmp3dWg3S2c0aTkyQWVnRWtKRTRQVzlhYzVJSjFaWTc4WE55U25QU2ZaVzZIQzFMNnAtNC1wRDdiVH",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS1pyLUxVZWE1QXFPM08td1RrQnNscjY5a1d0TEVZbUxTUThQeGV5bC1SUWhUSmp3dWg3S2c0aTkyQWVnRWtKRTRQVzlhYzVJSjFaWTc4WE55U25QU2ZaVzZIQzFMNnAtNC1wRDdiVHgzVmpNc2k4YU1ueV8wOVZ5R1loOGJ1X3NZTDdmVGxWa29sWUY0RS1zMGNKcl9VRGluZ2pTeA?oc=5",
         "type": "rss"
       }
     ]
@@ -2051,6 +2123,44 @@
     "title": "Pentagon details funding strategy behind Trump’s proposed $1.45 trillion defense budget - SpaceNews",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNcGY4aW45M0gzMUNCeW93MjJRQkc2bVkzVmFJV3BuWHFDek9UenRHZ2ppNnVwd2g5eTRkN1FOWldnWEFrVG1GRVNMcENhUWtsMDNHUUxtZXRJQVFhWGZHY2N5LTBWa01NZm4zOHlVUm",
     "sources": []
+  },
+  {
+    "id": "northrop-2026-04-21-032",
+    "date": "2026-04-21",
+    "companies": [
+      "northrop"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Northrop Grumman Releases First Quarter 2026 Financial Results",
+    "summary": "FALLS CHURCH, Va., April 21, 2026 (GLOBE NEWSWIRE) -- Northrop Grumman Corporation (NYSE: NOC) has released its first quarter 2026 financial results. A copy of the earnings release has been furnished ",
+    "sources": [
+      {
+        "name": "northrop",
+        "url": "https://investor.northropgrumman.com/news-releases/news-release-details/northrop-grumman-releases-first-quarter-2026-financial-results",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kratos-2026-04-21-033",
+    "date": "2026-04-21",
+    "companies": [
+      "kratos"
+    ],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "negative",
+    "title": "Kratos and U.S. Army Integrate Kratos J85 Engine into Kratos Firejet Drone System",
+    "summary": "New, Leading Technology Engine Configuration of Firejet is First-to-Market Tactical Jet UAS in the High-Performance, Affordable sub-$500,000 Class SAN DIEGO, April 21, 2026 (GLOBE NEWSWIRE) -- Kratos ",
+    "sources": [
+      {
+        "name": "kratos",
+        "url": "https://ir.kratosdefense.com/news-releases/news-release-details/kratos-and-us-army-integrate-kratos-j85-engine-kratos-firejet",
+        "type": "rss"
+      }
+    ]
   },
   {
     "id": "rtx-2026-04-20-001",

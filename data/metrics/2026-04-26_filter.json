@@ -1,11 +1,11 @@
 {
-  "total_raw": 295,
-  "dup_title": 96,
+  "total_raw": 575,
+  "dup_title": 195,
   "no_date": 0,
-  "too_old": 83,
-  "gate1_fail": 74,
-  "gate2_fail": 29,
-  "passed": 13,
+  "too_old": 183,
+  "gate1_fail": 117,
+  "gate2_fail": 61,
+  "passed": 19,
   "gate2_samples": [
     "Advisors Capital Management LLC Acquires 8,993 Shares of RTX Corporation $RTX - MarketBeat",
     "RTX Corporation: Gift Exit Despite Solid Results (NYSE:RTX) - Seeking Alpha",
