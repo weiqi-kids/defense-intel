@@ -1,5 +1,43 @@
 [
   {
+    "id": "unknown-2026-04-26-001",
+    "date": "2026-04-26",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Six anti-Israel activists charged for ramming down UAV factory gate, tearing into roof - The Jerusalem Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Oei1CMm9NeWZXSWEzX3ByeFBBQlFPdVFhbHRzbTRTY09BQzdhZ2tvLTFOVTZIcUtCS0k2SnhLSFU2eXB1LVVWOElnMXFUZTNJeHhRRlFiS0lIbnNiVTV3?oc=5\" target=\"_blank\"",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Oei1CMm9NeWZXSWEzX3ByeFBBQlFPdVFhbHRzbTRTY09BQzdhZ2tvLTFOVTZIcUtCS0k2SnhLSFU2eXB1LVVWOElnMXFUZTNJeHhRRlFiS0lIbnNiVTV3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "elbit-2026-04-25-001",
+    "date": "2026-04-25",
+    "companies": [
+      "elbit"
+    ],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Six charged in UK after allegedly driving van into entrance of Elbit-owned drone maker - The Times of Israel",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNY0tHeHU2ZHFCSVNQRUhhZlhEMzZzczVPNmNBVEJ0bzhnVGxIV1h2Z0k0V2tQQVVPNGk3Tnc5cllqNnVJa3ptSWN3T1BNRVFoRkFZUjhwU3dqcjh6c1pZamxDaEpUN3dSUmZXQVJIUG",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY0tHeHU2ZHFCSVNQRUhhZlhEMzZzczVPNmNBVEJ0bzhnVGxIV1h2Z0k0V2tQQVVPNGk3Tnc5cllqNnVJa3ptSWN3T1BNRVFoRkFZUjhwU3dqcjh6c1pZamxDaEpUN3dSUmZXQVJIUGRmU1pmVER0YnlUcndldk1VY3I4b05zQUtpdWpSVkd6TkpfSGpkOGNxc2lXdGxqLTlJekRqejR5NWFJcmlpam94VkxUaWVJY1BYY2pWMUxzazZjUVdXZmxPZ2pTSGY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rtx-2026-04-24-003",
     "date": "2026-04-24",
     "companies": [
@@ -175,6 +213,24 @@
     "title": "Ukraine’s Drone-Hunting An-28 Turboprop Is Now Launching Interceptor Drones",
     "summary": "<p>The latest evolution of Ukraine’s rugged An-28 Cash turboprop counter-drone platform combines interceptor drones and Minigun armament.</p>\n<p>The post <a href=\"https://www.twz.com/air/ukraines-dron",
     "sources": []
+  },
+  {
+    "id": "l3harris-2026-04-24-015",
+    "date": "2026-04-24",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "L3Harris Technologies to Post Q1 Earnings: Here's What's in the Cards - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPZDBDQ1l5SHljWHNWR0NOZmtvZWQ0V1JSekdnNGdreWZ4UzRjNEVXZ09HZVdWVmRFSFpEbVZGVnlBaS03WTBPWVo0cllDdWx3Y0NUWVdZdF9xakNFczhoUGl6SmtGMWZ2akJibkQ1eX",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZDBDQ1l5SHljWHNWR0NOZmtvZWQ0V1JSekdnNGdreWZ4UzRjNEVXZ09HZVdWVmRFSFpEbVZGVnlBaS03WTBPWVo0cllDdWx3Y0NUWVdZdF9xakNFczhoUGl6SmtGMWZ2akJibkQ1eXVhWTZCelhsRmYzak9tdXY2RVRFcXYtR0JkVXZYbm94YVJsVFQxRTIxR0RTaFJXdXUweWx2eFNn?oc=5",
+        "type": "rss"
+      }
+    ]
   },
   {
     "id": "rtx-2026-04-23-002",
