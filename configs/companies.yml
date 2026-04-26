@@ -187,7 +187,8 @@ companies:
   role: 無人機/標靶
   description: 無人機系統與標靶載具
   rss_url: https://ir.kratosdefense.com/rss/news-releases.xml
-  fetch_mode: http
+  fetch_mode: rss
+  ir_rss_url: https://ir.kratosdefense.com/rss/news-releases.xml
 etfs:
 - id: ita
   name: iShares U.S. Aerospace & Defense ETF
