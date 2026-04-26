@@ -1,16 +1,16 @@
 {
-  "total_raw": 275,
-  "dup_title": 101,
+  "total_raw": 295,
+  "dup_title": 96,
   "no_date": 0,
-  "too_old": 80,
-  "gate1_fail": 57,
-  "gate2_fail": 34,
-  "passed": 3,
+  "too_old": 83,
+  "gate1_fail": 74,
+  "gate2_fail": 29,
+  "passed": 13,
   "gate2_samples": [
+    "Advisors Capital Management LLC Acquires 8,993 Shares of RTX Corporation $RTX - MarketBeat",
     "RTX Corporation: Gift Exit Despite Solid Results (NYSE:RTX) - Seeking Alpha",
     "RTX Corporation: Patience Will Be Rewarded (NYSE:RTX) - Seeking Alpha",
-    "Solidarity Wealth LLC Has $1.09 Million Position in RTX Corporation $RTX - MarketBeat",
-    "Obermeyer Wealth Partners Cuts Position in RTX Corporation $RTX - MarketBeat",
-    "RTX Corporation: Disappointing Beat And Raise Provides Buy Opportunity (NYSE:RTX) - Seeking Alpha"
+    "RTX Corporation: Disappointing Beat And Raise Provides Buy Opportunity (NYSE:RTX) - Seeking Alpha",
+    "Solidarity Wealth LLC Has $1.09 Million Position in RTX Corporation $RTX - MarketBeat"
   ]
 }

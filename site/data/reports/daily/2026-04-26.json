@@ -1,6 +1,6 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T03:20:22.415801Z",
+  "generated_at": "2026-04-26T08:54:46.082441Z",
   "top_events": [
     {
       "rank": 1,
@@ -21,12 +21,92 @@
         "score": 0.0
       },
       "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Oei1CMm9NeWZXSWEzX3ByeFBBQlFPdVFhbHRzbTRTY09BQzdhZ2tvLTFOVTZIcUtCS0k2SnhLSFU2eXB1LVVWOElnMXFUZTNJeHhRRlFiS0lIbnNiVTV3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "palantir-2026-04-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Peter Thiel, Political Noise, and Palantir: Separating Governance Risk From a Long‑Term Investment Case - The Motley Fool",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNHVjdDVUYnpOTGpJZXpNN1pad25Dc2Rkc0xiOTZpUGh5VHhfUHVqX0JwVF9lMkdPLUl1YVVqUmYtVFYwR3IzMG1nWmliY3RVbENmT3FkcGx2dkNEX1hSNEtxdkdJaURFZnJsMm9qdnJNanpwNGZlSTYtMU02NVB4TDdSMGIyS0poT1ZSdEVnWVpfRHFBTWkzdQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "palantir-2026-04-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is USDA’s Landmark Deal Expanding Palantir’s (PLTR) Civilian Moat And Investment Case? - simplywall.st",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWnh6S2J2amhBWlNVQWYzQXM3ZmtQWTVMaUZYbWpKempJdXgxd3Q0UGNRZGEzby1pWEV1QUc0Q1JiZHBYR25SNExaM21sQ0s3SmFiUi1YQ0YtcjJmSm9IcWE3NklPNXNMQ3dCdVZaVU9IdWFOZHV1Q1FUd041c2V5eEo1VjU3SmJTMGUtc1BtYm0xT2pGTVhkU00yTlhoVHMwbXZDMmpNc1VZS0I4c3d1SjJGeGc5VkVCZTROay15LXQxakRqTnNndEg1Z2NlNVBSel84QUdORdIB3AFBVV95cUxPME15el8zb2lFdk1vcFhfZWFqNmJlTGRmQ04tcnpaWUluYmRxTFdwT1Vtbzc1MVlMR1B1eFpsV3RuRXBWRjRKVTNKeHozN0NRVTByd0lraExvUWw1eE9QTUU0dUE1UjFhMk50SkVPdXpwREx4VWF1S1dXLVNfU1FuVGFHdUh1cmlzQ05YMXFadlhFdlg1MEd1T3ZNSExHdkJvSGRBZGc2S0RkY1FWcHFVMnNBem9fYmU1bjM1WGxYWFdfNFRfZk5ISGdXd21WSGhXQkJLcmNtVk4tWWRO?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rtx-2026-04-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Axecap Investments LLC Buys 16,913 Shares of RTX Corporation $RTX - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNVJ4STFZVHQ1NmMwRDc3Y0ZONVJ2T2lSajJaY2hUUmFIX2ktTmIwVW0yUHdpZlB6bVNXSTQwZlFLc09zaDZzWV9LRG9FUzhta1dfbFZRNm1Hck1kZU1rbkRxczNrVTl4eGtydmx6Sk5JNWQyR1dYbTM2NWZrdmpuVXp6eG1jeTNXQ2VjZ216MU1pMWVjb2tHeVlwU0FTQzhkZlQ2dVo3RUhTMnlJbEc0dl9keUhFV3BsYkk0UTFkYWk3QQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "l3harris-2026-04-26-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Axecap Investments LLC Makes New Investment in L3Harris Technologies Inc $LHX - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQmJYVjZYOFp2dHhCUDVZclJrTE95Y0FDNDRkaTlLeXNieTVXU3gzOG1Dc2Z5LUNWbVlwYmJVNjFnWWx0dUlQUnBCY0dPTS10b3BrdGxycmpyczFZclIwWlJrT1hpSjd5ZUw4TTlaSUVjTE85R1Y4LVhkTGRjSmF2OHR4TWRpWHoySThmS1h3MnMyQnJpNzZ6V09HdG1rLUloNzMzdF92WHFkS3Nkc0p5WnEtOTNTZHZGUzRNY1BvR2F0NW5RdEhxeEFEZW1pbzVVbmZV?oc=5"
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "drone_warfare": {
-      "today": 1,
+      "today": 2,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -38,29 +118,64 @@
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 1,
+    "total_events": 8,
     "sentiment_distribution": {
-      "positive": 0,
-      "neutral": 1,
+      "positive": 1,
+      "neutral": 7,
       "negative": 0
     },
-    "top_companies": [],
+    "top_companies": [
+      {
+        "id": "palantir",
+        "count": 3
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "rtx",
+        "count": 1
+      },
+      {
+        "id": "elbit",
+        "count": 1
+      }
+    ],
     "top_topics": [
       {
         "id": "drone_warfare",
-        "count": 1
+        "count": 2
       }
     ]
   },
+  "filter_audit": {
+    "total_raw": 295,
+    "dup_title": 96,
+    "too_old": 83,
+    "gate1_blocked": 74,
+    "gate2_blocked": 29,
+    "passed": 13,
+    "pass_rate": "6.5%",
+    "gate2_block_rate": "14.6%",
+    "gate2_samples": [
+      "Advisors Capital Management LLC Acquires 8,993 Shares of RTX Corporation $RTX - MarketBeat",
+      "RTX Corporation: Gift Exit Despite Solid Results (NYSE:RTX) - Seeking Alpha",
+      "RTX Corporation: Patience Will Be Rewarded (NYSE:RTX) - Seeking Alpha",
+      "RTX Corporation: Disappointing Beat And Raise Provides Buy Opportunity (NYSE:RTX) - Seeking Alpha",
+      "Solidarity Wealth LLC Has $1.09 Million Position in RTX Corporation $RTX - MarketBeat"
+    ],
+    "alert": false
+  },
   "llm_analysis": {
-    "summary": "今日共 1 則事件，焦點為無人機作戰相關動態：「Six anti-Israel activists charged for ramming down UAV fa...」。主要關注主題為無人機作戰，市場情緒中性。",
+    "summary": "今日共 8 則事件，焦點為Palantir Technologies、L3Harris Technologies、RTX相關動態：「Six anti-Israel activists charged for ramming down UAV fa...」。整體情緒偏正面，市場信心回溫。",
     "signals": [
       {
         "text": "Six anti-Israel activists charged for ramming down UAV factory gate, tearing ...（無人機作戰）",
         "level": "green"
       },
       {
-        "text": "建議持續監控後續發展動態。",
+        "text": "Peter Thiel, Political Noise, and Palantir: Separating Governance Risk From a...",
         "level": "green"
       }
     ]

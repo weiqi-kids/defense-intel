@@ -1,10 +1,27 @@
 {
   "date": "2026-04-26",
-  "total_events": 1,
-  "by_company": {},
+  "total_events": 8,
+  "by_company": {
+    "palantir": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "rtx": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "l3harris": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "elbit": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
   "by_topic": {
     "drone_warfare": {
-      "count": 1,
+      "count": 2,
       "sentiment_avg": 0.0
     }
   },
