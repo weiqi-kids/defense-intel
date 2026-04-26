@@ -1,10 +1,16 @@
 {
-  "total_raw": 0,
-  "dup_title": 0,
+  "total_raw": 275,
+  "dup_title": 101,
   "no_date": 0,
-  "too_old": 0,
-  "gate1_fail": 0,
-  "gate2_fail": 0,
-  "passed": 0,
-  "gate2_samples": []
+  "too_old": 80,
+  "gate1_fail": 57,
+  "gate2_fail": 34,
+  "passed": 3,
+  "gate2_samples": [
+    "RTX Corporation: Gift Exit Despite Solid Results (NYSE:RTX) - Seeking Alpha",
+    "RTX Corporation: Patience Will Be Rewarded (NYSE:RTX) - Seeking Alpha",
+    "Solidarity Wealth LLC Has $1.09 Million Position in RTX Corporation $RTX - MarketBeat",
+    "Obermeyer Wealth Partners Cuts Position in RTX Corporation $RTX - MarketBeat",
+    "RTX Corporation: Disappointing Beat And Raise Provides Buy Opportunity (NYSE:RTX) - Seeking Alpha"
+  ]
 }
