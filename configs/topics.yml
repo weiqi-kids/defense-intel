@@ -51,3 +51,30 @@ topics:
     - 資安
     - cyber warfare
     - information warfare
+
+  industry_general:
+    display: 國防航太通用
+    keywords:
+    - defense
+    - defence
+    - 國防
+    - military
+    - 軍事
+    - aerospace
+    - 航太
+    - weapon
+    - 武器
+    - fighter
+    - 戰機
+    - submarine
+    - 潛艦
+    - warship
+    - 軍艦
+    - radar
+    - 雷達
+    - satellite
+    - 衛星
+    - munition
+    - artillery
+    - combat
+    - tactical
