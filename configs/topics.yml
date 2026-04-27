@@ -52,6 +52,26 @@ topics:
     - cyber warfare
     - information warfare
 
+  earnings:
+    display: 財報
+    keywords:
+    - earnings
+    - revenue
+    - profit
+    - quarterly results
+    - financial results
+    - guidance
+    - outlook
+    - forecast
+    - 財報
+    - 營收
+    - 獲利
+    - 法說會
+    - Q1
+    - Q2
+    - Q3
+    - Q4
+
   industry_general:
     display: 國防航太通用
     keywords:
