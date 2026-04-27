@@ -1,11 +1,11 @@
 {
-  "total_raw": 580,
-  "dup_title": 203,
+  "total_raw": 860,
+  "dup_title": 322,
   "no_date": 0,
-  "too_old": 200,
-  "gate1_fail": 87,
-  "gate2_fail": 61,
-  "passed": 29,
+  "too_old": 300,
+  "gate1_fail": 120,
+  "gate2_fail": 86,
+  "passed": 32,
   "gate2_samples": [
     "News | RTX Reports Q1 2026 Results - RTX",
     "Verdence Capital Advisors LLC Sells 5,950 Shares of RTX Corporation $RTX - MarketBeat",
