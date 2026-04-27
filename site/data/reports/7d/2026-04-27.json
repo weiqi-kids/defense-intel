@@ -4,7 +4,7 @@
     "start": "2026-04-21",
     "end": "2026-04-27"
   },
-  "generated_at": "2026-04-27T03:47:33.272517Z",
+  "generated_at": "2026-04-27T10:10:36.538350Z",
   "highlights": [
     {
       "rank": 1,
@@ -25,16 +25,16 @@
   "anomalies_7d": [],
   "topic_7d_summary": {
     "drone_warfare": {
-      "this_week": 7,
+      "this_week": 8,
       "last_week": 2,
-      "week_over_week_change": "+250%",
-      "sentiment_this_week": 0.07
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": 0.06
     },
     "defense_budget": {
-      "this_week": 4,
+      "this_week": 10,
       "last_week": 3,
-      "week_over_week_change": "+33%",
-      "sentiment_this_week": 0.12
+      "week_over_week_change": "+233%",
+      "sentiment_this_week": 0.1
     },
     "missile_defense": {
       "this_week": 4,
@@ -43,41 +43,41 @@
       "sentiment_this_week": 0.0
     },
     "industry_general": {
-      "this_week": 1,
+      "this_week": 12,
       "last_week": 0,
       "week_over_week_change": "N/A",
-      "sentiment_this_week": 0.0
+      "sentiment_this_week": 0.04
     },
     "earnings": {
-      "this_week": 2,
+      "this_week": 25,
       "last_week": 0,
       "week_over_week_change": "N/A",
-      "sentiment_this_week": 0.25
+      "sentiment_this_week": 0.04
     }
   },
   "company_7d_summary": {
     "rheinmetall": {
-      "event_count": 4,
-      "sentiment_avg": 0.12,
-      "rank": 2
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 3
     },
     "rtx": {
-      "event_count": 9,
-      "sentiment_avg": 0.33,
+      "event_count": 12,
+      "sentiment_avg": 0.25,
       "rank": 1
     },
     "northrop": {
       "event_count": 3,
       "sentiment_avg": 0.0,
-      "rank": 6
+      "rank": 7
     },
     "hanwha_aero": {
       "event_count": 4,
       "sentiment_avg": 0.0,
-      "rank": 3
+      "rank": 6
     },
     "l3harris": {
-      "event_count": 4,
+      "event_count": 7,
       "sentiment_avg": 0.0,
       "rank": 4
     },
@@ -87,9 +87,9 @@
       "rank": 8
     },
     "elbit": {
-      "event_count": 2,
+      "event_count": 6,
       "sentiment_avg": 0.0,
-      "rank": 7
+      "rank": 5
     },
     "saab": {
       "event_count": 1,
@@ -97,17 +97,17 @@
       "rank": 9
     },
     "palantir": {
-      "event_count": 4,
-      "sentiment_avg": 0.12,
-      "rank": 5
+      "event_count": 9,
+      "sentiment_avg": 0.05,
+      "rank": 2
     }
   },
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 193,
+        "this": 229,
         "last": 77,
-        "change_pct": 150.6
+        "change_pct": 197.4
       }
     }
   },
@@ -119,17 +119,17 @@
     },
     {
       "date": "2026-04-22",
-      "event_count": 33,
+      "event_count": 34,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-23",
-      "event_count": 43,
+      "event_count": 44,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-24",
-      "event_count": 38,
+      "event_count": 40,
       "sentiment_avg": 0
     },
     {
@@ -139,25 +139,25 @@
     },
     {
       "date": "2026-04-26",
-      "event_count": 21,
+      "event_count": 23,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-27",
-      "event_count": 4,
+      "event_count": 34,
       "sentiment_avg": 0
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-21 ~ 2026-04-27）共 193 則事件，重點為「Pentagon details record $1.5 trillion budget re...」。事件量較上週增加 151%，產業動態明顯升溫，需密切關注。",
+    "summary": "本週（2026-04-21 ~ 2026-04-27）共 229 則事件，重點為「Pentagon details record $1.5 trillion budget re...」。事件量較上週增加 197%，產業動態明顯升溫，需密切關注。",
     "watchlist": [
       {
         "company": "萊茵金屬",
-        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
       },
       {
         "company": "RTX",
-        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+        "reason": "本週出現 12 則相關事件，為高關注企業，動態頻繁。"
       },
       {
         "company": "諾格",
