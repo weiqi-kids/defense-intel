@@ -1,87 +1,87 @@
 {
   "lockheed": {
-    "earliest": "2020-11-19",
+    "earliest": "2020-08-21",
     "latest": "2026-04-24",
-    "count": 1362
+    "count": 1425
   },
   "rtx": {
-    "earliest": "2020-11-19",
+    "earliest": "2020-08-21",
     "latest": "2026-04-24",
-    "count": 1362
+    "count": 1425
   },
   "northrop": {
-    "earliest": "2020-11-19",
+    "earliest": "2020-08-21",
     "latest": "2026-04-24",
-    "count": 1362
+    "count": 1425
   },
   "general_dynamics": {
-    "earliest": "2020-11-19",
+    "earliest": "2020-08-21",
     "latest": "2026-04-24",
-    "count": 1362
+    "count": 1425
   },
   "l3harris": {
-    "earliest": "2020-11-19",
+    "earliest": "2020-08-21",
     "latest": "2026-04-24",
-    "count": 1362
+    "count": 1425
   },
   "bae": {
-    "earliest": "2020-11-20",
+    "earliest": "2020-08-24",
     "latest": "2026-04-24",
-    "count": 1368
+    "count": 1431
   },
   "thales": {
-    "earliest": "2020-11-20",
+    "earliest": "2020-08-24",
     "latest": "2026-04-24",
-    "count": 1389
+    "count": 1453
   },
   "leonardo": {
-    "earliest": "2020-11-20",
+    "earliest": "2020-08-24",
     "latest": "2026-04-24",
-    "count": 1377
+    "count": 1441
   },
   "rheinmetall": {
-    "earliest": "2020-11-20",
+    "earliest": "2020-08-24",
     "latest": "2026-04-24",
-    "count": 1380
+    "count": 1444
   },
   "aidc": {
-    "earliest": "2020-11-23",
+    "earliest": "2020-08-25",
     "latest": "2026-04-27",
-    "count": 1313
+    "count": 1374
   },
   "hanwha_aero": {
-    "earliest": "2020-11-23",
+    "earliest": "2020-08-25",
     "latest": "2026-04-27",
-    "count": 1327
+    "count": 1387
   },
   "elbit": {
-    "earliest": "2020-11-19",
+    "earliest": "2020-08-21",
     "latest": "2026-04-24",
-    "count": 1362
+    "count": 1425
   },
   "saab": {
-    "earliest": "2020-11-20",
+    "earliest": "2020-08-24",
     "latest": "2026-04-24",
-    "count": 1362
+    "count": 1426
   },
   "palantir": {
-    "earliest": "2020-11-19",
+    "earliest": "2020-09-30",
     "latest": "2026-04-24",
-    "count": 1362
+    "count": 1398
   },
   "kratos": {
-    "earliest": "2020-11-19",
+    "earliest": "2020-08-21",
     "latest": "2026-04-24",
-    "count": 1362
+    "count": 1425
   },
   "etf_ita": {
-    "earliest": "2020-11-19",
+    "earliest": "2020-08-21",
     "latest": "2026-04-24",
-    "count": 1362
+    "count": 1425
   },
   "etf_ppa": {
-    "earliest": "2020-11-19",
+    "earliest": "2020-08-21",
     "latest": "2026-04-24",
-    "count": 1362
+    "count": 1425
   }
 }

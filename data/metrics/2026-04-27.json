@@ -1,9 +1,9 @@
 {
   "date": "2026-04-27",
-  "total_events": 2,
+  "total_events": 4,
   "by_company": {
     "rtx": {
-      "count": 1,
+      "count": 2,
       "sentiment_avg": 0.5
     }
   },
@@ -15,6 +15,10 @@
     "industry_general": {
       "count": 1,
       "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.25
     }
   },
   "baselines_used": {
