@@ -1,0 +1,16 @@
+{
+  "total_raw": 280,
+  "dup_title": 101,
+  "no_date": 0,
+  "too_old": 99,
+  "gate1_fail": 41,
+  "gate2_fail": 35,
+  "passed": 4,
+  "gate2_samples": [
+    "News | RTX Reports Q1 2026 Results - RTX",
+    "Verdence Capital Advisors LLC Sells 5,950 Shares of RTX Corporation $RTX - MarketBeat",
+    "RTX Corporation: Patience Will Be Rewarded (NYSE:RTX) - Seeking Alpha",
+    "RTX Corporation stock (US75511L1035): Why defense sector positioning matters more now for investors ",
+    "Advisors Capital Management LLC Acquires 8,993 Shares of RTX Corporation $RTX - MarketBeat"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "date": "2026-04-27",
+  "generated_at": "2026-04-27T01:41:14.444980Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 280,
+    "dup_title": 101,
+    "too_old": 99,
+    "gate1_blocked": 41,
+    "gate2_blocked": 35,
+    "passed": 4,
+    "pass_rate": "2.2%",
+    "gate2_block_rate": "19.6%",
+    "gate2_samples": [
+      "News | RTX Reports Q1 2026 Results - RTX",
+      "Verdence Capital Advisors LLC Sells 5,950 Shares of RTX Corporation $RTX - MarketBeat",
+      "RTX Corporation: Patience Will Be Rewarded (NYSE:RTX) - Seeking Alpha",
+      "RTX Corporation stock (US75511L1035): Why defense sector positioning matters more now for investors ",
+      "Advisors Capital Management LLC Acquires 8,993 Shares of RTX Corporation $RTX - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-04-27 無國防產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
