@@ -1,29 +1,81 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T01:41:14.444980Z",
-  "top_events": [],
+  "generated_at": "2026-04-27T02:41:26.357787Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Last Year’s Trump-Driven Arms Race... South Korea Drops Two Spots to 13th in Global Military Spending - 아시아경제",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "defense_budget",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NQlJNb0xSSEdqYVZlM1hFc0VBQU1sLXlRak10OWVma2lfSkl1ZDltWjd3WkRpbFF4OWR6SWhBOElyUS1MVFRYeWdpYW92MURHYzU3OWhNVWVmWm1kVm41VjF0YnNkbnhpU0x5WHN5Q0ZON0VjNElvcElwRnE?oc=5"
+    }
+  ],
   "anomalies": [],
-  "topic_trends": {},
+  "topic_trends": {
+    "defense_budget": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 0,
+    "total_events": 1,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 0,
+      "neutral": 1,
       "negative": 0
     },
     "top_companies": [],
-    "top_topics": []
+    "top_topics": [
+      {
+        "id": "defense_budget",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
   },
   "filter_audit": {
-    "total_raw": 280,
-    "dup_title": 101,
-    "too_old": 99,
-    "gate1_blocked": 41,
-    "gate2_blocked": 35,
-    "passed": 4,
-    "pass_rate": "2.2%",
-    "gate2_block_rate": "19.6%",
+    "total_raw": 580,
+    "dup_title": 203,
+    "too_old": 200,
+    "gate1_blocked": 87,
+    "gate2_blocked": 61,
+    "passed": 29,
+    "pass_rate": "7.7%",
+    "gate2_block_rate": "16.2%",
     "gate2_samples": [
       "News | RTX Reports Q1 2026 Results - RTX",
       "Verdence Capital Advisors LLC Sells 5,950 Shares of RTX Corporation $RTX - MarketBeat",
@@ -34,10 +86,10 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "2026-04-27 無國防產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "summary": "今日共 1 則事件，焦點為國防預算、國防航太通用相關動態：「Last Year’s Trump-Driven Arms Race... South Korea Drops T...」。主要關注主題為國防預算、國防航太通用，市場情緒中性。",
     "signals": [
       {
-        "text": "今日無重大異常訊號，產業動態平穩。",
+        "text": "Last Year’s Trump-Driven Arms Race... South Korea Drops Two Spots to 13th in ...（國防預算、國防航太通用）",
         "level": "green"
       },
       {
