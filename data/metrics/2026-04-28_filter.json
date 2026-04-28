@@ -1,0 +1,16 @@
+{
+  "total_raw": 280,
+  "dup_title": 86,
+  "no_date": 0,
+  "too_old": 90,
+  "gate1_fail": 26,
+  "gate2_fail": 19,
+  "passed": 59,
+  "gate2_samples": [
+    "RTX Corporation: Gift Exit Despite Solid Results (NYSE:RTX) - Seeking Alpha",
+    "RTX Corporation: Disappointing Beat And Raise Provides Buy Opportunity (NYSE:RTX) - Seeking Alpha",
+    "Advisors Capital Management LLC Acquires 8,993 Shares of RTX Corporation $RTX - MarketBeat",
+    "Verdence Capital Advisors LLC Sells 5,950 Shares of RTX Corporation $RTX - MarketBeat",
+    "Wealth Science Advisors LLC Invests $1.44 Million in RTX Corporation $RTX - MarketBeat"
+  ]
+}

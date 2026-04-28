@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T10:10:32.751742Z",
+  "updated_at": "2026-04-28T10:09:23.021019Z",
   "quarter": "2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -35,13 +35,13 @@
       "name": "艾爾比特",
       "ticker": "ESLT",
       "currency": "USD",
-      "ar": 1236425000,
-      "ar_prev": 3154023000,
-      "ar_qoq": "-61%",
+      "ar": 719078000,
+      "ar_prev": 666966000,
+      "ar_qoq": "+8%",
       "inventory": 2725386000,
       "inv_prev": 3146124000,
       "inv_qoq": "-13%",
-      "alert": true,
+      "alert": false,
       "quarter_date": "2025-12-31"
     },
     {
@@ -204,12 +204,12 @@
       "ticker": "HO.PA",
       "currency": "EUR",
       "ar": 3968900000,
-      "ar_prev": null,
-      "ar_qoq": "N/A",
+      "ar_prev": 6741800000,
+      "ar_qoq": "-41%",
       "inventory": 4964200000,
-      "inv_prev": null,
-      "inv_qoq": "N/A",
-      "alert": false,
+      "inv_prev": 5418800000,
+      "inv_qoq": "-8%",
+      "alert": true,
       "quarter_date": "2025-12-31"
     }
   ]
