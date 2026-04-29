@@ -1,0 +1,162 @@
+{
+  "date": "2026-04-29",
+  "date_range": {
+    "start": "2026-04-23",
+    "end": "2026-04-29"
+  },
+  "generated_at": "2026-04-29T10:01:11.126430Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-04-26-021",
+      "date": "2026-04-26",
+      "title": "SIPRI: Record arms spending, again - DW.com",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "drone_warfare": {
+      "this_week": 9,
+      "last_week": 4,
+      "week_over_week_change": "+125%",
+      "sentiment_this_week": 0.06
+    },
+    "missile_defense": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    },
+    "defense_budget": {
+      "this_week": 14,
+      "last_week": 4,
+      "week_over_week_change": "+250%",
+      "sentiment_this_week": 0.18
+    },
+    "industry_general": {
+      "this_week": 30,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.1
+    },
+    "earnings": {
+      "this_week": 43,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.02
+    }
+  },
+  "company_7d_summary": {
+    "rtx": {
+      "event_count": 11,
+      "sentiment_avg": 0.14,
+      "rank": 2
+    },
+    "l3harris": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "aidc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "northrop": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "hanwha_aero": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "elbit": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 4
+    },
+    "rheinmetall": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "saab": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "palantir": {
+      "event_count": 15,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 262,
+        "last": 122,
+        "change_pct": 114.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-23",
+      "event_count": 45,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-24",
+      "event_count": 40,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-25",
+      "event_count": 17,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-26",
+      "event_count": 25,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-27",
+      "event_count": 74,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-28",
+      "event_count": 51,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-29",
+      "event_count": 10,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-23 ~ 2026-04-29）共 262 則事件，重點為「SIPRI: Record arms spending, again - DW.com」。事件量較上週增加 115%，產業動態明顯升溫，需密切關注。",
+    "watchlist": [
+      {
+        "company": "RTX",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "韓華航太",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 280,
+  "dup_title": 91,
+  "no_date": 0,
+  "too_old": 93,
+  "gate1_fail": 24,
+  "gate2_fail": 25,
+  "passed": 47,
+  "gate2_samples": [
+    "Raytheon Delivers 2nd Missile-Warning Sensor to USSF - ASDNews",
+    "RTX Corporation: Gift Exit Despite Solid Results (NYSE:RTX) - Seeking Alpha",
+    "RTX (NYSE:RTX) Trading Up 1.3% - Here's What Happened - MarketBeat",
+    "Advisors Capital Management LLC Acquires 8,993 Shares of RTX Corporation $RTX - MarketBeat",
+    "Verdence Capital Advisors LLC Sells 5,950 Shares of RTX Corporation $RTX - MarketBeat"
+  ]
+}
