@@ -1,0 +1,41 @@
+{
+  "date": "2026-04-30",
+  "total_events": 27,
+  "by_company": {
+    "l3harris": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "rheinmetall": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "hanwha_aero": {
+      "count": 11,
+      "sentiment_avg": 0.05
+    },
+    "elbit": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 18,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 15,
+      "sentiment_avg": 0.03
+    },
+    "arms_export": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

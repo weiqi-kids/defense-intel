@@ -1,0 +1,230 @@
+{
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T10:01:47.002502Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "l3harris-2026-04-30-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris confidentially files for missile unit IPO - Reuters",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdmFjd0xkSWZIWXdNSGJ0S2lvYVhkcGgtNVNsSFBHM1Q2M0ZrQW9qVk5ZX1IzX2JVUlJfZGk0bllrZElJVHNHTFlGb0hVZTVILTU0VHZGUHptUHpOa0h3UGg4UDVJdWwyRENqR0NhMEoyZVlVb2hVaVY5NXowdFZHWVhXSVpacU83QnltSFBqeDVJNXJ1NWs1MzdHWVRVMFBLbnZyMA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "l3harris-2026-04-30-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris (LHX) Moves Forward with IPO Plans for Missile Solutions Business - GuruFocus",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaWZDTzRMSmg0QmxGaGNVNnViU2tscDBrSFZpWTdCb18xbTNyYVFMbThMMEE0R2RxZFAycHZPcU9TWTBIcWFJb0prYlM2U1RoLWxTYVljcndiTTdLNEVmTzlKeGg0ZzBib04xdXczamN0N2k4VUxYOEFIRFoyMERhcGl1RWc2WEFRbDdDemFLWjVZcVdxdXktblQzR2tkWG1MWjZSUXA2bXBCQ2MyMzNoMQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-04-30-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris files for IPO of missile solutions unit By Investing.com - Investing.com Nigeria",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONExGUmZacUpROFk2NExBWkxVa1ppRUtaeFpVS0FIbnZ6N2VtZ2NMMzRxeWJyQXdwVE5sVnZhbGI2WkhQZEVXUUdtbWFGWEpJZGJ2d3ZkWXV4S3Y1SXlGSkc5dEctZTVKbWxGSUZaSURNbmI4MGNQYXVwQngwYzhkbjYyRXpHYnhydkFvZTczcWFJd05uWFZYU0o3ZTNlQ2NnNkg3clB3aUJ5QU5mbHc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-04-30-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Germany Overtakes US in Ammo Production Amid EU Rearmament Push - Hungarian Conservative",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYWQ4SW9obkc4a0xBRWdnQnJEZ0FIanNnS3RmR0tDcE1MZ1pLd3Y2QV9xT3VpZFoyTDZ3RGxLcno0Rlo5WG8zTHRQSkRuR3VrRmxDRG5Qal9vZDc3YmNXVERSRzlubkY0VFV6d3VpYy1xTWF1MXpiX0tqZzdjRVgxVHlRSkJ6N3RpWGF1Y3hRajZ2RVg2MzB6VkM2a0JLRmV6WEtnSU5TaUhZa3M3d3pJbQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rheinmetall-2026-04-30-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall (RNMBY) to Release Earnings on Thursday - MarketBeat",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ2JLb1FUWW5HNGJwamMyazJLU1I4SWtVR2JZdVJ1NlFJcGx0S2FqbGJVanFXeE1KQktZb1JuclRtMEFibEdtc2lBMzNjdl8ybUdqa1RhMjZFWTd3a3Q0OFF2OXlSY3JyNkFiSDhfeVlZSDBhWUl1UFp4cjNrS2xxRkNHMXRGeWhrNGVIUFBxck9lVlR3TUdpWVRrMDhKUWNINml0V0RB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "arms_export": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 26,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_aero",
+        "count": 11
+      },
+      {
+        "id": "l3harris",
+        "count": 6
+      },
+      {
+        "id": "rheinmetall",
+        "count": 4
+      },
+      {
+        "id": "elbit",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 18
+      },
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "arms_export",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 280,
+    "dup_title": 86,
+    "too_old": 88,
+    "gate1_blocked": 18,
+    "gate2_blocked": 24,
+    "passed": 64,
+    "pass_rate": "33.0%",
+    "gate2_block_rate": "12.4%",
+    "gate2_samples": [
+      "RTX Corporation (RTX) is attracting investor attention: Here is what you should know - MSN",
+      "RTX Corporation $RTX Shares Sold by Narwhal Capital Management - MarketBeat",
+      "Is trending stock RTX Corporation (RTX) a buy now? - MSN",
+      "GC Wealth Management RIA LLC Trims Stock Holdings in RTX Corporation $RTX - MarketBeat",
+      "D.A. Davidson & CO. Sells 13,454 Shares of RTX Corporation $RTX - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為韓華航太、L3Harris Technologies、萊茵金屬相關動態：「L3Harris confidentially files for missile unit IPO - Reuters」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "L3Harris confidentially files for missile unit IPO - Reuters（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "L3Harris (LHX) Moves Forward with IPO Plans for Missile Solutions Business - ...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

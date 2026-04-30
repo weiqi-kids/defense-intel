@@ -1,0 +1,16 @@
+{
+  "total_raw": 280,
+  "dup_title": 86,
+  "no_date": 0,
+  "too_old": 88,
+  "gate1_fail": 18,
+  "gate2_fail": 24,
+  "passed": 64,
+  "gate2_samples": [
+    "RTX Corporation (RTX) is attracting investor attention: Here is what you should know - MSN",
+    "RTX Corporation $RTX Shares Sold by Narwhal Capital Management - MarketBeat",
+    "Is trending stock RTX Corporation (RTX) a buy now? - MSN",
+    "GC Wealth Management RIA LLC Trims Stock Holdings in RTX Corporation $RTX - MarketBeat",
+    "D.A. Davidson & CO. Sells 13,454 Shares of RTX Corporation $RTX - MarketBeat"
+  ]
+}
