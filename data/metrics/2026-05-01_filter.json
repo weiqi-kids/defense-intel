@@ -1,0 +1,16 @@
+{
+  "total_raw": 280,
+  "dup_title": 90,
+  "no_date": 0,
+  "too_old": 90,
+  "gate1_fail": 19,
+  "gate2_fail": 13,
+  "passed": 68,
+  "gate2_samples": [
+    "RTX Corporation $RTX Shares Sold by State of New Jersey Common Pension Fund D - MarketBeat",
+    "Is trending stock RTX Corporation (RTX) a buy now? - MSN",
+    "RTX Corporation $RTX Shares Sold by Narwhal Capital Management - MarketBeat",
+    "GC Wealth Management RIA LLC Trims Stock Holdings in RTX Corporation $RTX - MarketBeat",
+    "L3Harris Technologies (NYSE: LHX) rings the opening bell® - qz.com"
+  ]
+}
