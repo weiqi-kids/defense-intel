@@ -1,0 +1,16 @@
+{
+  "total_raw": 280,
+  "dup_title": 116,
+  "no_date": 0,
+  "too_old": 86,
+  "gate1_fail": 17,
+  "gate2_fail": 17,
+  "passed": 44,
+  "gate2_samples": [
+    "RTX Corporation (RTX) is attracting investor attention: Here is what you should know - MSN",
+    "RTX Stock Price and Chart — TSX:RTX - TradingView",
+    "RTX Corporation $RTX Shares Sold by State of New Jersey Common Pension Fund D - MarketBeat",
+    "Is trending stock RTX Corporation (RTX) a buy now? - MSN",
+    "RTX Corporation $RTX Shares Sold by Narwhal Capital Management - MarketBeat"
+  ]
+}

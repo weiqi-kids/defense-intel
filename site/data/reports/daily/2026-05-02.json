@@ -1,0 +1,205 @@
+{
+  "date": "2026-05-02",
+  "generated_at": "2026-05-02T09:00:05.305177Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "l3harris-2026-05-02-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris Technologies Q1 Earnings Call Highlights - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSmRVNlJMQ1B6d29JTHdzWjJHbFJZallsaTV1ZFJVeTNqai05amt6MGlPc2RHVjR0ZmNBU3hCRTU1N2JmRGZ6ZlgxX3JDM3BLVXhybGRCcEVFTjZFcUtFSzgxM0tyak1GUHd3eTRhNjZhaHlhdThKcFZvcjBEOWpPR043VWtLcWZINElsNmx6bWg2cXBLWXhLSS03UXBPa0xrZGd3RjF3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "l3harris-2026-05-02-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris (LHX) Earnings Call Highlights Growth, Backlog - The Globe and Mail",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONWJEc2dDZnhsWlQ2M0hKT1puTTN6S3VRMDROd1ZkRjZ0bG8wMzd2MklSTkI4ZXN1c2JrWFVGU21vQzhfTGVyMXQ4TjNkMDM5Q0RyNTBNTUViUkNpOExXYk1wRUplOHZwTEJxV080WWpvaWNkZ3lzdjZqOVdlcTBaNkZfZXdfOTRRN3pjZ3l0V0ZVaEk0bFFJR2hjQU1kTnh5Rmtiek11ZWtUT1VXbWZkUGRDdUxlNjdDS25aRUhnVjhCUXk1RUJiZTR0QXhSYlVDYWc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "elbit-2026-05-02-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Elbit Systems in Partnership with Mistral Inc. to Provide THOR Group 2 UAS to US Army - Raksha Anirveda",
+      "companies": [
+        "elbit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbWpldk5RQkN1LWhDaW0zbVBBR21WNkJndEdheEltT2tsSUg2S3ZMQ1hoV0FXSVRiSDJQWEptQWpGeVdOeFpFWTUxbmdROElSaWV6ZkdCZlNscU1rZ09YdGpsOGEtYXRzTUlKNFpNN1VJRm0tdnFESGY3UDBQZEJDOTZSVlktbFlqZ1lHTzRhUG9pWFZOekFyZ0lTN1YxYjVBRTM2YkszTzFRUWtDa05lQllsWQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "l3harris-2026-05-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "A Look At L3Harris Technologies (LHX) Valuation After Recent Share Price Pullback - Yahoo Finance",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcVlHY1dyMHJsUzNjVmh5QmgtQncxNkloOVFQYklaWkhqcEswUkVjbGF0clNDNUotOTBwTjhEVnhBN2Z5Ni1KSmg4ZktDdncwRm5DdGJVaHF2cEdBMmFZNWVkYWV3Vlgwam8teVctTm01bHFseWgwUndsa1RLYzE5RmIwSFdmZHhsZDY0WS1DSF9WN2JXMHRsSWNPVDd6M1N2Y2R6dU4tMFM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "elbit-2026-05-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Elbit’s FUSE to supply THOR drones to US Army - ynetnews",
+      "companies": [
+        "elbit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUUjF3ZnZhZkFaeG4wamVwbm5ZUFduSlhmcnZMcS00TzdVQUlOQUxyYmZtbHNlZWY4OGZGR0VZZXhJUDFxRF91ZzIybngwRE9jTkFCZ2FJOUVFY01SdnNQSW1OZWpabGo5RHVHWA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "l3harris",
+        "count": 3
+      },
+      {
+        "id": "elbit",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "drone_warfare",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 280,
+    "dup_title": 116,
+    "too_old": 86,
+    "gate1_blocked": 17,
+    "gate2_blocked": 17,
+    "passed": 44,
+    "pass_rate": "26.8%",
+    "gate2_block_rate": "10.4%",
+    "gate2_samples": [
+      "RTX Corporation (RTX) is attracting investor attention: Here is what you should know - MSN",
+      "RTX Stock Price and Chart — TSX:RTX - TradingView",
+      "RTX Corporation $RTX Shares Sold by State of New Jersey Common Pension Fund D - MarketBeat",
+      "Is trending stock RTX Corporation (RTX) a buy now? - MSN",
+      "RTX Corporation $RTX Shares Sold by Narwhal Capital Management - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為L3Harris Technologies、艾爾比特相關動態：「L3Harris Technologies Q1 Earnings Call Highlights - Marke...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "L3Harris Technologies Q1 Earnings Call Highlights - MarketBeat（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "L3Harris (LHX) Earnings Call Highlights Growth, Backlog - The Globe and Mail（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
