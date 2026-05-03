@@ -1,0 +1,135 @@
+{
+  "date": "2026-04-03",
+  "generated_at": "2026-05-03T02:37:24.156454Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-03-013",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trump budget seeks $1.5 trillion in defense spending alongside domestic program cuts - NPR",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "defense_budget"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-03-014",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "US defense spending would rise $445bn under Trump budget plan, with steep cuts elsewhere - The Guardian",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "defense_budget"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-04-03-016",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "White House seeks massive increase in defense spending and looks to slash housing, social services and health care - CNN",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "defense_budget"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-04-03-017",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trump's budget calls for $1.5 trillion in military spending, cuts to everything else - LiveNOW from FOX",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "defense_budget"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-04-03-018",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trump’s budget proposes massive defense spending with 10% cut to other programs - Military Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "defense_budget"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "defense_budget": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "defense_budget",
+        "count": 16
+      }
+    ]
+  }
+}

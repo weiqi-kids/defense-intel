@@ -1,0 +1,96 @@
+{
+  "date": "2026-04-02",
+  "generated_at": "2026-05-03T02:37:23.939998Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trump proposes $1.5 trillion defense budget, banking on $350 billion from reconciliation - Breaking Defense",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "defense_budget"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "elbit-2026-04-02-026",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Romania weighs cancelling drone contract with Israel's Elbit Systems - The Jerusalem Post",
+      "companies": [
+        "elbit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "defense_budget": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "elbit",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "defense_budget",
+        "count": 1
+      },
+      {
+        "id": "drone_warfare",
+        "count": 1
+      }
+    ]
+  }
+}

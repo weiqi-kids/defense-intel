@@ -1,0 +1,21 @@
+{
+  "date": "2025-09-15",
+  "total_events": 3,
+  "by_company": {
+    "aidc": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "drone_warfare": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2026-04-10",
+  "total_events": 6,
+  "by_company": {},
+  "by_topic": {
+    "drone_warfare": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "defense_budget": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

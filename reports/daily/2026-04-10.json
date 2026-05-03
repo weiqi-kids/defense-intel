@@ -1,0 +1,149 @@
+{
+  "date": "2026-04-10",
+  "generated_at": "2026-05-03T02:37:25.494943Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pentagon, FAA sign agreement on deploying anti-drone laser system near Mexico",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-10-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ukrainian drone makers visit Paris looking for co-production deals",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-04-10-009",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hezbollah Ramping Up FPV Drone Attacks On IDF In Lebanon",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-04-10-010",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bahrain First To Claim F-16 Block 70 Air-To-Air Kills",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-04-10-008",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trump’s $1.5T defense budget to weather harsh scrutiny on Capitol Hill - Breaking Defense",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "defense_budget"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drone_warfare": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "defense_budget": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "drone_warfare",
+        "count": 4
+      },
+      {
+        "id": "defense_budget",
+        "count": 2
+      }
+    ]
+  }
+}

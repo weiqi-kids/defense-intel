@@ -1,0 +1,33 @@
+{
+  "date": "2026-04-13",
+  "total_events": 8,
+  "by_company": {
+    "rtx": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "rheinmetall": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "palantir": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "missile_defense": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "drone_warfare": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

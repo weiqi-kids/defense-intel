@@ -1,0 +1,104 @@
+{
+  "date": "2026-03-27",
+  "generated_at": "2026-05-03T02:37:23.300817Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-03-27-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Norway Ups Defense Spending, Postpones Air Defense, Helo Buys - Aviation Week",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "defense_budget",
+        "missile_defense"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-03-27-007",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Building Tanks While the Ukrainians Master Drones - The Atlantic",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "defense_budget": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "missile_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "defense_budget",
+        "count": 1
+      },
+      {
+        "id": "missile_defense",
+        "count": 1
+      },
+      {
+        "id": "drone_warfare",
+        "count": 1
+      }
+    ]
+  }
+}

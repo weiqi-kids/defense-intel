@@ -1,0 +1,62 @@
+{
+  "date": "2026-03-29",
+  "generated_at": "2026-05-03T02:37:23.513000Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rheinmetall-2026-03-29-007",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ukraine rebukes Rheinmetall over CEO’s ‘play with Legos’ drone insult - politico.eu",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drone_warfare": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rheinmetall",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drone_warfare",
+        "count": 1
+      }
+    ]
+  }
+}

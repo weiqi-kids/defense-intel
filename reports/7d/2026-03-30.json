@@ -1,0 +1,92 @@
+{
+  "date": "2026-03-30",
+  "date_range": {
+    "start": "2026-03-24",
+    "end": "2026-03-30"
+  },
+  "generated_at": "2026-05-03T02:37:23.813309Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-03-27-005",
+      "date": "2026-03-27",
+      "title": "Norway Ups Defense Spending, Postpones Air Defense, Helo Buys - Aviation Week",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "defense_budget": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "missile_defense": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "drone_warfare": {
+      "this_week": 4,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rheinmetall": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 6,
+        "last": 1,
+        "change_pct": 500.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-24",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-25",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-26",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-27",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-28",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-29",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-30",
+      "event_count": 3,
+      "sentiment_avg": 0
+    }
+  ]
+}

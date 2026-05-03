@@ -1,0 +1,21 @@
+{
+  "date": "2025-10-16",
+  "total_events": 1,
+  "by_company": {
+    "hanwha_aero": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "drone_warfare": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

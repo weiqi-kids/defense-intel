@@ -1,0 +1,116 @@
+{
+  "date": "2026-04-06",
+  "generated_at": "2026-05-03T02:37:24.587470Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-06-024",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "White House Seeks 40 Percent Increase in Military Spending - The New York Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "defense_budget"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "elbit-2026-04-06-024",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Israel's Elbit Systems set to start delivery of drones to Romania after delays - Reuters",
+      "companies": [
+        "elbit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-04-06-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Defense: Trump’s defense budget gambit - Punchbowl News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "defense_budget"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "defense_budget": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "elbit",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "defense_budget",
+        "count": 2
+      },
+      {
+        "id": "drone_warfare",
+        "count": 1
+      }
+    ]
+  }
+}

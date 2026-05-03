@@ -1,0 +1,116 @@
+{
+  "date": "2026-03-30",
+  "generated_at": "2026-05-03T02:37:23.728306Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-03-30-006",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ukrainians chide German defense boss for jibes about ‘Lego’ drones made by ‘housewives’ - AP News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "rheinmetall-2026-03-30-008",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ukraine hits back against Rheinmetall CEO's housewives' drones comments - Reuters",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-03-30-016",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "US to Release Defense Budget Details for Fiscal 2027 on April 21 - Bloomberg.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "defense_budget"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drone_warfare": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "defense_budget": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rheinmetall",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drone_warfare",
+        "count": 2
+      },
+      {
+        "id": "defense_budget",
+        "count": 1
+      }
+    ]
+  }
+}
