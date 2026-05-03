@@ -1,0 +1,228 @@
+{
+  "date": "2026-05-03",
+  "generated_at": "2026-05-03T09:17:45.549691Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "l3harris-2026-05-03-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Raymond James Keeps Their Hold Rating on L3Harris Technologies (LHX) - The Globe and Mail",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWVF2Y1l6SGV2TXUyeWNWRTYtY0xjOUhGdWJvNEwyVGJ0U0xCcXNTdFBUNTdmV0JtdllEeWg2UWUxemhEY3dCQ3RuQ3J5TWxLVGpWajF5M0RpTkUtazV0NDZWR0dDQnRrVFZaQ2x6WEdWOU9XVC16M3Rfc2w2XzFrYW4tQk5LbE4wYkxJZUc1OHA5cEc3alNhSlZicXkxbHhSRXdzcEx5MHlMS3ZVUnFsempKV3lCNjlVN3dQc2cwTWhNWWc1U0RZVjdRZ2M5UFE3bV94S0Fjblk5dERLbWxRMw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "palantir-2026-05-03-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What To Expect From Palantir Technologies’s (PLTR) Q1 Earnings - StockStory",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcGx3NURiSk0tLXhhV2VZTVozdlc0QldUZmtYbFNveUVKeFk2TFM0c0dCZEVqcEVRbkpqNGFFRnpTSU9pSHpBeUEyZ0FfbzJDMmk2cHM1R2NqNHVJdzZhbHdvZFZIcHlHWHFkdnYwS1VnMEdoM3ZYbXdId1hIVHg5QUJVazdQM2hqb0tBMjRjNVM1QTdhNEtxM1M3ZThieVlsQUkxVUlPSEtPZjRtNUxuc21DX1VaS0wwVEE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "palantir-2026-05-03-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Weekly Equities Forecast: Disney, Palantir Technologies, HSBC - FOREX.com",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQkVlRS1HWUZPcDM5cjA5ZTFwZldVLXAzVGxpaG43NlhPTkhWTFBPQXEwNHpPZXdpVExIcmhETWNzSWtSZU9WYi1WNFlEUFhjbHZDYVVmTC1aaWZ4bGhpb0RKbElsdEZMZ0VzUDl1NVo1RGptSUs5LVd2Z285NTh2d2VmeWp2bjVOOXhTU0pOdmJCcXJsQ25lNjNld1lXejh4NVFGQVMzQTbSAbQBQVVfeXFMTm9GT0VXSk1DMlcxSnVoZlg0bXZmTUFRSTFIOXQ5TXFWblRPUkR5VnZydHl4Mk0tNkZ1akhfcV9JYVVIdDNMV25BWDFiX2lwT0xXbXJNSUtZc1BfN2RKeUM5UVRrV2lZcldUaGZuYmlzNW5zTlpnMHh2Zm5MajBtbWVueElLNWtwTVdQaXNLZFlmYUh3V0pQLXpvN3RsWE1Gb2VlaDFCWWUwQlhGdVdxNlJvU1hh?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "palantir-2026-05-03-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is Palantir fit for UK consumption? - The Week",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSN3B3NXdfM3dhRHkyUGlubklVUGRmVlJPbnhGZ1JldVplNzBMbDNMQ28tZDVkMkROaElWeHN6c2dScUFKcmV2NjNXNF9XenlEV015UmdjUnB2bzVKcXJta1U1ZkpxdTVVcmZiSEgySFA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "palantir-2026-05-03-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "May The Fourth Be With Palantir Stock (Earnings Preview) (NASDAQ:PLTR) - Seeking Alpha",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc1BwYWdMa0F5bGpJaTdYQ1BpV05yejBmdWN3c2ZPNXdUR1o2dF9nbzBoU19ILXhCT3ppMEkzXzkwZnRzdnpfcEd3LTh4elFOWU90SnBlLXBUNkZ2eVo1bGVxMVRfZkdSTzVtQjk2Y2phYnJ4MTNZMTJLUkJSMkFaR1hGaFViTnM?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "palantir",
+        "count": 5
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "elbit",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "drone_warfare",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 280,
+    "dup_title": 133,
+    "too_old": 91,
+    "gate1_blocked": 18,
+    "gate2_blocked": 13,
+    "passed": 25,
+    "pass_rate": "17.0%",
+    "gate2_block_rate": "8.8%",
+    "gate2_samples": [
+      "RTX Corporation $RTX Shares Acquired by Robertson Stephens Wealth Management LLC - MarketBeat",
+      "RTX Corporation Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance",
+      "Is trending stock RTX Corporation (RTX) a buy now? - MSN",
+      "CapWealth Advisors LLC Sells 7,039 Shares of RTX Corporation $RTX - MarketBeat",
+      "RTX Corporation $RTX Shares Sold by State of New Jersey Common Pension Fund D - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為Palantir Technologies、L3Harris Technologies、艾爾比特相關動態：「Raymond James Keeps Their Hold Rating on L3Harris Technol...」。主要關注主題為財報、無人機作戰、國防航太通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Raymond James Keeps Their Hold Rating on L3Harris Technologies (LHX) - The Gl...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "What To Expect From Palantir Technologies’s (PLTR) Q1 Earnings - StockStory（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

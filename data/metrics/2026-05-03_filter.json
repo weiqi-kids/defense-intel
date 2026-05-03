@@ -1,0 +1,16 @@
+{
+  "total_raw": 280,
+  "dup_title": 133,
+  "no_date": 0,
+  "too_old": 91,
+  "gate1_fail": 18,
+  "gate2_fail": 13,
+  "passed": 25,
+  "gate2_samples": [
+    "RTX Corporation $RTX Shares Acquired by Robertson Stephens Wealth Management LLC - MarketBeat",
+    "RTX Corporation Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance",
+    "Is trending stock RTX Corporation (RTX) a buy now? - MSN",
+    "CapWealth Advisors LLC Sells 7,039 Shares of RTX Corporation $RTX - MarketBeat",
+    "RTX Corporation $RTX Shares Sold by State of New Jersey Common Pension Fund D - MarketBeat"
+  ]
+}

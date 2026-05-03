@@ -1,68 +1,68 @@
 {
   "lockheed": {
-    "earliest": "2019-03-07",
+    "earliest": "2018-12-07",
     "latest": "2026-05-01",
-    "count": 1799
+    "count": 1859
   },
   "rtx": {
-    "earliest": "2019-03-07",
+    "earliest": "2018-12-07",
     "latest": "2026-05-01",
-    "count": 1799
+    "count": 1859
   },
   "northrop": {
-    "earliest": "2019-03-07",
+    "earliest": "2018-12-07",
     "latest": "2026-05-01",
-    "count": 1799
+    "count": 1859
   },
   "general_dynamics": {
-    "earliest": "2019-03-07",
+    "earliest": "2018-12-07",
     "latest": "2026-05-01",
-    "count": 1799
+    "count": 1859
   },
   "l3harris": {
-    "earliest": "2019-03-07",
+    "earliest": "2018-12-07",
     "latest": "2026-05-01",
-    "count": 1799
+    "count": 1859
   },
   "bae": {
-    "earliest": "2019-03-05",
+    "earliest": "2018-12-05",
     "latest": "2026-05-01",
-    "count": 1808
+    "count": 1869
   },
   "thales": {
-    "earliest": "2019-03-05",
+    "earliest": "2018-12-05",
     "latest": "2026-04-30",
-    "count": 1833
+    "count": 1894
   },
   "leonardo": {
-    "earliest": "2019-03-05",
+    "earliest": "2018-12-05",
     "latest": "2026-04-30",
-    "count": 1817
+    "count": 1876
   },
   "rheinmetall": {
-    "earliest": "2019-03-05",
+    "earliest": "2018-12-05",
     "latest": "2026-04-30",
-    "count": 1818
+    "count": 1877
   },
   "aidc": {
-    "earliest": "2019-03-06",
+    "earliest": "2018-12-06",
     "latest": "2026-04-30",
-    "count": 1737
+    "count": 1790
   },
   "hanwha_aero": {
-    "earliest": "2019-03-06",
+    "earliest": "2018-12-06",
     "latest": "2026-04-30",
-    "count": 1756
+    "count": 1813
   },
   "elbit": {
-    "earliest": "2019-03-07",
+    "earliest": "2018-12-07",
     "latest": "2026-05-01",
-    "count": 1799
+    "count": 1859
   },
   "saab": {
-    "earliest": "2019-03-05",
+    "earliest": "2018-12-05",
     "latest": "2026-04-30",
-    "count": 1794
+    "count": 1853
   },
   "palantir": {
     "earliest": "2020-09-30",
@@ -71,18 +71,18 @@
     "history_complete": true
   },
   "kratos": {
-    "earliest": "2019-03-07",
+    "earliest": "2018-12-07",
     "latest": "2026-05-01",
-    "count": 1799
+    "count": 1859
   },
   "etf_ita": {
-    "earliest": "2019-03-07",
+    "earliest": "2018-12-07",
     "latest": "2026-05-01",
-    "count": 1799
+    "count": 1859
   },
   "etf_ppa": {
-    "earliest": "2019-03-07",
+    "earliest": "2018-12-07",
     "latest": "2026-05-01",
-    "count": 1799
+    "count": 1859
   }
 }
