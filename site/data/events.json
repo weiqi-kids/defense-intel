@@ -1,5 +1,423 @@
 [
   {
+    "id": "rtx-2026-05-04-001",
+    "date": "2026-05-04",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "RTX Annual Meeting: Calio Touts Record $271B Backlog, Output Gains, and Big 2026 Investment Plans - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ0s5NkpjT2o1TC03cW1xY0NPUktuaGxjQXRYc2NRakJSWERObzRtNDBUSlhqMkxCR0VfWnpjZjFFNXB5YWpBSFVHaXFmZGdvUlQzMWRwS01fMFdTQU9jRXZvbkdfZUQ2SHI0Y0g5NU",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ0s5NkpjT2o1TC03cW1xY0NPUktuaGxjQXRYc2NRakJSWERObzRtNDBUSlhqMkxCR0VfWnpjZjFFNXB5YWpBSFVHaXFmZGdvUlQzMWRwS01fMFdTQU9jRXZvbkdfZUQ2SHI0Y0g5NU1ydEtveHVvcWV4b1ZURVN3QUplbXBtcG9TNDlvVko3V05ITURDSEZGQktKcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-05-04-002",
+    "date": "2026-05-04",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Danske Bank A S Raises Holdings in L3Harris Technologies Inc $LHX - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTm1UeV9nMXRBT2I2VGtVUEs0OVV5Zy1jVGlUMmFyX0puRzZRcTBQOENnd0NEMXNHY3p2TTV3MUlaNnhrZjNhMV9zNTV0S083YWVONEdSbkJPTG9DVjlPS1l5ZGNsWXo2ZUNqRFZBYX",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTm1UeV9nMXRBT2I2VGtVUEs0OVV5Zy1jVGlUMmFyX0puRzZRcTBQOENnd0NEMXNHY3p2TTV3MUlaNnhrZjNhMV9zNTV0S083YWVONEdSbkJPTG9DVjlPS1l5ZGNsWXo2ZUNqRFZBYXNYOVZhSlJZT0RCYkZaNWlpMGUwUDVNX0hmelRyclpUNHlVNlpERXQydU9WN05pYW9WTFA4SzA4MjNsOFdmUm9qT2hQMXJFbkFsbDNOSEVJR0h6RUk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-05-04-003",
+    "date": "2026-05-04",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall surges on upgrade and speculation over US military presence - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSUR3TW1yNGxFQXdkMVNFOF9IbDF3d05pRHFLNzl5RWNMYjBiRUdZQ3lzazFJcXRZLUdCdFctWi1US3VYbXlNRUhFbkg4Q05hRHpKUEctZ1RnckZveUszZnh2UVBEMzBHbHg3eGNydH",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSUR3TW1yNGxFQXdkMVNFOF9IbDF3d05pRHFLNzl5RWNMYjBiRUdZQ3lzazFJcXRZLUdCdFctWi1US3VYbXlNRUhFbkg4Q05hRHpKUEctZ1RnckZveUszZnh2UVBEMzBHbHg3eGNydHJpOEtxNFhjeWMzRV9XSGdkeTRyMlJDOWpVX0NoSmtUZTVSNkV3b0g2VkNUS3BPQTFjWkxhajBTZnNHOVFHbTVEY0RfTGxZbU5VR2l2bWZUa0dHUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-05-04-004",
+    "date": "2026-05-04",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Top DAX Index shares to watch: Rheinmetall, Commerzbank, Lufthansa, and more - Invezz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQOGNIZkEzZ0tHSS1BN0dsRl9pOFNid0JtekhRN28tek9JMHlOYVpFQ1VoTXRrTnNoWk9uQ0VhUHctX2R3Sk1vOE0wV2gtOERlWlFmcXBFTFBlVDZUdUZ6ZU9VU0lMSkJ2Ul9mVW5ZX3",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOGNIZkEzZ0tHSS1BN0dsRl9pOFNid0JtekhRN28tek9JMHlOYVpFQ1VoTXRrTnNoWk9uQ0VhUHctX2R3Sk1vOE0wV2gtOERlWlFmcXBFTFBlVDZUdUZ6ZU9VU0lMSkJ2Ul9mVW5ZX3FqUzNHUGN5N0FEUWo2cTc1Qjhhb1pqekVTWkRMTzJmQUs4cm13RGlQaWJfcjdiS3RnRk5ESFJuMnZIT1lId3pBNDlWdWg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-05-04-005",
+    "date": "2026-05-04",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace Raises KAI Stake Above 5% - Businesskorea",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFA4M0NBSGROekJVbDNMLUhPQVNBNEN1Q3hSMkFPOHZWWmFsSVNLSS1qNzEzeDZpMW1Zbk5vYXRvaURoMDhiSnhlQWlrVXgyYVZ2UXJfZXliMmNXM2c1WFNGNFVQZnJVcjR5ZThsNEJocH",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4M0NBSGROekJVbDNMLUhPQVNBNEN1Q3hSMkFPOHZWWmFsSVNLSS1qNzEzeDZpMW1Zbk5vYXRvaURoMDhiSnhlQWlrVXgyYVZ2UXJfZXliMmNXM2c1WFNGNFVQZnJVcjR5ZThsNEJocHBwcnlo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-05-04-006",
+    "date": "2026-05-04",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace Targets 8% Stake in KAI with Additional Investment - 조선일보",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUDVjSHdmYldEc2xTaDNRY2xHY29MWDhTZDFob2NlZGJLaU9Sb045WWpMejFJRDdhUUI5eG00OHExd2lZMGRwSHJqUUNYRmotMXZnd1ZVeDY1ZjdKZnBLaHlZWGdnLWNMTmhOb2pjRl",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUDVjSHdmYldEc2xTaDNRY2xHY29MWDhTZDFob2NlZGJLaU9Sb045WWpMejFJRDdhUUI5eG00OHExd2lZMGRwSHJqUUNYRmotMXZnd1ZVeDY1ZjdKZnBLaHlZWGdnLWNMTmhOb2pjRlZyS1lwMm9JQ1BIYXhqQkY4Vlg0TG1Ddnhm?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-007",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Japan’s nod to lethal weapons exports sets up new rivalry with South Korea - KED Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9MTzdpdm5TdXRLOUxIRW93dGZ1N0lNcnQ4ZnpjODN5VWxXQnlCX1NhS0N4a0I0Z1lCQWtObEZ5VDFzUnlvWHhtbW1feFNNc1NVcDlBVU4zSU1pOHV6aExJQTFRUy1IcmN6cEo2QTJVND",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MTzdpdm5TdXRLOUxIRW93dGZ1N0lNcnQ4ZnpjODN5VWxXQnlCX1NhS0N4a0I0Z1lCQWtObEZ5VDFzUnlvWHhtbW1feFNNc1NVcDlBVU4zSU1pOHV6aExJQTFRUy1IcmN6cEo2QTJVNDMydw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-05-04-008",
+    "date": "2026-05-04",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace raises KAI stake above 5%, shifts to management participation - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ETUZ6OGVYbXJuUzBwMllBWGF4QU1OZkZNSmRUcmphRlVzTWh5RlRibFFqM2h1Z1ZCSVFYdzE1d0RKdXQ5b3daRGVDRDU0WmJsUVFr?oc=5\" target=\"_blank\">Hanwha Aerospac",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ETUZ6OGVYbXJuUzBwMllBWGF4QU1OZkZNSmRUcmphRlVzTWh5RlRibFFqM2h1Z1ZCSVFYdzE1d0RKdXQ5b3daRGVDRDU0WmJsUVFr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-05-04-009",
+    "date": "2026-05-04",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace Declares Management Participation in KAI, Exceeds 5% Stake - Seoul Economic Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOWGlNRDFwcjZPZ1YzcTZXQU9lTy14SmFJSGpGcnpHOHZjRi1ya29weVNLNnBpVk1sd1FNQkoyR0s5ZURVckpobzJTTEFnbjlFTzRjWmpJakQwcFhlMlNELWlrUkp1NGJXLUNWNF9rUE",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWGlNRDFwcjZPZ1YzcTZXQU9lTy14SmFJSGpGcnpHOHZjRi1ya29weVNLNnBpVk1sd1FNQkoyR0s5ZURVckpobzJTTEFnbjlFTzRjWmpJakQwcFhlMlNELWlrUkp1NGJXLUNWNF9rUER4UnFoWlB5dEJvTlM3Y3pZN21XRmZhYWlEOThIelJrQlRrVHBUVG5fMVZ3YXdBRHhp?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-05-04-010",
+    "date": "2026-05-04",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace Ex-Employee Sentenced to Two Years for Bid Rigging - 조선일보",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTmNUYjFVZlBBdUpUN1FCUnpVLWxleHhleGdieFhHWnF0S0FfX0hhSWZwQlhfY2lxbFhOWVNQQk9fXzFXYkhza0xORmh1YUxZX3F6RGQycERhUmpEQlhpbnNIZXVuZGx1d1NHenpEV3",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTmNUYjFVZlBBdUpUN1FCUnpVLWxleHhleGdieFhHWnF0S0FfX0hhSWZwQlhfY2lxbFhOWVNQQk9fXzFXYkhza0xORmh1YUxZX3F6RGQycERhUmpEQlhpbnNIZXVuZGx1d1NHenpEV3Z5NmhGUTJyRjFWRUkyRmpOc2FXaXBKcU1W?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-05-04-011",
+    "date": "2026-05-04",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace boosts KAI stake to 8% and moves to join management - CHOSUNBIZ - Chosunbiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3lGdmtZaVdvOWxSakRDbzVUVE95TWRXbnVHSml5SHc4ZC1hT2I3dGg1bUVMTFZham9vMHlhVTN1cHhOT3J3ZDhTNnVWS05vaksxVk1yVXd1clI3QVBiTm1Md2J0Z1J1bnYyOGVCYl",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3lGdmtZaVdvOWxSakRDbzVUVE95TWRXbnVHSml5SHc4ZC1hT2I3dGg1bUVMTFZham9vMHlhVTN1cHhOT3J3ZDhTNnVWS05vaksxVk1yVXd1clI3QVBiTm1Md2J0Z1J1bnYyOGVCYlIwUkpHNHY4ZzBBY2hXRkZfeGdB0gGWAUFVX3lxTE1VS19GUTdUR1Z5THlhTGU4Z2NMX1k2aVdxRzBoM2tuWHBkenJGUTJ0ZGVoUmROY1dJMVZlMWF6cWRkVkN0NV9oblVXUGlyRGFNdEV1VzRCYjgwVDl4Y3d5bmJNbFJfVDg3aVlRUXE5bzR3dUxVOFB3NU8zSGVfQVhORmVhSE1kWHdYdnJTeDNGTEk5RHl5QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "elbit-2026-05-04-012",
+    "date": "2026-05-04",
+    "companies": [
+      "elbit"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Elbit America wins U.S. Army contract to develop and test BiNOD next-generation night vision system - Defence Industry Europe",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPSWtJRG1hZFhNWTUwZ1JQM1hiVC0tSXBzc3VGaU9rb0dJVXpkTmZjUTJncTN1QXMzMWVOeDUwTmlCMEhWOFZLWjBjZlhFQ1NyX3BXOHdkRkd3S3pLVGJEaEpxemRZMG5RZHRyOHZKU1",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSWtJRG1hZFhNWTUwZ1JQM1hiVC0tSXBzc3VGaU9rb0dJVXpkTmZjUTJncTN1QXMzMWVOeDUwTmlCMEhWOFZLWjBjZlhFQ1NyX3BXOHdkRkd3S3pLVGJEaEpxemRZMG5RZHRyOHZKU1pXRExJMDRlSzZfTjRIaEllN2JXU2pwb3I0eEhvMUVSQzMzd0h5RDNHRzBmNzhtVUFmNjA5RW1BdW94RXBvTkVZNXhaN1hBVFBTR1hycWZRYzRlR3NubWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "elbit-2026-05-04-013",
+    "date": "2026-05-04",
+    "companies": [
+      "elbit"
+    ],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Elbit Systems Opens New UAS Facility in Romania - Machine Maker",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZHpuUFp3Uy1qRWgwbUZuLTlIZDc5ZXBwZnZOZ1gwOEctOW4xQzhmbVhITmdsclRCand3ZnZfaGo2RXBDaXhUM3NnOERkX1RCQzd6dmZlOGN0Y1BZTnhSMjhUSGFwbHVhLUhTX0wzUG",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZHpuUFp3Uy1qRWgwbUZuLTlIZDc5ZXBwZnZOZ1gwOEctOW4xQzhmbVhITmdsclRCand3ZnZfaGo2RXBDaXhUM3NnOERkX1RCQzd6dmZlOGN0Y1BZTnhSMjhUSGFwbHVhLUhTX0wzUGVtYy12TmJxM1MtUldNM0lycWpocFUtSHlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-04-014",
+    "date": "2026-05-04",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Palantir Technologies (PLTR) Stock Is Up, What You Need To Know - Yahoo Finance",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPNTJZdHF0cDNRT0VLTVhDeEV3aEdXN1RtWVdaWlBVamdDU3c4cFpwQVZMT0hSbVMyQ2Rfbi12emlmMGFwTW9wbHpkQ1ktZWhHZWVfWDl4QWRRc2VpaHRfd2MzQ1BrTG0zby",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNTJZdHF0cDNRT0VLTVhDeEV3aEdXN1RtWVdaWlBVamdDU3c4cFpwQVZMT0hSbVMyQ2Rfbi12emlmMGFwTW9wbHpkQ1ktZWhHZWVfWDl4QWRRc2VpaHRfd2MzQ1BrTG0zby1EcEJzRG1xeV84a3N4Rkd2VUJEeWx4MUJMeUhYbDl2LVpabHdFUkRIUVU2Zy1ELXNZNW9PUV9CcmNjdA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-04-015",
+    "date": "2026-05-04",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Nvidia, Palantir, and Broadcom Are Sending Shockwaves Through Wall Street With This $4.6 Billion Warning - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxObFVNVEFGSXVqOHJVakdRZngxVFpZV29Qc1UtTUFEeEhHQ0U0UENNdEYxNmJKcFhmMFdXNHNTdDhKT3hnbmExRzNvREhlY0Q4T3Y3ZFRMcDcxM2VyMkp6VUtNMWZWc0Q5c0NDcFc2ek",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObFVNVEFGSXVqOHJVakdRZngxVFpZV29Qc1UtTUFEeEhHQ0U0UENNdEYxNmJKcFhmMFdXNHNTdDhKT3hnbmExRzNvREhlY0Q4T3Y3ZFRMcDcxM2VyMkp6VUtNMWZWc0Q5c0NDcFc2ek5DMFZKUWkxc2RZSHBUN3h5UUVDS3RmRWVwdnhOZUpiOHM5TjByQ1oyWUtmZzNTM25RQU5aRm4ySTVqU1NM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-04-016",
+    "date": "2026-05-04",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Palantir Technologies Inc. $PLTR is Cypress Point Wealth Management LLC's Largest Position - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPekZLR19vQkp3WEFtNU4wWkN6S1ItVllSaHRpSXhBLTBGcG5FUTJWQ3J4TmMzS0dyejRVY1FtUWg0LVphV0F5UXd3bHp1bEd6b3lIUGJSNmw5aWg4RHpLR3AxODNza2ZWNWhXbDFJTF",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPekZLR19vQkp3WEFtNU4wWkN6S1ItVllSaHRpSXhBLTBGcG5FUTJWQ3J4TmMzS0dyejRVY1FtUWg0LVphV0F5UXd3bHp1bEd6b3lIUGJSNmw5aWg4RHpLR3AxODNza2ZWNWhXbDFJTFJMR3hPR1NlMi1SbFBPT1JvdEVmVC1JUkJQbmp5Z25fczdjcC01emNjeGQwUkNKSDZkbGJodktnR2o0QkZzc3hxUkItc0NGV0hETWhGQm8zY0JRVVhad2U5NjhlXzkwU1RXTGVJdWhWbUx5WmVKcm9vR1Fn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-04-017",
+    "date": "2026-05-04",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Nvidia, Palantir, and Broadcom Are Sending Shockwaves Through Wall Street With This $4.6 Billion Warning - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNSEFJVUdsZ0JiaXowdk91ald4SkdRa2FnRVpaZkludGQzcFNLYVVsX3ljNER0N3NsSlpRUkMxMWpUT21Uc2VpbWlXYWY5ZDlyeVRiRC1Zam93VG9rVEVYdDBKOEV6emJ1TFhGcFZ3Wk",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSEFJVUdsZ0JiaXowdk91ald4SkdRa2FnRVpaZkludGQzcFNLYVVsX3ljNER0N3NsSlpRUkMxMWpUT21Uc2VpbWlXYWY5ZDlyeVRiRC1Zam93VG9rVEVYdDBKOEV6emJ1TFhGcFZ3WkxXc25wM0pSNm02eTBhdndPb3M2d1hiUkxINWU0QzBwQ1RsbU9fRENpUA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-04-018",
+    "date": "2026-05-04",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Top Wall Street Forecasters Revamp Palantir Expectations Ahead Of Q1 Earnings - Palantir Technologies (NA - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTUxPUWV6cXBlRXA1QTdHSHl5cjM2aVFISVd5akhBdGRMVzRJRjRTcTZyeEg3RUpudG40dGg1SW40dGs4UVJkY0tvSVZ0eHk5WVVzS2NOc2hFUWdfOTEtLURjZ0djVUdjRkJ3T2JHaT",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTUxPUWV6cXBlRXA1QTdHSHl5cjM2aVFISVd5akhBdGRMVzRJRjRTcTZyeEg3RUpudG40dGg1SW40dGs4UVJkY0tvSVZ0eHk5WVVzS2NOc2hFUWdfOTEtLURjZ0djVUdjRkJ3T2JHaTNfU2RFZndpMDB3bUJmZmo5QVg1V2hXeEs1bFJOUTFzdlIwcE5md3h1MkpQYVdyYjhFcjAxM2RuTmItYXhjRjJqN3RocTZvbm4yRU1zOWVjS2xjUHpCMGt6YmtKZVBuVjJPSkhDQml1Q0N0Q2NuUjJvWU5uZG5GVDg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-04-019",
+    "date": "2026-05-04",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Palantir (PLTR) Will Report Q1 Earnings Tomorrow. Wall Street Analysts Eye 115% Earnings Jump - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNzFGSGNtTnBSNlhUMGlLSFhPcWNKdURSLVl5YzYtNFAwby13SDlFT0JSSmIxYjM2bTFGNk5aRjR1TGdYVC1jRk1sY1F1TDlKWURFLXhmaURCdHlYWVhUSUlMNUltTHlKRFA5b1ZXdG",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNzFGSGNtTnBSNlhUMGlLSFhPcWNKdURSLVl5YzYtNFAwby13SDlFT0JSSmIxYjM2bTFGNk5aRjR1TGdYVC1jRk1sY1F1TDlKWURFLXhmaURCdHlYWVhUSUlMNUltTHlKRFA5b1ZXdGszMDNvbU5kSHVyRUYxVG1Cemo1S005dy1wN01oTGVPcHNRZi00dDd3M09PT2hBdFFVQzAxRFR3ZU84VnBoN0prVXZMb24zOHNBWlcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-020",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "drone_warfare",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dutch startup Intelic sets up drone marketplace for European militaries",
+    "summary": "BASE will allow defense ministries to explore systems that are ready to be used in a coalition framework, with interoperability guaranteed, says the firm.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/global/europe/2026/05/04/dutch-startup-intelic-sets-up-drone-marketplace-for-european-militaries/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-021",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Falcon 9 launches South Korean satellite and 45 rideshare payloads",
+    "summary": "<figure><img width=\"1024\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/cas5002-f9.jpeg?fit=1024%2C683&amp;ssl=1\" class=\"attachment-rss-image-size size-rss-image-size wp",
+    "sources": [
+      {
+        "name": "spacenews",
+        "url": "https://spacenews.com/falcon-9-launches-south-korean-satellite-and-45-rideshare-payloads/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "l3harris-2026-05-03-001",
     "date": "2026-05-03",
     "companies": [
@@ -134,6 +552,141 @@
       {
         "name": "palantir",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc1BwYWdMa0F5bGpJaTdYQ1BpV05yejBmdWN3c2ZPNXdUR1o2dF9nbzBoU19ILXhCT3ppMEkzXzkwZnRzdnpfcEd3LTh4elFOWU90SnBlLXBUNkZ2eVo1bGVxMVRfZkdSTzVtQjk2Y2phYnJ4MTNZMTJLUkJSMkFaR1hGaFViTnM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rtx-2026-05-03-008",
+    "date": "2026-05-03",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sachetta LLC Sells 12,414 Shares of RTX Corporation $RTX - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQaFZEOVJ2MTRNYU9mQkpwM2tnSEZjN0hFQ3JQSk1aQUpzWW1FcHlNMC10a3ZXdTZSc29vNXY1UU9oQTV3VWN1Sm5OU0pBV3FLVmpRY0hVdlhFMl9zYkl3emVNZnFDNzBIclJCbTVLVz",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaFZEOVJ2MTRNYU9mQkpwM2tnSEZjN0hFQ3JQSk1aQUpzWW1FcHlNMC10a3ZXdTZSc29vNXY1UU9oQTV3VWN1Sm5OU0pBV3FLVmpRY0hVdlhFMl9zYkl3emVNZnFDNzBIclJCbTVLVzRxUFQ2a3lTZVQ2eU41ZDdPaFF3UEhIOF9oc2RPbGFPUEpKUnJNQy00UzBJQ05EZlJPRldMS3Y2TlJwN1BrZ3NGcGtwaE1DZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rtx-2026-05-03-009",
+    "date": "2026-05-03",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Woodard & Co. Asset Management Group Inc. ADV Takes $1.69 Million Position in RTX Corporation $RTX - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPc18yM2o4UGNseGVreGNYWDNjd0dJSVBIUExyR3czTWJ2cUZ3Z0JRQnQ2WEdmVWF5enZoeFlzNkNxMEJWZlBFUUtkejBGUHkzOUx3TElGd1ZhYWQzNUU3WUFsZXYzcDE4SGNSaEluc0",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPc18yM2o4UGNseGVreGNYWDNjd0dJSVBIUExyR3czTWJ2cUZ3Z0JRQnQ2WEdmVWF5enZoeFlzNkNxMEJWZlBFUUtkejBGUHkzOUx3TElGd1ZhYWQzNUU3WUFsZXYzcDE4SGNSaEluc0ZLZGg1ZW56Y2ZBaWVYcS1HM0pmZ1ZMbG9renRwOV9kMkZ2YkttNE4zM09BWFBYR2xERzJMQ3pwWkx1Sm9YeF9ZRGlsNjJ4M2Fsb1V1VjFGXzBaek93bmsyY196YjFadkl2ZExvUUVrVk1xQkNIMW5wSV90cmwwc00?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-05-03-010",
+    "date": "2026-05-03",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "L3Harris Technologies, Inc. Just Beat Earnings Expectations: Here's What Analysts Think Will Happen Next - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV0ZLM3k0YVFZYWFTM1JuRWp5TW5kcVNicDBGa21fSjRkMTV0ZUZJUWtGT252UzExbWJvUnpwM09ncnZBVW5uakNfVHJhR1B5R0F1RGhuT1dKY21UUXMwQUFtcGhjektmMWZzcnRLVE",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV0ZLM3k0YVFZYWFTM1JuRWp5TW5kcVNicDBGa21fSjRkMTV0ZUZJUWtGT252UzExbWJvUnpwM09ncnZBVW5uakNfVHJhR1B5R0F1RGhuT1dKY21UUXMwQUFtcGhjektmMWZzcnRLVEtVMFd5YTNqWEZpLUQ2a0M0dWdlZ0hkaWJyUGlrNy1CSzd0Q0lzcjg4SlVVa1p1cFBycGFqdVVTb21YT2lkUS1DX2xVVFZXQnY4S203SWpraDNXWEdJWkZSQ3BISDVRQzB2UkxPa2p2a2k0UdIB3wFBVV95cUxNdXJRUEZXb0NVZkQwV1VabTRyQUZSbWdGVk95d09FQUtYQUtUSXlHLVNQaDd4cmxhdnJONktVSTc3Y2Z2VGxMN1E4S0ZVem9IQU9udllMVE1SQWNId2FRVDdscVdGWEo4cTIzTDZwZTB4em4weTUyU2sxQ21LQmltSC1rQ29mX0dIYjhyRGtIdXgtazJTRkZzdGhsM1F3VXFycERhaEZZRjhhMjBwQUYyRXZITktRV0Q1eW5HQUhiYzkwSDBTLTNrV3BJZUYtRmp3MTBSNlNrZ2ZmbGozdGxz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-05-03-011",
+    "date": "2026-05-03",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Is Rheinmetall (XTRA:RHM) Still Attractive After Recent Share Price Pullback? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNeVNLMmx1NW5qWjVBdF9qWVZiYjFOb0lrSUp4X21MNGUzNEttTEdXMVpFbW1zSnowTmVwMklNVDlKbWRnUm91UEROejRwMHkxZk80LVp4bGRGRXQwSmlqVzg0bllUUWF0cDlsN3FuWX",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeVNLMmx1NW5qWjVBdF9qWVZiYjFOb0lrSUp4X21MNGUzNEttTEdXMVpFbW1zSnowTmVwMklNVDlKbWRnUm91UEROejRwMHkxZk80LVp4bGRGRXQwSmlqVzg0bllUUWF0cDlsN3FuWXMybUdCTWR5T1c5LVo0cW5VZjdEQUlucEVxSWVvV2YzUUh2a2dLRXJPdUVIWjdZdjJGMW1GZA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-03-012",
+    "date": "2026-05-03",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Earnings playbook: Palantir and Advanced Micro Devices usher in the next week of reports - CNBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWmhJQ1FJVTdVRFNYMmlPRFU3cFNXdGlpQldwX0YwRld2UXJZNER3NlY5TGxhc0RaZjJTUWVTbEpVcVhFUVQ3d2lQbVFvbk5JMGRpbm9Fa3NaRXgwcUJfMVNPdXZMc0pZYTFuMm0zUU",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWmhJQ1FJVTdVRFNYMmlPRFU3cFNXdGlpQldwX0YwRld2UXJZNER3NlY5TGxhc0RaZjJTUWVTbEpVcVhFUVQ3d2lQbVFvbk5JMGRpbm9Fa3NaRXgwcUJfMVNPdXZMc0pZYTFuMm0zUUdQeERQVUN4bllrQ04wSVU4M3BiQmwza2Mwb2tPRXlGd0lRZENJVF9uOVhVUmZmT212Tm41Vnc4UUF0RmhjNUl4WlFMRDAyTjB0eGpvaFcwTHZyQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-03-013",
+    "date": "2026-05-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Israel To Buy Extra F-15IA And F-35I Squadrons",
+    "summary": "<p>After years of high-tempo operations in the Middle East, Israel has locked in plans to further expand its airpower with new F-15IA and F-35I fighters.</p>\n<p>The post <a href=\"https://www.twz.com/a",
+    "sources": [
+      {
+        "name": "the_war_zone",
+        "url": "https://www.twz.com/air/israel-to-buy-extra-f-15ia-and-f-35i-squadrons",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-03-014",
+    "date": "2026-05-03",
+    "companies": [],
+    "topics": [
+      "drone_warfare",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Could The X-BAT Stealth Fighter Drone Change The Air Combat Game?",
+    "summary": "<p>We talk with Armor Harris, the chief designer of X-BAT, about its GE engine, thrust-vectoring controls, Hivemind AI 'pilot' and forthcoming flight-test plans.</p>\n<p>The post <a href=\"https://www.t",
+    "sources": [
+      {
+        "name": "the_war_zone",
+        "url": "https://www.twz.com/air/could-the-x-bat-stealth-fighter-drone-change-the-air-combat-game",
         "type": "rss"
       }
     ]
@@ -411,6 +964,44 @@
       {
         "name": "palantir",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTWRwUjczSFdFUlZiamk4dkxxYjNDQlA2QkRFSUwxQzR4d2ZKeHA3cTBFbUEzYTV0WWlodW0za1dwcTJaa1hLVjlkWWtLT2tZSHROTU9qQ0xxdm1FSXJRa2dfNE1Oa2tVaTV6dWtmZU1KMXk5UHhXcFV4RDlySUJSMjg3Z0lxQ3ZwYVBmY045eUxWT3o2Yjh6NENMSks3d3RSNHV6cFFzQ1VQcllWNm5qS0xUdmdDRTZYc0ZINThTeWp4V2lEcDFKUkxKWmdlMzJ2YWNBLUV0NNIB3AFBVV95cUxNOW50TEJJd25haHA0ZlpRcVE2SkdzcEJPdUMtNTZ5a0JWcVBMQVVfWGF6UlVSSzR3Y1h2T3g5YWNyaWZiRXl3ZmZ1R1VHUnVPMEozNm5LY2JsYTllaXRHQU0xUm9uWTVieUcyZW82eGZuaWV3VHQwSkxJWERSX2hVY252d3gwQ0hwVzlyRjJKbUFBb0xXR0wyRlUySVZXWU8ySDdXSHNPWDNsMkx3aVl0ZW9ROEZQN1VkVmQzLTM0cGgzak5UQm16Wjk5UVhmakE3ME1DdWlRSEJhUnFS?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-05-02-015",
+    "date": "2026-05-02",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caisse Des Depots ET Consignations Invests $1.62 Million in L3Harris Technologies Inc $LHX - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOODFQeGxvSy1sTXp1TENISnN4RDhvOEh4NXBCMTlMTG9yZkdydGcxbTgzVVdjVTE5UFlpbGF1ZDhxZ1N3c040ODlFa2FXRWtpSEpPRmk5Z1ZsaEZOa0lETWVRSmVJVG9wVlVEUzN4OE",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOODFQeGxvSy1sTXp1TENISnN4RDhvOEh4NXBCMTlMTG9yZkdydGcxbTgzVVdjVTE5UFlpbGF1ZDhxZ1N3c040ODlFa2FXRWtpSEpPRmk5Z1ZsaEZOa0lETWVRSmVJVG9wVlVEUzN4OEE0Nkhsd0FycnhWcG94RnZZeW1lMmFVVzRfNnIyaG9ob1NhRHNob2k3UVA1a1Y2emJSOFBmWVpjUEFRVkxGaHZ1eGRhMVB1U1dqV2VOX2UtcmYxYmFxSzhmQ19ka1pIblNXVDlwTnB5M0tXbzFZWkhjZjN3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-02-016",
+    "date": "2026-05-02",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nurses demand Maine Health cancel contract with Palantir - Bangor Daily News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQWR5R211cWtXMDZ5eDFxY0lRdHFURGQtd0ZYb0FTMDNydWR0TDhYNzUwdnRIM0YtSUZ0M2xrcEZGaENsSFpiZl9lVm9yV05WeThtRU5Lc2FwZG5XWC1hZlg5UElsZHZraEdZNGU0UG",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQWR5R211cWtXMDZ5eDFxY0lRdHFURGQtd0ZYb0FTMDNydWR0TDhYNzUwdnRIM0YtSUZ0M2xrcEZGaENsSFpiZl9lVm9yV05WeThtRU5Lc2FwZG5XWC1hZlg5UElsZHZraEdZNGU0UGRQZzd0SzBBc09md2RPbVVjWTNIMXNUN1BkeHg4SGJlU1dSTUZNdVoxSUdtWW83YmJZc3JkT05jbWZpUmctbldsa3V5TzJvRjE1LXlRTnhZa0ZCdw?oc=5",
         "type": "rss"
       }
     ]
@@ -1339,6 +1930,124 @@
       {
         "name": "palantir",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVWNJWm0tQmVTU3JIOE9aZGYzbG0yRjBCU0tyS3lMdXFQeHEyYk96QVJGbTZLb3VObmJvZXBDX1RHZk9ZT0pnb2dCVkFhTU1Ya1d1S1kwdHZ3R2JmbXBwemNWNWp5UkhHMW9oMndzbzVvUDlQTU42VGw1SlJOVkhVdVlPRmotZUNmbXM5WnBsX2s2d2I0UWsxRzdaZmIyZXFva05RYlg2QzJJQ0FOZHBUQ1kyeTh5aENNeTBQbTdB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "elbit-2026-05-01-049",
+    "date": "2026-05-01",
+    "companies": [
+      "elbit"
+    ],
+    "topics": [
+      "drone_warfare",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Elbit Systems: FUSE to provide THOR UAS to the U.S. Army through partnership with Mistral - EDR Magazine - European Defence Review",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOc0t5TnVRRmFCMmxRRGlDQlNxQTJvYzZ1dGRBbGZYaDc1S3htcGRiNHpXWk9VYzNrVmRkdm9fUUU0R1VHZFpWMURvZi1tZ3ZfYnRQd0VhVXprREFtWmlOV1NkOU0wVEhUZ2g5TUlOb3",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc0t5TnVRRmFCMmxRRGlDQlNxQTJvYzZ1dGRBbGZYaDc1S3htcGRiNHpXWk9VYzNrVmRkdm9fUUU0R1VHZFpWMURvZi1tZ3ZfYnRQd0VhVXprREFtWmlOV1NkOU0wVEhUZ2g5TUlOb3V2ck5pQ19ObnBrLTdDWXkyQWFpbGtsUUZwNTBCZ3BhaU5jNUVTMFJ5cGQzZ1piTVV2RWVGNl9maXJ0TlozRG9kTlhwcGU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "elbit-2026-05-01-050",
+    "date": "2026-05-01",
+    "companies": [
+      "elbit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Elbit America Wins US Army Contract to Deliver Next-Gen Bino - ASDNews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNX1lWZExjZ00yY0VsTXItdXBiZGlmZDM4bm9qLTJmRmlnWERCTEdNWXNfSWdjR3hfa3dzdXJ6SnlySGhmRVd3MVJqRnJEY3I4TjlYc002SVdKRFl3cmlNZmJhV28teU5nYTNTSDlnaj",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX1lWZExjZ00yY0VsTXItdXBiZGlmZDM4bm9qLTJmRmlnWERCTEdNWXNfSWdjR3hfa3dzdXJ6SnlySGhmRVd3MVJqRnJEY3I4TjlYc002SVdKRFl3cmlNZmJhV28teU5nYTNTSDlnajNnbERHd2E3ZXlyeVE1OV9Ubnh2UHdWR2RWMVVBUEV5MHYta2JST3JOX2x1dDNkZHlqUWJ0TXZyelZZNkNiVnBndDlZc3A4X0ItakM4Q3oyNGsxbllaM0pYT0N3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-01-051",
+    "date": "2026-05-01",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Palantir Rallies Before May 4 Earnings — What Analysts And Charts Signal - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeFIyZVJGY0w0NXN1REJhNV9TQXhQUExiX2FBZ1pXQU4wd1plWHg0NjMzMzZ0Ni15LVdQWEFtQU1EbUloa1lxci1TWFdYSmswSV8wT0xfMkxFdnBFS21HVnU1RmhwSmZLaWpXRExRWG",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeFIyZVJGY0w0NXN1REJhNV9TQXhQUExiX2FBZ1pXQU4wd1plWHg0NjMzMzZ0Ni15LVdQWEFtQU1EbUloa1lxci1TWFdYSmswSV8wT0xfMkxFdnBFS21HVnU1RmhwSmZLaWpXRExRWGF0WXlyUVVBWVluaXZwTVk3QVFQWW5nRVpiLTVHR0txTmdUcjQ5b3ZvdDFTaGxmRlVRYng1Sm10bm1QYXlIT012SXk5OEZTcDBiTkZaMUg3RnY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-01-052",
+    "date": "2026-05-01",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Palantir: Caution Before Earnings Is Advised (NASDAQ:PLTR) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOejR0ZGpkUGVvZ0JseXdySGFDVG16a2htZ2Z4cmZjTElkcmxRX0pLWHB5Tkw3QWVzZUwwdUdOMUJ2V3d0Mm5jcDNyNDl6T05Dc3VwREdTRVpvRTh3b04yTV8yaU0tR3ZmenN2RjNVc0",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOejR0ZGpkUGVvZ0JseXdySGFDVG16a2htZ2Z4cmZjTElkcmxRX0pLWHB5Tkw3QWVzZUwwdUdOMUJ2V3d0Mm5jcDNyNDl6T05Dc3VwREdTRVpvRTh3b04yTV8yaU0tR3ZmenN2RjNVc0Q2OUVIaW03bHFXN2Y3Nmc1UDFDQTFrVU9oenQ1aQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-01-053",
+    "date": "2026-05-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Amazon Leo passes 300 satellites with Atlas and Ariane launches",
+    "summary": "<figure><img width=\"1024\" height=\"734\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/ariane6-va268.jpeg?fit=1024%2C734&amp;ssl=1\" class=\"attachment-rss-image-size size-rss-image-size",
+    "sources": [
+      {
+        "name": "spacenews",
+        "url": "https://spacenews.com/amazon-leo-passes-300-satellites-with-atlas-and-ariane-launches/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-01-054",
+    "date": "2026-05-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Space Force taps K2 satellites to test laser communications for missile-defense",
+    "summary": "<figure><img width=\"1024\" height=\"411\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/HEdIiA1aIAAgaCR-scaled.jpeg?fit=1024%2C411&amp;ssl=1\" class=\"attachment-rss-image-size size-rss-i",
+    "sources": [
+      {
+        "name": "spacenews",
+        "url": "https://spacenews.com/space-force-taps-k2-satellites-to-test-laser-communications-for-missile-defense/",
         "type": "rss"
       }
     ]
@@ -2970,6 +3679,46 @@
       {
         "name": "google_defense_budget",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15U0g3MnhzVllIenloRk1yeHhBSUJVMmtyYWdPRzdXa05HRlVlaFFNTFJhdEJLai1lOVZ3eEhqb040VDFCdHlCd18zQWdxUEJPSXJyTzNWdUt1NlBKLXdxLV9VN29CazBEbUcxNnhweFdVTHFHeEUyRw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-04-30-084",
+    "date": "2026-04-30",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Hanwha Aerospace expands Canadian push with defense vehicle joint venture - The Korea Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ETEEtcUNGNTdnYWJnTDl3bVU0QkxxWWVDVXV1TEJyRFVLZWU2VmtXdVZOX0NFWnNUSW5nSU0tcDllX3NlMXpsUXZUUjJKLUVZSFFjV2x4Yw?oc=5\" target=\"_blank\">Hanwha Ae",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ETEEtcUNGNTdnYWJnTDl3bVU0QkxxWWVDVXV1TEJyRFVLZWU2VmtXdVZOX0NFWnNUSW5nSU0tcDllX3NlMXpsUXZUUjJKLUVZSFFjV2x4Yw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "northrop-2026-04-30-085",
+    "date": "2026-04-30",
+    "companies": [
+      "northrop"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Northrop Grumman delivers sensor for missile-warning satellite as Pentagon cancels program",
+    "summary": "<figure><img width=\"1024\" height=\"842\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/NGP-Photo-Release-scaled.jpg?fit=1024%2C842&amp;ssl=1\" class=\"attachment-rss-image-size size-rss-",
+    "sources": [
+      {
+        "name": "spacenews",
+        "url": "https://spacenews.com/northrop-grumman-delivers-sensor-for-missile-warning-satellite-as-pentagon-cancels-program/",
         "type": "rss"
       }
     ]

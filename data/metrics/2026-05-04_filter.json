@@ -1,0 +1,16 @@
+{
+  "total_raw": 300,
+  "dup_title": 121,
+  "no_date": 0,
+  "too_old": 88,
+  "gate1_fail": 34,
+  "gate2_fail": 19,
+  "passed": 38,
+  "gate2_samples": [
+    "RTX Corporation (RTX) is attracting investor attention: Here is what you should know - MSN",
+    "RTX Corporation Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance",
+    "Is trending stock RTX Corporation (RTX) a buy now? - MSN",
+    "CapWealth Advisors LLC Sells 7,039 Shares of RTX Corporation $RTX - MarketBeat",
+    "RTX Corporation $RTX Shares Acquired by Robertson Stephens Wealth Management LLC - MarketBeat"
+  ]
+}
