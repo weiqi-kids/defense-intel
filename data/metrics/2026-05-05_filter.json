@@ -1,0 +1,16 @@
+{
+  "total_raw": 280,
+  "dup_title": 99,
+  "no_date": 0,
+  "too_old": 86,
+  "gate1_fail": 25,
+  "gate2_fail": 15,
+  "passed": 55,
+  "gate2_samples": [
+    "Truist Financial Corp Grows Stock Holdings in RTX Corporation $RTX - MarketBeat",
+    "Jim Cramer on RTX: “I’d Buy It Aggressively” - Insider Monkey",
+    "RTX Corporation 8-K Filing Details for 2.150% Notes Due 2030 on NYSE – Company Information & Key Dis",
+    "RTX Corporation (RTX) is attracting investor attention: Here is what you should know - MSN",
+    "CapWealth Advisors LLC Sells 7,039 Shares of RTX Corporation $RTX - MarketBeat"
+  ]
+}

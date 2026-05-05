@@ -1,0 +1,37 @@
+{
+  "date": "2026-05-05",
+  "total_events": 24,
+  "by_company": {
+    "rheinmetall": {
+      "count": 8,
+      "sentiment_avg": 0.06
+    },
+    "hanwha_aero": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "palantir": {
+      "count": 8,
+      "sentiment_avg": -0.25
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 21,
+      "sentiment_avg": -0.06
+    },
+    "industry_general": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "drone_warfare": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

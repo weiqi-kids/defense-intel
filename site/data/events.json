@@ -1,5 +1,475 @@
 [
   {
+    "id": "rheinmetall-2026-05-05-001",
+    "date": "2026-05-05",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall shares rise despite missing Q1 estimates - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNmpoX3JRS3lsdXNjVDliWWF6MDdfX3A1V3FpUzVSMVlDME5CcTFXeWlQckIycHFGemM2VWJnOENlVmdKZWxldXVpVEViNDlRYXJmcU9ST3BEd0VzblJlRHlGUll4UWh2aFlBMXZqV1",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNmpoX3JRS3lsdXNjVDliWWF6MDdfX3A1V3FpUzVSMVlDME5CcTFXeWlQckIycHFGemM2VWJnOENlVmdKZWxldXVpVEViNDlRYXJmcU9ST3BEd0VzblJlRHlGUll4UWh2aFlBMXZqV1FWRE5QRkVYdDIwNnhaMmtjU05VTXJnYXVNNTVRTVVPblZQdm04RkZOTjFIY1pXdFVlSDFQWnBqYXpSb3ZyV1pXcjRUZFVqSnpnZlZEMkZXeklQLUxKWGRpN2E0bWlWYUpwVGJESjczTFo5UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-05-05-002",
+    "date": "2026-05-05",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall shares rise despite missing Q1 estimates - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPNDJaMk8tSWUwYmZPVzhJcC1NalczSUZtREpkd19iT0hVQm8zWWpQdnoySXk2bzVwTVNZRzlxeHo4U0NTZVlQWjFhVFRIQVZDUzlDNjVQWF9ENVl1RXVLdVBIeDBDUkZKUFBUNVpvTl",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNDJaMk8tSWUwYmZPVzhJcC1NalczSUZtREpkd19iT0hVQm8zWWpQdnoySXk2bzVwTVNZRzlxeHo4U0NTZVlQWjFhVFRIQVZDUzlDNjVQWF9ENVl1RXVLdVBIeDBDUkZKUFBUNVpvTlFnb2Rjd0ZxN1dzSFc5a0pURGI2LU1NMEhxMmNDYmJWZm9icDVMV18waTR1LWJvUXg4eXpWVDFDeHJILWJOMHhZRFFkSFJkcmtuMHVHX1JxZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-05-05-003",
+    "date": "2026-05-05",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Rheinmetall Logs Growth in Preliminary Q1 Revenue; Outlook Affirmed - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX01TYWF3M3g3SXNYT3dDMm5pRkMyRU9uNTRHOWJBaFYtSkJldkZGaXJRdnY0WXY4VDhJUHlsRDVpWWRrdjRZOVFYaFdmcmlONjBiWHlEaUlxYUJpNzc3ZkptQlNTMDdDYWtzZm5DT1",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX01TYWF3M3g3SXNYT3dDMm5pRkMyRU9uNTRHOWJBaFYtSkJldkZGaXJRdnY0WXY4VDhJUHlsRDVpWWRrdjRZOVFYaFdmcmlONjBiWHlEaUlxYUJpNzc3ZkptQlNTMDdDYWtzZm5DT19kc2p4RzV5N2FKck1BRnpHRGE2akk3eFc3NG0wTktaNG9NZm9pWEVCbV9vZFk2dE5BR21UdDJrSE1BaVRqZk5wUm04UHlMaXpLMkdr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-05-05-004",
+    "date": "2026-05-05",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall shares rise as Q1 miss offset by full-year €14 bln target - Investing.com Nigeria",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPc25nTEJoeW1vcHJEYXZ5N2Rsdk9ucnQwbVZGbDhxTDQ2UFhtYUoxeVVIOHBmcW5KTlpMVVA5QnBhMmpuS0RjbWhQcDVnN2dvTVNQRGJ5MlBjT2dCVWkwMlFMbE1KSWZBYVQwMWZCU0",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc25nTEJoeW1vcHJEYXZ5N2Rsdk9ucnQwbVZGbDhxTDQ2UFhtYUoxeVVIOHBmcW5KTlpMVVA5QnBhMmpuS0RjbWhQcDVnN2dvTVNQRGJ5MlBjT2dCVWkwMlFMbE1KSWZBYVQwMWZCU0hRT3R4ZkwxLU8xNmhDZ0RVc19xcXZNenFkd081MjNuVHdub1lwSms3ZDJURnFDX2w1WEhrWVRoZ3hyS2dpUXM1RGk1TXI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-05-05-005",
+    "date": "2026-05-05",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall's first-quarter sales fall short of analyst expectations - Українські Національні Новини (УНН)",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ2EwOFd1elVKT3R3Q3N6TlgzTDRuLTYtT0k0WXZwRkhVVXRIVm00UVExWVlqS3NoY1p2ZTZJV1hIdUhpcWxZVE9YcjFlYzZRcUtfV0VoMUY4WHlkdS1za2FHTnBIczZOelFQT0huc2",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ2EwOFd1elVKT3R3Q3N6TlgzTDRuLTYtT0k0WXZwRkhVVXRIVm00UVExWVlqS3NoY1p2ZTZJV1hIdUhpcWxZVE9YcjFlYzZRcUtfV0VoMUY4WHlkdS1za2FHTnBIczZOelFQT0huc2hkSGVpSGlZZGRKQTE1UEczUHhRS21jZ0NoUXRTMEJlMzNGaW5o0gGTAUFVX3lxTE5IN1g3OG9UdUMzcUIwR3ROSEljVjFlSjIxbGd2Q0xnVmdqYThwNnhwZFpiX25Ha1B5czNpYk9rUVBFNlVrcWExVUNGZVJFN05GTWstUS1KTTZCRUFLN003aXd6N1VPaHBGSzhWS3pibV9NakdhbUpiRkZRZjRwQ1lZMk0waGh2a2gxQ1A4eGlwb3BWcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-05-05-006",
+    "date": "2026-05-05",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "RHEINMETALL AG : UBS gives a Buy rating - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPYURVbDk2VE9fbGtsQndaQ3FuYzQwTG1PVGZ1VzIzYXNXRVJIQWNHdHpNR3VDV05tTkJCaDhVNnFMYnlPb0VRZV9wYTBZZnBOdUk2cXZXeU9QYVI0T0dtbDlVdWxwc1JwRHRULUVDX3",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYURVbDk2VE9fbGtsQndaQ3FuYzQwTG1PVGZ1VzIzYXNXRVJIQWNHdHpNR3VDV05tTkJCaDhVNnFMYnlPb0VRZV9wYTBZZnBOdUk2cXZXeU9QYVI0T0dtbDlVdWxwc1JwRHRULUVDX3dJNWRCT3EtcDhPdjhOSWdSQ25nYkktZ2hGVHVvWHpoSUdSYWdu?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-05-05-007",
+    "date": "2026-05-05",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall shares down 1.8% in premarket trade after Q1 revenue misses expectations - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ1Q3RWphTVUtbzRjdlNPcEl3RnpobHA0OUFnMUpwQWlHVVB6MU1zUW51dHFGNE5tSC1ZMnZFNlhoVm5TYnFXeHA4RjVQOUJuNHg5RVF4aV9Rc1VGZW1CVVBoLUxnY2hhRjBFZ2dnX2",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ1Q3RWphTVUtbzRjdlNPcEl3RnpobHA0OUFnMUpwQWlHVVB6MU1zUW51dHFGNE5tSC1ZMnZFNlhoVm5TYnFXeHA4RjVQOUJuNHg5RVF4aV9Rc1VGZW1CVVBoLUxnY2hhRjBFZ2dnX25vVV9JQVFObVVZMXpYeTdMNmJHWDZSRF91NE5wWTg3cldYMV90aXQzcmRlWEptd1dCOS1RRkozVFkyMmVHLURDcGZzLXowaS0xdFBpdVVUV1VQUzN6Y3FSakRaREMyMFRsOEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-05-05-008",
+    "date": "2026-05-05",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall slips as preliminary figures disappoint despite reaffirmed guidance - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNcFd4eklpVVpQbENuN2RndnRxOVZhNUtlSWV6enJSZTU1R2ItMFpXQWhzZWdhRm1xQlQ4ZlQ5cmprYWFaQUw3bS1KRkx0RW82YkVvcmt2S0xTc1FZSnd0TmpSRFRCRlRLZ2psOGVMVT",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcFd4eklpVVpQbENuN2RndnRxOVZhNUtlSWV6enJSZTU1R2ItMFpXQWhzZWdhRm1xQlQ4ZlQ5cmprYWFaQUw3bS1KRkx0RW82YkVvcmt2S0xTc1FZSnd0TmpSRFRCRlRLZ2psOGVMVTJuSGdxMUptV3ZWVmRhTEprSXJjbHdVc21wVE5LNTNqSG5mVm1pbmxVbVVOcjQ5cHl5bUZXSi01SnJMem52MGdyazI3ZHZKOF9LRUkyRUp2cHNCX0ZjallwTjZfSm8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-05-05-009",
+    "date": "2026-05-05",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace Lifts KAI Stake Above 5%, Declares Management Role - thelec.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TQldSdnRtcnJQMEFEcThaLXhQOEtMNVduTDRzNTZ2TVZGblVCRGlWTWtrMTE2Vzc5WThNV1NOZEE3RW5EUmxxc1JpVUdGMlZNTFVONHVfclpZdU9IWE51cWlScGVhWVU?oc=5\" targ",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TQldSdnRtcnJQMEFEcThaLXhQOEtMNVduTDRzNTZ2TVZGblVCRGlWTWtrMTE2Vzc5WThNV1NOZEE3RW5EUmxxc1JpVUdGMlZNTFVONHVfclpZdU9IWE51cWlScGVhWVU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-010",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha's preemptive bet on KAI undercuts LIG - The Korea Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNdjJvYmVVdVB0bXRTS0FkRUhYVVJ0TlJwVnlxSzR0dGdBZ3pMMDJuRUV2eEZpa01GSWdmbDRIT3pVM1YxNHVWM1RhbjJIZWRrRFgzenlOdGJEYjdUd0Z0NF9xRzdpU0p3RFMwcC1xOF",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdjJvYmVVdVB0bXRTS0FkRUhYVVJ0TlJwVnlxSzR0dGdBZ3pMMDJuRUV2eEZpa01GSWdmbDRIT3pVM1YxNHVWM1RhbjJIZWRrRFgzenlOdGJEYjdUd0Z0NF9xRzdpU0p3RFMwcC1xOFFpLTdoQkZEN2pqZmpxWmstN3duNnpFNnVxak12M1VXTjBjOW1qLWwzd2duTUg4MWV5bEQ4dUYtd9IBpwFBVV95cUxNdjJvYmVVdVB0bXRTS0FkRUhYVVJ0TlJwVnlxSzR0dGdBZ3pMMDJuRUV2eEZpa01GSWdmbDRIT3pVM1YxNHVWM1RhbjJIZWRrRFgzenlOdGJEYjdUd0Z0NF9xRzdpU0p3RFMwcC1xOFFpLTdoQkZEN2pqZmpxWmstN3duNnpFNnVxak12M1VXTjBjOW1qLWwzd2duTUg4MWV5bEQ4dUYtdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-011",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Seoul moves to speed defense exports with faster tech transfer rules - The Korea Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nV0loN3hWYmVrTHdzVlFPT3UxSmYxVGNRWUQ2X3pvY3dneHNKaFMzSFhEU01vdHdXb0N2MWllVUt4SUV6VVEwc1ZmZjJzRGw4RmdyVzZ0NA?oc=5\" target=\"_blank\">Seoul mov",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nV0loN3hWYmVrTHdzVlFPT3UxSmYxVGNRWUQ2X3pvY3dneHNKaFMzSFhEU01vdHdXb0N2MWllVUt4SUV6VVEwc1ZmZjJzRGw4RmdyVzZ0NA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-012",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "drone_warfare",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Maker of AI Targeting System for Drones Faces Protests for Shipments to Israeli Military - The Intercept",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQdnJEZl8xNmdramlCQTI4dU9fSWpKaDhPMGI5OTB1d3VqSUdKZndyOTRBUDc0Q3RBVm83WTJSTEtnSUpXSVhYNER4TGYxU2daOHNhbE5zd3pNN0dOT05XZXhzdkdiT0hVc1FnR0FtZX",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdnJEZl8xNmdramlCQTI4dU9fSWpKaDhPMGI5OTB1d3VqSUdKZndyOTRBUDc0Q3RBVm83WTJSTEtnSUpXSVhYNER4TGYxU2daOHNhbE5zd3pNN0dOT05XZXhzdkdiT0hVc1FnR0FtZXRlMG9XUEEzNjhnVTZJTGVGTzU3Y2ZxZHpVUmV2RVF3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-05-013",
+    "date": "2026-05-05",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "DA Davidson cuts Palantir stock price target on valuation concerns By Investing.com - Investing.com South Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNRkQ2QU1VdGgxUC1XN0tlWnpqTWZlcnQ1MG4xX2ZmTEtvSHhDckVxNllCdnRJNW9MVUxQdkFHOXBrY18tQzhaSTh4N0s4Y0o0VU8ybDktM1NYdTdpOFBhVjBOUlpPZG5vUEJYUHZqRG",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRkQ2QU1VdGgxUC1XN0tlWnpqTWZlcnQ1MG4xX2ZmTEtvSHhDckVxNllCdnRJNW9MVUxQdkFHOXBrY18tQzhaSTh4N0s4Y0o0VU8ybDktM1NYdTdpOFBhVjBOUlpPZG5vUEJYUHZqRG9aOC1ib3F4eGNPVUM0SFhwREY0cVdWLVRzUWZ4RW5tb3A2NDNab1lrQ1lsREluWXIxNWpIX3c1T2k5dmxYdmNwWExNM2tjY2VlYjBjWTYyNDRPQ0xXRXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-05-014",
+    "date": "2026-05-05",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "What Could Rocket Palantir Technologies Stock to New Heights - Trefis",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPdFZRTXdneUV2UmdIejRmSHFpTEY4c3BSaTUzalRNS0Z4dEZweU4zcGUwNDRQeDFJQWNtY2lXQ1RqQ3otQnFqUFhfbkM4bjFCQm83OXk4b3gzTTNXWGtCMFFIV3FsaFk2Z0NITVZBaW",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdFZRTXdneUV2UmdIejRmSHFpTEY4c3BSaTUzalRNS0Z4dEZweU4zcGUwNDRQeDFJQWNtY2lXQ1RqQ3otQnFqUFhfbkM4bjFCQm83OXk4b3gzTTNXWGtCMFFIV3FsaFk2Z0NITVZBaW9IdFpCRGhnSW1LT0UwVURWTVBuNVJIRFcxb0o4UnFaa01SekNpTHA2LUNIbHY0SGJHM29ZQUxibXBYdmlCMEFCWkRVajNtemkxR1BxXy1iUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-05-015",
+    "date": "2026-05-05",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Palantir Q1 revenue jumps 85% on booming US business - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQMVZmaVhPZ3dhNkktdGNqb1ZrejhaM0RjQTJWRlZua3NRLTVpUjJoX1VOaG9OdVhPSHY1N1M4ZGpqUU1yOF9HVUF0RUdHSTZUeEJzX2xRQW1QY05KSHdOeGJyU29ZeWYwSTVXQlc1cE",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMVZmaVhPZ3dhNkktdGNqb1ZrejhaM0RjQTJWRlZua3NRLTVpUjJoX1VOaG9OdVhPSHY1N1M4ZGpqUU1yOF9HVUF0RUdHSTZUeEJzX2xRQW1QY05KSHdOeGJyU29ZeWYwSTVXQlc1cEpvWjRPMU16Zk1BVlgwSHZjaHlwNFlyRGhYZjNZRkZKNWsxaDkzVlFXRTBBMVJST1daNXhUZjNONXJPZmVD?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-05-016",
+    "date": "2026-05-05",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Palantir Technologies Inc. $PLTR Position Increased by M&T Bank Corp - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNYXR6TDg3VU0xV0RscWlBZ1ppNTlsVFpSb2hNaUJ4dENBZWJVeEpuaThOc0FCeUVvM0E3ZDVNSE5HMXVSckZoQjFHckNFUEJLdFpKQlhfaUtLUmRoa1VhUU1rXy1RQnJ3MUVtTFVnX3",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYXR6TDg3VU0xV0RscWlBZ1ppNTlsVFpSb2hNaUJ4dENBZWJVeEpuaThOc0FCeUVvM0E3ZDVNSE5HMXVSckZoQjFHckNFUEJLdFpKQlhfaUtLUmRoa1VhUU1rXy1RQnJ3MUVtTFVnX3pJNDFWN0dIZ2NkYWhCQ3lqOW9zNmhwWndFZUdyOGZ1LXZSUlJGZHMzRDE3N0plN3U1NHpnWGJwczVNQ2poQ21pUWZGSkhoRmg2R1hhTFRDdWlabjAw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-017",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "PLTR Q1 Deep Dive: AI Platform Demand and U.S. Outperformance Drive Guidance Increase - StockStory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZ1VwdGlQNi1ZeU53VjlSSEtDUnNKdXJJYWRfcDhfQnZUdVFhRFgyYUhQMWJYNVg0RzgwOFhhczNSNzdHZS05b0hiTEo2blpvelctZ1NUcFN2REVZelplSEtFYkpVUzJLX1JWUWo2Ml",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZ1VwdGlQNi1ZeU53VjlSSEtDUnNKdXJJYWRfcDhfQnZUdVFhRFgyYUhQMWJYNVg0RzgwOFhhczNSNzdHZS05b0hiTEo2blpvelctZ1NUcFN2REVZelplSEtFYkpVUzJLX1JWUWo2MlZwT3pwZFhqYjdnZk9fcDBtV29heHdTZjVpdWYwdmxzM0R0OUpnZF80dldEVDNqUVZOS0g2Nkl4VG9Zb0NoN1JZOElZZFBUTHg3Q2FsREM4M1p0T3lrSElqNWN5ei1ObF9lLS1CaHVaSmY2OHhSallj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-05-018",
+    "date": "2026-05-05",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Palantir Earnings: Lab Competition Is Possible, but We Still Like the Ontology - Morningstar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPWnk3aWNWNmdCU3NsWHN1dkxZZ0pMTDMxclVMenlZbjh3TEVIeERQd2dlN1l1YzlIY3E2aUx6MEhWZ3R0LTZyMkpKejg1eGxnc0xNb3BNSzVsOHJ6cllEcnl1MjJHOE5MTGk3X2hhUU",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWnk3aWNWNmdCU3NsWHN1dkxZZ0pMTDMxclVMenlZbjh3TEVIeERQd2dlN1l1YzlIY3E2aUx6MEhWZ3R0LTZyMkpKejg1eGxnc0xNb3BNSzVsOHJ6cllEcnl1MjJHOE5MTGk3X2hhUUpnRFJabkl6Nm9fRzNqZmRnOHdwTHNzNXZIajhzbWk0UkJjaWFtSlNWZzRVbjh6U0xNTmpRRWZ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-05-019",
+    "date": "2026-05-05",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Palantir's first quarter revenue surged 85% as AI platform demand drives forecast upgrades - Proactive financial news",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWDRmdUZDMkNWOTMzcDlndjFSM3F6ckxiVlR6T0I1cWZndkhOVExvSy1NdzRZaEJvMElCWkNkVlI5UERMNDZydjhqYnd5RDgzd0paN1ZYaDNwYUU2NWhvaWRPZm05Z2tncjdCNmhzZ2",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWDRmdUZDMkNWOTMzcDlndjFSM3F6ckxiVlR6T0I1cWZndkhOVExvSy1NdzRZaEJvMElCWkNkVlI5UERMNDZydjhqYnd5RDgzd0paN1ZYaDNwYUU2NWhvaWRPZm05Z2tncjdCNmhzZ2tfU0o4NXZkWjZfZ2VZZkhJdUd0TnlZQ2Q2ZVdCOE0yZ1o0SlhmN3FFWVlMeXplMDAxaXFrblZrSC03Nzc5cmVfZWJwY25Ic2RuWlE3Z3dtTlJNS0t2SGotM0ZhV2Vvd1ZPeDZwa250N1Ztd0ZqMUFIZ3p5LWswWTFjMElQYzA3VmZEQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-05-020",
+    "date": "2026-05-05",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is Palantir Stock Still Worth Chasing After the Q1 2026 Beat? - Gotrade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOT2RaWkJxNTFFYUxPY3M2RV9PMzFHVEtsclZPemJrSDJkMnZhcGwwbTZ0ZHZGbXJhbG5rTURWdVF4QjNSSFh5SnNYamhEbmhzeUhIQVNqbElBRDZpTHlrVkFPUWZNYXI3WE9TS2VGYV",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT2RaWkJxNTFFYUxPY3M2RV9PMzFHVEtsclZPemJrSDJkMnZhcGwwbTZ0ZHZGbXJhbG5rTURWdVF4QjNSSFh5SnNYamhEbmhzeUhIQVNqbElBRDZpTHlrVkFPUWZNYXI3WE9TS2VGYVYwY3VvNE5fdWRJWW1OR3BvQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-05-021",
+    "date": "2026-05-05",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "[Morning Flash] Palantir Technologies posts strong earnings but falls after-hours; major logistics company plunges as Amazon opens its logistics network to external firms; Trump claims interest rates are too high - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQTVFBY3RBTmdsWnBNVVZnbkVBd1p6amd0Y0l5T0xxeXFqMzhrcUNoNHlYVXpDdkUtVTdCTUhIbWpmRlFtLUxENnRuMkxLWXdGVEpxNGpMNjVtaFhkRU1jSUVWVDZZbHlKckRwRTY1aW",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTVFBY3RBTmdsWnBNVVZnbkVBd1p6amd0Y0l5T0xxeXFqMzhrcUNoNHlYVXpDdkUtVTdCTUhIbWpmRlFtLUxENnRuMkxLWXdGVEpxNGpMNjVtaFhkRU1jSUVWVDZZbHlKckRwRTY1aWQ0bmg4XzQ0STE3RHcwaXpXMEF0bFN0NkwzVTAtVXVRSzRILWV0WHRRSlZJcHdWLVVEb0ZmNHpwc0ppUVl2X0tKMQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-022",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US Army fires Tomahawk missile from new Typhon launcher during Philippines drill",
+    "summary": "“The missile was very precise. Let’s say if you want to hit a window from a far distance, it lands directly into that window,” a military official said.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/05/05/us-army-fires-tomahawk-missile-from-new-typhon-launcher-during-philippines-drill/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-023",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Slovakia classes hospitals as Nato defence spending to hit 2% target - Financial Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPZHlpUk5CWi1mRl9QaDdUSkNXNjVjYkt0LU56d3VoZHRtS3pSSjk0Y2NPTVZZSHVYZ0FGZkllUXRzdmZ6RDVDVzlTX2Nlek9DUkJjbmtvSUJTeWw5WlVITlhrZWtNUkM2ZUpKTWlFdz",
+    "sources": [
+      {
+        "name": "google_defense_budget",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZHlpUk5CWi1mRl9QaDdUSkNXNjVjYkt0LU56d3VoZHRtS3pSSjk0Y2NPTVZZSHVYZ0FGZkllUXRzdmZ6RDVDVzlTX2Nlek9DUkJjbmtvSUJTeWw5WlVITlhrZWtNUkM2ZUpKTWlFdzZodm9vNG9pVk1rbDFZaUliYVFnbVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-024",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The price of power: What defence budgets of nations really reveal - The Times of India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQU5PbXdQVndOdTBuM0E3ZElUWHhPX3dSclpwWHoxWVpCaVpsRHdqNGx1UExnUklqVTluUjZ4V0xVS0cxc0Iwa2p0WkJ4UlFKcGR1ZUtlWV9QdktqV0dvakN0YVE4OWUtaGRqOE4tbX",
+    "sources": [
+      {
+        "name": "google_defense_budget",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQU5PbXdQVndOdTBuM0E3ZElUWHhPX3dSclpwWHoxWVpCaVpsRHdqNGx1UExnUklqVTluUjZ4V0xVS0cxc0Iwa2p0WkJ4UlFKcGR1ZUtlWV9QdktqV0dvakN0YVE4OWUtaGRqOE4tbXhBMS12QlhobGVRU3VIei1aSERLUzhkOGRtRkoyVXgxLTcxc2tkZUJfU3hSOUJ6ZXZJWDVVTmVYQ3ZtNlNpV1BoZ3JVTkJURjQxVVZiUFI1Q0xiWTN2eDRZZS12VmhNb0hSaXdwTTZBSHBQSGZYTk4wVzR30gHnAUFVX3lxTE0tN0VfUWhjTFRiVkprdHRsMEFWZE1TOG9OYXJ3TWhRaVpCT3o0d2hkZHlQTVdJVVIzQUhwUGI1UFB5S25ZYjlncnhVYzc2WXRCaTNIRkw5Z1VrWDZMSDBYLVRaa2xrSTJQaGs1c19fc01RU2lrUnd6LWFiamhIN3pBVEhGVWlwcy1nTGljcm4xUTA1NXVfYkZSR1FrdzNiN0hPZTQzNzQ2Y0FuMHdMNFRfb2FpWE5lVlZUYXJIYXJmVFJWQzBiN01WY2ZQNjRlSGZlNTgyeGlxSTEyQ25sZlJFSWhNY3AwUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rtx-2026-05-04-001",
     "date": "2026-05-04",
     "companies": [
@@ -418,6 +888,597 @@
     ]
   },
   {
+    "id": "rtx-2026-05-04-022",
+    "date": "2026-05-04",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Jim Cramer on RTX: “I’d Buy It Aggressively” - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPU0tmaFFxRUwwTUZmVWRBcTVJdEE5Q2VWd1BsTE1PSzBsSXBldVZaeEhwS1hpdlZWMHFMaHc1bWF2WHBOSUVfWVhoM21XclFrUXE4S2k2RHRjQ3JaR3ItU3BaZG1ETHN5akRnVEJaSn",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU0tmaFFxRUwwTUZmVWRBcTVJdEE5Q2VWd1BsTE1PSzBsSXBldVZaeEhwS1hpdlZWMHFMaHc1bWF2WHBOSUVfWVhoM21XclFrUXE4S2k2RHRjQ3JaR3ItU3BaZG1ETHN5akRnVEJaSndybEhPd3VyZTdUOTRZWGhycEFQSzJKZXkyZ0R0VEdR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rtx-2026-05-04-023",
+    "date": "2026-05-04",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "RTX Corp Just Won a $6.6 Billion Engine Contract. Here’s What That Means for 2026 - TIKR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPT0tSSXVScjlXZWk0YU9CTUliY1VyOHlReFhaUkcyWG1KRzVyMFIwN3h4YUpBX0xSYjUtWGdzWHM3c3h1VlRYelRqMmpOZFR2Y0J6RmNEVmNTQ3ZVbTdleThZN1JzZDdGOUNYNGNGSF",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT0tSSXVScjlXZWk0YU9CTUliY1VyOHlReFhaUkcyWG1KRzVyMFIwN3h4YUpBX0xSYjUtWGdzWHM3c3h1VlRYelRqMmpOZFR2Y0J6RmNEVmNTQ3ZVbTdleThZN1JzZDdGOUNYNGNGSFVVNXVPVnRHb3BCV2YzSDdtZmFnTHBtNUFKdzJ1d1ZtMVFMQUNWV2tORFQtRUxia2t2WDJjeXdXTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-05-04-024",
+    "date": "2026-05-04",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall's quarterly revenue rises 7.7% to $2.27 billion - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPRTNsSUIteDFseUg1YkUwRmw5aW5YUDZVUHMxQ0FXUkh2ZVBLVTdKSTRPTUhoZjNFdG5HZ3owbDl6MklQeVhHa1Jyal8xVDVwYm9tS0djaU1hM1hNaTRDbmVxUkxlaTVCZUl6VGdfYk",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRTNsSUIteDFseUg1YkUwRmw5aW5YUDZVUHMxQ0FXUkh2ZVBLVTdKSTRPTUhoZjNFdG5HZ3owbDl6MklQeVhHa1Jyal8xVDVwYm9tS0djaU1hM1hNaTRDbmVxUkxlaTVCZUl6VGdfYkNmc1ZGSVUyakU2TDItVEVHc0NYOVh5aE9xT19sMFdDN2d1Qzc0REVITWxqaVlaZDNBMzFma2hkbnJScXlCR1l2SjVUVmE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-05-04-025",
+    "date": "2026-05-04",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall Sales Miss Estimates as Revenues Shift Into 2Q - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPYUNVbVNCSjI3M3dNU0I1UHoyR1ZraDFNNlNzaDhfa3dBUDRObVlrQ1o3R3lpNHZHMWRXQVh6cGlNOTJuZWZvTWFkUGZMTlVMRGc2UG1TbU91eE5lMEtBMVdQSTBZQy1uVGN0cGZkaF",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYUNVbVNCSjI3M3dNU0I1UHoyR1ZraDFNNlNzaDhfa3dBUDRObVlrQ1o3R3lpNHZHMWRXQVh6cGlNOTJuZWZvTWFkUGZMTlVMRGc2UG1TbU91eE5lMEtBMVdQSTBZQy1uVGN0cGZkaF9NMHNjOHQwaVd4QW12R19GQWVPUVNfejdKenFRRFhLckhtZG1SN21KOXBMSm1rQWVaSDI0TTd5QmcwSUV4TkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-05-04-026",
+    "date": "2026-05-04",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall’s first-quarter revenues fail to meet expectations - Financial Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOcHVGb0RwVzg1YVlHekVtMVBLTVZ0U2RRWWREYThQdllhVTg5RDViX0dTN1FaeDE4UnJfc3lVTDl6eWU3aTY3cmNPQTVjTkR2ZUd5T3lLYzBSb3lnMmx5QldPWWtWbVdnZ0hrTWZCTU",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcHVGb0RwVzg1YVlHekVtMVBLTVZ0U2RRWWREYThQdllhVTg5RDViX0dTN1FaeDE4UnJfc3lVTDl6eWU3aTY3cmNPQTVjTkR2ZUd5T3lLYzBSb3lnMmx5QldPWWtWbVdnZ0hrTWZCTU9mVjY4WS11bXNERHk5ZmMwSE5RajY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-05-04-027",
+    "date": "2026-05-04",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall misses revenue estimates, reaffirms full-year guidance - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQa0pJS0VwRU1mTHNEUWw3WVMzYzJDdkFiR3g2ZVo0S3lXZmN1LTRSTmk3WW90ZWJlUEgyc2tOTHd4RG15R2c5ZUMtRjFMV1lzZzh1djhqa0Z2TWI3ZE9uT1pRdUN0Y0kyRmlQMTVMc2",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa0pJS0VwRU1mTHNEUWw3WVMzYzJDdkFiR3g2ZVo0S3lXZmN1LTRSTmk3WW90ZWJlUEgyc2tOTHd4RG15R2c5ZUMtRjFMV1lzZzh1djhqa0Z2TWI3ZE9uT1pRdUN0Y0kyRmlQMTVMc2dzbEY2N1FibXl2VG5kZWdDZDVwTmRwMU94YkxzYUJqblpEVHY1WU1RSVZxQUh5NlMzQVljUWZPOEhpcTdlRHNBSzJtX0V4RlBQc3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-05-04-028",
+    "date": "2026-05-04",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Rheinmetall profit climbs as orders build, sees faster growth ahead - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOHJzNHVsZ2lJZkxWN196WFktQWVFM3dRMDhqS3ktRjFpRzJLWmVjeDJKYlVKRTd3UjNHTnR5VTBnbE50NkJFOVdTNEYwak1sSFVaQkVQU01Lb19CdHFrNVN3R0k0OC0tcWU5T3k3VF",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOHJzNHVsZ2lJZkxWN196WFktQWVFM3dRMDhqS3ktRjFpRzJLWmVjeDJKYlVKRTd3UjNHTnR5VTBnbE50NkJFOVdTNEYwak1sSFVaQkVQU01Lb19CdHFrNVN3R0k0OC0tcWU5T3k3VFNPVzNKQnF4Z1NHLWE5aWRYMGFYY1JqOENJaGQxakhRaGQwQlRNVXJucXpoUzl6X3VSbklScWVGSWNNaTF1QWt5NTktd0lYZmNBclNMN0tpYVZnb3hqZzU4clJneWl0d3B2UEZtbzcxM0VrVUJkNGlZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-05-04-029",
+    "date": "2026-05-04",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall AG: Preliminary operating margin in line with market expectation; revenue below market expectation despite growth due to delays into Q2 – 2026 full-year forecast reaffirmed - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AJBVV95cUxPLU40UHQwQzktTUh6U0hoQzJVTlAxTVVhV19sUkhCem1uSW44ZUNLTzZmbjB1NmFuT05YLXNnbTM4LVgzeFBDR3VWR1RtbkdKTlFhaThFdGkwbk9CbERBOFZhMmg5b29uRVRlczhiNk",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPLU40UHQwQzktTUh6U0hoQzJVTlAxTVVhV19sUkhCem1uSW44ZUNLTzZmbjB1NmFuT05YLXNnbTM4LVgzeFBDR3VWR1RtbkdKTlFhaThFdGkwbk9CbERBOFZhMmg5b29uRVRlczhiNktKTklxeWtmWUpJS1B6eFBLbnlYSUhFbXlJaWNkWnJxS1RWdjBkY2pkY3lIaU1wSV9IMjJZb2pGM2pEZlp3UExEUXlaQy1MTkRZSElvNWJlZ1pmN1FPeHR1eGF5MERyT193OXZhakNtVzJYdWVSWmptYlc2N0JLYVlPNGZRZnRPRXg1YzVrbGdIZDRPZ0pnYnJMbkl0a25IUmlFOEs5Y09LdzVYZ0UyX05Eb3k2R2c0a0xDZ2tHZ21VcmYzM19ickNkN05FQVhLT3AtSnRqdFZCZDFTY2ZaVEJkZWRHQS05a0tRWlBf?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-05-04-030",
+    "date": "2026-05-04",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall Quarterly Revenue Rises 7.7% to $2.27 Billion in Q1 - Global Banking & Finance Review",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxORTJPa21KM2lwWmdyVkRYQzdhSEEwV0RqcVRsaHhkTWlFaDVfRElfcmhEdkFnbEg2dEhRU0RtaGpfYkFaMm5XaU5ZV2pwdFRJOUVwNmFPcnhPWnYwanZzNlNPR3pfeXdXTDRnZ2FzNk",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORTJPa21KM2lwWmdyVkRYQzdhSEEwV0RqcVRsaHhkTWlFaDVfRElfcmhEdkFnbEg2dEhRU0RtaGpfYkFaMm5XaU5ZV2pwdFRJOUVwNmFPcnhPWnYwanZzNlNPR3pfeXdXTDRnZ2FzNkRyTEszc0l1bmFPX0MwNWJWVGx6bUh0MWpaLVRCSkdseklLRk1ZOTNvZ1VB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-05-04-031",
+    "date": "2026-05-04",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace to buy $340M more in KAI shares - upi.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbmZ5bS1OTHhZNF9KWnN6LXlISG9jWmluNWNiM1V3Q1V5OEhXSUdPZEx0aTVhUHo0cmVXeTNKc0dqcUlhbFdLaXlVUm81bzlISXRVdkVsbnh4Q3h2dnNOYkNRVUJfSW9Sc2pVRWVkRT",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbmZ5bS1OTHhZNF9KWnN6LXlISG9jWmluNWNiM1V3Q1V5OEhXSUdPZEx0aTVhUHo0cmVXeTNKc0dqcUlhbFdLaXlVUm81bzlISXRVdkVsbnh4Q3h2dnNOYkNRVUJfSW9Sc2pVRWVkRTQzVzNWbkhQbm5fdG5vM3daVTY3Szhkc2c0c1oyNkpoRkRmRGFoNjlyMXpqWDJtU0M0V3ZHTm1GZ1RQOFl5c05pel92a2lxbkxBMW9vT2RBNXlmQdIBxwFBVV95cUxPOS1mdENYVE1BQkppRHR1MGNGaE5QYURUR005bUR6eVhTZVc0RkJWU2NFbVU2WG9hZGxFUW5CSjdSN1JLeURhRWx0cEtkLTZLM2hUMktkWGRCYkpxZlpfZmFNY1RvMFNaQ0JRb0tycWliZ21yVm5TVE04amlfemJ4N2JaR0ZQRVd3NFlVVmFleDhic1lBRkE0OXR4X2NyQTVxNUp1aGNlanB0UHlBOTJ3R1kwdzRMRlFybFdreTQyZmIwdk1nZFMw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-05-04-032",
+    "date": "2026-05-04",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace Targets 8% Stake in KAI - 조선일보",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUDVjSHdmYldEc2xTaDNRY2xHY29MWDhTZDFob2NlZGJLaU9Sb045WWpMejFJRDdhUUI5eG00OHExd2lZMGRwSHJqUUNYRmotMXZnd1ZVeDY1ZjdKZnBLaHlZWGdnLWNMTmhOb2pjRl",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUDVjSHdmYldEc2xTaDNRY2xHY29MWDhTZDFob2NlZGJLaU9Sb045WWpMejFJRDdhUUI5eG00OHExd2lZMGRwSHJqUUNYRmotMXZnd1ZVeDY1ZjdKZnBLaHlZWGdnLWNMTmhOb2pjRlZyS1lwMm9JQ1BIYXhqQkY4Vlg0TG1Ddnhm?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-033",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Group raises stake in KAI above 5 percent in global aerospace push - Korea JoongAng Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN1ctajlYcTBkMVF2a0lMM0hNQ0pIbTR3WW9HLXpvdnVfdzdfVjEzV1FTT3hCbmhRX3lkWmlHMElncW11VmxqWHpVcUZsck53dkZsR3U1NFEtY19ReHhWX2dGQ0VBdDlhWkJ2Z2t6ZV",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN1ctajlYcTBkMVF2a0lMM0hNQ0pIbTR3WW9HLXpvdnVfdzdfVjEzV1FTT3hCbmhRX3lkWmlHMElncW11VmxqWHpVcUZsck53dkZsR3U1NFEtY19ReHhWX2dGQ0VBdDlhWkJ2Z2t6ZVZaX2l5NjBKNEw2TUR0a0FVMi1KcXZtZTdTc29iUEV2ZWEtSjA0bjZHR1JuTGhCYmtJQTN3RjR3cTQwN0hzMjZVNW1acVZmdUNiWG5jVVBMTWp4cVBhNF9xanlyeXJBMkVhZlRGRDZTRkg2bFZBcVczdkk1UzRZWnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-034",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Japan nod to lethal weapons exports sets up new rivalry with South Korea - KED Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9MTzdpdm5TdXRLOUxIRW93dGZ1N0lNcnQ4ZnpjODN5VWxXQnlCX1NhS0N4a0I0Z1lCQWtObEZ5VDFzUnlvWHhtbW1feFNNc1NVcDlBVU4zSU1pOHV6aExJQTFRUy1IcmN6cEo2QTJVND",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MTzdpdm5TdXRLOUxIRW93dGZ1N0lNcnQ4ZnpjODN5VWxXQnlCX1NhS0N4a0I0Z1lCQWtObEZ5VDFzUnlvWHhtbW1feFNNc1NVcDlBVU4zSU1pOHV6aExJQTFRUy1IcmN6cEo2QTJVNDMydw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-05-04-035",
+    "date": "2026-05-04",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace Takes 5% KAI Stake, Declares Management Participation - Seoul Economic Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxORHh6UDlHZzRLWTBqa25MWFRYLURtTTdBaFQ2aUFLSUtIblVraWJMcmxORVRCR2VaZmszWnVZZU5GQnhkaXJ1WTN1d0V3LVBuYnN5V29kaUl5bmdzajQ0Yml0dXJLWFBCRW1yMld3Nl",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORHh6UDlHZzRLWTBqa25MWFRYLURtTTdBaFQ2aUFLSUtIblVraWJMcmxORVRCR2VaZmszWnVZZU5GQnhkaXJ1WTN1d0V3LVBuYnN5V29kaUl5bmdzajQ0Yml0dXJLWFBCRW1yMld3NldHcEw2SHU1WWtrYjhmeU1KSENNTWUtRFNkVTlFZkx1SEpydWVzSGEzOFpB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-05-04-036",
+    "date": "2026-05-04",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace raises stake in KAI above 5% in strategic tie-up - The Korea Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQQ2lPb25jQ0k0b2F5a3NZbkpkaTdFWk0xZGJjSFgwOWJPOWV2V0pVLVBnN2Rob1I4TUVOaFl4R0hJY3UtMDg4T3R6dktSQmFRUHZzVF92aw?oc=5\" target=\"_blank\">Hanwha Ae",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQQ2lPb25jQ0k0b2F5a3NZbkpkaTdFWk0xZGJjSFgwOWJPOWV2V0pVLVBnN2Rob1I4TUVOaFl4R0hJY3UtMDg4T3R6dktSQmFRUHZzVF92aw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-05-04-037",
+    "date": "2026-05-04",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace boosts KAI stake to 8% and moves to join management - Chosunbiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3lGdmtZaVdvOWxSakRDbzVUVE95TWRXbnVHSml5SHc4ZC1hT2I3dGg1bUVMTFZham9vMHlhVTN1cHhOT3J3ZDhTNnVWS05vaksxVk1yVXd1clI3QVBiTm1Md2J0Z1J1bnYyOGVCYl",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3lGdmtZaVdvOWxSakRDbzVUVE95TWRXbnVHSml5SHc4ZC1hT2I3dGg1bUVMTFZham9vMHlhVTN1cHhOT3J3ZDhTNnVWS05vaksxVk1yVXd1clI3QVBiTm1Md2J0Z1J1bnYyOGVCYlIwUkpHNHY4ZzBBY2hXRkZfeGdB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "elbit-2026-05-04-038",
+    "date": "2026-05-04",
+    "companies": [
+      "elbit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Elbit America Secures Army Contract for BiNOD Night Vision System Development - ExecutiveBiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOdGR6UXVValJOMnZiLU9USnBMeGg4eDZEU2lCZDJzTnAzeFRoNFRtckpFTkhQdFRDQnQ3aUZ4WWNhM0ozRXUxangwMGZoWC0xRnhZQU9scHh4QWVQWWV6SUdvYlV3X0RHMkxyWGxDeT",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdGR6UXVValJOMnZiLU9USnBMeGg4eDZEU2lCZDJzTnAzeFRoNFRtckpFTkhQdFRDQnQ3aUZ4WWNhM0ozRXUxangwMGZoWC0xRnhZQU9scHh4QWVQWWV6SUdvYlV3X0RHMkxyWGxDeTNUd0NsTGRNLVFDLXpNUHY4LS1UYzhSRHlBT21tUE1Pd3RTdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-04-039",
+    "date": "2026-05-04",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Palantir Technologies Q1 Earnings Call Highlights - Yahoo Finance",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNczQ5WTIybE83ZXZLMDR0Mlh0VlJqN0o1d3RpUnVJZG8tQi1RbkZEX1JMVml3R2ktX2RjOEl0am5raEptNGxxRWtrVjZZSk4zMC15akZDMDZHakExZWRDcENaR0k4U0FEZW",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNczQ5WTIybE83ZXZLMDR0Mlh0VlJqN0o1d3RpUnVJZG8tQi1RbkZEX1JMVml3R2ktX2RjOEl0am5raEptNGxxRWtrVjZZSk4zMC15akZDMDZHakExZWRDcENaR0k4U0FEZWdtdWNyRVRhSmVvYXFzT05keXl1aHg5ZkRJY2duak9KWTd5N2tvLUw5OEVIMUoxNHV5TGQtTDZvQ0J2SzZ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-04-040",
+    "date": "2026-05-04",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Earnings call transcript: Palantir Q1 2026 exceeds forecasts, stock climbs - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNVXJWSjRobzFHSkR5T2NJTU9hRUlQbUZVMUU4T19xSksyajB4OVBLNjNXb0MyeGVONU1jUEtUWlQ4YzhBSTlsbkJUMnRva1BlelNwclZKVE1PTUNvRFA5VUtyVGhrOHA1eHc0NDBYNH",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVXJWSjRobzFHSkR5T2NJTU9hRUlQbUZVMUU4T19xSksyajB4OVBLNjNXb0MyeGVONU1jUEtUWlQ4YzhBSTlsbkJUMnRva1BlelNwclZKVE1PTUNvRFA5VUtyVGhrOHA1eHc0NDBYNHV2Ums0V1hSdnFoMFhjRFVZWE5FOFp3OHVIdURDVTFKWmJfaVdWNVA0Y2hYYWFDdDJ3TjhJYllHUUJTTzN4eGY2dWFuUmgzd3V3eUVoQ0pwalFnSGdXTkhv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-04-041",
+    "date": "2026-05-04",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Palantir Technologies earnings preview: Prediction markets signal key themes - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQTU1vWFBCNjREaS1MbnllTktWTnh1enplMGxvYUQ4a2ZZbUtfNWFjb19aVjJkMmlCdlRBMTVFajZVUUY0SW5IZWJPeERNbGVWdWYySkExZWt6QnZCb3BPNnE3SktJODhndE5ZTkRQTl",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTU1vWFBCNjREaS1MbnllTktWTnh1enplMGxvYUQ4a2ZZbUtfNWFjb19aVjJkMmlCdlRBMTVFajZVUUY0SW5IZWJPeERNbGVWdWYySkExZWt6QnZCb3BPNnE3SktJODhndE5ZTkRQTlhQa0dDN0taaHlDNUR0VkNjclR2dzFZSVNyMGloLVB2bEZiWGJ1ZkkyS3RxcjVyNHlMZmNfeGZrbGR5NTRtQUZLR0dTWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-04-042",
+    "date": "2026-05-04",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Palantir Stock Investors Just Got Incredible News From CEO Alex Karp - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPUE5QMHhLZHpzUTRaakk1MHZSLWUwSVV5TkxBRlhldXctd1FXRHprOG80SHpFODZTZDdfRl8tUUVSUU5GaTlhZEplVmNmVFVBS1R6cUFoVlFmNmdmSXJZNVFxeWNCR0Nob0RzT1RoT0",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUE5QMHhLZHpzUTRaakk1MHZSLWUwSVV5TkxBRlhldXctd1FXRHprOG80SHpFODZTZDdfRl8tUUVSUU5GaTlhZEplVmNmVFVBS1R6cUFoVlFmNmdmSXJZNVFxeWNCR0Nob0RzT1RoT01qXzhpN3E2SV9sX1R4U25TNnFQTzlIWDFKSUJKTVBIZ2ZMdHR5T0JR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-04-043",
+    "date": "2026-05-04",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Palantir Technologies (NASDAQ:PLTR) Delivers Impressive Q1 CY2026 - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVVVV3ZSY2Z2UnN4SE5UNmROdmdDczRBX3poUzQxRkJVQ2MwUlNrSGtaT2hEYlVvYzhEcFJkeFc1S1JKSDhXUHItbGx4alBNdHpPNG1GRElKMGtvRWhMeDNleG8xM29NNUl2LVkwMF",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVVVV3ZSY2Z2UnN4SE5UNmROdmdDczRBX3poUzQxRkJVQ2MwUlNrSGtaT2hEYlVvYzhEcFJkeFc1S1JKSDhXUHItbGx4alBNdHpPNG1GRElKMGtvRWhMeDNleG8xM29NNUl2LVkwMFJ0ZENYWTVYREliWDhrZWJFWTlsQk42Q21fcFdjdHNaNVFiTnYxT2lxRmtpYWVldzdSYm9rSTh3bmdfa28?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-04-044",
+    "date": "2026-05-04",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Palantir Technologies perks up as Q1 results, guidance top Wall Street's forecast (PLTR:NASDAQ) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ1llWGJyWWd5QXpuSjRqSWVNVHNUZnYweHZZUW51Z0lSWWlkUmlrclZTLWlVeHd5Vk84REp5TDYwTFNFWkRjbHlYeExVOHlmQjV6eFdQX0JnT0F3ek1xSG5vTEZYNTAxeWlJc1QyLW",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ1llWGJyWWd5QXpuSjRqSWVNVHNUZnYweHZZUW51Z0lSWWlkUmlrclZTLWlVeHd5Vk84REp5TDYwTFNFWkRjbHlYeExVOHlmQjV6eFdQX0JnT0F3ek1xSG5vTEZYNTAxeWlJc1QyLW1aSEZYaTktWVUyeThXa19sNDQ1dEh3SmxFM3RkY0hZbVdiSGdoLXJlN1FjeGZDTUhlanotdm5NSjNkVmtEMkdmV25BMjI1eGph?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-04-045",
+    "date": "2026-05-04",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Palantir Boosts Outlook on Booming AI Demand. CEO Alex Karp Says Its US Business Is 'Erupting' - Investopedia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRHRDWVE4UHNVazdlOWNDSkxZZkM0SE9KalBLMUFEMkp0aHY0Z0NmNERfUUx5S3hjZHJjWXNNMENZT3RlMXFXendDTmExVjBwclQ5cGZ0YXZHMFlxWUtGMkt5bGd3Y3ZZMmJRektVV0",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRHRDWVE4UHNVazdlOWNDSkxZZkM0SE9KalBLMUFEMkp0aHY0Z0NmNERfUUx5S3hjZHJjWXNNMENZT3RlMXFXendDTmExVjBwclQ5cGZ0YXZHMFlxWUtGMkt5bGd3Y3ZZMmJRektVV0NyUDNyeGw5bzZhR1dVclRvQnZxSWpYUHJYc05qUEZwQkNBZG9INE90MVlBRklRSGdxdmlON19YaVhrY1djeVZYalZmTFppQlVfemt0c3dEU1FGUUEwdnBHRk9ZLXp5cVdaTVN2bXJfNlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-04-046",
+    "date": "2026-05-04",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Palantir Technologies Inc. (PLTR) Beats Q1 Earnings and Revenue Estimates - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNVVlKRVJJYWRIQkYtMldoWllWWXpneEFPNUJHVzlmSUpCUC1QODZ1czFwWVJEODlHbWYyOXhVUVFES2hVN3k3N2hwa01FNnhOc3JHU21lVFZBRDkzRUhlbDlzazhENXZNcHhjVlhhWX",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVVlKRVJJYWRIQkYtMldoWllWWXpneEFPNUJHVzlmSUpCUC1QODZ1czFwWVJEODlHbWYyOXhVUVFES2hVN3k3N2hwa01FNnhOc3JHU21lVFZBRDkzRUhlbDlzazhENXZNcHhjVlhhWXdrOEE5Tm55eGl2SFh1Sm44dWs0d3lxdFcyMWI1TllR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-047",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US military accompanies commercial carrier through Strait of Hormuz",
+    "summary": "The shipping company Maersk said the transit of its Alliance Fairfax was completed without incident and that all crew were safe and unharmed.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/news/your-military/2026/05/04/us-military-accompanies-commercial-carrier-through-strait-of-hormuz/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-048",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Career submariner selected to perform duties of under secretary of the Navy",
+    "summary": "Retired Navy Capt. William Toti is filling in as the Navy’s No. 2 civilian.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/05/04/career-submariner-selected-to-perform-duties-of-under-secretary-of-the-navy/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-049",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "drone_warfare",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US destroys six Iranian small boats, shoots down missiles, drones, admiral says",
+    "summary": "Adm. Brad Cooper said Iran was trying to interfere with a U.S. military operation to open the Strait of Hormuz to commercial traffic.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/05/04/us-destroys-six-iranian-small-boats-shoots-down-missiles-drones-admiral-says/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-050",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S. AH-64 Apache, MH-60 Seahawk Helicopters Sink Six Iranian Boats (Updated)",
+    "summary": "<p>Commercial vessels and American warships are coming under Iranian attack around the Strait of Hormuz as a new U.S. maritime protection plan has kicked off.</p>\n<p>The post <a href=\"https://www.twz.",
+    "sources": [
+      {
+        "name": "the_war_zone",
+        "url": "https://www.twz.com/news-features/u-s-ah-64-apache-mh-60-seahawk-helicopters-sink-six-iranian-boats",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-051",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What’s behind the KMT’s internal splits over Taiwanese defence spending? - South China Morning Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNd3daVl9Ua3hvak5CXzZ6blpSVFpSelRoT1hIRkxOcUpXOXpSMzRwNjhqYmppTWc1UFpmblhxaEhvUFF3VDAyaXEwNkEtTUx3ZzNheTVPMXNjeTRYNVFfb2t4NmJRRk1lT3FhSlh2eF",
+    "sources": [
+      {
+        "name": "google_defense_budget",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd3daVl9Ua3hvak5CXzZ6blpSVFpSelRoT1hIRkxOcUpXOXpSMzRwNjhqYmppTWc1UFpmblhxaEhvUFF3VDAyaXEwNkEtTUx3ZzNheTVPMXNjeTRYNVFfb2t4NmJRRk1lT3FhSlh2eFpZODFqQU9Qc0Nqamo2WFhoUnpPbUdfcGU0LUVlaEg1ZzRPSUtMTldNdDA5NXdla01GbDhpM19OaGY4aWFHLXFrclhpZTVaWTREYkJZblZEONIBvwFBVV95cUxOaWt1OVMtTXF1ZEVCdXMtRVYxSmJDMmhycDFQaHZQamVXbldUOHZGNExkcmVVMXpWYzZfbmtVSDRZdTdUVDJ3Nm9xXzA4SDRzaU83WVRvTm82Yk9mdG8yR2Y1aERMSEpTTXl6ZDZKOS1RWXpVQ21qWE8zbjMwU3dsdzc3ZGY1Q3Z5bkd1aVRqNDFZQmJ1UGtPZVdGclc1cE9TQzVySGJEX0RnaVMyMVJBR3pJWmZJVVJNbGR3WEl2UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "l3harris-2026-05-03-001",
     "date": "2026-05-03",
     "companies": [
@@ -687,6 +1748,26 @@
       {
         "name": "the_war_zone",
         "url": "https://www.twz.com/air/could-the-x-bat-stealth-fighter-drone-change-the-air-combat-game",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "elbit-2026-05-03-015",
+    "date": "2026-05-03",
+    "companies": [
+      "elbit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Elbit Systems secures $750M Greece deal to supply PLUS rocket systems - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gJBVV95cUxQX3pzeHJPUFl0QkYwN3oxVGVRdEI4NV9Pd3ZKeWtrTGQwa3R6SzlzNDBLY1otSWxXNEVkSkZ1bGViR0cwWFlndHprdlVidWtFVXFpSEhQNVhodTdYYk1rQnVzRFRNR2hvQ0UxZ1IxVm",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQX3pzeHJPUFl0QkYwN3oxVGVRdEI4NV9Pd3ZKeWtrTGQwa3R6SzlzNDBLY1otSWxXNEVkSkZ1bGViR0cwWFlndHprdlVidWtFVXFpSEhQNVhodTdYYk1rQnVzRFRNR2hvQ0UxZ1IxVm1PS2VqSjZQNGREMFh1eVA3RXBEU0d3SUZXVTg4LUw3VWpGUnZFN3hxUjU1MEl2c18xVEp6cm5lVlRzRW0wUjNYUlFMblJicUcxMGVLRTBNZndoTkNjNmQzN2kyVEZvei1raml6TE94RVdjWmlCVWZZVUNqaGxDUWltd3RBXzVwZkt1dEdnT1BSM0tscUNlNkFVZEQ3b0FXRUIwTGl2TExxeVVURmp4bXBocXl6Mi0yWmo2ZkNIQ0hjQ29CeXhWN2pGTWhmWHEwYUZUWnBTMk8zbzlXVW9PdnYweHpMZmh3UXRqM0cweWc?oc=5",
         "type": "rss"
       }
     ]

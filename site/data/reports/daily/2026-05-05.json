@@ -1,0 +1,229 @@
+{
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05T09:57:52.240120Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "palantir-2026-05-05-021",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "[Morning Flash] Palantir Technologies posts strong earnings but falls after-hours; major logistics company plunges as Amazon opens its logistics network to external firms; Trump claims interest rates are too high - Moomoo",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTVFBY3RBTmdsWnBNVVZnbkVBd1p6amd0Y0l5T0xxeXFqMzhrcUNoNHlYVXpDdkUtVTdCTUhIbWpmRlFtLUxENnRuMkxLWXdGVEpxNGpMNjVtaFhkRU1jSUVWVDZZbHlKckRwRTY1aWQ0bmg4XzQ0STE3RHcwaXpXMEF0bFN0NkwzVTAtVXVRSzRILWV0WHRRSlZJcHdWLVVEb0ZmNHpwc0ppUVl2X0tKMQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rheinmetall-2026-05-05-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall shares rise despite missing Q1 estimates - Reuters",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNmpoX3JRS3lsdXNjVDliWWF6MDdfX3A1V3FpUzVSMVlDME5CcTFXeWlQckIycHFGemM2VWJnOENlVmdKZWxldXVpVEViNDlRYXJmcU9ST3BEd0VzblJlRHlGUll4UWh2aFlBMXZqV1FWRE5QRkVYdDIwNnhaMmtjU05VTXJnYXVNNTVRTVVPblZQdm04RkZOTjFIY1pXdFVlSDFQWnBqYXpSb3ZyV1pXcjRUZFVqSnpnZlZEMkZXeklQLUxKWGRpN2E0bWlWYUpwVGJESjczTFo5UQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rheinmetall-2026-05-05-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall shares rise despite missing Q1 estimates - TradingView",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNDJaMk8tSWUwYmZPVzhJcC1NalczSUZtREpkd19iT0hVQm8zWWpQdnoySXk2bzVwTVNZRzlxeHo4U0NTZVlQWjFhVFRIQVZDUzlDNjVQWF9ENVl1RXVLdVBIeDBDUkZKUFBUNVpvTlFnb2Rjd0ZxN1dzSFc5a0pURGI2LU1NMEhxMmNDYmJWZm9icDVMV18waTR1LWJvUXg4eXpWVDFDeHJILWJOMHhZRFFkSFJkcmtuMHVHX1JxZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rheinmetall-2026-05-05-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall Logs Growth in Preliminary Q1 Revenue; Outlook Affirmed - marketscreener.com",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX01TYWF3M3g3SXNYT3dDMm5pRkMyRU9uNTRHOWJBaFYtSkJldkZGaXJRdnY0WXY4VDhJUHlsRDVpWWRrdjRZOVFYaFdmcmlONjBiWHlEaUlxYUJpNzc3ZkptQlNTMDdDYWtzZm5DT19kc2p4RzV5N2FKck1BRnpHRGE2akk3eFc3NG0wTktaNG9NZm9pWEVCbV9vZFk2dE5BR21UdDJrSE1BaVRqZk5wUm04UHlMaXpLMkdr?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rheinmetall-2026-05-05-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall shares rise as Q1 miss offset by full-year €14 bln target - Investing.com Nigeria",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc25nTEJoeW1vcHJEYXZ5N2Rsdk9ucnQwbVZGbDhxTDQ2UFhtYUoxeVVIOHBmcW5KTlpMVVA5QnBhMmpuS0RjbWhQcDVnN2dvTVNQRGJ5MlBjT2dCVWkwMlFMbE1KSWZBYVQwMWZCU0hRT3R4ZkwxLU8xNmhDZ0RVc19xcXZNenFkd081MjNuVHdub1lwSms3ZDJURnFDX2w1WEhrWVRoZ3hyS2dpUXM1RGk1TXI?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 19,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "rheinmetall",
+        "count": 8
+      },
+      {
+        "id": "palantir",
+        "count": 8
+      },
+      {
+        "id": "hanwha_aero",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 21
+      },
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "drone_warfare",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 280,
+    "dup_title": 99,
+    "too_old": 86,
+    "gate1_blocked": 25,
+    "gate2_blocked": 15,
+    "passed": 55,
+    "pass_rate": "30.4%",
+    "gate2_block_rate": "8.3%",
+    "gate2_samples": [
+      "Truist Financial Corp Grows Stock Holdings in RTX Corporation $RTX - MarketBeat",
+      "Jim Cramer on RTX: “I’d Buy It Aggressively” - Insider Monkey",
+      "RTX Corporation 8-K Filing Details for 2.150% Notes Due 2030 on NYSE – Company Information & Key Dis",
+      "RTX Corporation (RTX) is attracting investor attention: Here is what you should know - MSN",
+      "CapWealth Advisors LLC Sells 7,039 Shares of RTX Corporation $RTX - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為萊茵金屬、Palantir Technologies、韓華航太相關動態：「[Morning Flash] Palantir Technologies posts strong earnin...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "[Morning Flash] Palantir Technologies posts strong earnings but falls after-h...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Rheinmetall shares rise despite missing Q1 estimates - Reuters（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
