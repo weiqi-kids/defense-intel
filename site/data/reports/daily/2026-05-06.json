@@ -1,0 +1,220 @@
+{
+  "date": "2026-05-06",
+  "generated_at": "2026-05-06T06:02:05.953358Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "palantir-2026-05-06-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Palantir Technologies (NASDAQ: PLTR) Falls Almost 7% as Analyst Downgrade Overshadows Record Quarter - foreignpolicyjournal.com",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeFo1NTdXWDJJZlBWdFRwZGJCUVkzVXFkZHdiWG9ib2xsSVVQbU1EMnBVdFU5T29pOF92aDVpaldPTG9zSnVXaTBZMm9PMFppSlgzcWlheXNKSHJYSnp5bEdyekM1OXItSEQ3NG9wNDFRa0VCZm42NmxUY0F5T29nS2s0NUREMFhPMF9iSl9XUVlhSnRVdE5rZG5jZ1ZKaVYzb2JBVjJWak9wekpmZGx3OVpVVFpEZ2ZveVdDLXFOT1d0RWQzQm5DYkRwNEhYSFhGOFRYT1BuRWljaVdoQ2c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rheinmetall-2026-05-06-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall and MSC in Negotiations to Buy Romania’s Mangalia Shipyard - The Maritime Executive",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLUJUSktfMUg4NnhMVFMyOTQ4VkRSVU92WUhMaGg0U3h3QWh0WkYxaDFxVnVhNUtGS1Z1NVlMWjlHVTdFN3lsMTJna3RCRGNLMUFyZnJzUUxJTU50U0k1N1k5Yk41bkFsYk52a05RcnVJUzJjZElzRUtQTFlfMl9iOGZWWERQb1Z0aVFuQk1SZ0hRZ2VYXzZKSVZRWmZvY3kyTU1BN0xXTEp2YTB4UFE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rheinmetall-2026-05-06-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why defense tech startup Destinus is partnering with Rheinmetall - Table.Briefings",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY1Z1N040c3lGMGhweUdzOWxIa1VJb3lpVVc0NXNFR0s0NF9PLWFjRmJSTHFKcGpacHkzQ3dqb2RYNVN4RTBKRUk0TnZsVDFVR0xFamtCLWpKS184dWJWck1kR3FReTBrWGxwZE9vZDRJNHh4ZVZwYkZIbU9oU3EzUk1CSEpNbkRJaWlXXzNoV011SmRyQ2t2MGFJdE1xMlIxZl96d2lqOA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-06-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Oakland County aims to grow defense industry amid overseas wars - The Detroit News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPR2FlQ2w1cElhekRRX3ZUeHFYRUpPWHdyYlpGY0RFUVNTc3Z1blk2R01RNTRtVFhXUTN3dXRpNDdlRzV1TkdHUjhFTW5qLWpaRXpqQ0x6T09WRmVoVTdDUmVVdmFmNGswZmZtaEFkd3hLR0hsWk1HcjlGZ1k2alpDRTJNQ0I2MnMwaDlfek9KUjJUSC1BYW9xMElYVDFXMUVmLXBDYnRaeHNxMG9zTFNqdzVOSC1WN3YzUDcwdU5mS0MwZWRvNUQxZkZPQ2twbUU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "elbit-2026-05-06-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Elbit Systems of America Wins U.S. Army BiNOD Night Vision Contract - Israel Defense",
+      "companies": [
+        "elbit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sQ3FSU3JISVhhYlRDMVVZclF4NnJ0ZmJlNzRfUFlQWnB6SGNmT0l1ejQyRHVWd3VIM0NVbWUxdnUyWFF6c0twN3UxRWtkRnFIRjdmZFFQb1Y?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.14,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rheinmetall",
+        "count": 2
+      },
+      {
+        "id": "palantir",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "elbit",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "industry_general",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 280,
+    "dup_title": 100,
+    "too_old": 87,
+    "gate1_blocked": 21,
+    "gate2_blocked": 23,
+    "passed": 49,
+    "pass_rate": "27.2%",
+    "gate2_block_rate": "12.8%",
+    "gate2_samples": [
+      "RTX Corporation $RTX Shares Purchased by Milestone Asset Management Group LLC - MarketBeat",
+      "RTX Corporation $RTX Shares Bought by QRG Capital Management Inc. - MarketBeat",
+      "Truist Financial Corp Grows Stock Holdings in RTX Corporation $RTX - MarketBeat",
+      "CapWealth Advisors LLC Sells 7,039 Shares of RTX Corporation $RTX - MarketBeat",
+      "RTX Corporation $RTX Shares Acquired by Robertson Stephens Wealth Management LLC - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為萊茵金屬、Palantir Technologies、L3Harris Technologies相關動態：「Palantir Technologies (NASDAQ: PLTR) Falls Almost 7% as A...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Palantir Technologies (NASDAQ: PLTR) Falls Almost 7% as Analyst Downgrade Ove...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Rheinmetall and MSC in Negotiations to Buy Romania’s Mangalia Shipyard - The ...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
