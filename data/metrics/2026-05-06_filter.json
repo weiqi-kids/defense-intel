@@ -1,11 +1,11 @@
 {
-  "total_raw": 280,
-  "dup_title": 100,
+  "total_raw": 560,
+  "dup_title": 234,
   "no_date": 0,
-  "too_old": 87,
-  "gate1_fail": 21,
-  "gate2_fail": 23,
-  "passed": 49,
+  "too_old": 173,
+  "gate1_fail": 42,
+  "gate2_fail": 49,
+  "passed": 62,
   "gate2_samples": [
     "RTX Corporation $RTX Shares Purchased by Milestone Asset Management Group LLC - MarketBeat",
     "RTX Corporation $RTX Shares Bought by QRG Capital Management Inc. - MarketBeat",

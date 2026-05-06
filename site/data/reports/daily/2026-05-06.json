@@ -1,6 +1,6 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T06:02:05.953358Z",
+  "generated_at": "2026-05-06T10:12:30.602707Z",
   "top_events": [
     {
       "rank": 1,
@@ -128,7 +128,7 @@
   "anomalies": [],
   "topic_trends": {
     "industry_general": {
-      "today": 5,
+      "today": 6,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -138,62 +138,66 @@
       "sentiment_7d_avg": null
     },
     "earnings": {
-      "today": 7,
+      "today": 12,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.14,
+      "sentiment_today": 0.08,
       "sentiment_7d_avg": null
     }
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 9,
+    "total_events": 17,
     "sentiment_distribution": {
       "positive": 1,
-      "neutral": 8,
+      "neutral": 16,
       "negative": 0
     },
     "top_companies": [
       {
         "id": "rheinmetall",
-        "count": 2
+        "count": 4
       },
       {
         "id": "palantir",
-        "count": 2
+        "count": 4
       },
       {
         "id": "l3harris",
-        "count": 1
+        "count": 2
       },
       {
         "id": "elbit",
+        "count": 2
+      },
+      {
+        "id": "rtx",
         "count": 1
       }
     ],
     "top_topics": [
       {
         "id": "earnings",
-        "count": 7
+        "count": 12
       },
       {
         "id": "industry_general",
-        "count": 5
+        "count": 6
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 280,
-    "dup_title": 100,
-    "too_old": 87,
-    "gate1_blocked": 21,
-    "gate2_blocked": 23,
-    "passed": 49,
-    "pass_rate": "27.2%",
-    "gate2_block_rate": "12.8%",
+    "total_raw": 560,
+    "dup_title": 234,
+    "too_old": 173,
+    "gate1_blocked": 42,
+    "gate2_blocked": 49,
+    "passed": 62,
+    "pass_rate": "19.0%",
+    "gate2_block_rate": "15.0%",
     "gate2_samples": [
       "RTX Corporation $RTX Shares Purchased by Milestone Asset Management Group LLC - MarketBeat",
       "RTX Corporation $RTX Shares Bought by QRG Capital Management Inc. - MarketBeat",
@@ -204,7 +208,7 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 9 則事件，焦點為萊茵金屬、Palantir Technologies、L3Harris Technologies相關動態：「Palantir Technologies (NASDAQ: PLTR) Falls Almost 7% as A...」。整體情緒偏正面，市場信心回溫。",
+    "summary": "今日共 17 則事件，焦點為萊茵金屬、Palantir Technologies、L3Harris Technologies相關動態：「Palantir Technologies (NASDAQ: PLTR) Falls Almost 7% as A...」。整體情緒偏正面，市場信心回溫。",
     "signals": [
       {
         "text": "Palantir Technologies (NASDAQ: PLTR) Falls Almost 7% as Analyst Downgrade Ove...（財報）",
