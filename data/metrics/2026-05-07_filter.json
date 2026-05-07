@@ -1,0 +1,16 @@
+{
+  "total_raw": 280,
+  "dup_title": 102,
+  "no_date": 0,
+  "too_old": 84,
+  "gate1_fail": 24,
+  "gate2_fail": 25,
+  "passed": 45,
+  "gate2_samples": [
+    "RTX Corporation $RTX Shares Purchased by Milestone Asset Management Group LLC - MarketBeat",
+    "Truist Financial Corp Grows Stock Holdings in RTX Corporation $RTX - MarketBeat",
+    "Hemenway Trust Co LLC Cuts Holdings in RTX Corporation $RTX - MarketBeat",
+    "RTX Corporation $RTX Shares Bought by QRG Capital Management Inc. - MarketBeat",
+    "L3Harris to provide IPMS for Polish Navy Miecznik-class frigates - navalnews.com"
+  ]
+}

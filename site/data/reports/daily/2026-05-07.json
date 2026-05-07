@@ -1,0 +1,238 @@
+{
+  "date": "2026-05-07",
+  "generated_at": "2026-05-07T10:17:44.366361Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rheinmetall-2026-05-07-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Rheinmetall falls 2% as Q1 profit miss shadows record €73 bln backlog - Investing.com",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbmhOYkh3NWFXcnRIQ1A4UG1INXNRRUxfZHpDNGdPdXgtMUY0Yk5LU3hsNjlIeHpVaExSMDRpTTBQcThrVmlaMDlWVmd5Zngxc2JzZUdKRmlFM0RPTzVJMDE5T3lKaFZyMTFKMEtvMUxheWdBRVBQZG4tR0h6M2d6c3pUUlJGTGltTnBXSUpWWENRbHh6T3U1eDA3M2kzdkhET2hHbm1BNDl3TDRaWHdPRk1RNGpCZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rtx-2026-05-07-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Indivisible Partners Takes Position in RTX Corporation $RTX - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSzdHTTRDeU1LUnZ4NWI2d3hES1daZHFkZkkzUGxiUHQ5S1FEZlJwOTZQUUpHRmt3UkZKQ19RMUtxaXd4YUNyUnd1YTRGUkZSTVFnWnFsdHNqOE9Oam85WFlBS2tZSERMTlpBcHJSREdwRlJNRmFyTHdoUU9EQkppM1F1QlNHVzJxbWo0ZGVZd29YVGd5aG9wOWlSUlFpSmJvYlFMQTBmVFVhVm9jSEJjNVpqcTZoTnAtSHFZ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rtx-2026-05-07-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bluebird Wealth Management LLC Purchases New Position in RTX Corporation $RTX - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWWszNGxDRjFKRjF3MDVrV3pJT01PdENtdXhQXzc2MXBDOWx1TGVFelo2cmtDcjNuM2s4bGcxLXB5U082Q0RjZEFDSjZ2c0p0SjlWWEo5U3Z3enY1WmJvSEtQMld1T1lNOWhSaGJoWmEyRy1JX3hFWmZWVzVjS01aeE56ZkluV21NNFBuUkhTckt1YUxHTFFsV0VxYUY5LVI1d0hOcGdnMkxDYjQtSzM5aURsbUkyQjJkYmNqUnNUYUxydk5xQ1AwaXhlT2xKQXc0ZlhF?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "l3harris-2026-05-07-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Has The Recent Pullback In L3Harris Technologies (LHX) Opened A Valuation Opportunity? - simplywall.st",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYlFVdmJYUkF1SHdDUklqX2FoazRqTENoRVF2LU1hZmtoem5iVHMtUmoyT0pCeGlRS1NfNVlvN0JTRUxsajlZSXloSEU3bWpuSGNkWnRlVlFMdHFaV2ZoREZUaVVJa3ZPSnB2TF9ZXzFBek1PeDJlRmoxYWhmQW1nTXd1bUFVYmF1aV94YVdicElPdU1HeDhwMTBUSF8weEQ0cUdEZUFNOWVKVVMyWHBlcVRZLURIUmtoajktTU4ya09zdk52NFBQQ3F5ak5WcFRQOWg2UDZtWUzSAd4BQVVfeXFMTWhFUEFnNUpCRGhfdk5TbWF6eFROaHU5Y05GamVoSjZLNW1yb3NBYWkxSHg0OGc5QmZZTkZYSEZrNFVEZzlqb3pRRV83M0NvNllBdlA2LWxCa1E1NS1qdEppdjdlM2lTZ3hTQ1BOSURXWkVqVDBvVlFIWVpFVWlka0k4Wk1uMVcwTTlNWExidzZFU2JqMWg4Njc3RWZ3N0l3V1B4eHVQT2RNZXdMckhqcGNUcWwxYmZCWWNrRjNabEk2SjMyNGFCQU03cUNzUGI1VVdjS291WUVtSGdRVHNB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rheinmetall-2026-05-07-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall posts rise in sales, expects higher growth - MSN",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMFlwNEpxTWo4YzZ2TGNZeGJtV3FoNkhscXRJalpBWXFFR29JWEFCcDFtX2dPRWVhR2lETXZ2YmNYRnowQVpfLVlCZXFnbU1hVkRZM210ZUJqV0trVjB0X2ZZMzQ3YkRNWl9EcDVOb2c3UkQxRzZxQjBPTWhTZ3M2NjM5VC1PQUVFRWl1dmktZjQ0T3NkM2NwSHFhVm5oU2RjR0dkLXhRUVAwb2RMaU9rNzdVRzdwaThUTUduU29mWVViMFIzM09xNDYwQlhrZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 14,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rheinmetall",
+        "count": 6
+      },
+      {
+        "id": "rtx",
+        "count": 3
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "hanwha_aero",
+        "count": 1
+      },
+      {
+        "id": "elbit",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 13
+      },
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "drone_warfare",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 280,
+    "dup_title": 102,
+    "too_old": 84,
+    "gate1_blocked": 24,
+    "gate2_blocked": 25,
+    "passed": 45,
+    "pass_rate": "25.3%",
+    "gate2_block_rate": "14.0%",
+    "gate2_samples": [
+      "RTX Corporation $RTX Shares Purchased by Milestone Asset Management Group LLC - MarketBeat",
+      "Truist Financial Corp Grows Stock Holdings in RTX Corporation $RTX - MarketBeat",
+      "Hemenway Trust Co LLC Cuts Holdings in RTX Corporation $RTX - MarketBeat",
+      "RTX Corporation $RTX Shares Bought by QRG Capital Management Inc. - MarketBeat",
+      "L3Harris to provide IPMS for Polish Navy Miecznik-class frigates - navalnews.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為萊茵金屬、RTX、L3Harris Technologies相關動態：「Rheinmetall falls 2% as Q1 profit miss shadows record €73...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Rheinmetall falls 2% as Q1 profit miss shadows record €73 bln backlog - Inves...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Indivisible Partners Takes Position in RTX Corporation $RTX - MarketBeat（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

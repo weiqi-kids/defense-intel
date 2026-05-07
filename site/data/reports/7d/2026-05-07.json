@@ -1,0 +1,135 @@
+{
+  "date": "2026-05-07",
+  "date_range": {
+    "start": "2026-05-01",
+    "end": "2026-05-07"
+  },
+  "generated_at": "2026-05-07T10:17:44.438790Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "rtx-2026-05-04-001",
+      "date": "2026-05-04",
+      "title": "RTX Annual Meeting: Calio Touts Record $271B Backlog, Output Gains, and Big 2026 Investment Plans - Yahoo Finance",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 70,
+      "last_week": 61,
+      "week_over_week_change": "+15%",
+      "sentiment_this_week": 0.02
+    },
+    "drone_warfare": {
+      "this_week": 8,
+      "last_week": 8,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "industry_general": {
+      "this_week": 32,
+      "last_week": 45,
+      "week_over_week_change": "-29%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rtx": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 5
+    },
+    "l3harris": {
+      "event_count": 9,
+      "sentiment_avg": 0.11,
+      "rank": 4
+    },
+    "rheinmetall": {
+      "event_count": 21,
+      "sentiment_avg": 0.09,
+      "rank": 2
+    },
+    "elbit": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "palantir": {
+      "event_count": 26,
+      "sentiment_avg": -0.11,
+      "rank": 1
+    },
+    "hanwha_aero": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 266,
+        "last": 352,
+        "change_pct": -24.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-01",
+      "event_count": 54,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-02",
+      "event_count": 16,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-03",
+      "event_count": 15,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-04",
+      "event_count": 56,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-05",
+      "event_count": 68,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-06",
+      "event_count": 39,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-07",
+      "event_count": 18,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-01 ~ 2026-05-07）共 266 則事件，重點為「RTX Annual Meeting: Calio Touts Record $271B Ba...」。財報、國防航太通用、無人機作戰為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "RTX",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "萊茵金屬",
+        "reason": "本週出現 21 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
