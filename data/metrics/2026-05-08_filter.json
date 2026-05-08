@@ -1,0 +1,16 @@
+{
+  "total_raw": 280,
+  "dup_title": 104,
+  "no_date": 0,
+  "too_old": 87,
+  "gate1_fail": 25,
+  "gate2_fail": 27,
+  "passed": 37,
+  "gate2_samples": [
+    "Sageworth Trust Co Has $600,000 Stock Position in RTX Corporation $RTX - MarketBeat",
+    "RTX Outperforms Industry in the Past 3 Months: How to Play the Stock? - TradingView",
+    "RTX Corporation $RTX Shares Purchased by Milestone Asset Management Group LLC - MarketBeat",
+    "RTX Corporation (RTX) is attracting investor attention: Here is what you should know - MSN",
+    "Hemenway Trust Co LLC Cuts Holdings in RTX Corporation $RTX - MarketBeat"
+  ]
+}

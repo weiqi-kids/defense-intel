@@ -1,0 +1,260 @@
+{
+  "date": "2026-05-08",
+  "generated_at": "2026-05-08T09:09:40.814682Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rheinmetall-2026-05-08-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall Earnings: Acceleration Expected From Q2 - Morningstar Canada",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQVU3Zmw4Yk1MNDkxTUtSSU5zUDZ1VVhvUEFGZ0xLRE1wSFFVT0x6NFNxamE3TWJOUklWeFg5dE01dll5dmpqZlllYWpoSENjM1RlOFRvYUhmc2o4Y1ZWekdWU1pHVVR3eVQwNGtRMDBkakV1NEhleTd5TjV3ZTlPU2NaZUg2YlBRUThjSVNmUHpnaFU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rheinmetall-2026-05-08-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Watch Rheinmetall CEO on Demand, German Defense Spending - Bloomberg.com",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "defense_budget",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTTIxQVNnUmNWT3RkVVlNZ2JsRXNMcW9Yd29GVG5Ha0ZzUkVuLUNFQVllc3YxME1WYUZ1RTY4SmUyLVdyMUUyUzhidjdJVFpyMFlHWVh0MTY3ZUQ1N055WVdTNlRKWXJnOFpDSEdPYjhfYVJJX3ZSRkQ5OHo2bkJuRXJhcHJ2cHM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "palantir-2026-05-08-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "'I am shorting the business model... I am shorting the CEO': Two top analysts just slapped Palantir with a 'sell' rating - Yahoo Finance",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "arms_export",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQellxejBmVnBURHV1eWdJQllXN2JqRmVFUEJaYURfRE8xVW9WV3RiUHJMVno3Nk9Fbm10OGQ4SzNYSlZZampEcmVJSUFmSlR5YVUtSXlma2V6VXJTV0g4VW5LZ1d4SzJwbUVyWVQ0bDhxb25jSGxtTUtPeDlZQXV5b0Z6RXBmMldudWpfMmRzaEFZcmVHSVItVndR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "palantir-2026-05-08-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Should you buy Palantir stock on the dip? - MSN",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU0pIeW44TE1BM2dNR1NQZ3MyU1ZxUmhzYVM1Z3h5Q3dRYnh6dkcxTHdKXzVFQXBkUXpiUHRiZHBFOGpOT0M0S29Oci12RkU3dXBDVjJuaVhLMVFLM1gzNUJnUzQwOUJsX2sxUVZfNjhZX21KS0Y1OVREZF9EdXNVWklYYkpJNGd2SDdrVWJCTkppYzdpdzM2UzY5RkxZXzBfeVU0a0I2RnliZnByaERBYWpmWmdXbXo0ekc5MEZZVzE4SS1wbkV1Nw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "palantir-2026-05-08-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ASR Vermogensbeheer N.V. Acquires 17,348 Shares of Palantir Technologies Inc. $PLTR - MarketBeat",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcDVLb3Q4V3NBNkliejlWZXA0c0F5VWdIdWF4OW9VWmVnUEdXOFlraHRROE1GOGFnV0R4akhHaXRwdVphOVMtclZMcDV5VlN3Y2ZGSGk0VHlDbHFhX0ZyX3RqMHFqenI4VmQxUXFOZTgyYjVISDlweVZLS2ZiazRtbE42S1l3Ri1xdmc1OWh6Nm1sWUNGdDZINFZJb0MtOFV1dEw5YlM4MWIwdlRrN25BdlFIU2VaQzhNLWh5SkFjMHo1Z0JSY3ZYU0RWOExKLVlJR01SVTlR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "defense_budget": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "arms_export": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "palantir",
+        "count": 5
+      },
+      {
+        "id": "rheinmetall",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "drone_warfare",
+        "count": 2
+      },
+      {
+        "id": "defense_budget",
+        "count": 1
+      },
+      {
+        "id": "arms_export",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 280,
+    "dup_title": 104,
+    "too_old": 87,
+    "gate1_blocked": 25,
+    "gate2_blocked": 27,
+    "passed": 37,
+    "pass_rate": "21.0%",
+    "gate2_block_rate": "15.3%",
+    "gate2_samples": [
+      "Sageworth Trust Co Has $600,000 Stock Position in RTX Corporation $RTX - MarketBeat",
+      "RTX Outperforms Industry in the Past 3 Months: How to Play the Stock? - TradingView",
+      "RTX Corporation $RTX Shares Purchased by Milestone Asset Management Group LLC - MarketBeat",
+      "RTX Corporation (RTX) is attracting investor attention: Here is what you should know - MSN",
+      "Hemenway Trust Co LLC Cuts Holdings in RTX Corporation $RTX - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Palantir Technologies、萊茵金屬、L3Harris Technologies相關動態：「Rheinmetall Earnings: Acceleration Expected From Q2 - Mor...」。主要關注主題為財報、國防航太通用、無人機作戰，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Rheinmetall Earnings: Acceleration Expected From Q2 - Morningstar Canada（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Watch Rheinmetall CEO on Demand, German Defense Spending - Bloomberg.com（國防預算、財報、國防航太通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
