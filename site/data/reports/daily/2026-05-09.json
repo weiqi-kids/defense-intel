@@ -1,0 +1,213 @@
+{
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09T09:12:37.656181Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rheinmetall-2026-05-09-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall Plans to Acquire German Naval Yards Kiel - navalnews.com",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPREJFblNuY256dU91U2FNU1NsejZHR0I3SmVpY21OblZwRjVHVEVnb21MRERsTEtya1ZaQmFibUxBUkppSXZXWnRFWmNoRU5uUUZqdWYxS3JLZGptd2E3dTJ4Vy1TZEJDSGZHaEQ5OTlJcTdCbjJMaTc0cEVKUnViS2RrMTlrZVN2alljOFEzZGxxUVROdHJwVGRXWHQ1cHM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rheinmetall-2026-05-09-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall (ETR:RHM) Could Be A Buy For Its Upcoming Dividend - Yahoo Finance",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd0V5YkRnWlUtbFRIbXFYaWwwNnNmczJJRkNRa3FZSFF6S1QyQl83dkNNVHJRZ2JqN3oyQk5lV25GRzNEQjlOUkZ2SFdYb2JBQnVSNExVak5tcW9sVmFnQl80bFRjQTVMek94Y2pGRl9MQ3hVYkJyWHNuT3JUc0FRZmF0Z1FYYkRmLUw0RlN0ZmhmLU10RmpNYjh3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rheinmetall-2026-05-09-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall AG (ETR:RHM) Looks Like A Good Stock, And It's Going Ex-Dividend Soon - simplywall.st",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNGRRQWJ1MGt6cF8xcnZrN0xjVzJSc0NSdmtMOVpCVy1vYmU0WWdMN2FieUZSVWhOR3B3WHVOV0N6a3dvOTdkUTNMTVVpNGtWVnhiUTlqdkFuUjFiMEpFem1nN0hxY2dzMkVPYVNYRUZOalhvOEFDNGF1QmRwZ0lZWlJRWGhFcGg3X2FmWHhHbVU4SHNGWlhUb1RnaW1YbGZoQ2RkelJKNjBFdDNwNzA5VWZzM3VNX2NFSlE0dTM5R2xvTzFOUWRpdXlkTTUtSGRMRkgw0gHYAUFVX3lxTFB5S3NRd2w5RFNhSWZiSXJfclZmLThVdVNDUGNRU3hfNjNMX2ZoWlg1dEVTWklCRXFxSV8zZFB2TVV4VjRSS3BNS1M0RF90MDZGV1dPcWZDNDRWNjZSbmRWRnNoNEtNdUZXaWxHNWoybmVVaDlROUxHVzA2NDh3b3EzS0ZnREVrT1VrX1pCMlV2Tm1QTU1OMkl3bnpCSEtUMFRCVlVnS2o4Qmk4R0VfRXREeTd5R29NY2hFczE3c282cjloS01CY29SbWxvQnp1UzhzNHlFOVZMZg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "palantir-2026-05-09-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ethic Inc. Raises Stake in Palantir Technologies Inc. $PLTR - MarketBeat",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMlRlZVFUVWlCb0hJWGJvNDZ3OHhzdzk0Mktkb2JjNHFIOXBGeC01cHVCczJBbE1kLTN2NW9kcnlNSmhFbGVGM1ZKQ1RfLUVVZXprMzFCNGp2YmtRT3czR01hZzQ5NkVJZTh5d3UtM3lNVUx1UFZQdWVtN1J4cFpPUUx5M1RMZWZYV1plZjJsaEVyQk90cjUzbnJJemNCNDc4eTNsd2VWSWc0TFNlUWZydUdJbnktSkUy?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-09-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "US concerned by Taiwan defence delay 'concession' to China - Reuters",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQmVzQ2VlRXdKRG4yZC1Cdmo3ZXRsMDNhOXRNWmZZcGJneDZxRU1YMGM3MlNGRElUd0V6UDc5WjgyQW5fdmQtekR0QlJobnJoWUNyR2xxaDlSWmJFdHY3R3ZMSzhPS0hQYUpZeC16b0U0RU0wNG5RRzNjTk9rSDdGTzF3cDI3MHMxZGY1TUlJVVhZOXdwdnVXU1BBRUlKQmk0VmVnc0Zib1ZZampnejctenhxR0hnM2c?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rheinmetall",
+        "count": 3
+      },
+      {
+        "id": "rtx",
+        "count": 1
+      },
+      {
+        "id": "palantir",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 280,
+    "dup_title": 108,
+    "too_old": 83,
+    "gate1_blocked": 27,
+    "gate2_blocked": 19,
+    "passed": 43,
+    "pass_rate": "25.0%",
+    "gate2_block_rate": "11.0%",
+    "gate2_samples": [
+      "Sageworth Trust Co Has $600,000 Stock Position in RTX Corporation $RTX - MarketBeat",
+      "RTX Corporation $RTX Shares Purchased by Milestone Asset Management Group LLC - MarketBeat",
+      "Hemenway Trust Co LLC Cuts Holdings in RTX Corporation $RTX - MarketBeat",
+      "Truist Financial Corp Grows Stock Holdings in RTX Corporation $RTX - MarketBeat",
+      "RTX Corporation $RTX Shares Bought by QRG Capital Management Inc. - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為萊茵金屬、RTX、Palantir Technologies相關動態：「Rheinmetall Plans to Acquire German Naval Yards Kiel - na...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Rheinmetall Plans to Acquire German Naval Yards Kiel - navalnews.com（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Rheinmetall (ETR:RHM) Could Be A Buy For Its Upcoming Dividend - Yahoo Finance（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

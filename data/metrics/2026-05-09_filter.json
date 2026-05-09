@@ -1,0 +1,16 @@
+{
+  "total_raw": 280,
+  "dup_title": 108,
+  "no_date": 0,
+  "too_old": 83,
+  "gate1_fail": 27,
+  "gate2_fail": 19,
+  "passed": 43,
+  "gate2_samples": [
+    "Sageworth Trust Co Has $600,000 Stock Position in RTX Corporation $RTX - MarketBeat",
+    "RTX Corporation $RTX Shares Purchased by Milestone Asset Management Group LLC - MarketBeat",
+    "Hemenway Trust Co LLC Cuts Holdings in RTX Corporation $RTX - MarketBeat",
+    "Truist Financial Corp Grows Stock Holdings in RTX Corporation $RTX - MarketBeat",
+    "RTX Corporation $RTX Shares Bought by QRG Capital Management Inc. - MarketBeat"
+  ]
+}
