@@ -1,0 +1,16 @@
+{
+  "total_raw": 280,
+  "dup_title": 127,
+  "no_date": 0,
+  "too_old": 83,
+  "gate1_fail": 26,
+  "gate2_fail": 26,
+  "passed": 18,
+  "gate2_samples": [
+    "Lighthouse Financial Services Inc. ADV Acquires Shares of 19,965 RTX Corporation $RTX - MarketBeat",
+    "RTX.CA Stock Price, Quote & Chart | RTX Corporation (TSX:RTX) - ChartMill",
+    "Sageworth Trust Co Has $600,000 Stock Position in RTX Corporation $RTX - MarketBeat",
+    "RTX Corporation $RTX Shares Purchased by Milestone Asset Management Group LLC - MarketBeat",
+    "Hemenway Trust Co LLC Cuts Holdings in RTX Corporation $RTX - MarketBeat"
+  ]
+}

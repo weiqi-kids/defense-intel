@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-09T09:12:34.694902Z",
+  "updated_at": "2026-05-10T09:25:13.584654Z",
   "quarter": "2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -147,14 +147,14 @@
       "name": "Palantir Technologies",
       "ticker": "PLTR",
       "currency": "USD",
-      "ar": 1042065000,
-      "ar_prev": 1005910000,
-      "ar_qoq": "+4%",
+      "ar": 1405588000,
+      "ar_prev": 1042065000,
+      "ar_qoq": "+35%",
       "inventory": null,
       "inv_prev": null,
       "inv_qoq": "N/A",
-      "alert": false,
-      "quarter_date": "2025-12-31"
+      "alert": true,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "rheinmetall",
@@ -204,12 +204,12 @@
       "ticker": "HO.PA",
       "currency": "EUR",
       "ar": 3968900000,
-      "ar_prev": 6741800000,
-      "ar_qoq": "-41%",
+      "ar_prev": null,
+      "ar_qoq": "N/A",
       "inventory": 4964200000,
-      "inv_prev": 5418800000,
-      "inv_qoq": "-8%",
-      "alert": true,
+      "inv_prev": null,
+      "inv_qoq": "N/A",
+      "alert": false,
       "quarter_date": "2025-12-31"
     }
   ]
