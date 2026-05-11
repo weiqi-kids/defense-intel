@@ -1,0 +1,16 @@
+{
+  "total_raw": 280,
+  "dup_title": 106,
+  "no_date": 0,
+  "too_old": 80,
+  "gate1_fail": 24,
+  "gate2_fail": 32,
+  "passed": 38,
+  "gate2_samples": [
+    "Securian Asset Management Inc. Has $6.69 Million Holdings in RTX Corporation $RTX - MarketBeat",
+    "RTX.CA Stock Price, Quote & Chart | RTX Corporation (TSX:RTX) - ChartMill",
+    "Lighthouse Financial Services Inc. ADV Acquires Shares of 19,965 RTX Corporation $RTX - MarketBeat",
+    "Sageworth Trust Co Has $600,000 Stock Position in RTX Corporation $RTX - MarketBeat",
+    "L3Harris Technologies Stock In Shambles: Down 7.8% With 8-Day Losing Streak - Trefis"
+  ]
+}
