@@ -1,0 +1,16 @@
+{
+  "total_raw": 280,
+  "dup_title": 98,
+  "no_date": 0,
+  "too_old": 81,
+  "gate1_fail": 24,
+  "gate2_fail": 18,
+  "passed": 59,
+  "gate2_samples": [
+    "Swiss Life Asset Management Ltd Boosts Stock Position in RTX Corporation $RTX - MarketBeat",
+    "Lighthouse Financial Services Inc. ADV Acquires Shares of 19,965 RTX Corporation $RTX - MarketBeat",
+    "Securian Asset Management Inc. Has $6.69 Million Holdings in RTX Corporation $RTX - MarketBeat",
+    "Securian Asset Management Inc. Sells 3,863 Shares of L3Harris Technologies Inc $LHX - MarketBeat",
+    "8-Day Sell-Off Sends L3Harris Technologies Stock Down -7.8% - Trefis"
+  ]
+}

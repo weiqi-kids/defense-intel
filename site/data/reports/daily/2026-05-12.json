@@ -1,0 +1,268 @@
+{
+  "date": "2026-05-12",
+  "generated_at": "2026-05-12T10:26:58.423376Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "palantir-2026-05-12-020",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "America's biggest defense technology company Palantir may have sent a ‘stock warning’ to Nvidia: You will - The Times of India",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOek1qa1AyY1FOSVFLNnhlZnJvWnZsd3V1bUVwTHo3VlliM3ZLMk15b05oR0wyLWxkZHdEZEhmUVh5ZDRpNnptNzRNYnhjWnlwUVpsLXU1R2hXMTBhYjU5OUJSdm1SWW12a0dWcWprd1psZzlCTzlkNEpnNjNjNlQ4dW1UNXQzeVJRaXVVdXU5YUdfRGw3ek51M0lIVHZrNjNZdWgzSll6SUt1RzIxcl9haS1ZVWtTeUNUZ3BFSzBua0x1N0ZQR1BSMHpqeXdQZDZvMlFyYk5vVEU5RU02UFdPQkpMT0g1d255WlRXajNuUUVCM290ZjBIYkhMYk5aSWVsQ2xZbVJOWmt6eFNweFhEM1ljRDU1NVhHVFMyWmxR0gGjAkFVX3lxTFAzMTc0bzlWUHRQY1V3VThibzY5MUY2cVVuX05QTkFzcER4OXpKbld0U3JKOEcwWElPZWs1aFIyLV9KS2stTnhqOGdWN0ttOVdTTEtZWFE3dEl6UDA3aGFUaHloT1R0b1JYU2NjWjI4cDlDZG5XbU9PTmZTSjRBNnptOElHOW9OT2c2Ni1uZ3ZFVTFvZF90Z2w2WWhqRFBLSHFmYlRFNlZuNHRvcl91X2lDVjNpYkUteFdUNFpoTy1FRVZxWTdTaE9hajlxX0ZqbzY1RlNONXlDUzRYWjB6VF9uT19YbVJDa2FyNkNFM010SnV1bmprcWhUVkc2bHB2Skl5WTN0Nnh6Q3Y3NEhVaFZMclRwdXFCQnFFMTFic1Rzb2Jpbw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rtx-2026-05-12-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Raytheon Selected to Provide SeaRAM for Australia's New Moga - ASDNews",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMHRMZEVaZGJKVjlOLUNnR2VvMXRXLUxoRnRVaDJFSk11Y3dYWVJuenAwcERVUjNGSTNWNS1kcUktRWtHeHdJVldlX3VvSE1nMWJJeUtydG1EM29TWE1yNkJOQ2F3UkxnUTU2Z1RnN3Axbl9wUUVhNnZ3b2NVc2pzSHRXcFJ6NXdxQVVZQ0ZwQ0FXVXpkWEZROTMxcm1XaWtKN0tNWmEzeGIxNW5KSUE0c21CUXVseTA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rheinmetall-2026-05-12-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall, Telekom plan to launch mobile network-based C-UAS technologies - Unmanned airspace",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11cUx3clNfVS1SbUhYdHZtVTN2RUhVMVYwTUlsdFl4VDFIVjY2WG9TbGlrcFpQVjNOcU9zV0RiTUZNUUNDSnpGN2hHUG13STBTdl9qQ3IwT3gtRG5xU1ZUdi1wNXpLNEZyNlU5UkZJVDMzbUN6a0Q2aldJRjUwQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rheinmetall-2026-05-12-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall at BSDA 2026: An All Domain System House and strong partner for international armed and security forces - marketscreener.com",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdGNpLUtzdGU1bHlHVUdBYlp1YVF1QkplOGxGWlRrQ2M3WDJwQjdEY3NsbHNXVlhUMi1lTmJQN1dTVFpnSUxnNzN0SUVEN2tOS0V5WTZHWXpKczhpUkV0V2R4b1M2a0R5VE9haFRPTUpQSXRhVjF6a1AxanNORkYtNm1rd21KWHZHSnRZVVBDbFZlRUM0ZVFXVWlEMlEybTlJWUlla09HX0VIb1N0UGxpSlc3QjdoaTdlWFJmWGVUX212NlBQOXFiLU40Z2RHa0JvOGtNNWthUXZjNkEzN0xuM0ZsUVYwZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_aero-2026-05-12-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha Aerospace stock (KR7012450003): Holdings spotlight in US defense ETFs - AD HOC NEWS",
+      "companies": [
+        "hanwha_aero"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ0ZiVjhsdENFQkt3aVczUFY3eXJhdklRYVg4aGdjWWlqbHBCZ25DbHdwNGN4b0I4MURSQ3NPa0xlRTh0SGVCeDVNS2RQZ3lTQlBBZ0tiVVhnLTF5cmdOZXlac2xzeE5mdkFIbWtZMTNadzZkR2FNZzhyVEJaM0lpX0NxR1lJWW9tZHhPQW1wVUpjQnZvNnUxSUl2bW1LYVZNblhtZnRUaUNoWVBZQzc4Tkl5M0RSM0xIMHIxZjZ5alJOc2tvLXc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.11,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "arms_export": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "defense_budget": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 20,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "elbit",
+        "count": 6
+      },
+      {
+        "id": "palantir",
+        "count": 5
+      },
+      {
+        "id": "rheinmetall",
+        "count": 4
+      },
+      {
+        "id": "hanwha_aero",
+        "count": 4
+      },
+      {
+        "id": "rtx",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 14
+      },
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "drone_warfare",
+        "count": 5
+      },
+      {
+        "id": "arms_export",
+        "count": 1
+      },
+      {
+        "id": "defense_budget",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 280,
+    "dup_title": 98,
+    "too_old": 81,
+    "gate1_blocked": 24,
+    "gate2_blocked": 18,
+    "passed": 59,
+    "pass_rate": "32.4%",
+    "gate2_block_rate": "9.9%",
+    "gate2_samples": [
+      "Swiss Life Asset Management Ltd Boosts Stock Position in RTX Corporation $RTX - MarketBeat",
+      "Lighthouse Financial Services Inc. ADV Acquires Shares of 19,965 RTX Corporation $RTX - MarketBeat",
+      "Securian Asset Management Inc. Has $6.69 Million Holdings in RTX Corporation $RTX - MarketBeat",
+      "Securian Asset Management Inc. Sells 3,863 Shares of L3Harris Technologies Inc $LHX - MarketBeat",
+      "8-Day Sell-Off Sends L3Harris Technologies Stock Down -7.8% - Trefis"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為艾爾比特、Palantir Technologies、萊茵金屬相關動態：「America's biggest defense technology company Palantir may...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "America's biggest defense technology company Palantir may have sent a ‘stock ...（財報、國防航太通用）",
+        "level": "red"
+      },
+      {
+        "text": "Raytheon Selected to Provide SeaRAM for Australia's New Moga - ASDNews（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
