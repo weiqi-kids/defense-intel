@@ -1,0 +1,16 @@
+{
+  "total_raw": 295,
+  "dup_title": 98,
+  "no_date": 0,
+  "too_old": 86,
+  "gate1_fail": 23,
+  "gate2_fail": 24,
+  "passed": 64,
+  "gate2_samples": [
+    "RTX.CA Stock Price, Quote & Chart | RTX Corporation (TSX:RTX) - ChartMill",
+    "Swiss Life Asset Management Ltd Boosts Stock Position in RTX Corporation $RTX - MarketBeat",
+    "SVB Wealth LLC Decreases Stock Position in RTX Corporation $RTX - MarketBeat",
+    "Securian Asset Management Inc. Has $6.69 Million Holdings in RTX Corporation $RTX - MarketBeat",
+    "Lighthouse Financial Services Inc. ADV Acquires Shares of 19,965 RTX Corporation $RTX - MarketBeat"
+  ]
+}
