@@ -1,0 +1,16 @@
+{
+  "total_raw": 295,
+  "dup_title": 107,
+  "no_date": 0,
+  "too_old": 81,
+  "gate1_fail": 20,
+  "gate2_fail": 19,
+  "passed": 68,
+  "gate2_samples": [
+    "Freemont Management S.A. Raises Position in RTX Corporation $RTX - MarketBeat",
+    "Swiss Life Asset Management Ltd Boosts Stock Position in RTX Corporation $RTX - MarketBeat",
+    "Securian Asset Management Inc. Has $6.69 Million Holdings in RTX Corporation $RTX - MarketBeat",
+    "SVB Wealth LLC Decreases Stock Position in RTX Corporation $RTX - MarketBeat",
+    "Lighthouse Financial Services Inc. ADV Acquires Shares of 19,965 RTX Corporation $RTX - MarketBeat"
+  ]
+}
