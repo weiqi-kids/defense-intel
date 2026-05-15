@@ -1,0 +1,16 @@
+{
+  "total_raw": 295,
+  "dup_title": 118,
+  "no_date": 0,
+  "too_old": 75,
+  "gate1_fail": 23,
+  "gate2_fail": 21,
+  "passed": 58,
+  "gate2_samples": [
+    "RTX Corporation $RTX is Conning Inc.'s 8th Largest Position - MarketBeat",
+    "Rayburn West Financial Services LLC Buys New Position in RTX Corporation $RTX - MarketBeat",
+    "RTX (NYSE:RTX) Trading Down 1.4% - Here's What Happened - MarketBeat",
+    "Freemont Management S.A. Raises Position in RTX Corporation $RTX - MarketBeat",
+    "SVB Wealth LLC Decreases Stock Position in RTX Corporation $RTX - MarketBeat"
+  ]
+}
