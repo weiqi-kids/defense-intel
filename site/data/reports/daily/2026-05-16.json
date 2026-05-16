@@ -1,0 +1,168 @@
+{
+  "date": "2026-05-16",
+  "generated_at": "2026-05-16T09:25:17.411765Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-05-16-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why Is RTX Stock Trending Across Aerospace Markets - Kalkine Media",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ3NQdWFWdDVnT1dVdlNlZEpLdVJEWUF3dXNtc3RmTjNLVGpOc2owN2d0Q0dMUURwdWo5cG5qYmFGSEFtaVAyd3ZHWGZxd29LajE5SUk4c19EQ0FvRGFIeFFRSjFVdzB5NkJhV3hrU1ZKTlRfd20tcV8wdkJia2JfRmtNUEN2dUF5OFVNQURObjFrck9GamdOaTlxMmc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "l3harris-2026-05-16-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Investors May Respond To L3Harris Technologies (LHX) Balancing Governance Control With Portfolio Spin-Off Plans - simplywall.st",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUFhsRS03c3lQZURqMnF6MFZTbkZsMGV6eWgtU3Rnbk1OX2FveWRnamljODNHdzhwTVVoSG5ueWNCbHE5YlJ3c3ViVzZTSFdXTmRaQ3YyZENILXNoZmdlS01zSFNOY21LeDB3dFV2ODFtWEpIQko4UjEzcVlEWEw5cFFhRjhFLXhEMU1SbG1TbnlhVFZRdk85MTNaM2xuZGJFQ0hiUDVkWkxGdVVwV25pdV9JRzFHQ0NZdHB3eFpOQVpVVHJfWndpUVlFd2tQVFU4S3gybHl0WHhJUdIB3wFBVV95cUxOSEdnbHpJYW40MWxiRWhHY3dtaWQzRHhicTBEVnZQeERWa25Ma3BfME5Sb0lyQ3dLc0V0elZmYmg4STVaZzhjaTdtdGZIOUp5blYxZERCMXp2Tl9OYlFGbzc4WTF6bzN1VWVWZkp6bk12NmRITnZNS1BmRS1WSmhvenI1QlowZFJ4VURJa3pDNmNVbER1YkZFZjRtY1pERkZnRnBhYTRjMzlsTkp3bXJoVU9oOVQ0bmxTd1RsWXMzeXZlTV90Q0I3V2xTaTFrZ1kzN1FsY24tblF2SjZsVDhZ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "palantir-2026-05-16-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Trump Loaded Up On Palantir Shares Months Before Publicly Praising Defense AI Giant On Truth Social, Reco - Benzinga",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMHQ1SEkzS1hJS1Npa1RQUGp2RVoxbUxPLXltTkNiNUpjN1hlNXpRbTlSTFNMc2MwTVlwWmtVY3o0RGM5MkpXWmdYclhDcE1mREw3cVp5M0NiclZMdDlZY0hrblFjTDU3U3dIOWxuNEdRSkUzNjZGalpObGU0RWVaQVlRY2w1bHZGeW9malF0blJoY3JVblJvclI5eklJRFNZWVFNRElrYUNOMlppUWVmZGJvMF8tTEpSbVFuREJMM0drOHg2TlhrVzRvU3poOWlkMHBkRmh4LVdhaXRJbE9nV0ZPQ19WbWpCT2FMbENoVHVtVTI5UjZKQ1FlQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rtx",
+        "count": 1
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "palantir",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 295,
+    "dup_title": 133,
+    "too_old": 78,
+    "gate1_blocked": 26,
+    "gate2_blocked": 20,
+    "passed": 38,
+    "pass_rate": "23.5%",
+    "gate2_block_rate": "12.3%",
+    "gate2_samples": [
+      "AustralianSuper Pty Ltd Purchases Shares of 73,107 RTX Corporation $RTX - MarketBeat",
+      "RTX.CA Stock Price, Quote & Chart | RTX Corporation (TSX:RTX) - ChartMill",
+      "Rayburn West Financial Services LLC Buys New Position in RTX Corporation $RTX - MarketBeat",
+      "RTX Corporation $RTX is Conning Inc.'s 8th Largest Position - MarketBeat",
+      "Freemont Management S.A. Raises Position in RTX Corporation $RTX - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為RTX、L3Harris Technologies、Palantir Technologies相關動態：「Why Is RTX Stock Trending Across Aerospace Markets - Kalk...」。主要關注主題為財報、國防航太通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Why Is RTX Stock Trending Across Aerospace Markets - Kalkine Media（財報、國防航太通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "How Investors May Respond To L3Harris Technologies (LHX) Balancing Governance...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
