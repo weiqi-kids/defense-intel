@@ -1,0 +1,16 @@
+{
+  "total_raw": 295,
+  "dup_title": 152,
+  "no_date": 0,
+  "too_old": 83,
+  "gate1_fail": 28,
+  "gate2_fail": 20,
+  "passed": 12,
+  "gate2_samples": [
+    "RTX.CA Stock Price, Quote & Chart | RTX Corporation (TSX:RTX) - ChartMill",
+    "AustralianSuper Pty Ltd Purchases Shares of 73,107 RTX Corporation $RTX - MarketBeat",
+    "Rayburn West Financial Services LLC Buys New Position in RTX Corporation $RTX - MarketBeat",
+    "RTX Corporation $RTX is Conning Inc.'s 8th Largest Position - MarketBeat",
+    "Freemont Management S.A. Raises Position in RTX Corporation $RTX - MarketBeat"
+  ]
+}

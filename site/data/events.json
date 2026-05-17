@@ -1,5 +1,84 @@
 [
   {
+    "id": "l3harris-2026-05-17-001",
+    "date": "2026-05-17",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "L3Harris Technologies Inc $LHX Shares Purchased by Atria Investments Inc - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNWmZwOFR6OU1ZWFJFSllhUVgxRUphRDVWSTlQc2NqM0xGTmR3ZUlWRXcybDJ3ODBveXhNMzhSYUFyTzhyeTZsbGVOamZrZlZ5aVV4eXRlUEp3ZktZWGx5cjQtMW1nZ0U0c0lIMTMyeW",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWmZwOFR6OU1ZWFJFSllhUVgxRUphRDVWSTlQc2NqM0xGTmR3ZUlWRXcybDJ3ODBveXhNMzhSYUFyTzhyeTZsbGVOamZrZlZ5aVV4eXRlUEp3ZktZWGx5cjQtMW1nZ0U0c0lIMTMyeWJLMXU2bk9nMjNUOG9oVTI0eEcyYW1Fc1V1LVZNdlFCcGw2NnNmQndkLXZ6Nkh4MnhXM2prdUVQcnNlWmZpRVc3M1hkY0I0TU1rNnFjcW00aVBvVU9IZHVwQUdJaGY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-05-17-002",
+    "date": "2026-05-17",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall’s Cash Flow Squeeze Overshadows €73 Billion Order Backlog as Stock Nears Low - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOMVAtN1FEOFpBZDdjWmFlelJzS0prVnNOUUNhYUtvMGViY1lzeDVrUzU0ZUlhaGoycnpORGxZa044N3RvQnJPQjJNTTgyUlg3UDNrNFF0aXRmZkFDdUFHX1RHRV84bU9YdzF4TnVkeV",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMVAtN1FEOFpBZDdjWmFlelJzS0prVnNOUUNhYUtvMGViY1lzeDVrUzU0ZUlhaGoycnpORGxZa044N3RvQnJPQjJNTTgyUlg3UDNrNFF0aXRmZkFDdUFHX1RHRV84bU9YdzF4TnVkeVlHaGFWTlUxenhpYmJ2QnVPdkRzeWtkMlYxZ1hTeElpS3NiOE53bDdSMHJVcjR4TVVsd3lVdXZVeGc1ZWJfV1FuQ1RwaHE3cm5yUEtiVXg3ZGVHQ0VrQ1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "elbit-2026-05-17-003",
+    "date": "2026-05-17",
+    "companies": [
+      "elbit"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Elbit Systems Ltd stock (IL0010811243): US Army order and strong earnings keep defense specialist in - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMEVnRy1CYzFCc2RQdVNMaXliR2hYM3otOWdUaXVDWDV1eDBtWHVKZWZVdVZ3Rkt3VEhrTzRlNHhjQjdxcVhUclY2NktTRjBBS2JqSjVtUmlOV2JXNFBCWUV1NUdfZk9nYU9UUTJLN1",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMEVnRy1CYzFCc2RQdVNMaXliR2hYM3otOWdUaXVDWDV1eDBtWHVKZWZVdVZ3Rkt3VEhrTzRlNHhjQjdxcVhUclY2NktTRjBBS2JqSjVtUmlOV2JXNFBCWUV1NUdfZk9nYU9UUTJLN1RjZUotSGVXZGpWeE5MVUtDRTR3WGRQZG93cEFTbFY0ak92QnJMcm5QdEhnenhydnAzaWE2N1FxdS1na1I0NjVpTFNGZTY3dl9MYktEaUZhR3YwTjZOQ2hUSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-17-004",
+    "date": "2026-05-17",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Trump's China Summit, Palantir Stock, Sanders Reaction On Iran And More: This Week In Politics - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVHVncUpVTEtPcW9SUlEwNXJwaElZNFNUR2ZEVEJOSlB6OGY3a2FBeXVieFdlOENhYUxfczRGcXNuY3lNQTMyN0pLb1hQSDJVWFdpWjExVVZhOVRVRHlOOEc3VEgzalpqeUxQNUczZ0",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVHVncUpVTEtPcW9SUlEwNXJwaElZNFNUR2ZEVEJOSlB6OGY3a2FBeXVieFdlOENhYUxfczRGcXNuY3lNQTMyN0pLb1hQSDJVWFdpWjExVVZhOVRVRHlOOEc3VEgzalpqeUxQNUczZ0xiZFZIY3JieFRyam56NHhtNHhKUDZjVXlVSk9HMDQ1NUR3SGlBbEpyVDdOc24yZ3RyWHJ5T1RpQzRPYzN2VDBzY3FYWGxHd3VKbU5xQWZUSjlKT3hleWZONTVNdUNkSk4waDZZMEVoVlRRbnc4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rtx-2026-05-16-001",
     "date": "2026-05-16",
     "companies": [
@@ -57,6 +136,84 @@
       {
         "name": "palantir",
         "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMHQ1SEkzS1hJS1Npa1RQUGp2RVoxbUxPLXltTkNiNUpjN1hlNXpRbTlSTFNMc2MwTVlwWmtVY3o0RGM5MkpXWmdYclhDcE1mREw3cVp5M0NiclZMdDlZY0hrblFjTDU3U3dIOWxuNEdRSkUzNjZGalpObGU0RWVaQVlRY2w1bHZGeW9malF0blJoY3JVblJvclI5eklJRFNZWVFNRElrYUNOMlppUWVmZGJvMF8tTEpSbVFuREJMM0drOHg2TlhrVzRvU3poOWlkMHBkRmh4LVdhaXRJbE9nV0ZPQ19WbWpCT2FMbENoVHVtVTI5UjZKQ1FlQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rtx-2026-05-16-004",
+    "date": "2026-05-16",
+    "companies": [
+      "rtx",
+      "lockheed"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lockheed Martin Investment Management Co. Purchases 9,490 Shares of RTX Corporation $RTX - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeU1sUWJndkVmVWJ2eTMwd29JY3l3QkZxNEZWanhjM2NkTjhiT29Mb2g4OFljdHN1em40YnhUT2wzMnFPUWZDNXNDT2kyVklHY1lkNkFfcXdkZG5Bel9MUFZtVWZGcEt5TDVWemlqYT",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeU1sUWJndkVmVWJ2eTMwd29JY3l3QkZxNEZWanhjM2NkTjhiT29Mb2g4OFljdHN1em40YnhUT2wzMnFPUWZDNXNDT2kyVklHY1lkNkFfcXdkZG5Bel9MUFZtVWZGcEt5TDVWemlqYTNRV0ZNNW4tU3dzWFEtS21KaUU1dGNUak9zMjMtZnJWN2RWQ1dURVd4NmxLMWdEc1U2RUdEeXpaM1BVaWtIaGd1Q183UTgtQkxJRjA3eFpmM1NCcm9vRVJzelh5bDdQMXU0VUgyZWhjZ1V4MmJnR2tR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-16-005",
+    "date": "2026-05-16",
+    "companies": [],
+    "topics": [
+      "drone_warfare",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hermes Drone: A Persistent Eye in the Sky - The Defense Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE82YkpNdER6WkRXMks2R0V5R09WWjBDdmFzQjRZZ24tYXJGUDUwQjg0OURzSmpJVURhVThjbDlPeEg3ZjEtOW1kOHhrU09TMGtULXZaZ3NqYmJmaDcyeElKdm10clZQME920gFuQVVfeX",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82YkpNdER6WkRXMks2R0V5R09WWjBDdmFzQjRZZ24tYXJGUDUwQjg0OURzSmpJVURhVThjbDlPeEg3ZjEtOW1kOHhrU09TMGtULXZaZ3NqYmJmaDcyeElKdm10clZQME920gFuQVVfeXFMTW9ZejJidzE2RUR2NFJ6czVRWnc1eTEyb2RvMmtheXFrajJJZXFTMDlBT1dMOExtRGplUy1ETEV2aWdVTDdOX0FFWF9IcGFWUS1uUkxiMDRHVHVVeU91WDhPSmtJTlNwNVBteFBIanc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "elbit-2026-05-16-006",
+    "date": "2026-05-16",
+    "companies": [
+      "elbit"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "What Does a $212 Million Sole-Supplier Army Contract Mean for Elbit Systems (ESLT)? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQRDJFREMxMkpacjdJV2JfNjYwcUtkZkNTZ2RST0ZaTVJrNVNuWmdxTkNXZ1pxOExjdUdNZmNuY3VNZmxpU3NCd29IRDVLenhIVkIwalNQN0xjNDQycDZsb01WOTVhN2V4R1NXeW9UR2",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRDJFREMxMkpacjdJV2JfNjYwcUtkZkNTZ2RST0ZaTVJrNVNuWmdxTkNXZ1pxOExjdUdNZmNuY3VNZmxpU3NCd29IRDVLenhIVkIwalNQN0xjNDQycDZsb01WOTVhN2V4R1NXeW9UR2xIel9KTmxtUXpHSmJIejFsVlUxWElkVHlNVnFwYUlFVmUtbmtxSi1xb2dTNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-16-007",
+    "date": "2026-05-16",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "arms_export"
+    ],
+    "impact": "neutral",
+    "title": "Palantir Technologies: Expensive AI Powerhouse Turning Pullback Into Opportunity - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxOcHA3SEcxczlGMnBBRzFtcmN6UF9WeF9LNDdqMmJ6c2VxOHhBaFg4N2FMSXNLTkdPYzYyeFcyZlpoT195S3dKLUlwcTZfRnh5cUN3OERVZldpMGhWbjRMRlR4TXlEWkRPN3ZLOGR1TD",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOcHA3SEcxczlGMnBBRzFtcmN6UF9WeF9LNDdqMmJ6c2VxOHhBaFg4N2FMSXNLTkdPYzYyeFcyZlpoT195S3dKLUlwcTZfRnh5cUN3OERVZldpMGhWbjRMRlR4TXlEWkRPN3ZLOGR1TDBxMTBtZWNZcmVyNXktSXd6TmlkQWFIRjlvbTJyZGdBRUNzdVVpbG5ZWGxDWnFIWXpGZU40M0hYVEJaRmRqeWN0QkZsQmtmWFJMXzhSajVRd0ktQV92V0dkcDNVWXdxV2JWT3R2N3RwWFpQTlZQZEVsSjJrMXJWeVVUdkREeDdqMlF5cWNYdkZsdGM5Z0w0cW5Z?oc=5",
         "type": "rss"
       }
     ]
@@ -1020,6 +1177,66 @@
       {
         "name": "google_defense_budget",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMXF5STVIWTdFOVYwZ2llLUFMSmxZMWcwbkhydEh5Vkd0alVULXppZWs2NnZVTWszblNETDF1T3pNdUlGdFI1MWRVNm5iX0ZyeDZJZ3gyZDhXTjJmckNQRUdtOXpUanV5N0xYRGpWUml6cXhrN0IwRFlGallfXzItVU5IcGttRjIzVXNwWTZSRVNrTHptRF9jTEpLc1pkckV0Y2dJMExiUS1iekZZU3M0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rtx-2026-05-15-050",
+    "date": "2026-05-15",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Can RTX's Massive Backlog Support Long-Term Revenue Growth? - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNZkRvbTUwS0FNRTV3dFJuWTFkWUtENlNZVEE3dWRxMThoLVNoVjRXcVVFSmc0ZTNxRlgzTXJ5M1dWQ2lSZ0dwNlBhc05LQWx2NzVjeFZybjZCSW1KRXhOZTVNSUw5ZVk0Zk54N2FVZD",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZkRvbTUwS0FNRTV3dFJuWTFkWUtENlNZVEE3dWRxMThoLVNoVjRXcVVFSmc0ZTNxRlgzTXJ5M1dWQ2lSZ0dwNlBhc05LQWx2NzVjeFZybjZCSW1KRXhOZTVNSUw5ZVk0Zk54N2FVZDZteTVLcERsemVwTE9GZWY1S3ZUR2VaZm9Qb3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-15-051",
+    "date": "2026-05-15",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Trump Discloses Large Stock Purchases in Nvidia, Robinhood, Palantir and Other Tech Firms - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNTVg5MVQ2bkxYVmVBdUFveWdlSEdENlVZVE1fQkxGVVFSU2NMemZEYk1SVGIzQTNsS1pFbHRqTmVmWVpGWURON2pCdE1pVktBS21ZRUhkZjk4eGdHZWVvWnEyR09OdGlEcGU1MmVoX2",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTVg5MVQ2bkxYVmVBdUFveWdlSEdENlVZVE1fQkxGVVFSU2NMemZEYk1SVGIzQTNsS1pFbHRqTmVmWVpGWURON2pCdE1pVktBS21ZRUhkZjk4eGdHZWVvWnEyR09OdGlEcGU1MmVoX2dxdWwybHZDcFY0WWhIY1V2Z1BEUWRjYTVkU1JVTnJralBLYWwwSmdHTk9XMjRwb1hLUFJIWDBRejZWWnNfOF9yd0x3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-15-052",
+    "date": "2026-05-15",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Mega‑cap laggards: IBM, Palantir, Wells Fargo lead biggest YTD declines (V:NYSE) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQkd6cFNleTZwNTdtcHVQVV83ZmVKQ1JuUl9oWGJMNXpKM0YyYU84RThhNkZWaWdReFY4VE0wclJBanpuNXJhNS1KelcwVXlGWnFHTk5vR252OElUVllHZXdvNlI5ZGhtVzcwRFZkTS",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQkd6cFNleTZwNTdtcHVQVV83ZmVKQ1JuUl9oWGJMNXpKM0YyYU84RThhNkZWaWdReFY4VE0wclJBanpuNXJhNS1KelcwVXlGWnFHTk5vR252OElUVllHZXdvNlI5ZGhtVzcwRFZkTS0ya2JoaHVvWXhrQmROdnFmRE1DSHpYUENyaDJFeUcweTN3MU0tend3dTdHd3ZPTl9VVVdUc3c4b3g?oc=5",
         "type": "rss"
       }
     ]
@@ -2041,6 +2258,25 @@
       {
         "name": "palantir",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ19GM2pQeGgzWlI4NlJYNUtIYTJ4MDZPTTY0bVBnc3VHQ19DNHk4ejZBSXRFWXRXZjdPVktoTXhnQzcySFlSanlXRGtkQVNfaHZuMTNyS1F1Ui00TkQ4OUFGU3I4dkFqZmhjMjNrUGFBRzVaRElKUzFMT0tqSFh5OHVFXzdPQ25LdzFhbHRCYnVhTlhMMjNyYnQ5bFh4cnRj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-054",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Israel to extend F-35I range amid war with Iran - Defense News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVBIRFB3UDVqV2JXRjRodGtWQy1ZNk5aMHc3UndTQTVSVm5HdEYwcnJnanNDemVvck94RGFhTFZYNzR2ODdsWThWRkVNTlh2YXp3NzBEcnJTRFdKMFJCUFBja0NlZUlON3h3WWRyWF",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVBIRFB3UDVqV2JXRjRodGtWQy1ZNk5aMHc3UndTQTVSVm5HdEYwcnJnanNDemVvck94RGFhTFZYNzR2ODdsWThWRkVNTlh2YXp3NzBEcnJTRFdKMFJCUFBja0NlZUlON3h3WWRyWF9BU0lJT3NFOGJIS1VqZnhlTzBFTFlPU0lTek1EQnJSSXRFQUdoTU5Kc1o2T0RuUkxwQ1NCVTBnTjk4aWI2VXc?oc=5",
         "type": "rss"
       }
     ]
