@@ -1,5 +1,263 @@
 [
   {
+    "id": "rtx-2026-05-18-001",
+    "date": "2026-05-18",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thrivent Financial for Lutherans Raises Position in RTX Corporation $RTX - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNSjBZZGpZUFVNM2xXOGdjTzVsbnFNQ3RQRnpJNU5tRDFTWGh3YkhEaGlWVk1Icko2Q3NwbnVCNXV2dUw0Rm50amhvcDlBQkZZX012bGVpcmwzOXJCOHFjXzFjRDU2WmdQTVJwU1dIcm",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSjBZZGpZUFVNM2xXOGdjTzVsbnFNQ3RQRnpJNU5tRDFTWGh3YkhEaGlWVk1Icko2Q3NwbnVCNXV2dUw0Rm50amhvcDlBQkZZX012bGVpcmwzOXJCOHFjXzFjRDU2WmdQTVJwU1dIcmJIMGpkZXhNX2RXSHlhbzgtZU12dmhXTUxoYVlYVm02YmFGVkpHT0hRZHJoUnFvRE9aLWVpdy1zQlBYbEVhZHlhQXpXTTJFd0tndEd0YzloMXJYeDRSS0VPWVR3enc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rtx-2026-05-18-002",
+    "date": "2026-05-18",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "RTX Corporation stock (US75511L1035): dividend hike and earnings beat keep defense giant in focus - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ3pkYm9MSjdaZEoxZS03d09OeVFobFV3QjExWlVGU05GclVBTmM5cGpncUpicDYtYk1vZmJpdWsyRFMtdEwxaDlHQnd5VkdlTlMwZ1pfNUtJWlVRMDYzSzQ5SS16TWFKbUxXQms1Rm",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ3pkYm9MSjdaZEoxZS03d09OeVFobFV3QjExWlVGU05GclVBTmM5cGpncUpicDYtYk1vZmJpdWsyRFMtdEwxaDlHQnd5VkdlTlMwZ1pfNUtJWlVRMDYzSzQ5SS16TWFKbUxXQms1RmJSQTVMbWozR2M1NHdnVkJXSXl4YjlLM0NhRzVOVlRxMWFpN2ZJNFlLVEVQcGh4MTBtZFFWWmMwUFJyVDdEenBFOVIxLW56V3ZCeVFjR0lac1hfbmRCcmMxRDhn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rtx-2026-05-18-003",
+    "date": "2026-05-18",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [
+      "arms_export"
+    ],
+    "impact": "neutral",
+    "title": "Integrated Investment Consultants LLC Grows Stake in RTX Corporation $RTX - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOZUpmVTBWa2VWRUt0SWl1aUdJVk1Td1hablhPZXJOWTEwTDFoazhJTEw5N0R3anFxSE5QS3BXX0UzSlJ4c2FmSGZORkZUTnU4TUN5YjNmNDIwaC1oNTFHZ1VrdWktNE9MQUpxM3ltYn",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZUpmVTBWa2VWRUt0SWl1aUdJVk1Td1hablhPZXJOWTEwTDFoazhJTEw5N0R3anFxSE5QS3BXX0UzSlJ4c2FmSGZORkZUTnU4TUN5YjNmNDIwaC1oNTFHZ1VrdWktNE9MQUpxM3ltYnU2am0xWm9RVmRqX3V0M1FoSkV6WlJ2Mi1wa1pFUkhkWDBZYUkxQmxEQmk0Y1VZRURSUEp6cGVVcGpJemMxWXNicGVVS3VxYWJKdUFJN01KUzRqX0t6algwWUZPSlR4QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-05-18-004",
+    "date": "2026-05-18",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "L3Harris Technologies Inc $LHX Shares Acquired by iA Global Asset Management Inc. - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSWk0UzVGd25STm5MMkVkMWFSY2FNSFkyeFZ4eW5EREhxU1hFSEFnYWl3S3l1NWhCTm1oNzZPdmRnSkxHVkZKUnhKRzVJVi01VVNNb3E5bzR2aWllTkVCMDFZaDJURFhUZkRHbWU1Yj",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSWk0UzVGd25STm5MMkVkMWFSY2FNSFkyeFZ4eW5EREhxU1hFSEFnYWl3S3l1NWhCTm1oNzZPdmRnSkxHVkZKUnhKRzVJVi01VVNNb3E5bzR2aWllTkVCMDFZaDJURFhUZkRHbWU1YjREUXJ5SVU1MFJQS0xQT3Q0NnB4dnJyUHVsZVVWQmdvSzRjUWdHQi1ESExydlZUSVhVY1I1WEI3emFNYmtsSVNSNmF5NUY4SHhRQkhsZEV3WWtXRHJKTFJzenBkVjE2R0x6VDRhTGNyNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-05-18-005",
+    "date": "2026-05-18",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "L3Harris Technologies stock (US5024311095): Defense demand stays in focus after recent company updat - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVWt1RXU0UVZkckt4cGV1eE1tS0s1ZVJCMTVHYmhZdDZtQkpwVmZoU2tFTHFHZldFY2hOZVNOb0Q4X01EUC1BcHVvYm1Vb1c3VFFKc09zaGJfdmRfSHV1M0ZEcHh0Vk5GV29TMGZmdH",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVWt1RXU0UVZkckt4cGV1eE1tS0s1ZVJCMTVHYmhZdDZtQkpwVmZoU2tFTHFHZldFY2hOZVNOb0Q4X01EUC1BcHVvYm1Vb1c3VFFKc09zaGJfdmRfSHV1M0ZEcHh0Vk5GV29TMGZmdHhLVWh4RVNjbU9DNy1mc3FKVXBLV1lwTm9fb05RbWswTHJYT3BieGFjR0w3eURnTE1xQW1HM1FuRnNsWWJzRlZHeEZLU2FVYXJkVWRNUERvTHJIN204U3AwVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "leonardo-2026-05-18-006",
+    "date": "2026-05-18",
+    "companies": [
+      "leonardo"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Leonardo S.p.A. stock (IT0003856405): defense group in focus after new orders and backlog update - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNnRIWDcxMVU0X3dUaDJIM2FSZ2xEV2FNajN1SDEzUDNRX1FKTTNpMUctQkp3Qi1HX1c5Y0JHX2VkYzZyb0tNWkR6YUllWGxhREthWVJZWmRMR1VKZERxU09iUEZnR1doUXloWGpBN1",
+    "sources": [
+      {
+        "name": "leonardo",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNnRIWDcxMVU0X3dUaDJIM2FSZ2xEV2FNajN1SDEzUDNRX1FKTTNpMUctQkp3Qi1HX1c5Y0JHX2VkYzZyb0tNWkR6YUllWGxhREthWVJZWmRMR1VKZERxU09iUEZnR1doUXloWGpBN1QxbV9VNms4VHZENTBjYV9fS3J6ZFFGdTVUNURDUjlBMHd2Y28xMVM4aXVTWTNKaGxsa3Ztd3hXR0hQTHNsVXk1ZnhZYko2SU50aWZLRGhfNzA5UE0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-05-18-007",
+    "date": "2026-05-18",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Destinus, Rheinmetall accelerate RUTA Block 3 long-range cruise missile - AeroTime",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbXFzbkJhX0tZTXNnTFFtdnZOWlMwMTl5MXBwUXN2ZmJoNERMQVFYZjdpTU9waVA4bnhXNlZjcjd1VEJ0dlByaGJjN3JWSnZGRkI4UUFuS29Jb2JvdG9LbExMS0pxVlZfbWtNejZmaW",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbXFzbkJhX0tZTXNnTFFtdnZOWlMwMTl5MXBwUXN2ZmJoNERMQVFYZjdpTU9waVA4bnhXNlZjcjd1VEJ0dlByaGJjN3JWSnZGRkI4UUFuS29Jb2JvdG9LbExMS0pxVlZfbWtNejZmaWtTZjlsNUl5WE05VDhaVEp4ZVlGTVRZVU95SnRN0gGQAUFVX3lxTFBlNGJyM2hWQ0xDbW4wbjV3R2k3V2t2ODE5YmxpeXB4bVlkdjhkNl9yU3VYNFdoTjVUMzg3UjJ6YzEyUDlrNl9DODdJVnNIWFYwTkdGUHU1VzVKU0hMZERRbkhReThhR24wMWhIcnFYb1RManQ4QTZPY0VNcExpbWZZRllMMmUwOGdQcm9RdHFaRw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-05-18-008",
+    "date": "2026-05-18",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "drone_warfare",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Destinus Accelerates RUTA Block 3 Development Program with Rheinmetall to Scale European Long-Range Strike Production - sUAS News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ1Z2NDgtdzMwZFo5elZMSU5peDVmbDdsMVN3VE5tMXBmTTRMMG5FUnBUcnRTNG1xRFRmMzBfSmNZRDVfRzhldHU0MEd3VDE1b010YUNVVlJVQWt5T2Yxd0pkbzRKWVpjY0Q3ZWlCeE",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ1Z2NDgtdzMwZFo5elZMSU5peDVmbDdsMVN3VE5tMXBmTTRMMG5FUnBUcnRTNG1xRFRmMzBfSmNZRDVfRzhldHU0MEd3VDE1b010YUNVVlJVQWt5T2Yxd0pkbzRKWVpjY0Q3ZWlCeE1ySGJNelQyam5ZWmRaNDFWMHlQejhYZWpGeHRQX0FlZ01QNFM4M1VacVRLMGlEYU9aUjJXeWNOaUozMlY2d29QMmJPbzlXb2UtanRyRDJIYkdmSFUtQzduT2lnR29GQUI1a0Y1b0lhZkJwa19jVEpRWGU3NzdMQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-05-18-009",
+    "date": "2026-05-18",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Destinus and Rheinmetall advance RUTA Block 3 programme for European long-range strike production - Defence Industry Europe",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNekdBZG9OSlRxeERoRnJ1c2VlTy1QTVdjRWtINHFiTnVpZzBnQWRBa2ZkZkRianBxSDVGdW9VVWpGYWV4RlRQRFFBaS10VU1ZVFVkaVBJWHlaYnZ0cDdFQ0kxMGNwUlV3NGcyZnZHYj",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNekdBZG9OSlRxeERoRnJ1c2VlTy1QTVdjRWtINHFiTnVpZzBnQWRBa2ZkZkRianBxSDVGdW9VVWpGYWV4RlRQRFFBaS10VU1ZVFVkaVBJWHlaYnZ0cDdFQ0kxMGNwUlV3NGcyZnZHYjRnaUFfRXFIS3B0d253NDR4ZXo0am4yVnV2eklrbUdrNnotbWpfWFNrV2NKS041ZlFCTVhnSnVLQ1k0eFVhM3ZoVTRxQ05VRUlCVDZUMWp6VHItak40?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-18-010",
+    "date": "2026-05-18",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A Look At Palantir Technologies (PLTR) Valuation After Recent Share Price Volatility - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZmVCQXRLa0h5RjVXRHI2MVVDTnVacGl4cG9ZeHNIcTdzNFBqbjVlYWJMa0xfc2doMmxMRzNvTUZldk05MWRPbThrbXJVbU5EcHVyZ0J2dEpaajl2WEpPb1ZwQkl0X05hM3VlWThTeC",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZmVCQXRLa0h5RjVXRHI2MVVDTnVacGl4cG9ZeHNIcTdzNFBqbjVlYWJMa0xfc2doMmxMRzNvTUZldk05MWRPbThrbXJVbU5EcHVyZ0J2dEpaajl2WEpPb1ZwQkl0X05hM3VlWThTeC15UUkyNEZvYkFyM1FiWkFLNmVmd2ZkbUVBOGpRYkIta04wTnViQ2NJYmYzU2VwQVMxOGJWRHBDLW51QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-18-011",
+    "date": "2026-05-18",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Palantir’s top exec says SaaS is dead, but why not software engineering; says it means: Engineers can go - The Times of India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxQeWMxVFJSaEpqdjRfaWx2ZExoT3RHRDF0Z01uTm15NXpxYldXRVlDRmowNFRkX3NiMFVnRnN1X1lNVml5Q1VHamJaeGlJYkt5OWExVkNvMnNqSjU4TXp4dnVEY1JleTZVbVpXVjZnZk",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQeWMxVFJSaEpqdjRfaWx2ZExoT3RHRDF0Z01uTm15NXpxYldXRVlDRmowNFRkX3NiMFVnRnN1X1lNVml5Q1VHamJaeGlJYkt5OWExVkNvMnNqSjU4TXp4dnVEY1JleTZVbVpXVjZnZkREc0tGaEYwR1gwU0hYc2hsNnhpVHhmcmhfNEwzMG0xMV9tVnVXVlFRSnJ0VUYzS1dSY2dZVVBqQVd2LXdpc0g4d3dRNG53V1BJckpiVkZWR3Q4VXZSR1JiOTNFZU9CWHlZQjlJdDQ2RmZ3NFhpRmVzOGxoVGdPa2hHbzRUZjU3bGRscG92SnZvMi1DalZSUHEwUUxEajJVUDJmMW1VM1pyMWM0YklNb2PSAZwCQVVfeXFMT2tlTTc3Q090ejVZNG42NC1MLXBfUkNsb3BWQmNPQUd4Uy1CQ2dSUmpUMWtUcllZajBLbGY0MnpFSzdOdmdMY0M5WGFKMjlCcFV3VlVmcmRfV2lvLVRaSVZCMXk5ZkxWQldRbmhKaEo0YWRGQTR6X0VSTXZIUFhLdnZUMUtzSWJ6dTIyZ3l5Q0cwd2FZbUdiaWtRaTJJeXNsVVgzdVFkTDVuTGIydlF3M2JTNlNJNGx3V3p0ZzVhUE5RZjBHREJhTFN2WDlXTzB1X1Q2T1BrOVB1UUpqRWx4RGxJa0ZVNGxQemI1UEFQNmk5LUFveDJXUVR4QjhvQ0pVcTJkanBYcFFoNDdZdi0zZ2JzekU0NFJOY005TmU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-18-012",
+    "date": "2026-05-18",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "RiverFront Investment Group LLC Raises Holdings in Palantir Technologies Inc. $PLTR - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTS1mR0Zvd1FSUkg4bGZId1ZaaXNfMllmR2lFNm01M0dSQjVmY05VWDduazNDWVptV2hxZHRMd2o0MmxLXzN0b0w0OElnLVBSVzkwT002aDRjU282Z2ViMHFRTUlRaUZMbWhkNkRFVH",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTS1mR0Zvd1FSUkg4bGZId1ZaaXNfMllmR2lFNm01M0dSQjVmY05VWDduazNDWVptV2hxZHRMd2o0MmxLXzN0b0w0OElnLVBSVzkwT002aDRjU282Z2ViMHFRTUlRaUZMbWhkNkRFVHI4TjA0MDBTWU1oYXB2SlBqYnN0WklGTDU5WkpDMWZGY1UtbGxlUklCV2Yxbi1yc2Vwa1h4YXFsdXM0ZzlHUlA5cnpJdkdWSVJIT3RaVlU0SDI0RFV2X2xWOXNyak9kZVFTaHVrRkhjR3RPQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-18-013",
+    "date": "2026-05-18",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "North Dakota State Investment Board Acquires Shares of 75,965 Palantir Technologies Inc. $PLTR - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMFpvVy1aQVg4T2lOYWFmZG1qdDZXZnlzV2JhNUVlU2dzemxBTzJjTFgxWkYzLW9WbWpoeE4zcjFJRjZvQUI1SDVwMU43WWdCSDJNVnJxdjAxSWhHRTFDT1hnUlhYdjBOZVAxT2JkNV",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMFpvVy1aQVg4T2lOYWFmZG1qdDZXZnlzV2JhNUVlU2dzemxBTzJjTFgxWkYzLW9WbWpoeE4zcjFJRjZvQUI1SDVwMU43WWdCSDJNVnJxdjAxSWhHRTFDT1hnUlhYdjBOZVAxT2JkNVAtb2RmT3pJUndlUHl5UEpQeGhmMXY4aHN6ZEwwWndZLUVaNWhxYTFVaG54a0hjSVpkaWpUNnA0aXdfTElTVWFGbnU3Yi1lTlZQWjV1bmhzWlYydGNITHkyOW00bm1USENVSTRNSlhpWS1fOVgyZElucHA2ZmdXRm8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "l3harris-2026-05-17-001",
     "date": "2026-05-17",
     "companies": [
@@ -74,6 +332,86 @@
       {
         "name": "palantir",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVHVncUpVTEtPcW9SUlEwNXJwaElZNFNUR2ZEVEJOSlB6OGY3a2FBeXVieFdlOENhYUxfczRGcXNuY3lNQTMyN0pLb1hQSDJVWFdpWjExVVZhOVRVRHlOOEc3VEgzalpqeUxQNUczZ0xiZFZIY3JieFRyam56NHhtNHhKUDZjVXlVSk9HMDQ1NUR3SGlBbEpyVDdOc24yZ3RyWHJ5T1RpQzRPYzN2VDBzY3FYWGxHd3VKbU5xQWZUSjlKT3hleWZONTVNdUNkSk4waDZZMEVoVlRRbnc4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rtx-2026-05-17-005",
+    "date": "2026-05-17",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Security National Bank Buys 15,468 Shares of RTX Corporation $RTX - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZHBxT0VSYnU0S0JvSkx1NU1iaFJucHRFaVk4LUowTmhUSWNlWkY0WTBfVWg4RDlCTTF6QlVnR0RLdnNSc3JuaFR0SjRaR2EzTE1RaTgzSU5LUlQtV1cybE1meWJtVG9lTkNNbEpaM0",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZHBxT0VSYnU0S0JvSkx1NU1iaFJucHRFaVk4LUowTmhUSWNlWkY0WTBfVWg4RDlCTTF6QlVnR0RLdnNSc3JuaFR0SjRaR2EzTE1RaTgzSU5LUlQtV1cybE1meWJtVG9lTkNNbEpaM0FBVFpYYWhLSERXR0RVc2l3Y3VsRWJ5Y003blFrSUp5dW9oXzV4cmhIUW9NdGt1dnNkakxnYmhyYjVTNjMwTl8zQ3NIdWtCTkNpRGlKUXZvRXdOZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-17-006",
+    "date": "2026-05-17",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "South Korea and Estonia join forces for Romanian ground robot bid - The Defence Blog",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQaWo0OVJRbThLdm1iclBzYlRhWlNxdEJLR1BWaVgxMndRRzFHd0RKTElVTWQ1YmxCSmlfcU9oa1ZhZ1doX2tHb1pTdllHMVRlM20wQWl4MVVNUlhvR2J2UmhpakYtR1BlMlVsbE5zX1",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaWo0OVJRbThLdm1iclBzYlRhWlNxdEJLR1BWaVgxMndRRzFHd0RKTElVTWQ1YmxCSmlfcU9oa1ZhZ1doX2tHb1pTdllHMVRlM20wQWl4MVVNUlhvR2J2UmhpakYtR1BlMlVsbE5zX1k4bkZwQ3RPU3hMRW1BRGhxT2dQenlCY2t1QWdPSXVqWjR5VkZCRWfSAZsBQVVfeXFMTnVZYXRNNWxnbU0zVnUwanRHMUNwbnVCS255NGRaY01oTmIyM3l1ZUN3ZGV2Wjh2Rk5nQkp4ZldocmN0ekQ5MlVnWGhFX1BEblNWeC1RMm50THpyMEdVSDEtWUIxTUxUZDhnLUxtMmtKUGkwSENGWE5pMDV4R21NRV9ucVZyLU8xem1jV1RQaHRSUnpudlFkNkdzalU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-17-007",
+    "date": "2026-05-17",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "arms_export",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Trump’s Palantir Trades Put Spotlight On Political And Contract Risks - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc3pwYXpyNzByVm9NcjlRdzNrYldYQkRWbW9DTUVIWDFmS2JqMm5MeG9wRWNvdUlYQUExcXlYMHNGZ2c1Wl8wdG5EM1JJRUFIcDJpUjBNTHRndTVlc3ZmYndpM2dWVURVVk1aTG91em",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc3pwYXpyNzByVm9NcjlRdzNrYldYQkRWbW9DTUVIWDFmS2JqMm5MeG9wRWNvdUlYQUExcXlYMHNGZ2c1Wl8wdG5EM1JJRUFIcDJpUjBNTHRndTVlc3ZmYndpM2dWVURVVk1aTG91empHQUZHVHM5N0pxaUZzOGJ0SkVOd1IwNUF1Zy1zNmh6dldRWHVRWXVyeHY0ZDBIOWpPNGZWWWJ2SFNtVkIyOFRkdW9CdG11a3hFaFBPME1sWUNTWlk2WURkemhTdjZaMDNYOF81ckd4WdIB3AFBVV95cUxNLXg3empmMTRJQzg4TDExcUhYSGZqM29PRWZpZXJpNGxwTWNfVlM2b3c0cjZJa3FuTkVRRUtjMVRwM0poVTJIWWowVVFIQ19CLU1tLVRKQ1gwN3RCQ3dteUFmRy13UFpHS2hKaGt2RHo2dnZ2bHlhbm5EbFZ6MV9XMzhjY2F4ejF4QXFDWTI1T0FEU1EtZHNwQlNXaENnSGQ1bzh3RzY3YW5PY3RZOHAwR2ZvMzNrWmctLXZGNy1GU3VjTEp3cUVPWFlvcWw0aEt2VGVrbVgtUkw3V1F2?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-17-008",
+    "date": "2026-05-17",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Palantir Technologies Stock (PLTR) Opinions on Recent Earnings and Analyst Upgrades - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNMmdJb2EzM21wb3FyNWFOd0JKWXlKR2t6NENHcXpFNUplVXVYd0Z2dFJHdkpIRWZLNkpDQ28xUzhVU2ZFZ0hPdjNaampjZ3Zwa0dPcGFEMW9NdXU3eVJESkplNzJfUVdhYWlvbk10Nm",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMmdJb2EzM21wb3FyNWFOd0JKWXlKR2t6NENHcXpFNUplVXVYd0Z2dFJHdkpIRWZLNkpDQ28xUzhVU2ZFZ0hPdjNaampjZ3Zwa0dPcGFEMW9NdXU3eVJESkplNzJfUVdhYWlvbk10Nm9FYmVUTDRXamZRaHY3anJMVVZJdldueG5DVDdkcjFuNmN3VkpDTnlWcXZkU1N0MHlpeWstbUhMOERRaUlFbFlWWGczdEhlSkdjTlVGYw?oc=5",
         "type": "rss"
       }
     ]
@@ -1237,6 +1575,63 @@
       {
         "name": "palantir",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQkd6cFNleTZwNTdtcHVQVV83ZmVKQ1JuUl9oWGJMNXpKM0YyYU84RThhNkZWaWdReFY4VE0wclJBanpuNXJhNS1KelcwVXlGWnFHTk5vR252OElUVllHZXdvNlI5ZGhtVzcwRFZkTS0ya2JoaHVvWXhrQmROdnFmRE1DSHpYUENyaDJFeUcweTN3MU0tend3dTdHd3ZPTl9VVVdUc3c4b3g?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "elbit-2026-05-15-053",
+    "date": "2026-05-15",
+    "companies": [
+      "elbit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Here is Why Elbit Systems Ltd. (ESLT) is Among the Best Industrial Stocks to Buy for the 2026 Infrastructure Boom - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNRFdlbDB0S09KVFdmOWhKRjZ4Zm8zNXZvcG9IOVNuUGxOZU03aFpVMHVVemJtdjgtS3drSVVTT0cxUkRGbTdJUHJNa0VSNVRqOXRicVBhelh0MFQ4aDBkS042UTh4a1F6b01vMDlRRX",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRFdlbDB0S09KVFdmOWhKRjZ4Zm8zNXZvcG9IOVNuUGxOZU03aFpVMHVVemJtdjgtS3drSVVTT0cxUkRGbTdJUHJNa0VSNVRqOXRicVBhelh0MFQ4aDBkS042UTh4a1F6b01vMDlRRXVmRVVlN282aG9Mck5fZk00S3pLVm1wOVhIcHc0ZHdEX1VVU2dUUFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-15-054",
+    "date": "2026-05-15",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "This Will Be Palantir Technologies Stock Price in 2030 - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOdjRfN3lidUpNMG1HcnJvemlLTEdIQVhsNGlncFY0cXJBTG9ZMVJKSDU2OWpqbGhlN1ZPQlFUbVlLOGctUDhXUUJvUHJXOVFKb29yaDlQeDFIWVZBTXZvUWdIX1d3eThQX2RjS1pEQk",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdjRfN3lidUpNMG1HcnJvemlLTEdIQVhsNGlncFY0cXJBTG9ZMVJKSDU2OWpqbGhlN1ZPQlFUbVlLOGctUDhXUUJvUHJXOVFKb29yaDlQeDFIWVZBTXZvUWdIX1d3eThQX2RjS1pEQklsUXhGRUtNVWIzYk9ZSkxKZURkckdRRlNkdjI5YWVEOWk1S0tLRjRxNHdqbnRRNDg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-15-055",
+    "date": "2026-05-15",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Starmer expected to approve $24 billion increase in UK defence spending, The Times reports - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxObmw4bWxNWTFwa0pEeDJWVGtJZS1lRUVVRmNYWWRka2dzeFZJQW9WdGo1eHdGYWtFcjNfSC10YTVPMnJURzM2OG13UGN4RjM0LW8tMTFodzh5eFoySFJVU21SWkxOSnphb1N6MFVFTz",
+    "sources": [
+      {
+        "name": "google_defense_budget",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObmw4bWxNWTFwa0pEeDJWVGtJZS1lRUVVRmNYWWRka2dzeFZJQW9WdGo1eHdGYWtFcjNfSC10YTVPMnJURzM2OG13UGN4RjM0LW8tMTFodzh5eFoySFJVU21SWkxOSnphb1N6MFVFTzQ2SkpRYmFja1QybGhZRGpMYzdEelB6ZFZrVWhaM3hYUXV1Q3VJUVZ0NmJHYXM1T2g5M0tCekJKOFExRTZqb1NySlFwbUpmZVRFRFE?oc=5",
         "type": "rss"
       }
     ]
@@ -3369,6 +3764,43 @@
     ]
   },
   {
+    "id": "unknown-2026-05-13-058",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Another Milestone for Homar-K - ASDNews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE81SEJVTkxuUlBMRmFFdDNOREhIaHcxTzk2LTMwaHBXZzQ2TWdObjNLWFNuc0I2T18wZWN4RGdaTEx3dFJjUlE4ajZxeTE3aE1rdGoySXIyY2dyRnp6MjlJYlZpYTVrMVZyOXY3TlJOTl",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81SEJVTkxuUlBMRmFFdDNOREhIaHcxTzk2LTMwaHBXZzQ2TWdObjNLWFNuc0I2T18wZWN4RGdaTEx3dFJjUlE4ajZxeTE3aE1rdGoySXIyY2dyRnp6MjlJYlZpYTVrMVZyOXY3TlJOTlBsRklYbkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-059",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "America’s top military officials are appearing before Capitol Hill to present and defend their proposed two trillion dollar budget. - Facebook",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTGZkdjcwX3kyLWNjQ3ZmcTlyaF9Zbm5qQlRxc1ZpcV9JSTVvVTdnTWp2bjZsSHVTR1NfYl9sUXNHdU9SNjNtWHN2NzV1bHJvLUZaZENjODVfWURseVliNU5ac0c4cmNtQUFFVHk1WF",
+    "sources": [
+      {
+        "name": "google_defense_budget",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTGZkdjcwX3kyLWNjQ3ZmcTlyaF9Zbm5qQlRxc1ZpcV9JSTVvVTdnTWp2bjZsSHVTR1NfYl9sUXNHdU9SNjNtWHN2NzV1bHJvLUZaZENjODVfWURseVliNU5ac0c4cmNtQUFFVHk1WFNVcHZfZVg4UU9LWHg2TWRBN0ktN0lWSEZUTDZUZzhWaU5KRDZyVVA4X3JsNlBrNVdjdUVhUU91Nl90R1FiYldHZ0FhNlNCYnpHMDRoUkduWS1aNlgxbjlUU05rSnVWdjBBc1RHcndiNjF2YWFITEw0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rtx-2026-05-12-001",
     "date": "2026-05-12",
     "companies": [
@@ -4913,6 +5345,26 @@
       {
         "name": "elbit",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaDFrQWlqS0RscU9sRlVwY2Nrai02aWVSTnNzOXJJZWxKbDhLX0dRY2JYcHg5M3RjNFhMeWo4eTk5N0xDZFZpRUtENWJDUTF1dFFLTnVFVUZNb3JYVjFkZnpRZ1lESHNWc0FCVWczenczSDk5N0cyQzVuUTByeWhKQ19fdHAxRFdjMUJyM0dsWHZnb3ptZXVfZ2JMaE16b3o4WkdOdUs2U1A4NGdPMXB6am5Idw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-05-12-081",
+    "date": "2026-05-12",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "What would J.R.R. Tolkien think of Palantir? - vox.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOVzZ4MTJkc3lZWTQ3OTZGck9ickJjb3NlcWc3TWlsRUh0MTBGSkdRX3llRVUzMWdjTzEtOEd0SS1MaUxKbkVYQXRzWEthbTJmQjNhU3A0dndKRlFSNGpXQ2xsOVczeHl0LUdnNzBRdn",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVzZ4MTJkc3lZWTQ3OTZGck9ickJjb3NlcWc3TWlsRUh0MTBGSkdRX3llRVUzMWdjTzEtOEd0SS1MaUxKbkVYQXRzWEthbTJmQjNhU3A0dndKRlFSNGpXQ2xsOVczeHl0LUdnNzBRdnZuenMxMjN6d3hfc0hTaVVJNnFDT2dwdGZyTkptVQ?oc=5",
         "type": "rss"
       }
     ]

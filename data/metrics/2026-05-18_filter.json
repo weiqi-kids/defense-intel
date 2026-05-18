@@ -1,0 +1,16 @@
+{
+  "total_raw": 295,
+  "dup_title": 137,
+  "no_date": 0,
+  "too_old": 87,
+  "gate1_fail": 25,
+  "gate2_fail": 23,
+  "passed": 23,
+  "gate2_samples": [
+    "9,912 Shares in RTX Corporation $RTX Acquired by CDM Financial Counseling Services Inc. - MarketBeat",
+    "RTX.CA Stock Price, Quote & Chart | RTX Corporation (TSX:RTX) - ChartMill",
+    "Investors Heavily Search RTX Corporation (RTX): Here is What You Need to Know - Yahoo Finance",
+    "Tucker Asset Management LLC Lowers Stock Position in RTX Corporation $RTX - MarketBeat",
+    "AustralianSuper Pty Ltd Purchases Shares of 73,107 RTX Corporation $RTX - MarketBeat"
+  ]
+}
