@@ -1,0 +1,235 @@
+{
+  "date": "2026-05-19",
+  "generated_at": "2026-05-19T10:57:07.154425Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-05-19-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Corporation $RTX Holdings Lowered by HighTower Advisors LLC - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUVdRZHJMbnpaVlNQMHQ4ZGZWaDhXNWNSX2lJRms5eGtVZEtvQ3p2WmVKWUxjX3NwbmtYWDBGTmlwcVNQLXdRZ04yNjlZUzhscUxOSnJzcFhaNHJLam9uU0dmYzlHWWZ1Wk9jc0FidEdMNFR5OXJ6cnkyZFl3QUYyeDR3bTNvZDBpbmV3dTBJOEhFcHFCTnRDbnluVzJ4WS0zQkNTbFhWa0cxcmNNZThNRzFIUThpQ2RGa0N2aXN1Mi0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "l3harris-2026-05-19-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cathie Wood’s ARK sells AMD stock, buys L3Harris and Amazon - Investing.com",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ2NHYW9zTlpyVE5LT29EeW5qRWJfcFlaNjBvTGtxVmhqLWV4RVNyV3o4OFExQ0wzZ1dPWEFwNEV5M1oxN2FrOTVoWU9hZVZEdF80ODFRLXQ5OU5Na3dNMkpxVnJtcUtBVVRqTUs3N2lpUGd4Z3p2WWRhTi1Ta0RkaFNtd21aVm1JVDFaVTBXZ3hZaTQ3LWVCVHVfZ2gzSHJTbzl5TTNkd2x5ZDZQQkc0VHV0UU8?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-19-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Billionaire Rinehart builds $97M stake in US defense contractors - MSN",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOFBqTk5paE13R0dDMWtmN2JXSzIzUnhKSlQ0RG04TWFVZ1lUS3pSZ2NJdWRtWmp4QW1NYmtBOThuelZibmx5c0diWWMyVVEySnQ3c3loN3hDZWtZcUNFenNJY1Vic29sTHJmdFVpajVmWmhwbmYzbmJrMVhBZ01PWF9VYUU0ZkdDb0NweDhHcFdjVHhMLTdnMlZBY3hMOERTUjNJMUE4dkItaUVYMXdIWFp5UlZWVzNFbVZBVzRDdkt1YVE4MFZTTnlleWt1TEJVVnNWVg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "l3harris-2026-05-19-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris Technologies stock (US5024311095): guidance, revenue growth and backlog stay in focus - AD HOC NEWS",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORzJqb21BSTh3STVGTVRrT05pc1hEckRjZkRBSFhvcncwZkdPTlNnVDVmSVpfWGduTlJ3N3NmeVlhcXJzdUJoMW4xVVQ2WnJSWE14V0N3WFl0Vk93ZFp5SnZBaDFfOUZ6NEl6SmZzTWFZUmJnLXczbDlNSUJVRkdTejk5SzBwVFo2dFBDSG1hSHZ2X3VxZENEb2kyQkJ3SGVlSmt0VzlNQlphSTd4UjBWdVRkUExIYW5KSjVnanE4S3RCdjNjTnc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rheinmetall-2026-05-19-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall (XTRA:RHM) Valuation Check After First Quarter Earnings Growth In Sales And Net Income - simplywall.st",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeXJocm5pV21pRFBvckVRTnVUbVctQWlCV094RVl6ZzlDamcweHYtSnNhMHMtNjNYZk1pM1VCXzM1V1dyRzZyaGZYdUtfZ1FINWp2aUw4NGxCRy13N1EtX1JoN2l6Q0x0LVBhNWp1cjB0a3ZMcENKX3FtNzRIQ0ZMNU9VZ2c4UzFYX1V5Ul8wQ1lJWlk0dkxHWGxzRnpwS3A0dXF1T1F5NFJvenFPajNxdE1ySTZNMzdXc19GRWhrVFpYQmUtVzVWc3p0Skh6VVBqaXNka9IB2gFBVV95cUxQV0Q1MDY4MTd4enhtd3YyRzJJR0tQdkpsYVJJRi1hYnhpQnZPYlBxOUlyTEpfZ0l4MWJWSWh0ekxhNG5maUExUXI4Tjl1U3NiaFp3aVhfWU45RHY4OTM4eWp2SERfLWtucDd5bERNT1c1TU1SazZNeDdhRk9Ja0hGOXVONjJQckl4VWYzMW5LQWc2aVowcFB1elkxaTk2cnd0WmlfYWZrU1JsS2RNb05qMnhFZ0szMUVPY2Y3aWFlZmlaaFV0d0FDcGFsLVJlc3hHSzlldXdoc2IwZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "missile_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 11,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "palantir",
+        "count": 3
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "elbit",
+        "count": 2
+      },
+      {
+        "id": "rtx",
+        "count": 1
+      },
+      {
+        "id": "leonardo",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "missile_defense",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 295,
+    "dup_title": 123,
+    "too_old": 88,
+    "gate1_blocked": 19,
+    "gate2_blocked": 27,
+    "passed": 38,
+    "pass_rate": "22.1%",
+    "gate2_block_rate": "15.7%",
+    "gate2_samples": [
+      "RTX Corporation (NYSE:RTX) Receives Consensus Rating of \"Moderate Buy\" from Brokerages - MarketBeat",
+      "RTX.CA Stock Price, Quote & Chart | RTX Corporation (TSX:RTX) - ChartMill",
+      "Investors Heavily Search RTX Corporation (RTX): Here is What You Need to Know - Yahoo Finance",
+      "Tucker Asset Management LLC Lowers Stock Position in RTX Corporation $RTX - MarketBeat",
+      "9,912 Shares in RTX Corporation $RTX Acquired by CDM Financial Counseling Services Inc. - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為Palantir Technologies、L3Harris Technologies、艾爾比特相關動態：「RTX Corporation $RTX Holdings Lowered by HighTower Adviso...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "RTX Corporation $RTX Holdings Lowered by HighTower Advisors LLC - MarketBeat（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Cathie Wood’s ARK sells AMD stock, buys L3Harris and Amazon - Investing.com（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

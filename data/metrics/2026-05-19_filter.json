@@ -1,0 +1,16 @@
+{
+  "total_raw": 295,
+  "dup_title": 123,
+  "no_date": 0,
+  "too_old": 88,
+  "gate1_fail": 19,
+  "gate2_fail": 27,
+  "passed": 38,
+  "gate2_samples": [
+    "RTX Corporation (NYSE:RTX) Receives Consensus Rating of \"Moderate Buy\" from Brokerages - MarketBeat",
+    "RTX.CA Stock Price, Quote & Chart | RTX Corporation (TSX:RTX) - ChartMill",
+    "Investors Heavily Search RTX Corporation (RTX): Here is What You Need to Know - Yahoo Finance",
+    "Tucker Asset Management LLC Lowers Stock Position in RTX Corporation $RTX - MarketBeat",
+    "9,912 Shares in RTX Corporation $RTX Acquired by CDM Financial Counseling Services Inc. - MarketBeat"
+  ]
+}
