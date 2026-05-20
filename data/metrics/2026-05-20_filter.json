@@ -1,0 +1,16 @@
+{
+  "total_raw": 295,
+  "dup_title": 117,
+  "no_date": 0,
+  "too_old": 84,
+  "gate1_fail": 19,
+  "gate2_fail": 24,
+  "passed": 51,
+  "gate2_samples": [
+    "Tucker Asset Management LLC Lowers Stock Position in RTX Corporation $RTX - MarketBeat",
+    "9,912 Shares in RTX Corporation $RTX Acquired by CDM Financial Counseling Services Inc. - MarketBeat",
+    "RTX Corporation (NYSE:RTX) Receives Consensus Rating of \"Moderate Buy\" from Brokerages - MarketBeat",
+    "Resona Asset Management Co. Ltd. Reduces Position in RTX Corporation $RTX - MarketBeat",
+    "Millennium Capital Advisors LLC Takes Position in RTX Corporation $RTX - MarketBeat"
+  ]
+}

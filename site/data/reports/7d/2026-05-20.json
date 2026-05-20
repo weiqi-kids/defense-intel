@@ -1,0 +1,157 @@
+{
+  "date": "2026-05-20",
+  "date_range": {
+    "start": "2026-05-14",
+    "end": "2026-05-20"
+  },
+  "generated_at": "2026-05-20T10:46:01.298536Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "rtx-2026-05-16-004",
+      "date": "2026-05-16",
+      "title": "Lockheed Martin Investment Management Co. Purchases 9,490 Shares of RTX Corporation $RTX - MarketBeat",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 53,
+      "last_week": 62,
+      "week_over_week_change": "-15%",
+      "sentiment_this_week": 0.03
+    },
+    "industry_general": {
+      "this_week": 37,
+      "last_week": 39,
+      "week_over_week_change": "-5%",
+      "sentiment_this_week": 0.03
+    },
+    "drone_warfare": {
+      "this_week": 8,
+      "last_week": 13,
+      "week_over_week_change": "-38%",
+      "sentiment_this_week": 0.0
+    },
+    "arms_export": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    },
+    "missile_defense": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rtx": {
+      "event_count": 11,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "l3harris": {
+      "event_count": 14,
+      "sentiment_avg": 0.07,
+      "rank": 2
+    },
+    "hanwha_aero": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "elbit": {
+      "event_count": 10,
+      "sentiment_avg": 0.05,
+      "rank": 4
+    },
+    "palantir": {
+      "event_count": 16,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "rheinmetall": {
+      "event_count": 10,
+      "sentiment_avg": 0.05,
+      "rank": 5
+    },
+    "saab": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "leonardo": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 225,
+        "last": 326,
+        "change_pct": -31.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-14",
+      "event_count": 54,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-05-15",
+      "event_count": 55,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-16",
+      "event_count": 7,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-17",
+      "event_count": 11,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-18",
+      "event_count": 36,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-05-19",
+      "event_count": 47,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-05-20",
+      "event_count": 15,
+      "sentiment_avg": 0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-14 ~ 2026-05-20）共 225 則事件，重點為「Lockheed Martin Investment Management Co. Purch...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "RTX",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 14 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "韓華航太",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
