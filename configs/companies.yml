@@ -177,6 +177,7 @@ companies:
   - lockheed
   - rtx
   fetch_mode: http
+  inventory_applicable: false
 - id: kratos
   name: Kratos Defense & Security Solutions
   aliases: []
