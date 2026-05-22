@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 130,
+  "no_date": 0,
+  "too_old": 87,
+  "gate1_fail": 28,
+  "gate2_fail": 20,
+  "passed": 50,
+  "gate2_samples": [
+    "Meiji Yasuda Asset Management Co Ltd. Grows Position in RTX Corporation $RTX - MarketBeat",
+    "Tucker Asset Management LLC Lowers Stock Position in RTX Corporation $RTX - MarketBeat",
+    "9,912 Shares in RTX Corporation $RTX Acquired by CDM Financial Counseling Services Inc. - MarketBeat",
+    "Resona Asset Management Co. Ltd. Reduces Position in RTX Corporation $RTX - MarketBeat",
+    "Fortis Group Advisors LLC Acquires 9,013 Shares of RTX Corporation $RTX - MarketBeat"
+  ]
+}

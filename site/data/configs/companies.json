@@ -219,7 +219,8 @@
         "lockheed",
         "rtx"
       ],
-      "fetch_mode": "http"
+      "fetch_mode": "http",
+      "inventory_applicable": false
     },
     {
       "id": "kratos",
