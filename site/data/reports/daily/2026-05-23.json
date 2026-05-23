@@ -1,0 +1,219 @@
+{
+  "date": "2026-05-23",
+  "generated_at": "2026-05-23T09:46:04.808676Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "l3harris-2026-05-23-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Investors Are Reacting To L3Harris (LHX) Special-Meeting Vote And Fiber-Optic Tether Expansion - simplywall.st",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZzExeWJ3Ry1pQ3U5eHg5c3l1ZFBWYlgwV084cW1rekRsS2FjbFFOa1hwbDNlUm5wQm5lSzNNNW44TmhVN1FyZm5pZ0Y2cjNlNjFJX3hMQ09paktlYlFPX0tiX2VYdlZZV2NoQ3VIT2lMNzAxVUxNOGxLQ1dralQ4dkgxQ3U5TFVYOHZJLVZDNjlPWFI0ZEdTS2tISUtEZFF5OGFuQUhWQnJsQlFsd2F5ajdSOW5kQjdaRUx4dDVOVVBiQTBTSTlBdkpvbHNxZnE1cVlQdXVXUDJjUdIB3wFBVV95cUxPWnZJYm1pQ0dTUG9xSGFRVzdkMHpXT1pac1ZNT3pFSTM5LTN1VmtzOWZJc1Z0c19aR3FUdV8yenBGUTJPRU1lYW9hRW5Yd3Fub0RUNkJ3enRQaEF3c2FvUXZUSFFhZGRWdjlZV2tUak9VX2pCeVdCWnc4eGFDX3F2NmlNVDNZMk5Va0xuNWRsM01Nb3BRYk9qTC1TUkJfLWNCUnBhZlpKUEpubXNsa0hFTkhTMEdHV19BVEV2NEFlaFFZeGM2SEpVa2FTZmtkVnhTUHppUHY3YWplY3JCNzJN?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "elbit-2026-05-23-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Elbit signs deal with German submarine manufacturer TMKS to expand ties between Israel, Germany - The Jerusalem Post",
+      "companies": [
+        "elbit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45OHdaRmtfSlRPWG5yNElxVkg5ZGh3WlNHUlFzYU0zbzY2UUhLTEI2SHBvSE5qdUpfdWdnTDQ3amYxSl9QOGZqQXVQR2JTOFlRSm1talQ1cmQ4Sm5wMzRnUEg4M2xHM0xBT3RKM1pn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "palantir-2026-05-23-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Palantir Technologies Stock Hits Key Support – Buying Opportunity? - Trefis",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdzhjODYtNnRTeTdybWg0RTUwWDBLcWlMNGd1eUoxeFBZVXdBQ29oWjhSU09wTnJvQ215RE9CSHAzX3ZzZzJndFVTNVI1YU9laTdFUWJyNVRDbnVhTExuS2VtRmZnTXFHTUY4cksyM250c25zV2l3Ny12TDVubHd1VHFET0tsQzJ0T05KekgyY2o0bnVfUXFmRzQ1cFotMkdsUXRUeXV6em00d2JEYUdfcm43bmhocEtNTWI2TDktMmNtQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "palantir-2026-05-23-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A Look At Palantir Technologies (PLTR) Valuation After Record Q1 AI Growth And Guidance Raise - simplywall.st",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.25
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY05QaDBlUHBXUG9QTlpYNFJNd1l5Q0poU3NNc3YtRi11QjJKYUpuaFAzTW03TlBiTU41ekFXTDlVYnU2LXVRd1FyZDBXM0tSSzRmTFZMU0xFWWxVaVNZa2VTS0gyb2UzS3ZXYTNLakswbmNNTWN2cnY1SWJicno0Nm1zNHlVeWxfbWZibUJiUmc5TkJWbzJXWnRwMV9tS3FsOGZrR0gxd2U3OVdQbG5BeWI1RTRNUUFEcS1oclNKaVhqb0VUdjFUekZWNU1ETzcwb1QwWmZn0gHbAUFVX3lxTE0wc2NNVzZOZ0xSaUVScHd2OE0yT1FoaTA5MDlfMnRiTjNSUVpQR28wQW9OTDN4SFJERlA5OXBXbXN6aWQ0OXJ0aGRaMU81RTY2S3RGM1VTWm1LaDY0X0k2eWN6S1JlWF8xRUNGYUxhMy1rY056dnZOMlBJWDlKSndENTJLZ3VKcVp6U1ZBTURYeG81cUNYckxsVU1wTzZRbjBVbk1yd2RmbVh5ZHpjVlFlMWhEQUxoT1ljdU4xNW1tZDVlbU1OeURBZllxcUd3Y1J4MTdCekFub0FxNA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "palantir-2026-05-23-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Alexander Karp of Palantir (NYSE: PLTR) sells shares to cover RSU tax withholding - Stock Titan",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRVFhME5kSXhpbnNCUl9KeVpwYUQ3YWpwV0NIVlpNR0tZemlMZmtLcDRBeHhMWnl6LWJGc05JQmNvOGJiMnpiUmo4ZGhSc3BmQmo2bWhrZnFkd1V4Z3NyY29Dd0tPdUVVS2JSN0JiWDJ2WnZPcGJfdWxWajZVbjBDWWd4bDVScXJoQ0EyZ2tjclVjMEdwYkUyYnhtbmZYNm9COVZibnRxVFA5UWdZSTRTbUZ6SEhjdnZqWXFZ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 7,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "palantir",
+        "count": 5
+      },
+      {
+        "id": "rtx",
+        "count": 1
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "elbit",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 295,
+    "dup_title": 130,
+    "too_old": 90,
+    "gate1_blocked": 20,
+    "gate2_blocked": 19,
+    "passed": 36,
+    "pass_rate": "21.8%",
+    "gate2_block_rate": "11.5%",
+    "gate2_samples": [
+      "RTX.CA Stock Price, Quote & Chart | RTX Corporation (TSX:RTX) - ChartMill",
+      "Keudell Morrison Wealth Management Invests $3.16 Million in RTX Corporation $RTX - MarketBeat",
+      "Meiji Yasuda Asset Management Co Ltd. Grows Position in RTX Corporation $RTX - MarketBeat",
+      "Tucker Asset Management LLC Lowers Stock Position in RTX Corporation $RTX - MarketBeat",
+      "9,912 Shares in RTX Corporation $RTX Acquired by CDM Financial Counseling Services Inc. - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為Palantir Technologies、RTX、L3Harris Technologies相關動態：「How Investors Are Reacting To L3Harris (LHX) Special-Meet...」。主要關注主題為財報、國防航太通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "How Investors Are Reacting To L3Harris (LHX) Special-Meeting Vote And Fiber-O...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Elbit signs deal with German submarine manufacturer TMKS to expand ties betwe...（財報、國防航太通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
