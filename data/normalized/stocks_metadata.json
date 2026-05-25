@@ -1,69 +1,69 @@
 {
   "lockheed": {
-    "earliest": "2013-07-17",
+    "earliest": "2013-04-18",
     "latest": "2026-05-22",
-    "count": 3233
+    "count": 3295
   },
   "rtx": {
-    "earliest": "2013-07-17",
+    "earliest": "2013-04-18",
     "latest": "2026-05-22",
-    "count": 3233
+    "count": 3295
   },
   "northrop": {
-    "earliest": "2013-07-17",
+    "earliest": "2013-04-18",
     "latest": "2026-05-22",
-    "count": 3233
+    "count": 3295
   },
   "general_dynamics": {
-    "earliest": "2013-07-17",
+    "earliest": "2013-04-18",
     "latest": "2026-05-22",
-    "count": 3233
+    "count": 3295
   },
   "l3harris": {
-    "earliest": "2013-07-17",
+    "earliest": "2013-04-18",
     "latest": "2026-05-22",
-    "count": 3233
+    "count": 3295
   },
   "bae": {
-    "earliest": "2013-07-18",
+    "earliest": "2013-04-19",
     "latest": "2026-05-22",
-    "count": 3246
+    "count": 3308
   },
   "thales": {
-    "earliest": "2013-07-15",
-    "latest": "2026-05-22",
-    "count": 3290
+    "earliest": "2013-04-16",
+    "latest": "2026-05-25",
+    "count": 3354
   },
   "leonardo": {
-    "earliest": "2013-07-15",
-    "latest": "2026-05-22",
-    "count": 3262
+    "earliest": "2013-04-16",
+    "latest": "2026-05-25",
+    "count": 3326
   },
   "rheinmetall": {
-    "earliest": "2013-07-15",
-    "latest": "2026-05-22",
-    "count": 3262
+    "earliest": "2013-04-16",
+    "latest": "2026-05-25",
+    "count": 3326
   },
   "aidc": {
     "earliest": "2014-08-25",
-    "latest": "2026-05-22",
-    "count": 2816,
+    "latest": "2026-05-25",
+    "count": 2817,
     "history_complete": true
   },
   "hanwha_aero": {
-    "earliest": "2013-07-16",
+    "earliest": "2013-04-17",
     "latest": "2026-05-22",
-    "count": 3149
+    "count": 3210
   },
   "elbit": {
-    "earliest": "2013-07-17",
+    "earliest": "2013-04-18",
     "latest": "2026-05-22",
-    "count": 3233
+    "count": 3295
   },
   "saab": {
-    "earliest": "2013-07-15",
-    "latest": "2026-05-22",
-    "count": 3228
+    "earliest": "2013-04-16",
+    "latest": "2026-05-25",
+    "count": 3289
   },
   "palantir": {
     "earliest": "2020-09-30",
@@ -72,18 +72,18 @@
     "history_complete": true
   },
   "kratos": {
-    "earliest": "2013-07-17",
+    "earliest": "2013-04-18",
     "latest": "2026-05-22",
-    "count": 3233
+    "count": 3295
   },
   "etf_ita": {
-    "earliest": "2013-07-17",
+    "earliest": "2013-04-18",
     "latest": "2026-05-22",
-    "count": 3233
+    "count": 3295
   },
   "etf_ppa": {
-    "earliest": "2013-07-17",
+    "earliest": "2013-04-18",
     "latest": "2026-05-22",
-    "count": 3233
+    "count": 3295
   }
 }

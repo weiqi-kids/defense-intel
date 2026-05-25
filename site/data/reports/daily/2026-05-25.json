@@ -1,0 +1,192 @@
+{
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T11:47:33.574898Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "l3harris-2026-05-25-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Government Contract Update: $47M payment to L3HARRIS TECHNOLOGIES INTEGRATED SYSTEMS L.P - Quiver Quantitative",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRG9tcmdRTGFESDhXLXFEQVR6UlhlaGQ5VjdQVFB3dU50WHJPUHZWd1p3MkFsTFJsN2ZKN0dMd0Zqa1lMakVSdy1KZFQ1SkwyUzlyOWJQaTJBNGd4ODBxRWpDR2k4dVpTcG5UM2ZsODRYUmxieUdkN1VsVUNrWVpYa2pKdmswM2IzVVAwWkt6a2Jqc2lLTVRscUhSaW1wc1pSeDE1U000UTBsaFFxNE5QNjNLR2RDbUo5QkpSWFFuNUxFVUE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "elbit-2026-05-25-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nibe Group signs joint venture with Elbit Systems to set up propellant manufacturing facility in India - ANI News",
+      "companies": [
+        "elbit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNDlKMHFjWGxkNjF5YkYtRjg1bzl0dzM5ajVsZ3VmN2RrRDJlQ3dOVWJTcUdyVzc3YVU3N2xzcnJpa3VWU0l3OEt2dzBHVER3YzdyR1ZxMU9QcHJDN3RaUHVVTUo1MVJBR3NNTE8zS2ZsdWp4ZDZqX21SWUFibE1pNXA5MEItNHpFamlfel9peXpTT0hHeDEwbFN3emgybVcxMEFyLTdTRjdOZUU2QUs4S3lmWFdCYVdwZzBsU1NETlB1bWMtTmlMNFN5aHpHUGppLTY0QVM5YjJLSFNPV2d0MEdORmFybnZ4bTMxT1JWYVhjTTV6bHhIanF3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "palantir-2026-05-25-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Behind Palantir's Bleu de Travail - The Deerfield Scroll",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBieFlmcVNJcTY3VVpLMURMR1lHWkhRQ1E3Skk3SmotRTVqY0dTZTBFcTJpTWxPV0VxUlZtaXVOOWhtVFQ0ZTJZMFVKclJEU1dkaHJnU01sZmV1V0l4akNIcGs1SUEtZzBiUEpTODkyMDhlSzZBNThDWjNB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rheinmetall-2026-05-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rheinmetall, Antimony Resources, and RENK Group: Your Gateway to the Defence Boom and Its Lucrative Supply Chain - news.financial",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUnhzZjNYOVdPVWVvYjBiUlh0SnNzQS1yMTR6RVBpUEk5eVNFMXFlNVEzeTRUQV9xV0ducmt3SF9UeVBWS2NtS1RDQ0JmcXJuSEc4ZnpvY2owNXZpcnRqdlNNck1JRmpaVG1oX0hpU09hZDVZLWJJS3JfRU5qbEdJckZ2SjVVQ0NTSzFXZkZ1ZDZ1Rmo2d3Z2TWxSYUxWUDZiMG5KYmtMSzNfcEZ4R2lnSGFsWU10V2dlQmhRYzNyYllBSHh3SG45TXNKbUZZQmtiUVd1TFl3TGI?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "rheinmetall",
+        "count": 1
+      },
+      {
+        "id": "elbit",
+        "count": 1
+      },
+      {
+        "id": "palantir",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 295,
+    "dup_title": 155,
+    "too_old": 88,
+    "gate1_blocked": 19,
+    "gate2_blocked": 15,
+    "passed": 18,
+    "pass_rate": "12.9%",
+    "gate2_block_rate": "10.7%",
+    "gate2_samples": [
+      "RTX.CA Stock Price, Quote & Chart | RTX Corporation (TSX:RTX) - ChartMill",
+      "Keudell Morrison Wealth Management Invests $3.16 Million in RTX Corporation $RTX - MarketBeat",
+      "Meiji Yasuda Asset Management Co Ltd. Grows Position in RTX Corporation $RTX - MarketBeat",
+      "Fortis Group Advisors LLC Acquires 9,013 Shares of RTX Corporation $RTX - MarketBeat",
+      "Northrop Grumman to Participate in Bernstein’s 42nd Annual Strategic Decisions Conference"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為L3Harris Technologies、萊茵金屬、艾爾比特相關動態：「Government Contract Update: $47M payment to L3HARRIS TECH...」。主要關注主題為財報、國防航太通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Government Contract Update: $47M payment to L3HARRIS TECHNOLOGIES INTEGRATED ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Nibe Group signs joint venture with Elbit Systems to set up propellant manufa...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 295,
+  "dup_title": 155,
+  "no_date": 0,
+  "too_old": 88,
+  "gate1_fail": 19,
+  "gate2_fail": 15,
+  "passed": 18,
+  "gate2_samples": [
+    "RTX.CA Stock Price, Quote & Chart | RTX Corporation (TSX:RTX) - ChartMill",
+    "Keudell Morrison Wealth Management Invests $3.16 Million in RTX Corporation $RTX - MarketBeat",
+    "Meiji Yasuda Asset Management Co Ltd. Grows Position in RTX Corporation $RTX - MarketBeat",
+    "Fortis Group Advisors LLC Acquires 9,013 Shares of RTX Corporation $RTX - MarketBeat",
+    "Northrop Grumman to Participate in Bernstein’s 42nd Annual Strategic Decisions Conference"
+  ]
+}
