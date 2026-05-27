@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T11:47:29.380779Z",
+  "updated_at": "2026-05-27T11:33:52.257616Z",
   "quarter": "2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -41,17 +41,17 @@
       "name": "艾爾比特",
       "ticker": "ESLT",
       "currency": "USD",
-      "ar": 1236425000,
-      "ar_prev": 3154023000,
-      "ar_qoq": "-61%",
+      "ar": 3621957000,
+      "ar_prev": 1236425000,
+      "ar_qoq": "+193%",
       "ar_period": "QoQ",
-      "inventory": 2725386000,
-      "inv_prev": 3146124000,
-      "inv_qoq": "-13%",
+      "inventory": 3241557000,
+      "inv_prev": 2725386000,
+      "inv_qoq": "+19%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "general_dynamics",
