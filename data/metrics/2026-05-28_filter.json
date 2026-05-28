@@ -1,0 +1,16 @@
+{
+  "total_raw": 295,
+  "dup_title": 121,
+  "no_date": 0,
+  "too_old": 79,
+  "gate1_fail": 19,
+  "gate2_fail": 13,
+  "passed": 63,
+  "gate2_samples": [
+    "RTX Corporation: A Dual Cycle Profile In Play (NYSE:RTX) - Seeking Alpha",
+    "Bleakley Financial Group LLC Has $12.21 Million Stock Position in RTX Corporation $RTX - MarketBeat",
+    "Allstate Corp Boosts Position in RTX Corporation $RTX - MarketBeat",
+    "Northrop Grumman to Participate in Bernstein’s 42nd Annual Strategic Decisions Conference",
+    "Legal & General Group Plc Has $329.08 Million Stock Holdings in L3Harris Technologies Inc $LHX - Mar"
+  ]
+}

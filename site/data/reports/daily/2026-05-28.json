@@ -1,0 +1,223 @@
+{
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T11:33:10.389626Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-05-28-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Foundations Investment Advisors LLC Purchases 13,183 Shares of RTX Corporation $RTX - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdHhCZWVvR1AzaEZ2QWU4MGVNNnIxVFN3UWJ3R0lDUVd6eW5Pa24zUTRFQ1BRSTVSd1pmZ05pV1d0c0xzVnNlbVVPN3ZEaWNqTTNJSjU0QjVQRkhDSXNTZTkzRi1zOEhVa0hxNm5naTlvWWt4UUc5SVBXdTFqSnJteDkzNFcwVlJBclBSSXZCWjZjaFB6c21KZmY3VUN4OFdMODh2dl92RDhwWFM0V2pJQ2FBcWVXWWFNUkdMeEJPZGRSVU4xMUI5VDFRa1RzWXVESHNUck8tNHZWUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rtx-2026-05-28-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AlphaQuest LLC Has $1.95 Million Stake in RTX Corporation $RTX - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbEdnX2h5VWlqZm5raFZ5cTZXaEVQX1labC1vOC1fTS1JNnFoWFkwc2tZUHFhQ2Z5SElFLTdfZVh1NDAxamJ0alY5VElzaXc0WDhLcVpnQlNuZXdwT1NlUkNxNjM3ZjUweXg0bHhERjA4REVLRHhMcGhTOG4yWjdfUm02WGx3V2VxMjRhZkUzTThRZGItRWZEVkFmTmFrS3F3Yngxd3V1My16UWZnUU80VF9EMmRmM0pXNW50Vg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-05-28-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Allstate Corp Buys 7,219 Shares of L3Harris Technologies Inc $LHX - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZW9sSTJXOWNoUTF1UFdCVjZLZ09JbklTRi1jNlREYW9VNUp4TlVkamhxWkZnMjJlSE5nbC1Jc3VGMGRQSFlodUZ6c290S05FYVFPVkVJb1FvbFpQRHh6eE1CM2tvTy1jbktmQ3pkNi1GTkpnLXhseVd4NHdsMWpNblJ0dWh4VU40cnZZY0ZXclJQNUVsS3hHWkx4U293MmtKbDRWTmJlc1htcV9EdnNXcDlDbmRsOFNoRmpMUWhDNVEwQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "leonardo-2026-05-28-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Leonardo S.p.A. stock (IT0003856405): helicopter safety directive puts aviation business in focus - AD HOC NEWS",
+      "companies": [
+        "leonardo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMU5TRlVkRlhTRlhnT0w2S29tcjk5cjVFNGQ4MHZWbmp1a2p4aFRocExrak9yWEh0LVJEX19VVXhqUVgwOUxjTUtMTEl6WktCWVFIY1lUWE5HdmZVT3loR05wajR6V015VUtJdzAzb0o5TGxibllIU2lGYU1hdTBUUmJpMUxPcWRvLWxEcHJhc2k0YVNwUmIzQ3QwWnhoeHNhaEdON1ZYaXNJNkRTMTZxSTZFc3loY0JLTkg2b3phZWEwZk0?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rheinmetall-2026-05-28-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall reveals Shadow Wolf tactical truck for UK Army - The Defence Blog",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORGFTQ2R6YXhJdzU1aHpBaEczTXpmd0tYNmZwaGh0bk5paDB0eHR4R0dHTzk1RVZzczRHQnVIQ0JjLTFWdWtKTUlFSE5RektXNHZGd0xmcnUyblM3NnRWU0J6ZXE3c3gtMTljcUIycDNFSHNSbGFGYkZ2VkZRQXYtNVFCREF3ZXpPektmT9IBkgFBVV95cUxNclFrc3NVTzhaeFctdUxjQmtHX2IycTV2b29oNjZxbFU0dlI4X1ExSjhFVnMyOFRaMy1RcDd6TDc2RUNkbUhFVkZ3aHBIMHhoOXByMFBrVl9zZmZjVEc1amZ6SHFzNnlmVi13TERQYjNZYkt0SDhIajZTYko1bV9UX3R2b3VRN0JMdDdyc1R3cEV1Zw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 21,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 19,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "elbit",
+        "count": 6
+      },
+      {
+        "id": "rheinmetall",
+        "count": 5
+      },
+      {
+        "id": "palantir",
+        "count": 3
+      },
+      {
+        "id": "rtx",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 13
+      },
+      {
+        "id": "industry_general",
+        "count": 6
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 295,
+    "dup_title": 121,
+    "too_old": 79,
+    "gate1_blocked": 19,
+    "gate2_blocked": 13,
+    "passed": 63,
+    "pass_rate": "36.2%",
+    "gate2_block_rate": "7.5%",
+    "gate2_samples": [
+      "RTX Corporation: A Dual Cycle Profile In Play (NYSE:RTX) - Seeking Alpha",
+      "Bleakley Financial Group LLC Has $12.21 Million Stock Position in RTX Corporation $RTX - MarketBeat",
+      "Allstate Corp Boosts Position in RTX Corporation $RTX - MarketBeat",
+      "Northrop Grumman to Participate in Bernstein’s 42nd Annual Strategic Decisions Conference",
+      "Legal & General Group Plc Has $329.08 Million Stock Holdings in L3Harris Technologies Inc $LHX - Mar"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 21 則事件，焦點為艾爾比特、萊茵金屬、Palantir Technologies相關動態：「Foundations Investment Advisors LLC Purchases 13,183 Shar...」。主要關注主題為財報、國防航太通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Foundations Investment Advisors LLC Purchases 13,183 Shares of RTX Corporatio...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "AlphaQuest LLC Has $1.95 Million Stake in RTX Corporation $RTX - MarketBeat（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
