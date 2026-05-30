@@ -1,0 +1,16 @@
+{
+  "total_raw": 295,
+  "dup_title": 137,
+  "no_date": 0,
+  "too_old": 81,
+  "gate1_fail": 15,
+  "gate2_fail": 17,
+  "passed": 45,
+  "gate2_samples": [
+    "RTX Corporation (RTX) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance Austra",
+    "RTX Corporation: A Dual Cycle Profile In Play (NYSE:RTX) - Seeking Alpha",
+    "Bleakley Financial Group LLC Has $12.21 Million Stock Position in RTX Corporation $RTX - MarketBeat",
+    "Allstate Corp Boosts Position in RTX Corporation $RTX - MarketBeat",
+    "L3Harris (LHX) Form 144: Insider sales of 5,528/7,742/8,632 shares in 2026 - Stock Titan"
+  ]
+}
