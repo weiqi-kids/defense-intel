@@ -1,0 +1,16 @@
+{
+  "total_raw": 295,
+  "dup_title": 151,
+  "no_date": 0,
+  "too_old": 84,
+  "gate1_fail": 15,
+  "gate2_fail": 16,
+  "passed": 29,
+  "gate2_samples": [
+    "RTX Corporation: A Dual Cycle Profile In Play (NYSE:RTX) - Seeking Alpha",
+    "Bleakley Financial Group LLC Has $12.21 Million Stock Position in RTX Corporation $RTX - MarketBeat",
+    "Allstate Corp Boosts Position in RTX Corporation $RTX - MarketBeat",
+    "A Look At L3Harris Technologies (LHX) Valuation After Its Airbus Helicopters Cooperation Agreement -",
+    "Jefferies Financial Group Inc. Has $453,000 Stock Holdings in L3Harris Technologies Inc $LHX - Marke"
+  ]
+}

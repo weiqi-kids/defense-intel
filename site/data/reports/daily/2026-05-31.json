@@ -1,0 +1,182 @@
+{
+  "date": "2026-05-31",
+  "generated_at": "2026-05-31T10:09:55.570361Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "l3harris-2026-05-31-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Northwestern Mutual Wealth Management Co. Buys 7,710 Shares of L3Harris Technologies Inc $LHX - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQR3MwdkxpUk4zbjNQdG1DZUQ4R2VMUlZPV3M0T000ZDZ6OGJZZGdZXzZ2RXdnc0lqSTd5UUViLWlXWkxfUWRYdVZYTjVqZjZacEVoc3k0V1M5MUxkeGhZQ21RbjVQY3lQRWhmcUc3QTFfNUVFTk5HdC1tMDdKS0FRRG9GQjVtRWQ1V3M0RllNVWRrZVJRTnRHYXExWG5vM29LX0FTcmd3N0kzMXZjcE4za2FmbmVaT1hMOVQwZkVsTll0ZGdzYXU2YTg5Zm02emZXNl9VN3lGUkN3RFg2Vlc1cUVZZHFqdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "palantir-2026-05-31-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Assessing Palantir Technologies (PLTR) Valuation After Strong Multi‑Year Share Price Momentum - simplywall.st",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZVNCaW54RVZwbGZYZ0wzZGhqS3NoMndycmppdmFBS3dKaTI4RGlBazNwWmJNSlJia3l5cTNvRWhiTmdDNmhHdncyVnNpaWlLUHppUWg0Q2c3dGFCZmtfcFBXbUtHUVU3eEtjalJDUHNkaEF2VjRWWjN5Ui1VWnlFMHNuTk9IWXFFdEt5enhZeUlzSVlmYWFKY0dUNk9lN00zQy1jN2VjZFN1OVNBTnB1NXNkLWplb1lWVml2cVVDbWJtY3dYaVpYSmlkTFlxcFdZQW1pSFAxRUXSAd4BQVVfeXFMTnpsWHl4RWZBMHc1RGx6OW5uYTBMMXlpLUJFaDhmN0FSWkh4QUYyRXluNzN3b2h2VzY1STZfZVZfU0VPT2xWVmlhNXlRX09CdGxGOTBPc29VR3dFcWVTX1poVFlvSFNuX0czMHliSG9Ub0p6a19MWEN0Rlp2TmQwNVVvUXBIU0otcGRwUHBJRnBmemIwWVNMNTZ2QzN3Q3M3WFJjZFI3d3o2dEhlTDJTc25WYXUzb0x3OWJpejJBRmlzY0tSZzhQUHlmenNwWTd4aFdrLVBUNTh6RVV6NnpB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "palantir-2026-05-31-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Palantir's Selloff Changed Everything (NASDAQ:PLTR) - Seeking Alpha",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUlliQ2lMUWZtdVhJanhhelQ4NF9xTnU0VEkzeXJLMnU4Rjl4Vkt5VkhSdTBEYmJyeUxyUUJoQ3U2VnMxTFRpemgxejJFZWVSZENQWlVGRzd2N1V2X1dnYTluV3JfcFFYUktDdzYxdGRLa1g4aHRkazJxODkwZnk5LWlWZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-31-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "As high-tech cuts back, defense companies expand their footprint - CTech",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVQzBaN2g1OTdGTDlONENRZjJ5NmhCZ0RLOHV6Z01GVGw3LVg0dTFubDFTX3VmSWM3a3g5VG9RZTFIczVZYWlkZEpyelVlOHZULTBWcmtnVUlhSThVMnZ3LWVESzhsc0E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "palantir",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 295,
+    "dup_title": 151,
+    "too_old": 84,
+    "gate1_blocked": 15,
+    "gate2_blocked": 16,
+    "passed": 29,
+    "pass_rate": "20.1%",
+    "gate2_block_rate": "11.1%",
+    "gate2_samples": [
+      "RTX Corporation: A Dual Cycle Profile In Play (NYSE:RTX) - Seeking Alpha",
+      "Bleakley Financial Group LLC Has $12.21 Million Stock Position in RTX Corporation $RTX - MarketBeat",
+      "Allstate Corp Boosts Position in RTX Corporation $RTX - MarketBeat",
+      "A Look At L3Harris Technologies (LHX) Valuation After Its Airbus Helicopters Cooperation Agreement -",
+      "Jefferies Financial Group Inc. Has $453,000 Stock Holdings in L3Harris Technologies Inc $LHX - Marke"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Palantir Technologies、L3Harris Technologies相關動態：「Northwestern Mutual Wealth Management Co. Buys 7,710 Shar...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Northwestern Mutual Wealth Management Co. Buys 7,710 Shares of L3Harris Techn...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Assessing Palantir Technologies (PLTR) Valuation After Strong Multi‑Year Shar...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
