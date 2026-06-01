@@ -1,0 +1,16 @@
+{
+  "total_raw": 295,
+  "dup_title": 132,
+  "no_date": 0,
+  "too_old": 86,
+  "gate1_fail": 19,
+  "gate2_fail": 14,
+  "passed": 44,
+  "gate2_samples": [
+    "RTX Corporation $RTX Shares Sold by Grandfield & Dodd LLC - MarketBeat",
+    "RTX outperforms industry in the past 3 months: How to play the stock? - MSN",
+    "RTX Corporation: A Dual Cycle Profile In Play (NYSE:RTX) - Seeking Alpha",
+    "A Look At L3Harris Technologies (LHX) Valuation After Its Airbus Helicopters Cooperation Agreement -",
+    "Jefferies Financial Group Inc. Has $453,000 Stock Holdings in L3Harris Technologies Inc $LHX - Marke"
+  ]
+}

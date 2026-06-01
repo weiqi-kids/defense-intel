@@ -1,0 +1,237 @@
+{
+  "date": "2026-06-01",
+  "generated_at": "2026-06-01T13:31:18.745264Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rheinmetall-2026-06-01-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Rheinmetall and Harbinger Partner for Robotic Ground Vehicles - Overt Defense -",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSzl4cFhhNmNWbUhVVWR3TXRmX3ozWHBlUWFtQ21EMlhOZUtVWGg0MnRzSVdPSVJFS192ODdoMGNwMmxXVkRNQ2I1MlFiajFZSS02SUd0S3FTUWFLZm82eXA2VDhUM25ldVBnQ1hZTm5wdzJsWkVleEFrNUNUclQ2RzVzOERQdGM4MmRQVXhOM3FUZVBsV2JVRnMxLWtRTHNnQWdSR013Q25mTDRFcWFFMw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hanwha_aero-2026-06-01-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Five dead, two injured after blast at Hanwha Aerospace plant in South Korea - Reuters",
+      "companies": [
+        "hanwha_aero"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQenYybU0wREJtaTVlcW1vQ2tYTzYwYzJOUzdFYlFjbTd4TzNabGN0azBUWGNaVEVWVldUb1FZRDcyMEZ0cEFBZUduNlBRS3lMZXpWOXhCWkpEY0haT1JrcHo3Z2MtQ2FfTHRQbGg2aGg4UVlfOFhwSy14RVNWRE80VjNzYmhTclJzSjY5WkIxSHBuZTV1WktUZThfeUI3VzhLclk4bE1IR0gyN0IxQWVOc2h0UWxRcmpfTWxReDlpMjNONlVB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hanwha_aero-2026-06-01-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Five killed in explosion at Hanwha Aerospace factory in S. Korea - upi.com",
+      "companies": [
+        "hanwha_aero"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaXZ6djY5UW9KaXItYjFGYzJRRzltczJWdnJ4Q2FZc29uNFFSLWc1UDRBaGRJTWc0QWJLVXhqWHI0Ym1Cc3N0ZERzWlR0NUVaSmZGeGJrcVRsc0s4OFpacWpfbTlXNmgwY0dIc0M5c2NUM0dvRnpPWU9fOC1GN0xDRlRDV29hQkIyZkRTT3oyODhOU3RmVVhnbFkwU190RHBkdEtFemRrcXp4Qm9vSV9uMXN2WDg2Vm9ic3RaWTlWZVVCVTFD0gHKAUFVX3lxTE5xWGVDeWZsaUR3d3d2UWpObHByQUFHR1RUVnNCaXI0UWEyQzN0eTVaSW5lSVdxOXBFOVRnbGZ3NnFmdUJIaVl0LW12TVd3RFdXUDhPLUVXelc3X1NoMTJrcW5fR1lfNU1sZThtZGFNRjNYR2Z3M1RzOG5nbFJPdnM1TWJkbXFOdDVQckFTSm5HMVBkdTJfS1ota2NpallnRGM1aHJDclZfTW40YmRkQ2w0a1paaElFRDVZUnljclN1VGFPYVRicEFGUEE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hanwha_aero-2026-06-01-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Explosion At Hanwha Aerospace Munitions Facility Kills Five - Aviation Week",
+      "companies": [
+        "hanwha_aero"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY3J5clpxaVhsdVV0cFgtalNmWVcxMHJQc2VmNTFwNE53OU0xcDg0ZkRWb3hHTnFza3pWRGNZNk5veDFjdFVfV3ZOTE9MQ1ZCcUMxOVZ3REl4bDQxZTl4RF9DU1lOTnhuSzJRSjNxREdxWUpObWt2RmlWeTlNNVg0VEprLWF0UFotLW1EMl9VUVJSaWlLUUFtTTVkbjJOeWZMTnliTGdjWHBLMVY2TVFHc25KbTM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_aero-2026-06-01-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha Group Apologizes to Public and Bereaved Families Over Hanwha Aerospace Accident - thelec.net",
+      "companies": [
+        "hanwha_aero"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1eW82ODNMX0tGVU9yM0pMUUlibzZONHp3WXVESS05NkxiRTF0dzJoMEswNW0zMHkyNkROc3FIZzJBMzQ3V0FOZEU1XzI3OTlvV3NkaHpXcmpIQVNvMDYwTUZQWjk4MzQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 32,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 30,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_aero",
+        "count": 15
+      },
+      {
+        "id": "palantir",
+        "count": 6
+      },
+      {
+        "id": "elbit",
+        "count": 2
+      },
+      {
+        "id": "rheinmetall",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      },
+      {
+        "id": "earnings",
+        "count": 22
+      },
+      {
+        "id": "drone_warfare",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 295,
+    "dup_title": 132,
+    "too_old": 86,
+    "gate1_blocked": 19,
+    "gate2_blocked": 14,
+    "passed": 44,
+    "pass_rate": "27.0%",
+    "gate2_block_rate": "8.6%",
+    "gate2_samples": [
+      "RTX Corporation $RTX Shares Sold by Grandfield & Dodd LLC - MarketBeat",
+      "RTX outperforms industry in the past 3 months: How to play the stock? - MSN",
+      "RTX Corporation: A Dual Cycle Profile In Play (NYSE:RTX) - Seeking Alpha",
+      "A Look At L3Harris Technologies (LHX) Valuation After Its Airbus Helicopters Cooperation Agreement -",
+      "Jefferies Financial Group Inc. Has $453,000 Stock Holdings in L3Harris Technologies Inc $LHX - Marke"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 32 則事件，焦點為韓華航太、Palantir Technologies、艾爾比特相關動態：「American Rheinmetall and Harbinger Partner for Robotic Gr...」。主要關注主題為國防航太通用、財報、無人機作戰，市場情緒中性。",
+    "signals": [
+      {
+        "text": "American Rheinmetall and Harbinger Partner for Robotic Ground Vehicles - Over...（財報、國防航太通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Five dead, two injured after blast at Hanwha Aerospace plant in South Korea -...（財報、國防航太通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
