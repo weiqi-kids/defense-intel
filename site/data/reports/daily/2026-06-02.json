@@ -1,0 +1,255 @@
+{
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T11:59:41.804516Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-06-02-003",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Defense Stocks Outlook 2026: Lockheed, RTX, Northrop, and the Drone Trade - Gotrade",
+      "companies": [
+        "rtx",
+        "lockheed",
+        "northrop"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pa09qOTJhQXBlMURHOGdvWDFhdm5Walh6YmxRVmpGdkRzS01yRFlIU2dyQ3BCY2R0MkdyOWg0djZjV1U3V3ZrMnU3Q2gxVnNKN09pZUFQUHdYUlYyempxWW1HVF9SSGFMTS05TUxJTlo?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rtx-2026-06-02-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX's Collins Aerospace opens expanded manufacturing facility in Tajęcina, Poland - marketscreener.com",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUXJobHU1V0NTMTB2V3VpeG9lMWhGaFdDVnZzVjJYbFZZZHpXYkNMU3BWbjRtLVp3c3Q2MEVkOFFyOGNDZlNqQnFmYm1SVnpQVV9HNkVoQmx6S0VLVXA5cGdRYXpESkNfeU0zeXBxOHZDS2tpTjJtdU9JSF9fcUxxOUViWTNYdzhDLW5QcTQ3emFJVk1CRG5qb21zNG0tVXZwZjBhYzJDVFoxRFllVUF0NGU2ZGdhU3liLXFQc0lrdzdFQWlVbDZfZlRRd1k3MW8?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-06-02-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What L3Harris Technologies (LHX)'s Huntsville Expansion and Airbus Partnerships Mean For Shareholders - simplywall.st",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQklHVl9saXBSNFZ6UDJtZnZYYlRnOUwtX2xPaHFreVNPLVE2VlBabWx3V1dvQk9YN2E4QXVzWC1mZW52clZlUGRMZEpKZmFxSktNVVRXY1libENZX2kzZUxyNC10QzdMSFQ0YWlKdkN0R3hYUnVONUlhbXJyWklnOTBCeWRkNjcxWHMweVY1cHFPSzB0NlROYlBSNUlWWGhMX19DNDdpZ3JCcVBiNGFhNm5vTWRZTlhCMzkzT3M0YkkwNHAyVWNMY1FWR2tjNTFtdERjOVQ2TF9pcWl3UHpZ0gHfAUFVX3lxTFBCSUdWX2xpcFI0VnpQMm1mdlhiVGc5TC1fbE9ocWt5U08tUTZWUFptbHdXV29CT1g3YThBdXNYLWZlbnZyVmVQZExkSkpmYXFKS01VVFdjWWJsQ1lfaTNlTHI0LXRDN0xIVDRhaUp2Q3RHeFhSdU41SWFtcnJaSWc5MEJ5ZGQ2NzFYczB5VjVwcU9LMHQ2VE5iUFI1SVZYaExfX0M0N2lnckJxUGI0YWE2bm9NZFlOWEIzOTNPczRiSTA0cDJVY0xjUVZHa2M1MW10RGM5VDZMX2lxaXdQelk?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-02-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The Proxies 2026: A celebration of substantial corporate perks - Financial Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaUXRyMjdxa0wzR3Zwb2FDX1pxTW03VVVId1RQdmQ3VzN1WXNmRWRVVVRSUzF4WGZfaDQxWnFJTlQxNk83ZzZrUkJaRTdjREtEMlJiUVNlbHJHM0x4Q1VpdkM2V19RVkJRSUxFOHk0aU4?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_aero-2026-06-02-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha Aerospace Admits Outdated Safety Practices After Deadly Explosion - 조선일보",
+      "companies": [
+        "hanwha_aero"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNWxhUFBIR3Qxb25TMThTWXhxbUktVmlmQjJsNi1fdTlFc1VaZGRYZTNiU2NEaGNYdDlZdnZyWHFtcHZZLUplOXNvenR6SEdVcDl1TUNGVUNNb3l6QXljMjJEUFhJTF8xcW5rMXQzZzBIaVQyQURHX01KaVozSXQ4ZVJFSnBxektB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "arms_export": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 26,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 23,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_aero",
+        "count": 12
+      },
+      {
+        "id": "palantir",
+        "count": 5
+      },
+      {
+        "id": "rtx",
+        "count": 3
+      },
+      {
+        "id": "rheinmetall",
+        "count": 2
+      },
+      {
+        "id": "lockheed",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "earnings",
+        "count": 16
+      },
+      {
+        "id": "drone_warfare",
+        "count": 2
+      },
+      {
+        "id": "arms_export",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 295,
+    "dup_title": 112,
+    "too_old": 80,
+    "gate1_blocked": 16,
+    "gate2_blocked": 15,
+    "passed": 72,
+    "pass_rate": "39.3%",
+    "gate2_block_rate": "8.2%",
+    "gate2_samples": [
+      "Is RTX Corporation Stock Outperforming the Dow? - Yahoo Finance",
+      "L3Harris Technologies, Inc. (LHX) Stock Price, News, Quote & History - Yahoo Finance",
+      "MUFG Securities EMEA plc Buys 4,098 Shares of L3Harris Technologies Inc $LHX - MarketBeat",
+      "A Look At L3Harris Technologies (LHX) Valuation After Its Airbus Helicopters Cooperation Agreement -",
+      "Jefferies Financial Group Inc. Has $453,000 Stock Holdings in L3Harris Technologies Inc $LHX - Marke"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 26 則事件，焦點為韓華航太、Palantir Technologies、RTX相關動態：「Defense Stocks Outlook 2026: Lockheed, RTX, Northrop, and...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Defense Stocks Outlook 2026: Lockheed, RTX, Northrop, and the Drone Trade - G...（無人機作戰、財報、國防航太通用）",
+        "level": "red"
+      },
+      {
+        "text": "RTX's Collins Aerospace opens expanded manufacturing facility in Tajęcina, Po...（財報、國防航太通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

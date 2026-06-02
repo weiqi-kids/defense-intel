@@ -1,0 +1,16 @@
+{
+  "total_raw": 295,
+  "dup_title": 112,
+  "no_date": 0,
+  "too_old": 80,
+  "gate1_fail": 16,
+  "gate2_fail": 15,
+  "passed": 72,
+  "gate2_samples": [
+    "Is RTX Corporation Stock Outperforming the Dow? - Yahoo Finance",
+    "L3Harris Technologies, Inc. (LHX) Stock Price, News, Quote & History - Yahoo Finance",
+    "MUFG Securities EMEA plc Buys 4,098 Shares of L3Harris Technologies Inc $LHX - MarketBeat",
+    "A Look At L3Harris Technologies (LHX) Valuation After Its Airbus Helicopters Cooperation Agreement -",
+    "Jefferies Financial Group Inc. Has $453,000 Stock Holdings in L3Harris Technologies Inc $LHX - Marke"
+  ]
+}
