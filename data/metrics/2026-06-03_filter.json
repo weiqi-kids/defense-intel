@@ -1,0 +1,16 @@
+{
+  "total_raw": 295,
+  "dup_title": 107,
+  "no_date": 0,
+  "too_old": 76,
+  "gate1_fail": 16,
+  "gate2_fail": 19,
+  "passed": 77,
+  "gate2_samples": [
+    "Is RTX Corporation Stock Outperforming the Dow? - Yahoo Finance",
+    "Anchor Capital Advisors LLC Sells 40,236 Shares of RTX Corporation $RTX - MarketBeat",
+    "RTX Outperforms Industry in the Past 6 Months: Should You Buy? - Yahoo Finance Singapore",
+    "RTX outperforms industry in the past 3 months: How to play the stock? - MSN",
+    "RTX Corporation $RTX Shares Sold by Grandfield & Dodd LLC - MarketBeat"
+  ]
+}
