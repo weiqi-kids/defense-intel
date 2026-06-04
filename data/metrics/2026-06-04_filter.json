@@ -1,0 +1,16 @@
+{
+  "total_raw": 295,
+  "dup_title": 121,
+  "no_date": 0,
+  "too_old": 79,
+  "gate1_fail": 19,
+  "gate2_fail": 18,
+  "passed": 58,
+  "gate2_samples": [
+    "Nvest Financial LLC Increases Position in RTX Corporation $RTX - MarketBeat",
+    "Is RTX Corporation Stock Outperforming the Dow? - Yahoo Finance",
+    "Anchor Capital Advisors LLC Sells 40,236 Shares of RTX Corporation $RTX - MarketBeat",
+    "RTX Corporation $RTX Shares Sold by Grandfield & Dodd LLC - MarketBeat",
+    "L3Harris Technologies expands its manufacturing space - Business Alabama Magazine"
+  ]
+}

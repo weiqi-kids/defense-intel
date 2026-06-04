@@ -1,5 +1,342 @@
 [
   {
+    "id": "rtx-2026-06-04-001",
+    "date": "2026-06-04",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Jefferies Upgrades RTX to Buy From Hold, Adjusts Price Target to $220 From $210 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM280aVBYUmhQLXRVNTF3b0VhalZyZjJHcmdOYWI4VDVFQW9ZSktHaVd6SGJ3a1lYemhlSjVCeHA3NVBMOGt0Y0F4b2F5MVRGVkY2TlBnMFBPN2ZVOGN6T29zTzA4VXVMbXR3aWhXU1",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM280aVBYUmhQLXRVNTF3b0VhalZyZjJHcmdOYWI4VDVFQW9ZSktHaVd6SGJ3a1lYemhlSjVCeHA3NVBMOGt0Y0F4b2F5MVRGVkY2TlBnMFBPN2ZVOGN6T29zTzA4VXVMbXR3aWhXU1JMZDhsVlhhUVlsVnNXLXo1MHBHaU8zbkQ1dnJVTmw0TVJkUWNhRWxKbTFoUDFQRktCdDg1RjhPeEV3ZGxtcjhzem5ETDBsWnpwQmQ5X1VEcWJuVjh4RE85eA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-06-04-002",
+    "date": "2026-06-04",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "L3Harris Technologies To Go Ex-Dividend On June 5th, 2026 With 1.25 USD Dividend Per Share - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNM0NtdXVHeVNpaW9SM1lGSXJEOGYxUEdLLWNPR19nbGJtYmFHLWQ0Z29kSG9XWXpSTU5vYkJ4WkNFUzRtLXczSGpUd01lRC1HN3MtMWx6c2N1VlVHVmxPcFlQMmYwUkpUbWgzV0xyOW",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM0NtdXVHeVNpaW9SM1lGSXJEOGYxUEdLLWNPR19nbGJtYmFHLWQ0Z29kSG9XWXpSTU5vYkJ4WkNFUzRtLXczSGpUd01lRC1HN3MtMWx6c2N1VlVHVmxPcFlQMmYwUkpUbWgzV0xyOWZlQm8yNEtIeXJrYjQ4c3lZaXZlR1BYdHczX0ZzUWFwcTBrUXhYMWRpbG0wTEZPd0k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lockheed-2026-06-04-003",
+    "date": "2026-06-04",
+    "companies": [
+      "lockheed",
+      "l3harris"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lockheed Martin, L3Harris successfully complete propulsion milestone for PrSM Increment 4 - defenceconnect.com.au",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVW8zYXl5Y3Z0ekRLVGRmdmNQNlBEMDRWT2NqOVhFcjBNZ3lfeEtJZTZaeUVPazN1bk9PalRGNVNYYWxGeWFiZ2xOSXlwcnowTENxZUxpYjRCX3k4X0xlWmhCQWJSNXhNV1lsbmRrUE",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVW8zYXl5Y3Z0ekRLVGRmdmNQNlBEMDRWT2NqOVhFcjBNZ3lfeEtJZTZaeUVPazN1bk9PalRGNVNYYWxGeWFiZ2xOSXlwcnowTENxZUxpYjRCX3k4X0xlWmhCQWJSNXhNV1lsbmRrUENtUFlIcmJkdi0tZFlZSjFHb0M2UHBKU01Ta2pBS3hlZG5YbV9JbHB6Z3hiaUhwUklUOXRWR0piVUtwRm55WVllMy0wSVhPS3ByVHJnQXNqMkx2VWxsOGN2X1hvWXBQREFXZUR1a0FYRzBCa1NDOWY3RzFR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-06-04-004",
+    "date": "2026-06-04",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Russia Sues Rheinmetall for €47 Million Over a Contract Canceled Because of Its Own Crimea Occupation - UNITED24 Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPY05qUWFtUV8tamRvMWMxdVFzWlc1c202VnZTT2VqZkNId3d4bE5lelRMRGg3TTRwd3V5YTdhakpjNlJaOV9KV291d2l4YW95dlRaWUZKcmJuQnc4QlV1d3ZBNGx3YlRJRkloazRIbl",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPY05qUWFtUV8tamRvMWMxdVFzWlc1c202VnZTT2VqZkNId3d4bE5lelRMRGg3TTRwd3V5YTdhakpjNlJaOV9KV291d2l4YW95dlRaWUZKcmJuQnc4QlV1d3ZBNGx3YlRJRkloazRIbl96azdZLTl1Rk9xSXlrSGpQSWNjalIwSDlFVEpEdmx1YUdmZnhoLTJiVHZWMnROckx3bWdIUXRaU3dMaThKd3l3eTEyVDFmMVFPZU9CUjBnMFFwZUhNcFA3LTBqU0dzUmI4OU1JbHlDN3A?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-04-005",
+    "date": "2026-06-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US Army backs stealthy robotic trucks to transform military logistics - New Atlas",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE02WFJOanVHN0JqN2xjSUlha2hLU1Vja2NoLXdNdWZVdmMxMEtOM25DSkdiT2VrOVRQTzJEOW1nWXBqd0x3QkNBYjljX0hZSXRTR3pQdnVoNm9jZ0ttVU16VVdJVQ?oc=5\" target=\"_",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02WFJOanVHN0JqN2xjSUlha2hLU1Vja2NoLXdNdWZVdmMxMEtOM25DSkdiT2VrOVRQTzJEOW1nWXBqd0x3QkNBYjljX0hZSXRTR3pQdnVoNm9jZ0ttVU16VVdJVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-06-04-006",
+    "date": "2026-06-04",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace halts company-wide production after fatal explosion - KED Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9NYkJTTEFKT056SGcwendXY2JTNUNIMmphbzc0bXRXN3JfTW9PT3FwT1JyY3VPYTI0NFdWanNHcDlyZnZEb1pLMEhvZzY2WkxvQjhsTmFXTm01YldEdjhsQ1dQZnhUdGVoX0FBakwxRk",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NYkJTTEFKT056SGcwendXY2JTNUNIMmphbzc0bXRXN3JfTW9PT3FwT1JyY3VPYTI0NFdWanNHcDlyZnZEb1pLMEhvZzY2WkxvQjhsTmFXTm01YldEdjhsQ1dQZnhUdGVoX0FBakwxRkplZlpPaGxr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-06-04-007",
+    "date": "2026-06-04",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace halts production nationwide after deadly blast - The Korea Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yMEZPbWlWN0txZ050VVhDSHotdHhrNlJCWmJOcThTYXVhc0V2NkZ4OFpkdkZsQUNMcHNONHBScDJvdnBRc1ZRQ09JM3VKUmtIQVNpbTZPNA?oc=5\" target=\"_blank\">Hanwha Ae",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yMEZPbWlWN0txZ050VVhDSHotdHhrNlJCWmJOcThTYXVhc0V2NkZ4OFpkdkZsQUNMcHNONHBScDJvdnBRc1ZRQ09JM3VKUmtIQVNpbTZPNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-06-04-008",
+    "date": "2026-06-04",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace to halt South Korea production lines for two days after deadly fire - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOcHd6WHZQMGZfOWc3TnE0RTR5NTM5RGFmdi1BR2tvclVPT1BpeU5KSmJBSlp1dHhEaWR1Q1MybVZBTkpvbEhLeWhFWGlOV1dtQlh4WXVmS0VzSFBsYXljRjg2WkFWTmtpSUtyd0RZX1",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcHd6WHZQMGZfOWc3TnE0RTR5NTM5RGFmdi1BR2tvclVPT1BpeU5KSmJBSlp1dHhEaWR1Q1MybVZBTkpvbEhLeWhFWGlOV1dtQlh4WXVmS0VzSFBsYXljRjg2WkFWTmtpSUtyd0RZX1I3M2lOdWtQWUpSaGtxT1dLRDZZLVlCd2dSX2dQVHhJWWVIdVY0dG1pWFJSdnhpUktfYTQtQXpEcTQ5eUIyVFMxTThCbmtTR19KNFNKMzRfNHNvam9sUExWM3lTaFFDdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-06-04-009",
+    "date": "2026-06-04",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Authorities raid Hanwha Aerospace over blast that left 5 dead, 2 injured - Korea JoongAng Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPekh0dVRyQWlQMW9HcGF3OGZyZDAxcEVpUks3RUxiVU0wYUpWNFdiMDV4SkJ3SUhzWl9reFpscElscmRnZXJSaUUxa29TTVJCRXBvRjR2WEx2STljNGprcW9PeEdBT2ZHNVFnOUZ1NE",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPekh0dVRyQWlQMW9HcGF3OGZyZDAxcEVpUks3RUxiVU0wYUpWNFdiMDV4SkJ3SUhzWl9reFpscElscmRnZXJSaUUxa29TTVJCRXBvRjR2WEx2STljNGprcW9PeEdBT2ZHNVFnOUZ1NEdHVHZsRm9yVWdJSG5qTjBYQWllOU5uZWNmUjZTemhkb0FCdVQ4Q3ZJX1BUbVMxMHVpOTNaVWljRE9BN20tR291eXdvUmdkWDZzZm1xOVlCNnBUMFhhb05hUFo0SktmWE1pWnh0bU9QNFlBSjBBNkRKZDVVVVVQSHFLNTdr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-06-04-010",
+    "date": "2026-06-04",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace raided over deadly factory fire - The Korea Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOU1RJUzFOMXhIS2NxMEdVTnFiUEdTSWJhZklvUm16enpuNDFVR2w3WjlXQ1pOX2lFc1dweFpNSml4c2pZcURpM01LVE5wX0J1a2dHeDVOMWR2OG41MFhJc0lPSDE3bDM0TERpOVdpdW",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU1RJUzFOMXhIS2NxMEdVTnFiUEdTSWJhZklvUm16enpuNDFVR2w3WjlXQ1pOX2lFc1dweFpNSml4c2pZcURpM01LVE5wX0J1a2dHeDVOMWR2OG41MFhJc0lPSDE3bDM0TERpOVdpdWRiVV9iYk82TTNYc0NUTEYtemtFX2c1VFpjdU5QMWs1MS1aX2VaQ2FPOVFEU3J1bjI3NjZyV3Nzbl90Q1l0cXfSAa4BQVVfeXFMTlNUSVMxTjF4SEtjcTBHVU5xYlBHU0liYWZJb1Jtenp6bjQxVUdsN1o5V0NaTl9pRXNXcHhaTUppeHNqWXFEaTNNS1ROcF9CdWtnR3g1TjFkdjhuNTBYSXNJT0gxN2wzNExEaTlXaXVkYlVfYmJPNk0zWHNDVExGLXprRV9nNVRaY3VOUDFrNTEtWl9lWkNhTzlRRFNydW4yNzY2cldzc25fdENZdHF3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-06-04-011",
+    "date": "2026-06-04",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace halts operations at 9 sites for safety inspections - aju press",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE84QVFqVE9venhiOWRFSFBhelFwNlo5cXd2d3VVWFIyc3R1QlJzVVNvc3I1ZGJqNU83QTNYd3lIVl9HWTJqc3ZuQUFnalcxM0s3WjdGQm9oNNIBV0FVX3lxTE84QVFqVE9venhiOWRFSF",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84QVFqVE9venhiOWRFSFBhelFwNlo5cXd2d3VVWFIyc3R1QlJzVVNvc3I1ZGJqNU83QTNYd3lIVl9HWTJqc3ZuQUFnalcxM0s3WjdGQm9oNNIBV0FVX3lxTE84QVFqVE9venhiOWRFSFBhelFwNlo5cXd2d3VVWFIyc3R1QlJzVVNvc3I1ZGJqNU83QTNYd3lIVl9HWTJqc3ZuQUFnalcxM0s3WjdGQm9oNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-06-04-012",
+    "date": "2026-06-04",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace Halts Production for Nationwide Safety Inspections - 조선일보",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUmlENElyTmVicFVxNWRKN3hiU3AyNW5nbkJ2SUNKNzRnNXlnSjhvZll1dEtJRHdWbV9FT1lqRl82U0tsMUF2TVRqTWhySVBsZU55X21YN2syeEFVbkdsNXZLREVLXzdGQUFza0l2TU",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUmlENElyTmVicFVxNWRKN3hiU3AyNW5nbkJ2SUNKNzRnNXlnSjhvZll1dEtJRHdWbV9FT1lqRl82U0tsMUF2TVRqTWhySVBsZU55X21YN2syeEFVbkdsNXZLREVLXzdGQUFza0l2TUpFQlo5QWt3NHZpVmJ6cVprd3RRcUN4QWk2?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-04-013",
+    "date": "2026-06-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Europe condemns Israel while arms makers buy billions in Israeli weapons - opinion - The Jerusalem Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE10ekZySFIxaHpMV3pzbC16TFJ0akFOM29SYkZvX3hfU1FiUnVNMms2c0pLQS1HUHZDS25wbHNfN3JvVlFqNVZGaUdldkczMFVHQWNrU0pucnRWZkhRMGFxTWJ5cw?oc=5\" target=\"_",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE10ekZySFIxaHpMV3pzbC16TFJ0akFOM29SYkZvX3hfU1FiUnVNMms2c0pLQS1HUHZDS25wbHNfN3JvVlFqNVZGaUdldkczMFVHQWNrU0pucnRWZkhRMGFxTWJ5cw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-06-04-014",
+    "date": "2026-06-04",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Kirkland & Ellis and Palantir to build AI tool to assist private equity firms - Financial Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNMTB0X19HNTNuQ1VUT3lQUHVfeHVBUXlRdFl1R0JXWFFrWG14am5FRTAyRV9kdmY2ZlEzMi16ZFRZeEZMMlJfTXZ4Y05SR1Zhc2dYM1hrV0VDMW9JLVV3bi1Sczc4N2lWcmg3dHNmcW",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMTB0X19HNTNuQ1VUT3lQUHVfeHVBUXlRdFl1R0JXWFFrWG14am5FRTAyRV9kdmY2ZlEzMi16ZFRZeEZMMlJfTXZ4Y05SR1Zhc2dYM1hrV0VDMW9JLVV3bi1Sczc4N2lWcmg3dHNmcWlLOVRDRmcydnNabUlwWGdWdnp1WEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-06-04-015",
+    "date": "2026-06-04",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Palantir Customers Reveal How AI Amplifies Their Tradecraft at AIPCon 10 - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ3hGQTZyQzdGVld5NDlHTkJEWkF0Y2JSc1dWY3lrdkY2QkxsTjBHU2tERHVaYlpZVjEweVB0OVBlREJBdHFEbkdHS3RDUmFHRWc3QnZYWF9SNGVaLUJJeGtPMHVYV0N5WGVWd1R2VU",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ3hGQTZyQzdGVld5NDlHTkJEWkF0Y2JSc1dWY3lrdkY2QkxsTjBHU2tERHVaYlpZVjEweVB0OVBlREJBdHFEbkdHS3RDUmFHRWc3QnZYWF9SNGVaLUJJeGtPMHVYV0N5WGVWd1R2VUxUNDBRU1pYTGFwNFpucHhrNGlBRnlXMDR3SFJCOW1fRTNRZzNrU3ZkNmNqa0VqbHFZb0hMWExITTFvS1owN2pOV2syR00zT3BkMGNoVUJ3WHNPUDh1WVJqMw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-06-04-016",
+    "date": "2026-06-04",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Top law firm partners with Palantir for AI tool to advise PE firms - report - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1obnlKQkpsSEZJS2otSktOZDhCZ0RaSm1fajRxci1idGNmMzIwZS1uZEtTRHQ3R3dZMm5xaUJuQ0x1QkVMbGh5cjRzN0xZN253bmZGUE5NX25tZ0loUzJTZWp6S2p0ZzYtSzJmamNJd2",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1obnlKQkpsSEZJS2otSktOZDhCZ0RaSm1fajRxci1idGNmMzIwZS1uZEtTRHQ3R3dZMm5xaUJuQ0x1QkVMbGh5cjRzN0xZN253bmZGUE5NX25tZ0loUzJTZWp6S2p0ZzYtSzJmamNJd2RSbkhJRnVqX2hwZmNXR1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-06-04-017",
+    "date": "2026-06-04",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "McCarthy and Palantir Announce Strategic Partnership to Bring AI to the Construction Field and Beyond - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbUNCeE1uamtkMTBrNmRfX2RvaDE3cnNzQUxvbmFjaEdiWFFOYnc5V3lkTFhuSm1VdjZiRjhiaV9wdmx2bVVmcGlrS3FpeEdZdElvUk8xYUxJYVY1bzQzVUpHN3JKUk5zMU5lMmRrT1",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbUNCeE1uamtkMTBrNmRfX2RvaDE3cnNzQUxvbmFjaEdiWFFOYnc5V3lkTFhuSm1VdjZiRjhiaV9wdmx2bVVmcGlrS3FpeEdZdElvUk8xYUxJYVY1bzQzVUpHN3JKUk5zMU5lMmRrT1R2cWtPZk1LSGluS3FVMDVIWENxUVRwLXZvcDJFLXo4WU5GdjhYOE5xaWt2VzB6NHRhbTFiRDhteTktWUx6ZjNkY01fNVg2UGxrd1UxR0Zyc0JlWEZsNko4SURfUTVnOUlqejlySTZOenBLMUdlVzVLcTA4cXN5aTJWSzR0ZUdsVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rtx-2026-06-03-001",
     "date": "2026-06-03",
     "companies": [
@@ -501,6 +838,611 @@
       {
         "name": "google_defense_budget",
         "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOekc0N0x3TF9YU096dnlEMlcxMFMtV0Y3MG9zUUxWR1VnWEdzQVFNM2QzTzdTNUVCRDRnbDF1VUF3ekkxNGJJbFpxbEFKODk1TWk1eUlfMFdEX3lEbW9VTEo0Q1l5M1FoSlBYQlVTLUl5Zld6SEJSVVBhSVc3dG10bmtvRTRZVWN0T29ydUMtVmxsY1VVdEJwRUtSM1BkR0V2ellMWlFNV2tMT045YjB4M19JdWZuWGMwbmxPRndoQnkwMG9abXptRE0yRjNBRkJBa2pzVzJGUGtOaTVONkYyWVFWT3JQZGE3WXFDa3ZvOFBXTXl0U2ttQXRZRnVEZzE5N0E1MDMzVS1RVTZjclE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rtx-2026-06-03-027",
+    "date": "2026-06-03",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "RTX's Raytheon awarded $515 million contract for SPY-6 family of radars - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMjVmbGdkY2JJSmRBNUdMNXBKUFJpRDNOR3RZX2JhNEJfYXVUX0VyY2dUZXpkcjNVMmlBZ3pfUllWRGRLZWZ5emVnRDFnWHhtbE1fTDRYXzk0OThqd2RndEhDR1UyUE5mMmVlMGE4SV",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMjVmbGdkY2JJSmRBNUdMNXBKUFJpRDNOR3RZX2JhNEJfYXVUX0VyY2dUZXpkcjNVMmlBZ3pfUllWRGRLZWZ5emVnRDFnWHhtbE1fTDRYXzk0OThqd2RndEhDR1UyUE5mMmVlMGE4SVJpZFFmTjhFbC1LWm1lTFpreFBVcThKcl90bVlPYUhLTDA5NDlhVjlpeEFKUFN0Z3RsVXVqSnFNeU1WY2xjMEhoZl9HVHNvOW1uZ004VjZIS0M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rtx-2026-06-03-028",
+    "date": "2026-06-03",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "RTX Unit Raytheon Awarded $515 Million Contract for Radar Support for US Navy, Germany - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbEZRVjNOLUJTS1VfRjJRcE43UlM3MF9sdHFmRW0wZDVXQzVHcDVCT0pnbEJzOV9iWXQtcUZuZHh6M3QtN1Vua3VYckt6S0R1c2N5OXNsMWE5a1BSWXR0LTdiU1c4bjgzb2xUUEtiME",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbEZRVjNOLUJTS1VfRjJRcE43UlM3MF9sdHFmRW0wZDVXQzVHcDVCT0pnbEJzOV9iWXQtcUZuZHh6M3QtN1Vua3VYckt6S0R1c2N5OXNsMWE5a1BSWXR0LTdiU1c4bjgzb2xUUEtiMENaZzNhbXR1QlhPSkh0U2ZlVklkUnd1OGFLMmE0bkpvd2t5bGVDNEs0T3hWZWtvdVoxRUdnVldwNExhNmhiTHZSSkZJZGlCVjlKbURPSTRqbURmVmYydkttT1J0YmdwQ0xKS3dV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-06-03-029",
+    "date": "2026-06-03",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "L3Harris Receives Contract to Deliver Proximity Fuzes - ASDNews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ2FDQVd5S0xmT3ZNY1V1WVpscmYtdGFkNGlFdUk4NEtPQVRNZUJfc3RiMFdnXzRfM1Y5Q2pCanhwNjVJUzhFSmtBbm9SRG1KWHNJaXJZSnVzSXp1SVZvZWNhbVpaQjZ5bmltQ3AxOV",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ2FDQVd5S0xmT3ZNY1V1WVpscmYtdGFkNGlFdUk4NEtPQVRNZUJfc3RiMFdnXzRfM1Y5Q2pCanhwNjVJUzhFSmtBbm9SRG1KWHNJaXJZSnVzSXp1SVZvZWNhbVpaQjZ5bmltQ3AxOV9BQ3dtdmk1R0JhcVlkWW1iRW01b29wakZMc1U0NUJOSXE1VmhQLUNsRmZsLURRZVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-06-03-030",
+    "date": "2026-06-03",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "L3Harris awarded contract worth up to $98 million for proximity fuzes to upgrade Advanced Precision Kill Weapon System - Defence Industry Europe",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeWtwRy1UT2lWMkRMR21YaUNTV20yQndzRmlEQnJHT19QOURfSS1PRkktM0JXUi1HdHRTV1ZkdmdObTBNejEtYVY4RUZSS2tSanBHX1pYNEw2UnFYRHNoRVh4c2JLWG9MNFAtSlRMT0",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeWtwRy1UT2lWMkRMR21YaUNTV20yQndzRmlEQnJHT19QOURfSS1PRkktM0JXUi1HdHRTV1ZkdmdObTBNejEtYVY4RUZSS2tSanBHX1pYNEw2UnFYRHNoRVh4c2JLWG9MNFAtSlRMT0dLcDM0OURyUUQ2MkR6NFFXVUp1Qmh3NDlBWWMzcHUyT3hVSkVRaUxXWFhwaFNOZHphSWRwcVRSZ3lRbEZPNUJ1bTNDWXpOei03WElHaFpWRnE5M1lDYTZEQ2lVSzlXQ2JWZ2xEQTVNSzNidzdrU21J?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-06-03-031",
+    "date": "2026-06-03",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "L3Harris Successfully Tests Advanced Propulsion System - ASDNews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQSV96Qlh4d2JNbmRwWkdfcmlqVGxNdkVsZVpGeGdYaWhDbXpxOHp4SFdUWVZIZ1lEN08tRmM1a3VRRi1JTnhJQ29oV2JQYXI5WlZ3TVY4TlVJVmlkdHJnWngzUkdOTkVJSFRZeHpNOW",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSV96Qlh4d2JNbmRwWkdfcmlqVGxNdkVsZVpGeGdYaWhDbXpxOHp4SFdUWVZIZ1lEN08tRmM1a3VRRi1JTnhJQ29oV2JQYXI5WlZ3TVY4TlVJVmlkdHJnWngzUkdOTkVJSFRZeHpNOWwwMjdSSENpazJuMGMxWnUwNnR5OGJYU0U1TG53cmtwV21WbUJkdUlQQWl3VF9iZXhtS3phaA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-06-03-032",
+    "date": "2026-06-03",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Germany’s Rheinmetall to Sell Auto Business to Focus Entirely On Defense - WSJ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPdWpFNk4tRHhyM3RmUGpaMG1uNUFCLVlSVmN3R1hWaXAzbG5EU0FIc1JOODlKNmZqNTJHS0JyZkZBOVVuWE91d3FmZXRoTzdJMHFTa05mVWp3RTBHSVZZWU9GemY5WWMtM0hEZk1pZj",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdWpFNk4tRHhyM3RmUGpaMG1uNUFCLVlSVmN3R1hWaXAzbG5EU0FIc1JOODlKNmZqNTJHS0JyZkZBOVVuWE91d3FmZXRoTzdJMHFTa05mVWp3RTBHSVZZWU9GemY5WWMtM0hEZk1pZjRaMEhsNWt2X1lwdmZYaWF6cFZqemc4NjUwMjF1VFFKZDBRNUVETmlQLXpzdXowa3FRWDBndlRoWGJJZjVqWWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-06-03-033",
+    "date": "2026-06-03",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall Completes Switch to Pure Defense With Auto Unit Sale - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWhHUjBoYmxnS3pERWtCS1F1THQ3b05BUC1tYTVSY05VYTJIdjJKZjBuTGpqMGtnempxNHFSUDlWMjBrQnJoZXM4Wmwzblc2ZVl4eDdXQ2dvMGlZN3MtaGlZNUtzY2dfbmxhRDZFSU",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWhHUjBoYmxnS3pERWtCS1F1THQ3b05BUC1tYTVSY05VYTJIdjJKZjBuTGpqMGtnempxNHFSUDlWMjBrQnJoZXM4Wmwzblc2ZVl4eDdXQ2dvMGlZN3MtaGlZNUtzY2dfbmxhRDZFSUVLU0ZYbFNHUlRvcll5LTUwd25pUjRVbWI5Q3ZjaW9IRzJERUFZTUpTWG1RMl9naHVOSlA0a3htc3FfSFVtRXBpOUFWVFRWdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-06-03-034",
+    "date": "2026-06-03",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall sells civilian power systems unit for $406M, deepening defense focus (RNMBY:OTCMKTS) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPMVR6ckVNRWlKUjJpTmQycU5SNklpUHRibmJUSFFMVnZLRUdJM1o2OGE2OW1FWW5SWlNXUUxQYmZvWHlYeUdEdFNpSmdyUjhpaHJNNzFxVmY2dXFKdFd3cGNqRFhNZmlWdzVXZXpQdE",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMVR6ckVNRWlKUjJpTmQycU5SNklpUHRibmJUSFFMVnZLRUdJM1o2OGE2OW1FWW5SWlNXUUxQYmZvWHlYeUdEdFNpSmdyUjhpaHJNNzFxVmY2dXFKdFd3cGNqRFhNZmlWdzVXZXpQdE9MUDVxVWxiWUt2REs0RGcwNUhwaWNDejFZWjFWZHR1Ykg5cUYzWnh4ZFl1bWpwMi03RFZWSGNYZVBmTF9QcHhWUjJVS29Pd2M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-06-03-035",
+    "date": "2026-06-03",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Deal finalised: Rheinmetall divests its civilian division and focuses on its defence business - Rheinmetall",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNdE85U2RiWlNNTGkwemNQVGxscEZJSUdYUDJMMGJVaWI1Q1pEQks1QlRzTjlGQmoxMU5QM05GNFlMWW5KZkNaN1dFTkJNNFhxX3IyQmpmVF95dTBWNWg5c2wxT1VzYjdkTUtZQ3kxQl",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdE85U2RiWlNNTGkwemNQVGxscEZJSUdYUDJMMGJVaWI1Q1pEQks1QlRzTjlGQmoxMU5QM05GNFlMWW5KZkNaN1dFTkJNNFhxX3IyQmpmVF95dTBWNWg5c2wxT1VzYjdkTUtZQ3kxQlU4VmRpWDBzUFNPMDEtWFNwaWtjTnVPOU1zSVh4SS0yanBEMWYxd0RVZWF0c3QwTFlTXy02bWJEdlVpcFV4UjlRakpPb0NERTgyTGF5bTVGV2RubmotSUpv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-06-03-036",
+    "date": "2026-06-03",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "arms_export"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall sells struggling auto division to Aequita in €350 million deal - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNM2dQT3dBQjBsbXR2YjJyandwMFRFLTVjMHIwOFJXa0tBeEppdjMwR2xmaGVlcHFqNlZ1ejhRRldyV0FMSWVXS0tjQ041MnU1NUpnZ0R0dnRyUmFOSnVVNEpodC1vaTlJQ0FmZXQzdH",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM2dQT3dBQjBsbXR2YjJyandwMFRFLTVjMHIwOFJXa0tBeEppdjMwR2xmaGVlcHFqNlZ1ejhRRldyV0FMSWVXS0tjQ041MnU1NUpnZ0R0dnRyUmFOSnVVNEpodC1vaTlJQ0FmZXQzdHIxYmY3VWtTQk1qazY4cXFkQkFFREIwN1lDZmRzZ2lrbUVQNHRTMGFydkc5MXNkVkd3ZkFpM05kdDQySmpEM3FwU09McEhtOVF1eXRLX0hpVU9JS29QUXctUVN3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-06-03-037",
+    "date": "2026-06-03",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "American Rheinmetall, Harbinger team up for R&D robotics, UGVs - Manufacturing Dive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNZzIzeGxwS0cyVE1XMkJpNEFxSDlJQ2FacGVCemJPWk05UUhOQWpDOTR3Q1J0Q0p2cXAwcmR2N2FJbkhBOEEwY3dHdXFBdFFzNm10WjRXU09SeDhzQWRpcXFFLTZULUw3bTBJRS01SD",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZzIzeGxwS0cyVE1XMkJpNEFxSDlJQ2FacGVCemJPWk05UUhOQWpDOTR3Q1J0Q0p2cXAwcmR2N2FJbkhBOEEwY3dHdXFBdFFzNm10WjRXU09SeDhzQWRpcXFFLTZULUw3bTBJRS01SDkyQWJVNnMwZnJQS2JrT2JOSkozTXFnaDdmb0JTbXJxLXd6ZXdia0hqRE1fMkQ2N2EtSUVHX1VmaHZSWS00Z05JSThYdnZJeXl4UURXUw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-03-038",
+    "date": "2026-06-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Police identify all 5 victims killed in Hanwha plant explosion - The Korea Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdGhxMmRRbXZjd3pNOFNhbi0tUk9UNkRfOWhlNVFGOVFTNnphaHVBYXNkSlZIY2NJVzVEbDM4cGhjbnlCQWRnWFdZVzl2MjBVN1BodVNXajdiTEZkV1VYbWlERjVkY1BmbjI4RGhZdE",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdGhxMmRRbXZjd3pNOFNhbi0tUk9UNkRfOWhlNVFGOVFTNnphaHVBYXNkSlZIY2NJVzVEbDM4cGhjbnlCQWRnWFdZVzl2MjBVN1BodVNXajdiTEZkV1VYbWlERjVkY1BmbjI4RGhZdENsWkdCaWxUQW04MUhfS0hxVWNaVFJjeFJkMDBmME14X05rQXh2TzJYWVBIT1lzSWhpREVtT1IzQkhVX2NHeXk4UW1JLWVnTld2Z1ln0gHAAUFVX3lxTE52dk9zbEtQdE9PVGlyMHh5ZVk4SV92UXB4eThhYnh6a1B3Si1fcGZjRmJfUDZIQ01lLTB0bm5yYW0wQ1k2U3IwSUFOS3BtNlB5NDlKSFR4bWl1UzVtbzBKc3VWa0pSMnQ2VmJEajV5OVpybGlySko2MW5ITl9CMlRBSzVLeGd0dnNXeVVKTHBGMExOUGNjdHQwblNQcklpQ1phcS12VURobjdfbG94VzlRYWFjRWt6RGNBWHZ5S2dXMQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "elbit-2026-06-03-039",
+    "date": "2026-06-03",
+    "companies": [
+      "elbit"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Elbit America and Anduril team to offer SIGMA Mobile Tactical Cannon for U.S. Army howitzer modernization - Defence Industry Europe",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPMEFQbWJQTGxqMTU2cDdwVnRoOWYzSkNIT2xqRFg5UVZia2J3TVc0aW9ybnAyM1c3LWxkZE1DSk1iVTNFZUh3bEJzWnpTLXlsZ2ZSU2JaNVFGZG0za2dJNGNBb0xEQnFZalpmMFM3OG",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMEFQbWJQTGxqMTU2cDdwVnRoOWYzSkNIT2xqRFg5UVZia2J3TVc0aW9ybnAyM1c3LWxkZE1DSk1iVTNFZUh3bEJzWnpTLXlsZ2ZSU2JaNVFGZG0za2dJNGNBb0xEQnFZalpmMFM3OGN3U3BqOEVqLXhjbWdGUTNmWkRXZUtZcVUyUnpIYl8yNEEzcnFjZkRfblRoQlZtQXlUallHNTVtQmhIS24tSjdsLVNaSTNSN2FjUWZNakkyS0E5VkxWMl9yRnA0WkY3Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-06-03-040",
+    "date": "2026-06-03",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Palantir’s £330 Million NHS Deal Under Fire From UK Lawmakers - Bloomberg.com",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQYTN6dFpnckk1d3NKcTIzVzZiT3dtRHlCTmVnSzJsaVZPRS1ScTFQSDJiQ2ZWMzhXQ3RXTzhVSHpQcG1lbmRKdDZ5aGJkOE9ieGhhRmkwWlNBVjlvY3NZRHZIRVpTbk1XR3",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYTN6dFpnckk1d3NKcTIzVzZiT3dtRHlCTmVnSzJsaVZPRS1ScTFQSDJiQ2ZWMzhXQ3RXTzhVSHpQcG1lbmRKdDZ5aGJkOE9ieGhhRmkwWlNBVjlvY3NZRHZIRVpTbk1XR3Z1LVJYNXBsS2R2WkowMF93cTQyUElIWUl3RXd1S2x0OWhSNjh6V2NtTnFwY0RXU3FYXzBPckduU08ySWx2MXVIZTdMN3VUTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-06-03-041",
+    "date": "2026-06-03",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Why Palantir Stock Is Sinking Today - Yahoo Finance",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQVFJqUFJIdXJDRXRkeXJJUG54aGI5emdyaHNudWJFNTZZLWpxMlliakNnR1JKRWVGWE9BZkRlSm5xMUZCdFI4SVhwQnlCU0NRd1Vqa2FRMnpzbzNMR3VhQWJvQVdyOUh2cX",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVFJqUFJIdXJDRXRkeXJJUG54aGI5emdyaHNudWJFNTZZLWpxMlliakNnR1JKRWVGWE9BZkRlSm5xMUZCdFI4SVhwQnlCU0NRd1Vqa2FRMnpzbzNMR3VhQWJvQVdyOUh2cXZRNDB2ZkNtUWE1TGNwSHhrZm9OMGFLaUlQQjd2N3hZdUEzZERRZ1ZSN1dDcHJ2eTNGRXpVUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-06-03-042",
+    "date": "2026-06-03",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Dutch defense ministry wants to replace Palantir software - Cybernews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TTHFlVGJIUTNCWk4yeUVZVy1JUnFHWk9aekhZTXo0UHRUV2VON1dVYlltRzRZNUxCX09XdDFKQnA0dl9iRnZkcHNWZm5NUS1zN2lhSm9xcmhaVzYwb0xF?oc=5\" target=\"_blank\"",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TTHFlVGJIUTNCWk4yeUVZVy1JUnFHWk9aekhZTXo0UHRUV2VON1dVYlltRzRZNUxCX09XdDFKQnA0dl9iRnZkcHNWZm5NUS1zN2lhSm9xcmhaVzYwb0xF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-06-03-043",
+    "date": "2026-06-03",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Palantir Stock (PLTR) Faces Backlash as Investors Demand “Transparency and Accountability” over Military Software - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWFNVMjNuLUU1ZHFLSFFzVlVndmNjNWdIYW5QWUkxc2JINDdZZWFFYXIyUlJmOGFma1g1d1ptcEg3WjNLNjhObVZ4dGhNdXNlelJRcFkwYWlGSkJ6Q1hWNGh6T0JnSTJ4WnhjNXZ1aj",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWFNVMjNuLUU1ZHFLSFFzVlVndmNjNWdIYW5QWUkxc2JINDdZZWFFYXIyUlJmOGFma1g1d1ptcEg3WjNLNjhObVZ4dGhNdXNlelJRcFkwYWlGSkJ6Q1hWNGh6T0JnSTJ4WnhjNXZ1ajlsY2ZmamxFQWtzeWJKVHo2UWJZdXRWemwyV0Y4T0dWNXZRdzlyQ2NGMC1MZEJKYTExdXZKaWpXQTg4aW1MSERCY1Rhc0tXS3YwNi1mSUtnbFFVX1RNN1I1M1U0anh4WXZKQktJVjJQS1VUdEhfNXRCSw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-06-03-044",
+    "date": "2026-06-03",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Why Is Palantir Technologies (PLTR) Up 12% Since Last Earnings Report? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNNUs2NFV2SkRpZWh1RTJCNjh2c2NadldWc0JQd0NqVHd4WEdmam82T2RucHpLbWNEdFpBX3o2YURVZkJCbmFmekoyV1hZMENyQ3ZoZElZVmRwQVZWTzA2TVpLTVh1WlNNNWVXbVNvX0",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNUs2NFV2SkRpZWh1RTJCNjh2c2NadldWc0JQd0NqVHd4WEdmam82T2RucHpLbWNEdFpBX3o2YURVZkJCbmFmekoyV1hZMENyQ3ZoZElZVmRwQVZWTzA2TVpLTVh1WlNNNWVXbVNvX08xZ2dST3F5MW44eHpuLVpaN0ppa3oxMmphWkdXTDJGQ1pfMVdtc3ZqdFZ3NmtXYzg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-06-03-045",
+    "date": "2026-06-03",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is Palantir Technologies (PLTR) Near Fair Value After Its Recent AI Contract Momentum - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdHRLdU0ydWdpSVFiZUsxMl9jVUV6MllnLXgxVEM5T0ROVG9zaml1UEJNTm1IZTI5U0Rxc295a1p0UDBCTFdZSXdhdG5DR3FRay1xajN3UFNnZDZZWFhTSjhyYzF6bV9mV1BpcjZib2",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdHRLdU0ydWdpSVFiZUsxMl9jVUV6MllnLXgxVEM5T0ROVG9zaml1UEJNTm1IZTI5U0Rxc295a1p0UDBCTFdZSXdhdG5DR3FRay1xajN3UFNnZDZZWFhTSjhyYzF6bV9mV1BpcjZib2lsZG9QbG0wclhxQnNwWWZNampZalRtUXZwS2I2aE1UQkt5b0NmLWNxdERGVFJuTXg3RkVBZWtJbG9FQTVHY3B4RFRfem1EOW5iaDY2RDJXbGhnWmdKeEpMZlBtSVlTckJXRzByb19YQdIB3AFBVV95cUxQVkVTd055YnVyUXlWdjRpazNhODFfaGhWcTFZRUFSVHlxQ2JKZ1BEX2xuYUp5dkhGeExmNE5oMUg3ckJRcENjLWFlWUZYQklMb01XYzJyREN4LTMxNHpLbmxTVVNzRHdFOVItMmRnSEVUUEQwZjdhM2RxRXp1TXktNDFOQm5PSkEwUTlnYXRMNUxTRWNTUmpQM3c0YTdPdzA4MHJKbkFRVThldGZvdUU4RnVBOV9VdEt4WmhWZE1XQmlrRXo5WlpwRkE5d3B2RlRneXY5MG5iR0RPQ1lq?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-06-03-046",
+    "date": "2026-06-03",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "arms_export"
+    ],
+    "impact": "neutral",
+    "title": "Palantir Systems' Potential for Enshittification Has Become an 'Unacceptable' Risk, UK Politicians Say - Gizmodo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxONnBZRm9SOF9DanlUMmJLcVdxZVJWdTd0WDFGSXB0QU5iRHNjUnV2b20yU1NOcW40VzRvUHVqeUdURHdHZ3FrV29hRkU4Y2ZWVW9vX3dJcE9QTE5zX1YzeVlLZzFJVVRHSnFMSnhBQU",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONnBZRm9SOF9DanlUMmJLcVdxZVJWdTd0WDFGSXB0QU5iRHNjUnV2b20yU1NOcW40VzRvUHVqeUdURHdHZ3FrV29hRkU4Y2ZWVW9vX3dJcE9QTE5zX1YzeVlLZzFJVVRHSnFMSnhBQUdTeXUyZGRGa2VUdXlCNnM1VjRWNmc4RWZ2eGFRMnZMcGFWcDRwV0FIYVJiNUlYenhpSUdJV3lTRHZTOXJmNHJ0TTFmczNzbEhMdTZWbFZZRzJBelJZUzBvMQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-03-047",
+    "date": "2026-06-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US tells Europe, Canada to boost NATO air and naval forces",
+    "summary": "“Nations just need to assign the capabilities they have to NATO,” a spokesman for the alliance's military headquarters said.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/global/europe/2026/06/03/us-tells-europe-canada-to-boost-nato-air-and-naval-forces/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lockheed-2026-06-03-048",
+    "date": "2026-06-03",
+    "companies": [
+      "lockheed"
+    ],
+    "topics": [
+      "drone_warfare",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lockheed’s GRIZZLY C-UAS system downs attack drone in live-fire demo",
+    "summary": "The live-fire demonstration paired the radars, Sanctum software and launcher to destroy the target at Yuma Proving Ground, Arizona.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/news/your-military/2026/06/03/lockheeds-grizzly-c-uas-system-downs-attack-drone-in-live-fire-demo/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-03-049",
+    "date": "2026-06-03",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Gulf tensions escalate as Iran hits Kuwait, US strikes near Hormuz",
+    "summary": "CENTCOM said it had carried out a new round of defensive strikes in southern Iran, while an Iranian drone attack on the Kuwait airport killed one person.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/news/your-military/2026/06/03/gulf-tensions-escalate-as-iran-hits-kuwait-us-strikes-near-hormuz/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-03-050",
+    "date": "2026-06-03",
+    "companies": [],
+    "topics": [
+      "drone_warfare",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Air Force awards GE, Rolls-Royce for ‘medium thrust’ drone engines",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/06/air-force-awards-ge-rolls-royce-for-medium-thrust-drone-engines/\"><img width=\"1024\" height=\"492\" src=\"https://breakingdefense.com/wp-content/uploads/sit",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/06/air-force-awards-ge-rolls-royce-for-medium-thrust-drone-engines/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-03-051",
+    "date": "2026-06-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Marine Corps’ Harrier completes final flight following SOUTHCOM deployment",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/06/marine-corps-harrier-completes-final-flight-following-southcom-deployment/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/u",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/06/marine-corps-harrier-completes-final-flight-following-southcom-deployment/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-03-052",
+    "date": "2026-06-03",
+    "companies": [],
+    "topics": [
+      "drone_warfare",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The biggest industry, training hurdles for making drone wingman a reality",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/06/the-biggest-industry-training-hurdles-for-making-drone-wingman-a-reality/\"><img width=\"1024\" height=\"576\" src=\"https://breakingdefense.com/wp-content/up",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/06/the-biggest-industry-training-hurdles-for-making-drone-wingman-a-reality/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "elbit-2026-06-03-053",
+    "date": "2026-06-03",
+    "companies": [
+      "elbit"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Anduril teams with Elbit America for Army’s self-propelled howitzer competition",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/06/anduril-teams-with-elbit-america-for-armys-self-propelled-howitzer-competition/\"><img width=\"1024\" height=\"576\" src=\"https://breakingdefense.com/wp-cont",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/06/anduril-teams-with-elbit-america-for-armys-self-propelled-howitzer-competition/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-03-054",
+    "date": "2026-06-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Army, J-7 to test new sensor with high-altitude balloon in coming days",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/06/army-j-7-to-test-new-sensor-with-high-altitude-balloon-in-coming-days/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploa",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/06/army-j-7-to-test-new-sensor-with-high-altitude-balloon-in-coming-days/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-03-055",
+    "date": "2026-06-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "The US is delaying weapon sales to allies. Will there be long-term impact?",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/06/the-us-is-delaying-weapon-sales-to-allies-will-there-be-long-term-impact/\"><img width=\"1024\" height=\"683\" src=\"https://breakingdefense.com/wp-content/up",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/06/the-us-is-delaying-weapon-sales-to-allies-will-there-be-long-term-impact/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-03-056",
+    "date": "2026-06-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New Large Chinese Submarine With Very Unique Feature Just Caught On Satellite Imagery",
+    "summary": "<p>The nuclear fast attack-sized mystery submarine could be China's answer to a high-speed interceptor boat.</p>\n<p>The post <a href=\"https://www.twz.com/sea/new-large-chinese-submarine-with-very-uniq",
+    "sources": [
+      {
+        "name": "the_war_zone",
+        "url": "https://www.twz.com/sea/new-large-chinese-submarine-with-very-unique-feature-just-caught-on-satellite-imagery",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-03-057",
+    "date": "2026-06-03",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "positive",
+    "title": "Russia’s Baltic Fleet Successfully Attacked By Ukrainian Drones",
+    "summary": "<p>Once considered a sanctuary for Russian naval power, the Baltic Fleet is now in the crosshairs of Ukraine’s expanding long-range strike campaign.</p>\n<p>The post <a href=\"https://www.twz.com/sea/ru",
+    "sources": [
+      {
+        "name": "the_war_zone",
+        "url": "https://www.twz.com/sea/russias-baltic-fleet-successfully-attacked-by-ukrainian-drones",
         "type": "rss"
       }
     ]
@@ -1862,6 +2804,104 @@
       {
         "name": "google_defense_budget",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3cnBmLWtGTW9wa19JcmhKQmZfQ1dieHBGZWdCWDRPaXEtQkJueXNuNEMzNnc3TW10TnI5dkFtTUo5b0NhV2xSQUZmYzhsUzRYYUdaUXlKLW9fOFpUUXhlRXlpSjVhZlhVTDVNZFJPREtTVDVyRUZZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-06-02-071",
+    "date": "2026-06-02",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "L3Harris Technologies Announces Expansion | June 2, 2026 | News 19 at 4 p.m. - WHNT.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQS0ZsMGN2SzlRUGlZdGJCWU9FdWtFSXJQOHpuSHMxOHdOZV9kcDZrVUxDR3FQUkpvVXVJMFZTZ2VKaVlCendWWFZndG5ZRkdmYm9QSWoxWlFXYVdTU0dCNE90U1B4aXNJZnhwUFkzTG",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS0ZsMGN2SzlRUGlZdGJCWU9FdWtFSXJQOHpuSHMxOHdOZV9kcDZrVUxDR3FQUkpvVXVJMFZTZ2VKaVlCendWWFZndG5ZRkdmYm9QSWoxWlFXYVdTU0dCNE90U1B4aXNJZnhwUFkzTGpXTmdZeERBZjM3bndTREVYbjhxYzhSa2pQVVowcmF3dHlpak1ZQ0gxQnZjZV80ODU2VmtHRVhR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-06-02-072",
+    "date": "2026-06-02",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "German arms maker Rheinmetall signs 5.7 bn euro deal with Romania - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOczBzQ1lTN3BNQXZIbWxqNTFMNGFJWlJUMDJNYW9kMnhfRXcyY2p1NmN3RHJqMVdvSERNX3lET2I4bk1zd2FkOG5qMjE1T2VoSFRwWWhXZkl3c0o5SVRjb0dPTXpzRkRUSmhOTHlucE",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOczBzQ1lTN3BNQXZIbWxqNTFMNGFJWlJUMDJNYW9kMnhfRXcyY2p1NmN3RHJqMVdvSERNX3lET2I4bk1zd2FkOG5qMjE1T2VoSFRwWWhXZkl3c0o5SVRjb0dPTXpzRkRUSmhOTHlucEsxMzBkVUdXWHI1N2c1dWRTOG9zSkpCOUpVaktqOG1QV3RabW1RSk1pZldteGdHa3RPTVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-02-073",
+    "date": "2026-06-02",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Explosion and fire at defense company in South Korea kills 5 - AP News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQUV9nOTA0dXZJVFY1SjYtTVZic0E4Q2ZVYThjN1dIbk0zMGpEdldiMTd0cVlyLXlUU3JxUzZ6cVU0bGc2cVIzUnFQNzJnZGRRS2JLUkpGOURVMDFITF8xN21FQjhvQk94ZklkQkd2Rn",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUV9nOTA0dXZJVFY1SjYtTVZic0E4Q2ZVYThjN1dIbk0zMGpEdldiMTd0cVlyLXlUU3JxUzZ6cVU0bGc2cVIzUnFQNzJnZGRRS2JLUkpGOURVMDFITF8xN21FQjhvQk94ZklkQkd2RnZIdW4zTzhyMDIzWWNudnI3WVVIMkExZVdUTFdHSW1aQml6Q19jZlZlXw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-06-02-074",
+    "date": "2026-06-02",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace partially suspends Daejeon factory following deadly explosion - The Korea Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ1JjSUgtUk90MVFjTVpLb3RDWDN4NGduaG56SzVONi1EVTlRekhKVy1lN0VXT1NQMzAzdk5QLXJzeG9RRk9wQzRrN1Rnd1kyU0VuWVpJVjROa1ZJYzAtbXN6X1BmblFRcl9rUmtvZ1",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ1JjSUgtUk90MVFjTVpLb3RDWDN4NGduaG56SzVONi1EVTlRekhKVy1lN0VXT1NQMzAzdk5QLXJzeG9RRk9wQzRrN1Rnd1kyU0VuWVpJVjROa1ZJYzAtbXN6X1BmblFRcl9rUmtvZ1JIbHBZX3E4bW9qN1pMZ3habWJXSFExNE9yYklDTTQxYThNUXk2MVFGdVdhaHR1VnE1a0ZhWlVqenRDSTJwUWRuTUFmdVhvMUwwQnFpcjJpaGx4MkhtczNSVHBBNGQ3THdy0gHWAUFVX3lxTFBoUFFicUxnbVpDbG1XcmJneDZxMmhlMzVoSHppYjgwSWNnSzFTLTVTVFFOTVFzekJEWnZDSlRJYjVXUm9ZcG9HNVZ5T2l1ek9TMkxzRHlpZ1JiVWVid3JVMWpxQV8wSkJvSm5remE3b2pUNGFSX09SOFZGcngxQ1VfbVBFSmZTVGN1bm42OFNYbmpNSkRvam90NnJSclN2YjFtVzNYemNwZUZoeWRMT0hUeDZPWXp0V25mT1ZldHJxQ3ZaaWxIZkUyc3BTNktZc1hUVkUxV1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "elbit-2026-06-02-075",
+    "date": "2026-06-02",
+    "companies": [
+      "elbit"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Elbit America Teams With Anduril On Offering For Army’s Future Howitzer Competition - Defense Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRmg0czVfVVhybzlnYVZJeVVsanl0VGhlQ0hVbnl2a0g2X0hkME5MTGdRQ0NFdmM5eUUtMFlIVTlYREo2dFNuWERzRUoya1VrZTBjRVBYampLREhsbTJIUldjRXNfSmxYR1lmMGprdE",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRmg0czVfVVhybzlnYVZJeVVsanl0VGhlQ0hVbnl2a0g2X0hkME5MTGdRQ0NFdmM5eUUtMFlIVTlYREo2dFNuWERzRUoya1VrZTBjRVBYampLREhsbTJIUldjRXNfSmxYR1lmMGprdEhTRnF1cm1ET1phQmlOS3RHZV9veUg2RXRYN2VRUDNlbTdVaVIzRk5YeDdEMmR6Qm1DNU8tMXlyb19yZ0ZiMl9udzZqNG12d0lj?oc=5",
         "type": "rss"
       }
     ]
@@ -3360,6 +4400,107 @@
       {
         "name": "google_defense_budget",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWEhBX2lMYlRGNFRaUmJZTWYxbngyWHBqZFA4Q21ZNlplVHRud1NvdERIZFJkTmZSWmtUeU1wQ21hOVBEbjlUOUVFRXNhcXlHRmgyOVBxUGZBMlhveVMtNUpTaWNFc3ExWG9OeHhsRW8xUWtZaHFQMng0OWpJX2xqZVdIQzZzVzJBaHNGTWVqMnR3bkpaR25zY2c5ajFfM1pNQTR5M3hxb1ZFNUNBM3VqczJiNmhuV3RieGF5RkNn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-06-01-078",
+    "date": "2026-06-01",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace CEO apologizes after deadly explosion at Daejeon plant - The Korea Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE8ycV9FRVcwVWhYak5jS1A4b0llSV8xdUNaTnoyX0dIY0ZoNkhNVGlPa0ItemVJQzdRUTQzS1RuTmU5VEVBZkNEejJLR0VkU3RneldLelFBYw?oc=5\" target=\"_blank\">Hanwha Ae",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8ycV9FRVcwVWhYak5jS1A4b0llSV8xdUNaTnoyX0dIY0ZoNkhNVGlPa0ItemVJQzdRUTQzS1RuTmU5VEVBZkNEejJLR0VkU3RneldLelFBYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-06-01-079",
+    "date": "2026-06-01",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "(3rd LD) Death toll rises to 5 in Hanwha Aerospace explosion - Yonhap News Agency",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBObHNQMGxER1pqeFRuS0pFRUFabHM5My1YdEZTS1dnZDZYS09MOWhUUElNUlR4MnBxOHE1bjR2Wlg4TUhPTXhwUmFiTjd4am5NQ0xQeUZEeXpYdw?oc=5\" target=\"_blank\">(3rd ",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBObHNQMGxER1pqeFRuS0pFRUFabHM5My1YdEZTS1dnZDZYS09MOWhUUElNUlR4MnBxOHE1bjR2Wlg4TUhPTXhwUmFiTjd4am5NQ0xQeUZEeXpYdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-06-01-080",
+    "date": "2026-06-01",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Explosion at Hanwha Aerospace facility in Daejeon leaves five dead - Korea JoongAng Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWmFVU3dWV3k5cnpKUXAxSHlHbk4xOU1aWUw2UmZJZ2wwYnpob093QWJJZUJtMFpqczBxbXZCSlBMcUhkWFMzQXNQTllRYlczZ1hRMncwN3l0OHAzTnY3V1RyZWFhV3U1aW91ek9CeW",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWmFVU3dWV3k5cnpKUXAxSHlHbk4xOU1aWUw2UmZJZ2wwYnpob093QWJJZUJtMFpqczBxbXZCSlBMcUhkWFMzQXNQTllRYlczZ1hRMncwN3l0OHAzTnY3V1RyZWFhV3U1aW91ek9CeWhqRmk2ek1JejZub3ZLcDRvQmkyVHRuNExaa1hpSm9vbDBiZkkxUUdyejE3ZU5KN0pKbWEwWWpXUTdYSXpEMlphVlNQeUs3LWFlbm1tNXROam96OHZrQkhwOWtGNFpEMUczMElZckVUalVvUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-06-01-081",
+    "date": "2026-06-01",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace plant explosion kills 5, injures 2 - The Korea Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR1BuSVBFOU9Ld3BjTzg5X2FXa0dDTElXZXllVDlyMlVuZVpwRXJ6UWYyTmdGWkdwNnhjVUZ4bGxjdkJKR2hHd3VCVnFLY2xQUUxzNTUzbU5XMlJhbUdaQmNiYktGUTJ1WWxiYUc5WW",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR1BuSVBFOU9Ld3BjTzg5X2FXa0dDTElXZXllVDlyMlVuZVpwRXJ6UWYyTmdGWkdwNnhjVUZ4bGxjdkJKR2hHd3VCVnFLY2xQUUxzNTUzbU5XMlJhbUdaQmNiYktGUTJ1WWxiYUc5WWEzWTFfcGNVNTF6QXViT1A5d1lQbWdsZUVNY3JSZ1Y1eVJITjhFbzlqZHdZcTFWRHpneHp1LXRHeFJncDTSAbABQVVfeXFMUEVwQ1NfQ2x5Z3BHSUlZMGFGcVRJTFpXc2Q4SDl2VDI0c05IMHBKT3dIQUIxUmJfUlpTTVVzY3NmMkdOUWc1b0xuYW5JbXROdm1jTVMtaFdHel94cGhHeGJUYndGc1dhRTVscWZtUWlpVGxhTzJWUjhYb0ladTlUenprWmVLRFltcVlFUEZYMzhhcVhhWDktS3JsODVSYU9XM0ZRUzVaVW5jOUN3WFFNV0I?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-06-01-082",
+    "date": "2026-06-01",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "5 killed in explosion at Hanwha Aerospace facility in Daejeon - The Korea Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9aVDVacDN1RFFaemwyd2p6TDlUMnJuelp5cXY3REpkbmpaUlJxcU0xYjhpT2ZNS0NpTDZCcEJ1YWptcExGQnpmaWt2Mi13TzV1enFOb1dmYw?oc=5\" target=\"_blank\">5 killed ",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9aVDVacDN1RFFaemwyd2p6TDlUMnJuelp5cXY3REpkbmpaUlJxcU0xYjhpT2ZNS0NpTDZCcEJ1YWptcExGQnpmaWt2Mi13TzV1enFOb1dmYw?oc=5",
         "type": "rss"
       }
     ]
