@@ -1,0 +1,233 @@
+{
+  "date": "2026-06-05",
+  "generated_at": "2026-06-05T11:21:18.127732Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "palantir-2026-06-05-013",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Palantir CEO Alex Karp Says He's Been Warning AI Leaders For Months About Nationalization Risks: 'The Mom - Benzinga",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNczREbEs3TDlGT1JsLXliWGpvMXJodGV2cUFZZlhSXzhiTTVucjV4Q05UQVBTdjhFQ2R1RzNZeFpNX2xaNDBsSWRjbkI2czhxM2ljS0lra2hHU1NrRExndUplR3lQLTdMNXk2LTUwWDgtNUR0QjhpVU4ybFBxeTJhUzlEWnltWEhBRDk0R2JlaW1hMjNQV0hvYlJwVlpWcncyRUh5Z0JrdUdpb1NiSHRBaGdnV0d0ZFlpaEdaejVwdkhnckJGSGYyRWp3bGdsQjJRTm00RUlscVREV2FoVWFVUGVJcU9tVDNGVGxDbmYyWGE0THRaMzF2TzZKaGIweE1RZjgxX2RGVWk5VnFieGtkaTdQVV8zZTZj?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rtx-2026-06-05-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "TD Asset Management Inc Grows Stock Position in RTX Corporation $RTX - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZzRCWEtTNUxCcG9hY0tQNHdQc0NNQWZOZkxIMG5CTmwtU3VXNnZseEtZVEQ2UXQ5c2RjZWNCN0JHcmZvMTYtUTNCTFc5VE1xbGhjN1d2VVN4SDNRLWtiQ1d0OExpWWtYZWxUNUtweVF3YVpVMjB3Q1NxeWM2TzVpQlh2enN6UEZzTjdPcTJoUDNoQXNralA4Z2F6anVWOXdVVEw3Mmg4UHowYUxzVU5mb192OEZuYTJXQ0F5U3RZTk5jWFhkQTBF?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rtx-2026-06-05-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Corporation $RTX Shares Sold by J.W. Cole Advisors Inc. - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVDlOM1JKVGkxX2xuMWUyOFo2QzV1bTZNVldrUUsyRzQ3LW1RQnNOb1dYTTlMeFhkWEZzT3lYRl84Y0xIS2JUdG9fOE5oZVhDQjg3cGNsRFNxQk5CdkZMUGo0QzNLNGFDVm04ajQ0TVFrX0JiTFRUR2dYbHQ3SXA1R3NsWEtHQ0xkUkZFN1dEWkdJR0VtTmFuOXQ1eEViVmVZRjA3ckRMVUFFWXdQMG1TTWMyMUdpcFk?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rtx-2026-06-05-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Corporation $RTX Shares Purchased by Daiwa Securities Group Inc. - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbzM1ZGpIbGV2OEpZMDVSZURXWGhFSk1MR3BnUWx1SWdEZC1kTENHbjVPMVotV3RGbk0xS1FnOW05Q1pISDB2Yk4zdmlVd3JsZGxVdzVZVjZMczgzc3ZHRGxoQUJwd0hkUUFXOXJoSWlhRnExZXhRR3hTaUJkQXZDMzJxUmVRYWxhUmlUMS1BSDlRQnNLSFVXQW9MS3hRanhGWldudzVFMklodk9zYWwtUWZUa1IzZC1lUElEaW1pNURmQ3Z3b2c?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rtx-2026-06-05-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cibc World Market Inc. Purchases 20,737 Shares of RTX Corporation $RTX - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSEdGUXlyN20xS05ZUXZVQ3dsRl9GZ0h2YUhxU0dQdXd1b2l3ZExIT3FzbnlkZW9GeEUxVlViSDBRZnVrdHVIQXBTRWNDWHF0R1BIQWo4Q1FQbmthLUZKcFRmNlV5RXR5T0RfRENGbk0wLU5HSkJqRFg4VFdPSW1qeUZnbnZNQ3h5cXlwN1c1RkxHcVpQZW84UzZ2bks4ZEw3QjB5dHV2Yl9qam9XcGU2YUl3Uzk2aFRrbktxM1YtYndlUXRsVUdZ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.11,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 15,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rtx",
+        "count": 5
+      },
+      {
+        "id": "hanwha_aero",
+        "count": 2
+      },
+      {
+        "id": "rheinmetall",
+        "count": 1
+      },
+      {
+        "id": "palantir",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "drone_warfare",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 295,
+    "dup_title": 128,
+    "too_old": 82,
+    "gate1_blocked": 16,
+    "gate2_blocked": 17,
+    "passed": 52,
+    "pass_rate": "31.1%",
+    "gate2_block_rate": "10.2%",
+    "gate2_samples": [
+      "Is RTX Corporation Stock Outperforming the Dow? - Yahoo Finance",
+      "Pentagon may scrap Tomahawk missile deployment in Germany, Politico reports (RTX:NYSE) - Seeking Alp",
+      "Nvest Financial LLC Increases Position in RTX Corporation $RTX - MarketBeat",
+      "Anchor Capital Advisors LLC Sells 40,236 Shares of RTX Corporation $RTX - MarketBeat",
+      "RTX Corporation $RTX Shares Sold by Grandfield & Dodd LLC - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為RTX、韓華航太、萊茵金屬相關動態：「Palantir CEO Alex Karp Says He's Been Warning AI Leaders ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Palantir CEO Alex Karp Says He's Been Warning AI Leaders For Months About Nat...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "TD Asset Management Inc Grows Stock Position in RTX Corporation $RTX - Market...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

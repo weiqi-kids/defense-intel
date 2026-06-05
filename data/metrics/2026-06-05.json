@@ -1,0 +1,41 @@
+{
+  "date": "2026-06-05",
+  "total_events": 16,
+  "by_company": {
+    "rtx": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "rheinmetall": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hanwha_aero": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "palantir": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 9,
+      "sentiment_avg": -0.11
+    },
+    "industry_general": {
+      "count": 9,
+      "sentiment_avg": 0.0
+    },
+    "drone_warfare": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

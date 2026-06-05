@@ -1,0 +1,16 @@
+{
+  "total_raw": 295,
+  "dup_title": 128,
+  "no_date": 0,
+  "too_old": 82,
+  "gate1_fail": 16,
+  "gate2_fail": 17,
+  "passed": 52,
+  "gate2_samples": [
+    "Is RTX Corporation Stock Outperforming the Dow? - Yahoo Finance",
+    "Pentagon may scrap Tomahawk missile deployment in Germany, Politico reports (RTX:NYSE) - Seeking Alp",
+    "Nvest Financial LLC Increases Position in RTX Corporation $RTX - MarketBeat",
+    "Anchor Capital Advisors LLC Sells 40,236 Shares of RTX Corporation $RTX - MarketBeat",
+    "RTX Corporation $RTX Shares Sold by Grandfield & Dodd LLC - MarketBeat"
+  ]
+}

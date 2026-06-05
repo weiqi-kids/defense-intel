@@ -1,0 +1,157 @@
+{
+  "date": "2026-06-05",
+  "date_range": {
+    "start": "2026-05-30",
+    "end": "2026-06-05"
+  },
+  "generated_at": "2026-06-05T11:21:18.274677Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "rtx-2026-06-02-003",
+      "date": "2026-06-02",
+      "title": "Defense Stocks Outlook 2026: Lockheed, RTX, Northrop, and the Drone Trade - Gotrade",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 79,
+      "last_week": 46,
+      "week_over_week_change": "+72%",
+      "sentiment_this_week": 0.01
+    },
+    "industry_general": {
+      "this_week": 76,
+      "last_week": 26,
+      "week_over_week_change": "+192%",
+      "sentiment_this_week": 0.03
+    },
+    "drone_warfare": {
+      "this_week": 7,
+      "last_week": 4,
+      "week_over_week_change": "+75%",
+      "sentiment_this_week": -0.14
+    },
+    "arms_export": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "defense_budget": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rtx": {
+      "event_count": 13,
+      "sentiment_avg": 0.12,
+      "rank": 3
+    },
+    "palantir": {
+      "event_count": 25,
+      "sentiment_avg": -0.06,
+      "rank": 2
+    },
+    "l3harris": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "rheinmetall": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "hanwha_aero": {
+      "event_count": 41,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "elbit": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "lockheed": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "northrop": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 319,
+        "last": 293,
+        "change_pct": 8.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-30",
+      "event_count": 26,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-05-31",
+      "event_count": 10,
+      "sentiment_avg": 0.15
+    },
+    {
+      "date": "2026-06-01",
+      "event_count": 82,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-06-02",
+      "event_count": 75,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-06-03",
+      "event_count": 57,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-06-04",
+      "event_count": 53,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-06-05",
+      "event_count": 16,
+      "sentiment_avg": -0.06
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-30 ~ 2026-06-05）共 319 則事件，重點為「Defense Stocks Outlook 2026: Lockheed, RTX, Nor...」。財報、國防航太通用、無人機作戰為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "RTX",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Palantir Technologies",
+        "reason": "本週出現 25 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
