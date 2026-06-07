@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 153,
+  "no_date": 0,
+  "too_old": 80,
+  "gate1_fail": 34,
+  "gate2_fail": 20,
+  "passed": 28,
+  "gate2_samples": [
+    "Capital Research Global Investors Has $13.96 Billion Stock Holdings in RTX Corporation $RTX - Market",
+    "Is RTX Corporation Stock Outperforming the Dow? - Yahoo Finance",
+    "Capital International Investors Decreases Holdings in RTX Corporation $RTX - MarketBeat",
+    "Capital International Inc. CA Trims Position in RTX Corporation $RTX - MarketBeat",
+    "Nvest Financial LLC Increases Position in RTX Corporation $RTX - MarketBeat"
+  ]
+}
