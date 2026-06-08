@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 140,
+  "no_date": 0,
+  "too_old": 79,
+  "gate1_fail": 37,
+  "gate2_fail": 20,
+  "passed": 39,
+  "gate2_samples": [
+    "Havemeyer Place LP Buys New Position in RTX Corporation $RTX - MarketBeat",
+    "Capital Research Global Investors Has $13.96 Billion Stock Holdings in RTX Corporation $RTX - Market",
+    "Capital International Investors Decreases Holdings in RTX Corporation $RTX - MarketBeat",
+    "Capital International Inc. CA Trims Position in RTX Corporation $RTX - MarketBeat",
+    "Nvest Financial LLC Increases Position in RTX Corporation $RTX - MarketBeat"
+  ]
+}
