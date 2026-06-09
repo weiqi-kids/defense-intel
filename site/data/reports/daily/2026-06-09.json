@@ -1,0 +1,255 @@
+{
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T10:56:15.382084Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lockheed-2026-06-09-005",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "A New Era of Warfare: Rheinmetall, Volatus Aerospace, and Lockheed Martin Drive Advancement of Unmanned Autonomous Systems - news.financial",
+      "companies": [
+        "lockheed",
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZ05Rd0NjQnB4SnkyaWJ6SEN3RTVNLW8tVEZaRzU2SWhDdjdPcE1kSnY0QktlbWNEYXVpRlJvZnBxdXlhWENMZ09aNzJvNXZjX0pPMU5aSldtX09zeFJUeEtZRDZXOEVhTjYzcUk2cG5yVjZjaHg5WkZEVHFOR0JJWEY4ZTFtd2JzeTE5QzVEV3VkQ3AzWmxRbVA1MV9kZmN0T1dja3VTNm1iLXpnRThlaDRkc3JCc3Iwb0E1akllWGJPSlVkaFVDV3NFTU90b2xRcHlEa0NwdmFnUVIxWHFFa2QtazBTdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "palantir-2026-06-09-015",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "AI Juggernauts Nvidia, Palantir, Micron, and Broadcom Are Sending Shockwaves Through Wall Street With This Nearly $13 Billion Warning - The Motley Fool",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUW40cG9lYTVqSXhEZkJpRkY4M3J6Z1NGQnF2Z3IwcVpoRUk4SGNfRHItbTAxMkNSQ29pVS15S01taFVMMDY0azF0LXg5TndfelQ0Mk1CS3ZDTVY4UGFLa0ZySXdObEhHS09iSU1BNnQxamZzQnB4aXNXNEVmVmtWRzFpallYWXo1U3lWbkFDWUNobUhH?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-09-018",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "With record-high spending, what is driving Japan’s changing defence outlook? - The Indian Express",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU3dJbDItLUQxbjJsWWhmaHFGNldnVWgyVEVlUWVPODdCdEl1NVVwQmV6UkNBUnNKaVZINWNSSmlodENxcm5CeFYyLTlkWFF0a0ZuVFNEb1A1eDFKRU9PbEllVmxkTW5sbmd0SjBMYm9POU5PejJ5eGJZamt3QkoxZjlCcVVTVlBqQTFEbFRMaXBabERsODVHU2YxZFZWdUVreXBkSy1PcHVEYW5yQU1VbnNn0gG4AUFVX3lxTFBoLVZpMXV2NGIwSWlWajdKdjN4LW1Td2NKZmh1M1VIdEhseTVfeXI3elhiWG5uSUdTYXFVMDFtcnoxTUMwWmwzSnRuX1BjSVBtZERHTUN2TFlWUW5iYVNVZ1Z4LXVBdEtCc3BnOWNaRHB4WUIyQmRfVVVKRi1lMjBfWDNwX3E5anVHMDFpMUFkRXVJdC1yZzNsMl9fY0ZhSHpySlRQY0xhdEFlUkRHQTlEUHdNUWFFbWI?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rtx-2026-06-09-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Jefferies Upgrades RTX Corporation (RTX) To Buy From Hold - Yahoo Finance",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWXoxalp4bElLbDA1T1VXQ2hmakltNTV0Z1hBaEhreXBiaTE0M0s3Vzg0UnZ0N3dsLW5GNjVfX20xQng5UFlFQmc5M3lRa2JvTzhKVEphQzNndnZ6VVFiQ1dMZHNaWl9vWXR5emw0Q2R6Wm9Na1ZoMzNneWliN2c2LV9DeFFsc2VxS2lUaHlnNTRXQm1Ed085S2tKU3gxLXA1ZUNVcjZR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rtx-2026-06-09-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Corporation $RTX Shares Purchased by Cerity Partners LLC - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQnlDeUZhV0RTQ0ZqVjJTX29RSGtCTmhXWEQ3M0lnc0JWNlpTOGh5ZGhKRlktUHgzR1FhYzYzamR5ZVlZQWNsYjhJNWN4S1BaRDVvdGttbC04ODh0U1RaZnI2elJob0cwbW4xQ2drZzM1VXg1RjRvZlYxMmVZRTF2aU8yNEZCNURhRmtwX0NTc2luSFRKUjFsUjdEZUt0M0p6WUZyUU8zbHVRZ25ZS0lXeHQ5bExnTWtPcWhLNA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "arms_export": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 17,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "palantir",
+        "count": 6
+      },
+      {
+        "id": "hanwha_aero",
+        "count": 4
+      },
+      {
+        "id": "rtx",
+        "count": 2
+      },
+      {
+        "id": "rheinmetall",
+        "count": 2
+      },
+      {
+        "id": "lockheed",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 13
+      },
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "drone_warfare",
+        "count": 1
+      },
+      {
+        "id": "arms_export",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 315,
+    "dup_title": 119,
+    "too_old": 77,
+    "gate1_blocked": 37,
+    "gate2_blocked": 24,
+    "passed": 58,
+    "pass_rate": "29.6%",
+    "gate2_block_rate": "12.2%",
+    "gate2_samples": [
+      "Jefferies Upgrades RTX Corporation (RTX) To Buy From Hold - Insider Monkey",
+      "Havemeyer Place LP Buys New Position in RTX Corporation $RTX - MarketBeat",
+      "Capital Research Global Investors Has $13.96 Billion Stock Holdings in RTX Corporation $RTX - Market",
+      "Jefferies Upgrades RTX Stock to Buy With a $220 Target: Here’s What Investors Need to Know - TIKR.co",
+      "Capital International Investors Decreases Holdings in RTX Corporation $RTX - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為Palantir Technologies、韓華航太、RTX相關動態：「A New Era of Warfare: Rheinmetall, Volatus Aerospace, and...」。主要關注主題為財報、國防航太通用、無人機作戰，市場情緒中性。",
+    "signals": [
+      {
+        "text": "A New Era of Warfare: Rheinmetall, Volatus Aerospace, and Lockheed Martin Dri...（無人機作戰、財報、國防航太通用）",
+        "level": "red"
+      },
+      {
+        "text": "AI Juggernauts Nvidia, Palantir, Micron, and Broadcom Are Sending Shockwaves ...（財報）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

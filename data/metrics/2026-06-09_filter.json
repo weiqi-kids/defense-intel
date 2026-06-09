@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 119,
+  "no_date": 0,
+  "too_old": 77,
+  "gate1_fail": 37,
+  "gate2_fail": 24,
+  "passed": 58,
+  "gate2_samples": [
+    "Jefferies Upgrades RTX Corporation (RTX) To Buy From Hold - Insider Monkey",
+    "Havemeyer Place LP Buys New Position in RTX Corporation $RTX - MarketBeat",
+    "Capital Research Global Investors Has $13.96 Billion Stock Holdings in RTX Corporation $RTX - Market",
+    "Jefferies Upgrades RTX Stock to Buy With a $220 Target: Here’s What Investors Need to Know - TIKR.co",
+    "Capital International Investors Decreases Holdings in RTX Corporation $RTX - MarketBeat"
+  ]
+}
