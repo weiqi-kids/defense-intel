@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 130,
+  "no_date": 0,
+  "too_old": 72,
+  "gate1_fail": 26,
+  "gate2_fail": 18,
+  "passed": 69,
+  "gate2_samples": [
+    "RTX Corporation $RTX Shares Purchased by Smithbridge Asset Management Inc. DE - MarketBeat",
+    "Jefferies Upgrades RTX Corporation (RTX) To Buy From Hold - Insider Monkey",
+    "Erste Asset Management GmbH Purchases 25,155 Shares of RTX Corporation $RTX - MarketBeat",
+    "Havemeyer Place LP Buys New Position in RTX Corporation $RTX - MarketBeat",
+    "Capital Research Global Investors Has $13.96 Billion Stock Holdings in RTX Corporation $RTX - Market"
+  ]
+}
