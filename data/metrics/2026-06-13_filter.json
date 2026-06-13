@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 134,
+  "no_date": 0,
+  "too_old": 76,
+  "gate1_fail": 32,
+  "gate2_fail": 18,
+  "passed": 55,
+  "gate2_samples": [
+    "RTX Corporation $RTX Shares Purchased by UBS AM a distinct business unit of UBS ASSET MANAGEMENT AME",
+    "Atalanta Sosnoff Capital LLC Has $133.64 Million Stock Holdings in RTX Corporation $RTX - MarketBeat",
+    "Nuveen LLC Trims Position in RTX Corporation $RTX - MarketBeat",
+    "SmartHarvest Portfolios LLC Takes Position in RTX Corporation $RTX - MarketBeat",
+    "Is L3Harris Technologies Inc (LHX) Overvalued After 3.0% Rally? - GuruFocus"
+  ]
+}
