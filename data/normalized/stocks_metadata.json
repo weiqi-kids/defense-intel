@@ -1,48 +1,48 @@
 {
   "lockheed": {
-    "earliest": "2008-11-19",
+    "earliest": "2008-08-21",
     "latest": "2026-06-12",
-    "count": 4417
+    "count": 4480
   },
   "rtx": {
-    "earliest": "2008-11-19",
+    "earliest": "2008-08-21",
     "latest": "2026-06-12",
-    "count": 4417
+    "count": 4480
   },
   "northrop": {
-    "earliest": "2008-11-19",
+    "earliest": "2008-08-21",
     "latest": "2026-06-12",
-    "count": 4417
+    "count": 4480
   },
   "general_dynamics": {
-    "earliest": "2008-11-19",
+    "earliest": "2008-08-21",
     "latest": "2026-06-12",
-    "count": 4417
+    "count": 4480
   },
   "l3harris": {
-    "earliest": "2008-11-19",
+    "earliest": "2008-08-21",
     "latest": "2026-06-12",
-    "count": 4417
+    "count": 4480
   },
   "bae": {
-    "earliest": "2008-11-19",
+    "earliest": "2008-08-21",
     "latest": "2026-06-12",
-    "count": 4435
+    "count": 4498
   },
   "thales": {
-    "earliest": "2008-11-14",
+    "earliest": "2008-08-18",
     "latest": "2026-06-12",
-    "count": 4495
+    "count": 4559
   },
   "leonardo": {
-    "earliest": "2008-11-14",
+    "earliest": "2008-08-18",
     "latest": "2026-06-12",
-    "count": 4461
+    "count": 4525
   },
   "rheinmetall": {
-    "earliest": "2008-11-14",
+    "earliest": "2008-08-18",
     "latest": "2026-06-12",
-    "count": 4461
+    "count": 4525
   },
   "aidc": {
     "earliest": "2014-08-25",
@@ -51,19 +51,19 @@
     "history_complete": true
   },
   "hanwha_aero": {
-    "earliest": "2008-11-17",
+    "earliest": "2008-08-19",
     "latest": "2026-06-12",
-    "count": 4329
+    "count": 4393
   },
   "elbit": {
-    "earliest": "2008-11-19",
+    "earliest": "2008-08-21",
     "latest": "2026-06-12",
-    "count": 4417
+    "count": 4480
   },
   "saab": {
-    "earliest": "2008-11-14",
+    "earliest": "2008-08-18",
     "latest": "2026-06-12",
-    "count": 4412
+    "count": 4476
   },
   "palantir": {
     "earliest": "2020-09-30",
@@ -72,18 +72,18 @@
     "history_complete": true
   },
   "kratos": {
-    "earliest": "2008-11-19",
+    "earliest": "2008-08-21",
     "latest": "2026-06-12",
-    "count": 4417
+    "count": 4480
   },
   "etf_ita": {
-    "earliest": "2008-11-19",
+    "earliest": "2008-08-21",
     "latest": "2026-06-12",
-    "count": 4417
+    "count": 4480
   },
   "etf_ppa": {
-    "earliest": "2008-11-19",
+    "earliest": "2008-08-21",
     "latest": "2026-06-12",
-    "count": 4417
+    "count": 4480
   }
 }

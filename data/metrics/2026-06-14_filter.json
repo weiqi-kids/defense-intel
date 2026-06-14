@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 167,
+  "no_date": 0,
+  "too_old": 70,
+  "gate1_fail": 34,
+  "gate2_fail": 18,
+  "passed": 26,
+  "gate2_samples": [
+    "State Street Corp Raises Position in RTX Corporation $RTX - MarketBeat",
+    "RTX Corporation $RTX Shares Purchased by UBS AM a distinct business unit of UBS ASSET MANAGEMENT AME",
+    "RTX Corporation $RTX Shares Purchased by Smithbridge Asset Management Inc. DE - MarketBeat",
+    "Atalanta Sosnoff Capital LLC Has $133.64 Million Stock Holdings in RTX Corporation $RTX - MarketBeat",
+    "Nuveen LLC Trims Position in RTX Corporation $RTX - MarketBeat"
+  ]
+}
