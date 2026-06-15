@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 151,
+  "no_date": 0,
+  "too_old": 70,
+  "gate1_fail": 37,
+  "gate2_fail": 21,
+  "passed": 36,
+  "gate2_samples": [
+    "Resources Management Corp CT ADV Purchases 19,719 Shares of RTX Corporation $RTX - MarketBeat",
+    "RTX Corporation $RTX Shares Acquired by Vanguard Personalized Indexing Management LLC - MarketBeat",
+    "State Street Corp Raises Position in RTX Corporation $RTX - MarketBeat",
+    "With EPS Growth And More, L3Harris Technologies (NYSE:LHX) Makes An Interesting Case - Yahoo Finance",
+    "L3Harris Technologies Inc. stock underperforms Friday when compared to competitors - MarketWatch"
+  ]
+}
