@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 117,
+  "no_date": 0,
+  "too_old": 73,
+  "gate1_fail": 48,
+  "gate2_fail": 29,
+  "passed": 48,
+  "gate2_samples": [
+    "RTX to Invest $100 Million in Raytheon Rhode Island Facility - Insider Monkey",
+    "71 West Capital Partners Purchases New Shares in RTX Corporation $RTX - MarketBeat",
+    "RTX Corporation $RTX Shares Acquired by Vanguard Personalized Indexing Management LLC - MarketBeat",
+    "Resources Management Corp CT ADV Purchases 19,719 Shares of RTX Corporation $RTX - MarketBeat",
+    "State Street Corp Raises Position in RTX Corporation $RTX - MarketBeat"
+  ]
+}

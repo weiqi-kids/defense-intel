@@ -1,0 +1,268 @@
+{
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T12:49:19.155190Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-06-16-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Corporation $RTX Shares Acquired by Rakuten Investment Management Inc. - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUWJJbjYwbTYxQ0kyVE1zQXZCQ29NN3B2bkNrOVVHZ2ZSOEpIc1hsSWtOb0l5bE4yRTZTdzYzT2xnNTZXNWU0T19NOWN1cmRBb21QTzFySFpHc3ZwVGpobDFPckxjU3RzVFpUZ2pVR2VQYUptUFFZNU9LU2VSaVpoYjdva1FkMlpueWJ5T2xCWWhMU2tlZnp4ODdOWDVNTmdPU1l5cFl6NUlNVjhVU0pSYjRWRVFNWkw0RDMyVUg2YkdsX19Dcm5FTFhWakxWUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rheinmetall-2026-06-16-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall Unveils the L60 155mm Gun System at Eurosatory - ASDNews",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ2tfRUlaY3Z1S1pnbUlZWmdpdEViLUhVYll5MnNzVDN3cjd6S3hjYzJ5WnhDcDcwc29xYjJ1T0RRWHR0XzdOSzdhamQ2Q29EVUFtRElla0JHSnBOSW16Tm5SR0NVbXZTVF9Bb04tUnhxdlU0NXJESGw5bk44bHB6cGNLdmVKdUYxeUlEYUEwT3hfU3FvTDBiNTVzN2ZFR0RkR3FLaA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rheinmetall-2026-06-16-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Eurosatory 2026: Rheinmetall Unveils Containerized Launcher for the FV-014 Loitering Munition - FW-MAG Future Warfare Magazine",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZnNqT3hSbmQ1c044cEQyQ3JRWUNzLUZOSG5oT0F1b054T3d0OUNla3M1akJ4cVd2d2VyenZDa1NQU214VENvRDZ2bHlDdjBqaFpHa3IySHd5NXZEdC1DZHBCRlNVMFZBMnVGX2tXaDltZjVTQUhTeE9ncnFxNHdsOTg3eGt6RTVSVHFvY3ROeWVVcDJkdHluMXRwV0NkQlhhaWRNSW1VUkxnUXRFc0l6em1VVkRjV0d0bjFrd2VXdzVtS0lvUlNiRg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hanwha_aero-2026-06-16-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha Aerospace To Buy Shares In Korea Aerospace Industries For 500 Billion Won - TradingView",
+      "companies": [
+        "hanwha_aero"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdy1yX2hndlBOZ0lFcUFsbmt5Q1Z2WHU4ZGJiRUdxbE5jX01JQTNoQmRiX193UzFDdy1OYlhSZElWNFNMS2hFYXE5R0VkUm5kdWJyWGdPaTkwZjNQUDZrbEVjZFhhSzNabVdMQ0lOcHRMZ3FhSXNqeHJpQmgyVFVYNmdKTVRqWjBWbmtieHB4U1JLTEVpR0ZVVTJnWGpGRGstLWxiM1phamFXRjJ6SjdkUy16ZEVEc080R2xETkVvY3RxTlBENUN1bGY4LUtEeGJPdTFWQnduZ0s4UDUwa0RaSHB0QzM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_aero-2026-06-16-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha Aerospace to acquire additional KAI shares for 500 bln won - Yonhap News Agency",
+      "companies": [
+        "hanwha_aero"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTbGltem9SQWIwN2M2MFVNTE1FaTVnN3ZUaThJLU14aG5CQ2k1Qi0zb045U2RQWEFkSzRfcDFSREFVUXdQaTVRVzlmQTlCcVNSaWV3YzNfcEQyUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "missile_defense": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "defense_budget": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 21,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rheinmetall",
+        "count": 3
+      },
+      {
+        "id": "hanwha_aero",
+        "count": 3
+      },
+      {
+        "id": "palantir",
+        "count": 3
+      },
+      {
+        "id": "rtx",
+        "count": 2
+      },
+      {
+        "id": "leonardo",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 14
+      },
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "missile_defense",
+        "count": 3
+      },
+      {
+        "id": "drone_warfare",
+        "count": 2
+      },
+      {
+        "id": "defense_budget",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 315,
+    "dup_title": 117,
+    "too_old": 73,
+    "gate1_blocked": 48,
+    "gate2_blocked": 29,
+    "passed": 48,
+    "pass_rate": "24.2%",
+    "gate2_block_rate": "14.6%",
+    "gate2_samples": [
+      "RTX to Invest $100 Million in Raytheon Rhode Island Facility - Insider Monkey",
+      "71 West Capital Partners Purchases New Shares in RTX Corporation $RTX - MarketBeat",
+      "RTX Corporation $RTX Shares Acquired by Vanguard Personalized Indexing Management LLC - MarketBeat",
+      "Resources Management Corp CT ADV Purchases 19,719 Shares of RTX Corporation $RTX - MarketBeat",
+      "State Street Corp Raises Position in RTX Corporation $RTX - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為萊茵金屬、韓華航太、Palantir Technologies相關動態：「RTX Corporation $RTX Shares Acquired by Rakuten Investmen...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "RTX Corporation $RTX Shares Acquired by Rakuten Investment Management Inc. - ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Rheinmetall Unveils the L60 155mm Gun System at Eurosatory - ASDNews（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
