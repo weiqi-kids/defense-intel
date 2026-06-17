@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 105,
+  "no_date": 0,
+  "too_old": 67,
+  "gate1_fail": 39,
+  "gate2_fail": 20,
+  "passed": 84,
+  "gate2_samples": [
+    "Titan Wealth CI Ltd Invests $8.11 Million in RTX Corporation $RTX - MarketBeat",
+    "RTX Corporation $RTX Shares Sold by Lombard Odier Asset Management USA Corp - MarketBeat",
+    "71 West Capital Partners Purchases New Shares in RTX Corporation $RTX - MarketBeat",
+    "RTX Corporation $RTX Shares Acquired by Vanguard Personalized Indexing Management LLC - MarketBeat",
+    "With EPS Growth And More, L3Harris Technologies (NYSE:LHX) Makes An Interesting Case - Yahoo Finance"
+  ]
+}
