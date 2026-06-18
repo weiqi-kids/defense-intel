@@ -1,0 +1,268 @@
+{
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T11:47:45.562830Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rheinmetall-2026-06-18-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Vantor and Rheinmetall Partner to Build Sovereign Intelligence Capabilities for Germany - Caledonian Record",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNOFAwTHRVbm0wUGdYZHJ5SDhhMDY2dEMyTDF3U1FHMUNjalNNeFNsWnZJdjBCaHBPWHpoLWJ4SERMVWlhaUZQWG5ZUHJ3Q1ZZdXNSRlBRUUd4UjlVWUNzU19wR05jajhBZHVPU2RZZ2FHNWE2VDlJNDFBSEJzeDY0blo5eHRKQUpPSmhGZGpmZjZTQUc1TUFlbmRvSHYyOUJIc0k4STRGaGFyWVlFSWFDVG93YXRuSi1oMW5zdlpla1A3ZUpLNUlfcFJ0ZG1ybHpENzlGVUpqT2JJZEE5X3pXa2Q3ZmdFVWZqMjIxLU14VUpyRWx4a3ZZU3daM1ZSYU0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rtx-2026-06-18-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Clough Capital Partners L P Sells 10,080 Shares of RTX Corporation $RTX - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUzZfV0podkxIV2tTRkVHNi1KR01YVzVGeW91WktTaUF3VHFFTzZkd3RSM3BYck1iQXlxcEE4R0M3SHkzbHNzaDNNMXhoZHRhWV9XYVVjdkozQ1pBYjZONkZIbXY4dEdTUjQxWmhOdFNfSXRhTVNsQ2x6UlBwSS1TYWhueF9lTlFEd1NzOTFSTnR1b2NveVZ4dHY4R1FpMW96Z1AwZ0Y5NHo5WUNhd3YwTWNLd0hITUpQMlNKcmNXS0t1RlEtV0ZiQS1n?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rheinmetall-2026-06-18-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vantor and Rheinmetall Partner to Build Sovereign Intelligence Capabilities for Germany - Business Wire",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNXzBSaTc0VVhWenlQVExjUWJQZ29McDJlbzQ3VkY2SGxjSVdqZk9aRlg0SGh3QnNOYWlpLUlnU3BjeFBNS0RrOS0xTVFNbDh3Y1k5SnJSTlB5cV9icENPYUwzeFZfUnU5aGZLMEJrT3p1eFlnc2FGUC1KcG5GN19QdVFmbHN5MUREVDZNQkV1MjFPS2pVUkRNSEFkRlZVSUE4a3lzRFpkQUhVOERBeE1OaFF0TEV0ZFpfSF9mbUZPVGZpeWlubUtfOHJjSGpzbkh1MW82ZEw2MXA3bFNF?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rheinmetall-2026-06-18-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall Showcases Skyspotter Airport Drone Defence System - Unmanned Systems Technology",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYjh3cHVjUGZsYWN1TTdFYUVVR1hITjgwdnF5N3hIb0pmd090S0k1SkJGRDZocU1KcmVMUzlkVVZvNFZ4S3Rkc0xQQW9UOEMyckZyeVZZenJQYWRvREhIN2w4Q0JPQzh6VWFHbEhVSXRYRVpEeEJWRnl3UFZDaUczcGRGQkJQMUFOUEN6T05QbjZlNThwYjNXVWppZDVmMnQ4RlV5RmtHbnpoejl1ZHExaEF3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rheinmetall-2026-06-18-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall, Satellite Company Vantor to Build Intelligence Platform - marketscreener.com",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMWExUDBTTUJ0Rm53OGpIV2EwUG9pTTdPQUltazhrVzlJaEpuRThEc2hBc3MwWTV5dnhZZlFRUk9fa3RZb0hIQlE3X3NndFFNczlBamJ5Mk1jY3NRZHo2RU9HRjJrYU81M1N4RzI0UW9yckNXNkZSYVN6RFhxUFV2bmRKLTh5X3hyUDRwNzh4WnpWdkRXYjFENkJqXzNoRTQ4bXpKR1FPT2xyTUlLRFlnX1l4azQ3SkJNNkhqSQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.11,
+      "sentiment_7d_avg": null
+    },
+    "arms_export": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "defense_budget": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 16,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rheinmetall",
+        "count": 7
+      },
+      {
+        "id": "rtx",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "hanwha_aero",
+        "count": 1
+      },
+      {
+        "id": "palantir",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "drone_warfare",
+        "count": 3
+      },
+      {
+        "id": "arms_export",
+        "count": 2
+      },
+      {
+        "id": "defense_budget",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 315,
+    "dup_title": 126,
+    "too_old": 74,
+    "gate1_blocked": 40,
+    "gate2_blocked": 26,
+    "passed": 49,
+    "pass_rate": "25.9%",
+    "gate2_block_rate": "13.8%",
+    "gate2_samples": [
+      "Iron Gate Global Advisors LLC Sells 7,191 Shares of RTX Corporation $RTX - MarketBeat",
+      "Finland to Purchase Glide Bombs Made by RTX's Raytheon Unit - marketscreener.com",
+      "RTX Corp Stock (RTX) Moved Up by 3.08% on Jun 17: What Investors Need To Know - TradingKey",
+      "71 West Capital Partners Purchases New Shares in RTX Corporation $RTX - MarketBeat",
+      "Titan Wealth CI Ltd Invests $8.11 Million in RTX Corporation $RTX - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為萊茵金屬、RTX、L3Harris Technologies相關動態：「Vantor and Rheinmetall Partner to Build Sovereign Intelli...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Vantor and Rheinmetall Partner to Build Sovereign Intelligence Capabilities f...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Clough Capital Partners L P Sells 10,080 Shares of RTX Corporation $RTX - Mar...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

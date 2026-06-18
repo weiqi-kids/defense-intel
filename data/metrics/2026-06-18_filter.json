@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 126,
+  "no_date": 0,
+  "too_old": 74,
+  "gate1_fail": 40,
+  "gate2_fail": 26,
+  "passed": 49,
+  "gate2_samples": [
+    "Iron Gate Global Advisors LLC Sells 7,191 Shares of RTX Corporation $RTX - MarketBeat",
+    "Finland to Purchase Glide Bombs Made by RTX's Raytheon Unit - marketscreener.com",
+    "RTX Corp Stock (RTX) Moved Up by 3.08% on Jun 17: What Investors Need To Know - TradingKey",
+    "71 West Capital Partners Purchases New Shares in RTX Corporation $RTX - MarketBeat",
+    "Titan Wealth CI Ltd Invests $8.11 Million in RTX Corporation $RTX - MarketBeat"
+  ]
+}
