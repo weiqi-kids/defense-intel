@@ -1,0 +1,16 @@
+{
+  "total_raw": 300,
+  "dup_title": 123,
+  "no_date": 0,
+  "too_old": 69,
+  "gate1_fail": 35,
+  "gate2_fail": 26,
+  "passed": 47,
+  "gate2_samples": [
+    "RTX (RTX) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance",
+    "RTX Corp Stock (RTX) Moved Down by 3.47% on Jun 18: A Full Analysis - TradingKey",
+    "Iron Gate Global Advisors LLC Sells 7,191 Shares of RTX Corporation $RTX - MarketBeat",
+    "MDA Space to Buy Raytheon's Blue Canyon Technologies for $620 Million - marketscreener.com",
+    "71 West Capital Partners Purchases New Shares in RTX Corporation $RTX - MarketBeat"
+  ]
+}
