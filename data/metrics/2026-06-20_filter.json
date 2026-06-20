@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 135,
+  "no_date": 0,
+  "too_old": 72,
+  "gate1_fail": 38,
+  "gate2_fail": 21,
+  "passed": 49,
+  "gate2_samples": [
+    "RTX (RTX) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance",
+    "SHP Wealth Management Acquires Shares of 6,080 RTX Corporation $RTX - MarketBeat",
+    "Corient Private Wealth LLC Acquires 927,671 Shares of RTX Corporation $RTX - MarketBeat",
+    "Iron Gate Global Advisors LLC Sells 7,191 Shares of RTX Corporation $RTX - MarketBeat",
+    "71 West Capital Partners Purchases New Shares in RTX Corporation $RTX - MarketBeat"
+  ]
+}
