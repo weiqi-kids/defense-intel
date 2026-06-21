@@ -1,5 +1,44 @@
 [
   {
+    "id": "rtx-2026-06-21-001",
+    "date": "2026-06-21",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [
+      "drone_warfare",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ARS Investment Partners LLC Purchases 23,222 Shares of RTX Corporation $RTX - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOY0RfeXJvY1NrRUFRN3RmTnJrNU5iVHpWZ1FjaC1kczdzenRrNmJtanBVQ2VOSU9Rc1VpUE1RQlhwUi1RVWVGVXZpMGFWM1pqdDFZQU1tWUpoTFVob19hR0s2dGNGZm5ucmlFcThDbF",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY0RfeXJvY1NrRUFRN3RmTnJrNU5iVHpWZ1FjaC1kczdzenRrNmJtanBVQ2VOSU9Rc1VpUE1RQlhwUi1RVWVGVXZpMGFWM1pqdDFZQU1tWUpoTFVob19hR0s2dGNGZm5ucmlFcThDbFFIVlRCd2JMdnRHY09NQkU2T3BHYUtnUHBhWG5BX3oyQzdPN1FUNkhYRHlzZkw5SlpXQ2g2NHAzTkd3UGw2eE9NdFEyYXNUaVh0UTV5ZmNUWEtncFRxbUduRFJ6OGs5RWM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-06-21-002",
+    "date": "2026-06-21",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Is It Too Late to Buy Palantir Stock? Here Is What Its Valuation Says About Its Future. - AOL.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPTWRvREtzLTZKRi1fVEItWnowVEhHMUxZUEsyM2JZTFI0al9DTERXc0tUcDV3LTBzWEtRd1dFTnA4b2JfaWJrOE1IdDJwYTRwMklvQml6YnJfXzRiMzJYVkhSOWJvZlFMNUNzZ0dCT1",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTWRvREtzLTZKRi1fVEItWnowVEhHMUxZUEsyM2JZTFI0al9DTERXc0tUcDV3LTBzWEtRd1dFTnA4b2JfaWJrOE1IdDJwYTRwMklvQml6YnJfXzRiMzJYVkhSOWJvZlFMNUNzZ0dCT1VmNkRuT2x3ZjdkVTd5UkozQnl3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rtx-2026-06-20-001",
     "date": "2026-06-20",
     "companies": [
@@ -194,6 +233,209 @@
       {
         "name": "hanwha_aero",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iTk9qWUQ0ZE9WT0JNSjhDRzNRM3NuR1ZBS243MkFER3VXMFV0OEJoMEZLTEU4aW1tbGRib0dsVjBwVy0wZnRmbmtMcTFraXc1LVBBRWV6bWRSWnlxcm5MekRkdFMzRWNsbzhYOFozaWR2eTctVmRZSXEzMTlBd1U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rtx-2026-06-20-011",
+    "date": "2026-06-20",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "MDA Space to buy RTX-owned Blue Canyon Technologies for $620M - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOTHpacm8zMHowUXAxVWR2dnZnaHYwa3dwU3hHY1UtSkxWWXVYRG5HemZjUHV2a2lXRXVFN2ZlVXc5QlNIWEdCa1UwclRlT21pWDQ3TnlIMUJVd2hBS3NiamxMMENMRlNtVmcyb053WW",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTHpacm8zMHowUXAxVWR2dnZnaHYwa3dwU3hHY1UtSkxWWXVYRG5HemZjUHV2a2lXRXVFN2ZlVXc5QlNIWEdCa1UwclRlT21pWDQ3TnlIMUJVd2hBS3NiamxMMENMRlNtVmcyb053WWNrSFZubEJvclktbDVrS3lOVGxBeHM2N1Vhc3d4dld3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rtx-2026-06-20-012",
+    "date": "2026-06-20",
+    "companies": [
+      "rtx",
+      "lockheed"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S. Defense Expert Warns Of Critical Munitions Shortfall, Putting Lockheed Martin (NYSE: LMT) and RTX Corporation (NYSE: RTX) In Focus - foreignpolicyjournal.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxNTFVHT1pybGh2WklpLWY3V0NRQzg3Q2RoVEc1cmIxWmVVTTZ2S2hwZzYwbUVzaU5QWFpEZlFUbEtrN1JtaU5pTi1fVWxoNElkMENROGNraVEzWUlBZ2N3NUhYcTJkRlRyNldJaHlLdk",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNTFVHT1pybGh2WklpLWY3V0NRQzg3Q2RoVEc1cmIxWmVVTTZ2S2hwZzYwbUVzaU5QWFpEZlFUbEtrN1JtaU5pTi1fVWxoNElkMENROGNraVEzWUlBZ2N3NUhYcTJkRlRyNldJaHlLdkFRTkRCQ0pfU2xDZjRwTzlXYTFaeUNINkxNRjVjYmJnTGdHWDFNaEZzNldtSm1GalJsYm1pSEo0djMwVml0SEZMRG5jLWNrR3R5cTRLdkNmZmtRQnVHUXBXRmw2NGJiSFkzX2tWWlZNekk4VHpnU0pQcmRGYzVKV1NmYzZYV2ZwM09EeE1obkZQZkp0a0NkUUhiNEZndE5Pcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rtx-2026-06-20-013",
+    "date": "2026-06-20",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Kovitz Investment Group Partners LLC Sells 739,094 Shares of RTX Corporation $RTX - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSVFxTERWMHRDc2FKcUZhaEdKQ0tsbDhJMFdwN1lVTXpCcDFPVXJwc2dwN3YtVjNMZjJJOUVlZUtjM1Y4dTE0U0VoWHhPQnlQWU9tMXF1NkVkb1RWYndTbjk4dlphdGhRTjBSZzlzbW",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSVFxTERWMHRDc2FKcUZhaEdKQ0tsbDhJMFdwN1lVTXpCcDFPVXJwc2dwN3YtVjNMZjJJOUVlZUtjM1Y4dTE0U0VoWHhPQnlQWU9tMXF1NkVkb1RWYndTbjk4dlphdGhRTjBSZzlzbWU4MVFpNG4yXzU4UmVSRWVTSzgzTWt1ME5pTDBCeWRRT2hJSlZaaGxueklvYnh5cWxPOU9VZUk3UEFLTEZPZ1h3Q0RJU0lYQWNYR1lrdXlKODU4cFkyVWFIV1JoeTlXVm9CSjBERGoydw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rtx-2026-06-20-014",
+    "date": "2026-06-20",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "RTX Corporation $RTX Shares Purchased by Rockefeller Capital Management L.P. - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQdFVfb1lOYmhZWUZIeHZEQUYyQzJVbG5OS2hrNHowODE4VDRFX2RZVE85ZC13enpNb0Q5cnk1Nm9YX0xqTnlQOFlGaE1WV3dBSHJNSmdzZTlLb3lqRTM2c0NOTmhxSXNmNDd6VS1kVU",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdFVfb1lOYmhZWUZIeHZEQUYyQzJVbG5OS2hrNHowODE4VDRFX2RZVE85ZC13enpNb0Q5cnk1Nm9YX0xqTnlQOFlGaE1WV3dBSHJNSmdzZTlLb3lqRTM2c0NOTmhxSXNmNDd6VS1kVU1aYkdoOHpfTWg3Q0loZ2ZfRG8wLWw0czZUM0hfSUE1S0t5RFE5cjR0U3hkN2pzdkhkclM3TEZfOElYQkY5Umc0dnBXWERtMTMtbllKOTF1dU5YSFVodnRQMkpCTzlSeGM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-06-20-015",
+    "date": "2026-06-20",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Up 18% in the Last 12 Months, Can L3Harris Technologies Stock Give Better Returns in 2026? - TIKR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPUlZ4WFlLQ3l5TXNXMUc4cFp2QlZpRXBORWxGdUlPTVdrTVZCTWdVTUZ3VnMwbUZ3dFNXbnpXbEZNTmtfbmtmLUJzN2EyTWhyZlZuSkF5VHFsWWY0QmxaV1RMUndlTloxeTdsSmYweS",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUlZ4WFlLQ3l5TXNXMUc4cFp2QlZpRXBORWxGdUlPTVdrTVZCTWdVTUZ3VnMwbUZ3dFNXbnpXbEZNTmtfbmtmLUJzN2EyTWhyZlZuSkF5VHFsWWY0QmxaV1RMUndlTloxeTdsSmYweS1PR0VPY0JIYkdGZ3o4NDQtRGtZcXF6c2VFZllNdG5nclI0NnhEcEVRZEpoVDNaSWcwYjRvakFneV9jcG5oWU1lLWhFdlktbWs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-06-20-016",
+    "date": "2026-06-20",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "drone_warfare",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace Seeks Partners for AI, Unmanned Systems and Aero Engine Technologies - thelec.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aaHk5M1k1TUdkdU90ZlhFcHJ2RWtTeVp0SjVCVWpNc1NqZlRGS3ZwcHRBN1Zyd0RjYmd4T2duQU9mM3JrUEdnZmFSYTVHUjg4dDZrWm5hZ1lTbmFBOGd6alh0Tm1qWlk?oc=5\" targ",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aaHk5M1k1TUdkdU90ZlhFcHJ2RWtTeVp0SjVCVWpNc1NqZlRGS3ZwcHRBN1Zyd0RjYmd4T2duQU9mM3JrUEdnZmFSYTVHUjg4dDZrWm5hZ1lTbmFBOGd6alh0Tm1qWlk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thales-2026-06-20-017",
+    "date": "2026-06-20",
+    "companies": [
+      "thales",
+      "hanwha_aero"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Thales, Hanwha Aerospace sign MOU on long-range precision strike systems - Asia Pacific Defence Reporter",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPV3hqaHBNOTZReV9Ya2JCOG1LQk1VRkVJYXR4SGRiUTVPeHh6ZHJnOVBkb0FPTXh3b1M5MVd6TlZsM1N3S2NxWGlTRTg1aGtSVy1YcllVMkNWbnp0WXNRWnh6YW9JbkQtSmE4LU05d3",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV3hqaHBNOTZReV9Ya2JCOG1LQk1VRkVJYXR4SGRiUTVPeHh6ZHJnOVBkb0FPTXh3b1M5MVd6TlZsM1N3S2NxWGlTRTg1aGtSVy1YcllVMkNWbnp0WXNRWnh6YW9JbkQtSmE4LU05d3NqRkNwMEJadlRreS1Vbm5xSDVTQjE4N2o0aGlzTVVsaEFSNWxYdG5PbmxKRVhSQ1l6ZlRRam80YUU1R3hscENETg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-06-20-018",
+    "date": "2026-06-20",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace and Generation 5 Holding Partner for K9 Howitzer Production in Middle East - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOMTh6MkVCNzBFMXRDNFk5N201NVI0SUpTRC1OOXFTdUhzazlxblQ4R3pEYkFMdEJnWXpoYjZpM1otVElzWWxSNmNidlpYS0ZmcFpWOTROUW1DLUZiVG5Ralhzb3JqZ0JLcnJEMC00NU",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMTh6MkVCNzBFMXRDNFk5N201NVI0SUpTRC1OOXFTdUhzazlxblQ4R3pEYkFMdEJnWXpoYjZpM1otVElzWWxSNmNidlpYS0ZmcFpWOTROUW1DLUZiVG5Ralhzb3JqZ0JLcnJEMC00NUw1VnU5NW5mVEhtN2VwRUl4dXpUQzNKM0h6a05MbFRINklvbGpEenJJczRrTW44NmdQYUw2d2gweVp0eVVvTU5GUUV4eUEyQkNCbi1pcWJR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saab-2026-06-20-019",
+    "date": "2026-06-20",
+    "companies": [
+      "saab"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Saab Stock - Long-term defense strategy under investor scrutiny - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOa2FxWDc2Y1djQlJMRi1pYzVERU9nMTVQWXFKeTJSUTFFWmUxLXFxenh6Tmd0YUpfMTZFdXlISnJ0VjN5RTdfUHVhQTNSSHlyaVUtYllNWFdyYnVLSHg1aDRndUx5UkFyTU54TzFsUl",
+    "sources": [
+      {
+        "name": "saab",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa2FxWDc2Y1djQlJMRi1pYzVERU9nMTVQWXFKeTJSUTFFWmUxLXFxenh6Tmd0YUpfMTZFdXlISnJ0VjN5RTdfUHVhQTNSSHlyaVUtYllNWFdyYnVLSHg1aDRndUx5UkFyTU54TzFsUlBKYzJqRzQ3dnVHOXZZTG1PM0ZHX1k4X3c0WDhKdUx0czBVNTB4RkUxTEUtcFFsUVFfaFJwSmFScnN1Nk1Xa2U2elJZUDdRanZXbk56bQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-06-20-020",
+    "date": "2026-06-20",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "When Palantir CEO Alex Karp said on New York Mayor Zohran Mandani: Average Ivy League graduate voting for - The Times of India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AJBVV95cUxPM2owRS1GSUdHbGR5Y3lGaVctSGVhUko2bC1kbE84ajQ1QzRqMUlSajAzdUc0R0lERUM0T3V0RXo3LVE5ZUgxejF0NExLVVJWWmNvdTNuOUVSWjBtSndwcENfWlgxdEVrYUlfa01RYj",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPM2owRS1GSUdHbGR5Y3lGaVctSGVhUko2bC1kbE84ajQ1QzRqMUlSajAzdUc0R0lERUM0T3V0RXo3LVE5ZUgxejF0NExLVVJWWmNvdTNuOUVSWjBtSndwcENfWlgxdEVrYUlfa01RYjk0cTk2YzQ5S2pfTVdMeU9SVW11b2lQM3ByRUc3NFJwZ0FJNkVJelJQR2JrMUoxeGxHZlYtTDB1RkJYbFlfdm5KWGRBcFRaelFLV0xqMVNEYy1VVmhWTUpmZDVWMEoyX3pwcVhEQVFwcDM0bmI1QUpqbzEtSHdpbi1FTmdYNWtEd0RsNlFLcTJYcHZPcFA5UVVhclJxRFdubTBqbzBMRFN5YVA4OEc2dFViMmtXWFlDSlJDYkxHMFhXTUhZOGFwUFVEM2JGTG5mRExGXzNWWnF5RFpyZlh5VWNIM2doME16bVktSU9y0gHaAkFVX3lxTE9JR3JObFZqeS1JQkRGbUFia196SmZvdFQwUXhnSlR0aHZmSmZzWXljT0haal9tamhTdDJHMGVvdEhnbV8xV0dYS21WSnZBQlctdE1NNzlkamgxSi1PZGVFQlEzRXNFcFIyVEtKR3J6UlY4Q05ySHhsbkVhX1dWcGlycVJZcHFvc0E2THhRbUtPdnFyazNRa2dsQnBDT0tyYmc1czZxNUJiM0ZNcDdwWHM0ZHRxblhRdjB4MmZhazdob1dKdlZJeWlOT0htMnE0QkMxN0wtUHgwWVQ0dkdNQ0RPVFhpUVFzMlFBM1NUaGJFbUxYdG1LN2ZYRElyX0RfcV9MR0lSeUtPQjR5dlp6bzU0T1pEdXhicWpWaExOdTlreTNrWDhEYkhDSE41aUd6SVBVY0lqZVlicjhOMGc0anVoXzNMNEMxVG5OY3N4YlppbVItSkpyWG1QSkE?oc=5",
         "type": "rss"
       }
     ]
@@ -1951,6 +2193,43 @@
       {
         "name": "breaking_defense",
         "url": "https://breakingdefense.com/2026/06/carmaker-renault-teams-with-thales-on-4troop-military-vehicle-design/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-06-18-052",
+    "date": "2026-06-18",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Palantir: The $185 Billion Contract Nobody's Pricing In (NASDAQ:PLTR) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPNC1HZnV4TDA2LXVFNE9fOTVBaHhod2IxRTZ6SnVJeUhDY1NJbTE0SFdLNTJiN1Z1WUI0QWhyMlo3a21lY08wQXhJaDJ0QUx6TVN4d2poSWE2b0VybW5aV1dPVTVsZ3ZWdXRTbHByRn",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNC1HZnV4TDA2LXVFNE9fOTVBaHhod2IxRTZ6SnVJeUhDY1NJbTE0SFdLNTJiN1Z1WUI0QWhyMlo3a21lY08wQXhJaDJ0QUx6TVN4d2poSWE2b0VybW5aV1dPVTVsZ3ZWdXRTbHByRnlyVE5BbHZZRU1NeGprVUVWb0w3VF9WUlRSRF9YMVAyYklmNGktSWxkcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-053",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "defense_budget",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Japan’s defense chief challenges China’s military spending data - The Japan Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOZVpCaUFjNFFfZEJVUjRocWVLMUNMYnVRai1zRERKZl9LanpXM3F2Z1ZFRHNCdmdqT21rWkhvckYwNHh5SVdPVTZTQXU0ckJ6RERRTlNIcklOVDZfUUg1b1JkTm52TTBia2N5a3Exb3",
+    "sources": [
+      {
+        "name": "google_defense_budget",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZVpCaUFjNFFfZEJVUjRocWVLMUNMYnVRai1zRERKZl9LanpXM3F2Z1ZFRHNCdmdqT21rWkhvckYwNHh5SVdPVTZTQXU0ckJ6RERRTlNIcklOVDZfUUg1b1JkTm52TTBia2N5a3Exb3VvTDVXOURtRFhnWHp2X3BGbVZPRDNpSHNUc0YxZnhOWk5rbnVKN2lONTh0eGFHOWNzSEc3TWdZWW1SaV9aSHNZRlJfTTRIdw?oc=5",
         "type": "rss"
       }
     ]
@@ -4629,6 +4908,26 @@
     ]
   },
   {
+    "id": "rtx-2026-06-16-086",
+    "date": "2026-06-16",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "RTX to Invest $100 Million in Raytheon Rhode Island Facility - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPaS1nRi04dlh6VERrYWJrXzhFMXIwNjk1cV93M1RkTHk2Q251LThlUlpyajRzdHhTQ1BZUS1SUW9lbXVoa0cwSU45UkhzaTJUTkJLQWRDWUhaWlpQTVZ0VmFxWnpNZDZCNGp5b3JVZD",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaS1nRi04dlh6VERrYWJrXzhFMXIwNjk1cV93M1RkTHk2Q251LThlUlpyajRzdHhTQ1BZUS1SUW9lbXVoa0cwSU45UkhzaTJUTkJLQWRDWUhaWlpQTVZ0VmFxWnpNZDZCNGp5b3JVZDhHOUtTZ0d0ZDVEamV1R3pLTGxBUjBuVGg2c1gzd3dfNXh2Wk4wR09Ndi1xb3I?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rtx-2026-06-15-001",
     "date": "2026-06-15",
     "companies": [
@@ -5654,6 +5953,46 @@
       {
         "name": "google_defense_budget",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KVDNWWkNuaUQ0OHVVNUoweDkzRVozNTEtMUJJTjE0ekYzYTZ3R3NLUVdtd1gxOWhPSGNWOFRXakRoU29weGNDZDRVSTBLNWpCVG5oSktqWVFITE9HMW9GYVhTR3Rra2dNZ0FLZUpLa0poSHZ6SEhodHJNMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-06-15-055",
+    "date": "2026-06-15",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Containerised Missile Launcher makes its debut at Eurosatory - Rheinmetall",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUXNRTjZPRWhUSHY4ODV1UTRlYmRzWDBZNzF1UDdsQi1yMlk0a0JDc3FUcGhSSVU0bTFiS1JTRVZzWGtWRGw4SDRvRXVCOEthQ3FLa0JvTzN3bWVOM2pIcnJWOXo5N3F6cnc5ZklsVX",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUXNRTjZPRWhUSHY4ODV1UTRlYmRzWDBZNzF1UDdsQi1yMlk0a0JDc3FUcGhSSVU0bTFiS1JTRVZzWGtWRGw4SDRvRXVCOEthQ3FLa0JvTzN3bWVOM2pIcnJWOXo5N3F6cnc5ZklsVXE3MVhabnNHSlNWLWdfRjN5Q3B2VFZ1SHFrdWFfOGtzQnRGVDk2clduVEtiWFd2TEVBWXg0VXNyY0Y4MGh0Nk9paGVJakd4elh0NVpvLUlEQldIUzR3R0dsQnZPb094YzQ3eVN6V0ppYjVhcXAtVUhhRmM4MlNKSVBveTdXN3FDZWRDMnVKMzc3QjBxSzYxTXM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "elbit-2026-06-15-056",
+    "date": "2026-06-15",
+    "companies": [
+      "elbit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Elbit Systems Acquires BlueWhite Robotics to Expand Agricultural Autonomy Portfolio - MaquiNAC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQQTN1TEZJa2hWRF84XzA2THZYQzlLaEQ4MWtkanRBSVdrS1ZMazRTU3NxLUhhT2laaEZtZ2tkOVJreFpCTTlKU0owNFB2R3pOMjl6OWZmR2taaHF6c0lvbG1oQU1Ld01fc09uanNpQ0",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQTN1TEZJa2hWRF84XzA2THZYQzlLaEQ4MWtkanRBSVdrS1ZMazRTU3NxLUhhT2laaEZtZ2tkOVJreFpCTTlKU0owNFB2R3pOMjl6OWZmR2taaHF6c0lvbG1oQU1Ld01fc09uanNpQ09kV1RXa29IWTZ2TWtWb1VjLTJJbmtHSWd3SDY3UTUzMXBWcjFrR2VTNFI3RFR6QmVRRW1CZG1kbS01M29XNEttOF80OA?oc=5",
         "type": "rss"
       }
     ]

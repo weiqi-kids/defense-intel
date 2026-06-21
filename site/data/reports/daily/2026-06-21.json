@@ -1,0 +1,135 @@
+{
+  "date": "2026-06-21",
+  "generated_at": "2026-06-21T11:12:50.756508Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-06-21-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ARS Investment Partners LLC Purchases 23,222 Shares of RTX Corporation $RTX - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY0RfeXJvY1NrRUFRN3RmTnJrNU5iVHpWZ1FjaC1kczdzenRrNmJtanBVQ2VOSU9Rc1VpUE1RQlhwUi1RVWVGVXZpMGFWM1pqdDFZQU1tWUpoTFVob19hR0s2dGNGZm5ucmlFcThDbFFIVlRCd2JMdnRHY09NQkU2T3BHYUtnUHBhWG5BX3oyQzdPN1FUNkhYRHlzZkw5SlpXQ2g2NHAzTkd3UGw2eE9NdFEyYXNUaVh0UTV5ZmNUWEtncFRxbUduRFJ6OGs5RWM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "palantir-2026-06-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is It Too Late to Buy Palantir Stock? Here Is What Its Valuation Says About Its Future. - AOL.com",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTWRvREtzLTZKRi1fVEItWnowVEhHMUxZUEsyM2JZTFI0al9DTERXc0tUcDV3LTBzWEtRd1dFTnA4b2JfaWJrOE1IdDJwYTRwMklvQml6YnJfXzRiMzJYVkhSOWJvZlFMNUNzZ0dCT1VmNkRuT2x3ZjdkVTd5UkozQnl3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drone_warfare": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rtx",
+        "count": 1
+      },
+      {
+        "id": "palantir",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "drone_warfare",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 300,
+    "dup_title": 155,
+    "too_old": 70,
+    "gate1_blocked": 38,
+    "gate2_blocked": 20,
+    "passed": 17,
+    "pass_rate": "11.7%",
+    "gate2_block_rate": "13.8%",
+    "gate2_samples": [
+      "SHP Wealth Management Acquires Shares of 6,080 RTX Corporation $RTX - MarketBeat",
+      "Corient Private Wealth LLC Acquires 927,671 Shares of RTX Corporation $RTX - MarketBeat",
+      "Iron Gate Global Advisors LLC Sells 7,191 Shares of RTX Corporation $RTX - MarketBeat",
+      "71 West Capital Partners Purchases New Shares in RTX Corporation $RTX - MarketBeat",
+      "L3Harris Technologies Inc Stock (LHX) Closed Down by 5.86% on Jun 20: What Investors Need To Know - "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為RTX、Palantir Technologies相關動態：「ARS Investment Partners LLC Purchases 23,222 Shares of RT...」。主要關注主題為無人機作戰、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "ARS Investment Partners LLC Purchases 23,222 Shares of RTX Corporation $RTX -...（無人機作戰、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Is It Too Late to Buy Palantir Stock? Here Is What Its Valuation Says About I...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

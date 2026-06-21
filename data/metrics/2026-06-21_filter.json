@@ -1,0 +1,16 @@
+{
+  "total_raw": 300,
+  "dup_title": 155,
+  "no_date": 0,
+  "too_old": 70,
+  "gate1_fail": 38,
+  "gate2_fail": 20,
+  "passed": 17,
+  "gate2_samples": [
+    "SHP Wealth Management Acquires Shares of 6,080 RTX Corporation $RTX - MarketBeat",
+    "Corient Private Wealth LLC Acquires 927,671 Shares of RTX Corporation $RTX - MarketBeat",
+    "Iron Gate Global Advisors LLC Sells 7,191 Shares of RTX Corporation $RTX - MarketBeat",
+    "71 West Capital Partners Purchases New Shares in RTX Corporation $RTX - MarketBeat",
+    "L3Harris Technologies Inc Stock (LHX) Closed Down by 5.86% on Jun 20: What Investors Need To Know - "
+  ]
+}
