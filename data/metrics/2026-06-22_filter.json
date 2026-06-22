@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 150,
+  "no_date": 0,
+  "too_old": 71,
+  "gate1_fail": 37,
+  "gate2_fail": 22,
+  "passed": 35,
+  "gate2_samples": [
+    "Lee Johnson Capital Management LLC Invests $4.21 Million in RTX Corporation $RTX - MarketBeat",
+    "SHP Wealth Management Acquires Shares of 6,080 RTX Corporation $RTX - MarketBeat",
+    "Corient Private Wealth LLC Acquires 927,671 Shares of RTX Corporation $RTX - MarketBeat",
+    "Why is L3Harris Technologies stock sliding today? - Investing.com",
+    "L3Harris Technologies Inc. stock underperforms Thursday when compared to competitors - MarketWatch"
+  ]
+}
