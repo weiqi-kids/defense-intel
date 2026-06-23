@@ -1,0 +1,257 @@
+{
+  "date": "2026-06-23",
+  "generated_at": "2026-06-23T10:57:59.502406Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "l3harris-2026-06-23-003",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "GM In Discussion With RTX And L3Harris For Munition Production Boost - GM Authority",
+      "companies": [
+        "l3harris",
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWEpzMV9lWWk2RUZEbTM0ODhOQ1VrVmNTaU1tWkRQQlp4bjY3NXV3RFkzbU9oYWxqdXNLV3dsanBNODJSUlhhcjU0M0xpXzRTYTVjY1p4aXdjaElhVHh0MnlFTTdVc0F1dmV5NWxkZHpSVkl1NzI2TFkyQlpFdFlhdzNlbGZUUzM5aXQyZWIxQ0Vxc2cyTEt2TWxtblhCY0dMMWZROWFzeEVnQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rheinmetall-2026-06-23-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Major German defense firm Rheinmetall eyes production base in Japan - The Japan Times",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN0xmRzdVT0pKUGYtY05iemlFUEZwNFMxaGY0NUdJYVpKd3BlWERYbkctcVZ4MksySE5DQ3RRcElGYkpXM2dJTjRUYURrakZOVmd0Qi15aDBWWngwR202YkoyQUpyd3IzMGhXLXlvTi11U3pJcU8ta1ZFOWN3UXFGQmI2Tnl2cUM4NlM2c3R1M0Z1NFozc0RiTg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rheinmetall-2026-06-23-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall Gets Multimillion-Dollar Armored-Vehicle Order From German Military - marketscreener.com",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPb2Vub0NfWFhOUEFlRnU1SC00VTVsNl9jVzFEX01iNUNQa1NXXy12LTktbVhSWkpoTkJ6MVd2d0hWY3ByQjE3VlBsZ2xDMmEycGNSOFRycUN1alY5a2lLVVVwY3NoamIzRjlkUDItQ2M2MkhjRW50eDctTHhONHZEM3ctRnU0MFdSQ3p0ZWNJSW5WQ21ocm50amNUNnU1bk9PVnFpR2ViSkdTblRwRk1lTnZwZGxaT1lBOU9qSDhQSGp4SWNoUVRWVmpvTTM?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rheinmetall-2026-06-23-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Replacement order of armoured recovery vehicles: Bundeswehr orders in the mid three-digit million-euro range at Rheinmetall - EDR Magazine - European Defence Review",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObkZ4ZlZmU0N1RHBKeXc4MGtLMDNtRjluZEZIZUFvTFgxQnM0c0t4Qk8yY2xZNTFPZ0xxdDBGa2hLMjUzdm5BZXJnc1NKbzFQSDlzOXBJRDNXTkV6QVYxVXBzMHNraERnYTU4eW44eFZ1cGtoSktwOTlySk9icGJKeE51X2s3ZU52Q3FXakRaTlRnbnVuQTVKaHFPMjZfbF9RUWRFT1V0YUNxLTVwQk5iejRaOWJMeXNfTXVseHUtLXZHa01kVGh1ZU1fYjJWQlR1aVZTay1vOUFySlUzd25LdW5hVQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rheinmetall-2026-06-23-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bundeswehr orders 23 Rheinmetall Bergepanzer 3 Büffel armoured recovery vehicles to replenish fleet after Ukraine transfers - Defence Industry Europe",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeDdKSk8zcEhrSWx3RkNjd05QMUN4MTA0Mi1ZdFlabW05N3kyd1BPUWRXMTFEZU85SlNSUG9CRWhvaHhwZEFGLV9RNE1rRmI0bnpzdmFhb2JYbHlXMFJ0MWxUX1JVT2V1S19JanNXYVZDalNLSnI5S2hVQ2VyVEVwYktOdjRvcWs1bHktQUJia1ZfODJEREIzM1MxTHJVMWV5VU9NclNyN3RtR091NWRCQXFvNU1uNUZiMnF6V3F5a2RhYWRDMjdnZUR6VndlM3FGWnlDc1ljaldkVlhhUExVUV9JS1NYdFk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "defense_budget": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 16,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rheinmetall",
+        "count": 4
+      },
+      {
+        "id": "rtx",
+        "count": 3
+      },
+      {
+        "id": "hanwha_aero",
+        "count": 3
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "palantir",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "earnings",
+        "count": 10
+      },
+      {
+        "id": "drone_warfare",
+        "count": 2
+      },
+      {
+        "id": "defense_budget",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 315,
+    "dup_title": 131,
+    "too_old": 75,
+    "gate1_blocked": 34,
+    "gate2_blocked": 25,
+    "passed": 50,
+    "pass_rate": "27.2%",
+    "gate2_block_rate": "13.6%",
+    "gate2_samples": [
+      "RTX: Raytheon Powers Growth While Valuation Caps Returns - Seeking Alpha",
+      "RTX Corporation $RTX Shares Sold by Novare Capital Management LLC - MarketBeat",
+      "Signal Advisors Wealth LLC Grows Holdings in RTX Corporation $RTX - MarketBeat",
+      "Corient Private Wealth LLC Acquires 927,671 Shares of RTX Corporation $RTX - MarketBeat",
+      "Lee Johnson Capital Management LLC Invests $4.21 Million in RTX Corporation $RTX - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為萊茵金屬、RTX、韓華航太相關動態：「GM In Discussion With RTX And L3Harris For Munition Produ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "GM In Discussion With RTX And L3Harris For Munition Production Boost - GM Aut...（財報、國防航太通用）",
+        "level": "red"
+      },
+      {
+        "text": "Major German defense firm Rheinmetall eyes production base in Japan - The Jap...（財報、國防航太通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
