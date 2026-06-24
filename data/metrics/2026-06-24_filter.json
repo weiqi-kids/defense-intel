@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 121,
+  "no_date": 0,
+  "too_old": 79,
+  "gate1_fail": 31,
+  "gate2_fail": 25,
+  "passed": 59,
+  "gate2_samples": [
+    "RTX: Raytheon Powers Growth While Valuation Caps Returns - Seeking Alpha",
+    "Faithward Advisors LLC Raises Stock Holdings in RTX Corporation $RTX - MarketBeat",
+    "Assenagon Asset Management S.A. Boosts Position in RTX Corporation $RTX - MarketBeat",
+    "RTX Corporation $RTX Shares Sold by Novare Capital Management LLC - MarketBeat",
+    "Signal Advisors Wealth LLC Grows Holdings in RTX Corporation $RTX - MarketBeat"
+  ]
+}
