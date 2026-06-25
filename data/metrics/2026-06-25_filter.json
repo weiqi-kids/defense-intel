@@ -1,0 +1,16 @@
+{
+  "total_raw": 307,
+  "dup_title": 115,
+  "no_date": 0,
+  "too_old": 68,
+  "gate1_fail": 31,
+  "gate2_fail": 29,
+  "passed": 64,
+  "gate2_samples": [
+    "RTX Corporation $RTX Shares Sold by Novare Capital Management LLC - MarketBeat",
+    "RTX: Raytheon Powers Growth While Valuation Caps Returns - Seeking Alpha",
+    "RTX Corporation Stock Price Live, Charts & News - The Economic Times",
+    "Faithward Advisors LLC Raises Stock Holdings in RTX Corporation $RTX - MarketBeat",
+    "Assenagon Asset Management S.A. Boosts Position in RTX Corporation $RTX - MarketBeat"
+  ]
+}

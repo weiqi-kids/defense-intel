@@ -1,0 +1,248 @@
+{
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T10:38:57.015922Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-06-25-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Price to earnings forward of RTX Corporation – NYSE:RTX - TradingView",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd2NoN2V2X195WVV6ckViVlRudm1uWTZtbmMtUmhtVlZrU2JCamFPMF9KVXlZVEYtQ2JvUmRtUXM2SGRfV0htcFlXajI1RzhBcmVkY1V2VkRsR0dYSFlvc0F4Sm9sTVBTWGgyOHlNQlMwR1hma1hhNXd0UFhwZTQyNVVacGpDeTVhMFVJNzJOT2xVUl9WV19HT05ZY3E2Zw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "l3harris-2026-06-25-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris blindsided by Ottawa bypassing competition for surveillance jet contract - CBC",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdEhQSUtvQUpOUDRmSnNPWVFpNEFfa1dnX0k4bGZNakQxUHltU2F5RzhsakgtdjhtWnROQUFlU1Z1aEJXSVEzUmdKNTRnYVpOQmYwVXk5SnhZQkVITmZHLWF6NG5tbjFSdUs4Zi1QaUszQ3p2YVBsT1p2bVR0eWtNeDU3XzF2UQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-25-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Defense stocks slide again, as Germany’s naval U-turn shakes confidence in Europe’s rearmament boom - CNBC",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOWkxaDNaeXNVQ1FqaFlicjdsUFRVWlRmSVJXQUI1aWh1UWw1U3E5c2RQbE0yc1pZbkJqb1FfZGY1bm1nM1dBMjdnb0hhT25hS2E4OTB3WTc4NEtZN2RkX2FGcm8weFBpOTdoekVTOFBPTWdzV0lxQnVPU1V5dFlyckd30gGHAUFVX3lxTE8zdEZjUnF6bnFyQkxTdmZaNGsxV3pqNUM5QWNYN0dPVFhHX1V4U0RRaGV3cDNEQVMtbF9Zd2tpTXB4c2N0T1BFYURvRTRwN0lpQ1RVLUpUT0ZSeFhRa2VkbnYwbHRPbXVGc1VaVkpJVU8tNEZmc3VqM3Y3VXk0Nmo2bmVMV3Qyaw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-25-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Europe’s Weapons Makers Are Facing a Battalion of Problems - Bloomberg",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ21qcmlNbklJc3lpZmMxcVVENjNzdW1IZ2hBRXRScGhNUVBXdlVjUTZUekE3Wnd4enhHMHZzejgwdi1xYVVZaDZvSDZsU0hWR0hjVDF1cE94OHI0Uml4c2oxZDBHeTFDLVMtdk9PdmpZZW1xQVNuYWdLUlJ4TERvY2FFLThSbk1Fa1U4elV0WDY3bXBnaEF3am96dDFmTlNEanpZbVJHMjQyYmpJd3FMOFFoNk9RbW5IbGVOUlBqNVE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rheinmetall-2026-06-25-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall UK Integrates FFF Into Challenger 3 Production - 3D Printing Industry",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMTFvS0FjSDBQY2ctTzk4dkdaSTZRaHdGZ29fOUcyYV9RVVVxc213cGZhQ3A2aXlZQ3ljcjlSbF9Zam5ZcWJHOG1Ic2R5b1pXcVN4eXl6YmNPbTZ3OXBMdGxMNzd0Ti1mYy0xeHJDZEpDUEVCUTlja2h4cGhWdlFfb3dVb2x5R0lISzBTem9paDgwLUlzYkktVU91bGQ1TkhZUXB3MQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "arms_export": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 16,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rheinmetall",
+        "count": 4
+      },
+      {
+        "id": "rtx",
+        "count": 2
+      },
+      {
+        "id": "palantir",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "elbit",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "arms_export",
+        "count": 1
+      },
+      {
+        "id": "drone_warfare",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 307,
+    "dup_title": 115,
+    "too_old": 68,
+    "gate1_blocked": 31,
+    "gate2_blocked": 29,
+    "passed": 64,
+    "pass_rate": "33.3%",
+    "gate2_block_rate": "15.1%",
+    "gate2_samples": [
+      "RTX Corporation $RTX Shares Sold by Novare Capital Management LLC - MarketBeat",
+      "RTX: Raytheon Powers Growth While Valuation Caps Returns - Seeking Alpha",
+      "RTX Corporation Stock Price Live, Charts & News - The Economic Times",
+      "Faithward Advisors LLC Raises Stock Holdings in RTX Corporation $RTX - MarketBeat",
+      "Assenagon Asset Management S.A. Boosts Position in RTX Corporation $RTX - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為萊茵金屬、RTX、Palantir Technologies相關動態：「Price to earnings forward of RTX Corporation – NYSE:RTX -...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Price to earnings forward of RTX Corporation – NYSE:RTX - TradingView（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "L3Harris blindsided by Ottawa bypassing competition for surveillance jet cont...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
