@@ -1,0 +1,162 @@
+{
+  "date": "2026-06-26",
+  "date_range": {
+    "start": "2026-06-20",
+    "end": "2026-06-26"
+  },
+  "generated_at": "2026-06-26T10:46:39.028409Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "rtx-2026-06-20-012",
+      "date": "2026-06-20",
+      "title": "U.S. Defense Expert Warns Of Critical Munitions Shortfall, Putting Lockheed Martin (NYSE: LMT) and RTX Corporation (NYSE: RTX) In Focus - foreignpolicyjournal.com",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 58,
+      "last_week": 66,
+      "week_over_week_change": "-12%",
+      "sentiment_this_week": 0.04
+    },
+    "drone_warfare": {
+      "this_week": 7,
+      "last_week": 12,
+      "week_over_week_change": "-42%",
+      "sentiment_this_week": 0.0
+    },
+    "industry_general": {
+      "this_week": 55,
+      "last_week": 62,
+      "week_over_week_change": "-11%",
+      "sentiment_this_week": 0.04
+    },
+    "arms_export": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "defense_budget": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.25
+    }
+  },
+  "company_7d_summary": {
+    "rtx": {
+      "event_count": 19,
+      "sentiment_avg": 0.08,
+      "rank": 2
+    },
+    "l3harris": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "leonardo": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "rheinmetall": {
+      "event_count": 23,
+      "sentiment_avg": -0.08,
+      "rank": 1
+    },
+    "thales": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "palantir": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "hanwha_aero": {
+      "event_count": 15,
+      "sentiment_avg": 0.1,
+      "rank": 3
+    },
+    "elbit": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "aidc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 281,
+        "last": 334,
+        "change_pct": -15.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-20",
+      "event_count": 22,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-06-21",
+      "event_count": 7,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-06-22",
+      "event_count": 63,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-06-23",
+      "event_count": 50,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-06-24",
+      "event_count": 74,
+      "sentiment_avg": -0.08
+    },
+    {
+      "date": "2026-06-25",
+      "event_count": 59,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-26",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-20 ~ 2026-06-26）共 281 則事件，重點為「U.S. Defense Expert Warns Of Critical Munitions...」。財報、國防航太通用、無人機作戰為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "RTX",
+        "reason": "本週出現 19 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "李奧納多",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

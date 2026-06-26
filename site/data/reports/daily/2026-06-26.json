@@ -1,0 +1,228 @@
+{
+  "date": "2026-06-26",
+  "generated_at": "2026-06-26T10:46:38.890915Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "l3harris-2026-06-26-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris Technologies Inc Shs Unsponsored Brazilian Depositary Receipt Repr 0.25 Sh - TradingView",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRmRjUlFJRVp4cXI1d3RVbUxFZnJ4NmFheFMzMVdvdFd4NFE1VHpRdjVTTzZmdzdsVWQ2SkdYRFdVVmtZWDl3d09MMFRMbnZmRk03SUtwOGxlS3Q2dV9nOHd3UjV4SHhWTHpyVDRnYTlfRmNDWXlndS02ZDNmb2c1cWo4WE5malVoNUdfTHF3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "leonardo-2026-06-26-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Women In Defence recognises Leonardo employees at Inspired by Mentoring Awards - Leonardo UK",
+      "companies": [
+        "leonardo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ0wtZW4ySUZtOXV5ZzRMLXlWZl9Ob2h2VE5BU1VGWUlzQ2IzM2xPdl8xVnRLYjV0YTh2SWVyb05ub3N6dzNGTG9GMGxKSjRnVHRSaVE2bGFEODZnRTR3NjlXTEZLbEZicnVjSW1NaTU2QnZxQU9VdFhEcjBHZUoySHZlRkljM25YelExWDA5UDZLbllVRG9RMFBITkJCYnVtZEhHcDFRMDQ5WEtrOUdqUEdYR1dtSDRwbDFZdmFKOVQzTEk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "aidc-2026-06-26-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AIDC showcases advanced composite materials for next-gen aircraft, drones - digitimes",
+      "companies": [
+        "aidc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUjd1MTJaY0dkWU0xODRWVkJhX3kxLWNoeDZYYzM3QU9wMWNRSm9yQUdVejJiakxzWlA4Ui1wTXdlSmc2dXJxRWJ6dUFnOWNPbXM1NlVtQ1lnM29RWVM1UUx3VjJtNWxRMDBkRm1ubjAzWTJjX0pEQkI4TVByVzhjUTZSbUphTkNCX21NYkdhZHpfaWlFejdqUEQ5MElGMjhHaWdKbU13bkhLY3Q0RTRj?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rheinmetall-2026-06-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Rheinmetall gambled on Germany’s doomed warship project — and lost - Financial Times",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV2VjQjV3Wmd6Y0RGdTFxc0VWWUcwM243V0RVTm9YN3ZRcU9vUmRKZENzMGJtT3A0RmhSUkFZUUxrT0VhbW9GUk9xU0hyY21lX0Rtd3VfQnlLNk9Ca0xlVVhMV2haZktySUxYY2syNE8wem5GenhpVGtUMUhPdFREXy1mTDc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-26-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "UK envoy publicly backs Hanwha Ocean's bid for Canada's submarine project - The Korea Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbGpnMXdfaTFKZ25rbFh2UW1jRDg3NWkyWWh0d3RtUlp6WDdRODVhUUlUcVR2eFEwUEo1THpMZzVTS1c1LVN1OUZBdHlwY2tIYm5YTmRiOEFGcHlVcWdTRElNUUF4RzNLYXR5WmdZdmh2V1R2a2ZlQnlQRzBqMW5xUFBTU2RCdHFqWHMzcmVQVEtfaGNLaEJXdVI4emU3SXZNZ29TX3pxMlM0TDlDcHBRWHBZcWZDa1NFRXEyclVVRjNHbVlRQUpF0gHMAUFVX3lxTE5UTEw2N0lMMXZHNXNCZF9rb0VmQzRlSzNBRUkwTE05MEllMXRQaWpWdmZzaDBQR0tUUHhxd2VKWm5GNVpWSVkxWG1MUktSMkJrcW51dmpqT0dmeXBlQkljOHR6aFdJUDBQaW5USHowNmM2bEdSTERiaGduWHpYOXhlcFpyZ2VMMmpvbG1xV1V4MVotNXM5ZEhIOG9IXzdybVczM0ZHVnhlYWVFeGEwWlFteXg1QVVtaGt1U1VnbGsta1NjMHg0SWd3bUlVMw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "leonardo",
+        "count": 1
+      },
+      {
+        "id": "rheinmetall",
+        "count": 1
+      },
+      {
+        "id": "aidc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "drone_warfare",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 315,
+    "dup_title": 135,
+    "too_old": 71,
+    "gate1_blocked": 30,
+    "gate2_blocked": 25,
+    "passed": 54,
+    "pass_rate": "30.0%",
+    "gate2_block_rate": "13.9%",
+    "gate2_samples": [
+      "Enterprise value to EBIT forward of RTX Corporation – NYSE:RTX - TradingView",
+      "RTX Corporation $RTX Shares Sold by Novare Capital Management LLC - MarketBeat",
+      "Faithward Advisors LLC Raises Stock Holdings in RTX Corporation $RTX - MarketBeat",
+      "Assenagon Asset Management S.A. Boosts Position in RTX Corporation $RTX - MarketBeat",
+      "Signal Advisors Wealth LLC Grows Holdings in RTX Corporation $RTX - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為L3Harris Technologies、李奧納多、萊茵金屬相關動態：「L3Harris Technologies Inc Shs Unsponsored Brazilian Depos...」。主要關注主題為財報、國防航太通用、無人機作戰，市場情緒中性。",
+    "signals": [
+      {
+        "text": "L3Harris Technologies Inc Shs Unsponsored Brazilian Depositary Receipt Repr 0...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Women In Defence recognises Leonardo employees at Inspired by Mentoring Award...（財報、國防航太通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
