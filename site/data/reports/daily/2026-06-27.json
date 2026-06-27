@@ -1,0 +1,124 @@
+{
+  "date": "2026-06-27",
+  "generated_at": "2026-06-27T09:59:50.421846Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-06-27-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Welch Group LLC Sells 37,497 Shares of RTX Corporation $RTX - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUHFZREVRN3huLVlzRlpRWTFBWmFjQ1pta0pOeXB3cHNranhrVDRGWUdFS3Z5eVVieHJES2NUYVJnRjROSi0xSzdHUmFSWGw2bzNBamRmRFplTlRFdXpTMDNVNFA2amVIZ0tNU0E0dUZFdmFQV2tXZWtFTk50RHhRMkVTUVg5akNqVVpyejh1Q00wZU1mZWh5Rk8wc0o3bmp0VVlPczh6bUdNSGNPR2pCNlNhYXZDMEpoMGc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "l3harris-2026-06-27-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris expanding PAC-3 missile production in Camden - Magnolia Reporter",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVmd6cE81ZUYzVlR5SG5ITU9sdk1JbjBIb18wXzRUSW5QOVN5T292dUNBTVR2ZDZ2RGxjWnZ6V0xHMjl5Q2pPNlNLenpGV1ljdTFYd1RGbWlsRHhPS0xFNV9oSkZpT2JmamJPQW5ZTkI3MTZqQ1JpcWw0ckdLcUc0NEJQWDJ0T24yN2VGY1c2eDYySnI0eTFkZFJ5MWNSVHo4NFBHYm84MU43SXMtMzExQUlCQk50T0E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rtx",
+        "count": 1
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 315,
+    "dup_title": 158,
+    "too_old": 69,
+    "gate1_blocked": 29,
+    "gate2_blocked": 24,
+    "passed": 35,
+    "pass_rate": "22.3%",
+    "gate2_block_rate": "15.3%",
+    "gate2_samples": [
+      "Price to sales forward of RTX Corporation – NYSE:RTX - TradingView",
+      "Faithward Advisors LLC Raises Stock Holdings in RTX Corporation $RTX - MarketBeat",
+      "RTX Corporation Actuals & Estimates (BCS:RTX) - TradingView",
+      "RTX Corporation $RTX Shares Sold by Novare Capital Management LLC - MarketBeat",
+      "Assenagon Asset Management S.A. Boosts Position in RTX Corporation $RTX - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為RTX、L3Harris Technologies相關動態：「Welch Group LLC Sells 37,497 Shares of RTX Corporation $R...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Welch Group LLC Sells 37,497 Shares of RTX Corporation $RTX - MarketBeat（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "L3Harris expanding PAC-3 missile production in Camden - Magnolia Reporter（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

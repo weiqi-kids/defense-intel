@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 158,
+  "no_date": 0,
+  "too_old": 69,
+  "gate1_fail": 29,
+  "gate2_fail": 24,
+  "passed": 35,
+  "gate2_samples": [
+    "Price to sales forward of RTX Corporation – NYSE:RTX - TradingView",
+    "Faithward Advisors LLC Raises Stock Holdings in RTX Corporation $RTX - MarketBeat",
+    "RTX Corporation Actuals & Estimates (BCS:RTX) - TradingView",
+    "RTX Corporation $RTX Shares Sold by Novare Capital Management LLC - MarketBeat",
+    "Assenagon Asset Management S.A. Boosts Position in RTX Corporation $RTX - MarketBeat"
+  ]
+}
