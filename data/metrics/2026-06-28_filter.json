@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 175,
+  "no_date": 0,
+  "too_old": 73,
+  "gate1_fail": 28,
+  "gate2_fail": 19,
+  "passed": 20,
+  "gate2_samples": [
+    "RTX Corporation Actuals & Estimates (BCS:RTX) - TradingView",
+    "Price to sales forward of RTX Corporation – NYSE:RTX - TradingView",
+    "Riverstone Advisors LLC Has $10.27 Million Stock Position in RTX Corporation $RTX - MarketBeat",
+    "Faithward Advisors LLC Raises Stock Holdings in RTX Corporation $RTX - MarketBeat",
+    "Assenagon Asset Management S.A. Boosts Position in RTX Corporation $RTX - MarketBeat"
+  ]
+}

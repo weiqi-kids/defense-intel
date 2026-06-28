@@ -1,48 +1,49 @@
 {
   "lockheed": {
-    "earliest": "2005-06-14",
+    "earliest": "2005-03-16",
     "latest": "2026-06-26",
-    "count": 5292
+    "count": 5354
   },
   "rtx": {
-    "earliest": "2005-06-14",
+    "earliest": "2005-03-16",
     "latest": "2026-06-26",
-    "count": 5292
+    "count": 5354
   },
   "northrop": {
-    "earliest": "2005-06-14",
+    "earliest": "2005-03-16",
     "latest": "2026-06-26",
-    "count": 5292
+    "count": 5354
   },
   "general_dynamics": {
-    "earliest": "2005-06-14",
+    "earliest": "2005-03-16",
     "latest": "2026-06-26",
-    "count": 5292
+    "count": 5354
   },
   "l3harris": {
-    "earliest": "2005-06-14",
+    "earliest": "2005-03-16",
     "latest": "2026-06-26",
-    "count": 5292
+    "count": 5354
   },
   "bae": {
-    "earliest": "2005-06-14",
+    "earliest": "2005-03-16",
     "latest": "2026-06-26",
-    "count": 5319
+    "count": 5383
   },
   "thales": {
-    "earliest": "2005-06-09",
+    "earliest": "2005-03-11",
     "latest": "2026-06-26",
-    "count": 5386
+    "count": 5450
   },
   "leonardo": {
     "earliest": "2005-07-18",
     "latest": "2026-06-26",
-    "count": 5320
+    "count": 5320,
+    "history_complete": true
   },
   "rheinmetall": {
-    "earliest": "2005-06-10",
+    "earliest": "2005-03-14",
     "latest": "2026-06-26",
-    "count": 5348
+    "count": 5412
   },
   "aidc": {
     "earliest": "2014-08-25",
@@ -51,19 +52,19 @@
     "history_complete": true
   },
   "hanwha_aero": {
-    "earliest": "2005-06-10",
+    "earliest": "2005-03-14",
     "latest": "2026-06-26",
-    "count": 5202
+    "count": 5266
   },
   "elbit": {
-    "earliest": "2005-06-14",
+    "earliest": "2005-03-16",
     "latest": "2026-06-26",
-    "count": 5292
+    "count": 5354
   },
   "saab": {
-    "earliest": "2005-06-09",
+    "earliest": "2005-03-11",
     "latest": "2026-06-26",
-    "count": 5300
+    "count": 5364
   },
   "palantir": {
     "earliest": "2020-09-30",
@@ -72,9 +73,9 @@
     "history_complete": true
   },
   "kratos": {
-    "earliest": "2005-06-14",
+    "earliest": "2005-03-16",
     "latest": "2026-06-26",
-    "count": 5292
+    "count": 5354
   },
   "etf_ita": {
     "earliest": "2006-05-05",

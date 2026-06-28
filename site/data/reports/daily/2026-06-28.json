@@ -1,0 +1,170 @@
+{
+  "date": "2026-06-28",
+  "generated_at": "2026-06-28T10:23:52.771673Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-06-28-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Corporation $RTX Shares Bought by ABN AMRO Bank N.V. - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdUtKX1FtaXBtWjFNOC1Mc3Z1VTRfZEltNEN4TVJ4QndteDEzR0FIWkJqUUFWLXJPaXhjOGRfdG9NWm4yUFVUZTJ1ZjQxNGpELWt3cmw2aVZYQ1FCSUxITEpvY1ZlSmhtVG0xV3hCbkFDem9UZEhrdlN0Z2FCM241a1RvYUZBanY2VGZzZ0FnQ1YyQjQ1Sm5kNWlsOW5haHVQS1dBcnZEcUNiaDY2eUE3aUdtemo?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "l3harris-2026-06-28-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Diamant Asset Management Inc. Acquires 356,195 Shares of L3Harris Technologies Inc $LHX - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaUgyQklNVU80RURyZnpMdG41TTk5SWcyaUhUbGVING55Zl9lN015d25HTUhBZ1o2NFE1VXhGUzFkYjQ1TTkxSndNd3FsWm9DUGQ2OTBZV1g5d1NiOVJLMUppZ3NxTFlfaFhSRUdSMW9idjJjLUhRZnRjUTJtQ0xYSmdmaWxtM0Z5eHZNWGlDbnNESVM3ZDJpZHFORkhBczVMbEhPNkJpMWdKMzhkb3V2QnUyclZuemVtUUNjMGFVcnRtajY3TW5mZkI4c0dNUFpMT2xvZkhhdVRVSnpzakE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-28-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Advanced Israeli systems sold to Qatar, Saudi Arabia, documents and images show - Haaretz",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQd29oTzdTYUlsSlRNUXdzclV2RXFXckJKYVpVOTFkZGYwZ1pEY3k4TmJXS1MwYjdiQkNXQUhiQVhNeEtPMWF6QnZtbjBkSEZIeENhU0JpYzVkU1Z0eERvUVQ1d1RIcjNHdzFHX3I4UVQtS21LNndkT1AxcjRSTThRTllWU3h6M09ZYldLWDFWN25LTWpkSHp4NTRCZmRYYmJYamJSNEVFRlcxYmhyYTBMUndDQVFXUzljVUctNGx6X1YyUi1zcHdDclZHSHJkVzV0cUdNMDB1bzBZT0JHQ09CLXl1dVdMS09ObGJ1TE5FRXFETWhnRDlaeGUxb1NMeFVKTVd5LXppR3hIOEJrWGFaZWl4aWhCdkZGU3c2TERTSFdxdDR6Wmc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "palantir-2026-06-28-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Zeta Global (ZETA) Enters into a Strategic Partnership with Palantir Technologies - Yahoo Finance",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdVdmZ082VGkxU3pDNVk0X2tqXzhRc04xVktFNHFaWEMtWWN3amV1S1d3U1hsb2sxSWhMdlkwbG5ubEd2N201Y1JKdlF0WnoxRl9FMVY3MTVBRm5PeFhHaVVxOWxKOWc2X25yNDA0YXBHQVpLMFNQVDBDd1VzMk1YeU5YYjFJajlxSE9EampIMU9WdFZrQkRlSDhRdHg0dw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rtx",
+        "count": 1
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "palantir",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 315,
+    "dup_title": 175,
+    "too_old": 73,
+    "gate1_blocked": 28,
+    "gate2_blocked": 19,
+    "passed": 20,
+    "pass_rate": "14.3%",
+    "gate2_block_rate": "13.6%",
+    "gate2_samples": [
+      "RTX Corporation Actuals & Estimates (BCS:RTX) - TradingView",
+      "Price to sales forward of RTX Corporation – NYSE:RTX - TradingView",
+      "Riverstone Advisors LLC Has $10.27 Million Stock Position in RTX Corporation $RTX - MarketBeat",
+      "Faithward Advisors LLC Raises Stock Holdings in RTX Corporation $RTX - MarketBeat",
+      "Assenagon Asset Management S.A. Boosts Position in RTX Corporation $RTX - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為RTX、L3Harris Technologies、Palantir Technologies相關動態：「RTX Corporation $RTX Shares Bought by ABN AMRO Bank N.V. ...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "RTX Corporation $RTX Shares Bought by ABN AMRO Bank N.V. - MarketBeat（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Diamant Asset Management Inc. Acquires 356,195 Shares of L3Harris Technologie...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
