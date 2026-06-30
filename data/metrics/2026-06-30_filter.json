@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 160,
+  "no_date": 0,
+  "too_old": 69,
+  "gate1_fail": 30,
+  "gate2_fail": 14,
+  "passed": 42,
+  "gate2_samples": [
+    "ATI Jet alleges Pratt & Whitney Canada failed on engine support - Private Jet Card Comparisons",
+    "Price to sales forward of RTX Corporation – NYSE:RTX - TradingView",
+    "Riverstone Advisors LLC Has $10.27 Million Stock Position in RTX Corporation $RTX - MarketBeat",
+    "L3Harris Technologies (LHX) Stock After Recent Pullback Is The Valuation Now Attractive? - simplywal",
+    "Leonardo flew the AW249 Fenice in public for the first time, putting Italy’s answer to the Apache in"
+  ]
+}
