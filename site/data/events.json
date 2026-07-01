@@ -1,5 +1,276 @@
 [
   {
+    "id": "rtx-2026-07-01-001",
+    "date": "2026-07-01",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Forum Financial Management LP Has $730,000 Holdings in RTX Corporation $RTX - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNV1F4a080b3hWMmxXMlFyUFNPN0FMQ1N3dE1zWVctc0dvNlNYUjJSbzlJNmhzOFM3Q1NIVzhVWDBDaTdWOVljR1c2R2JCUzJCR3luRTdxeHVCdFVMWE9OMEVnUGMtVVRKV3BBTHlfTF",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV1F4a080b3hWMmxXMlFyUFNPN0FMQ1N3dE1zWVctc0dvNlNYUjJSbzlJNmhzOFM3Q1NIVzhVWDBDaTdWOVljR1c2R2JCUzJCR3luRTdxeHVCdFVMWE9OMEVnUGMtVVRKV3BBTHlfTFN2QjJzaU1RTW5sc0dSNlcwTHN4MTc4NnVkRXVTc21xYjVDNFJER3ptYzRJRkdMNXFuTzJWWlBEQTE5T2lJSzFwR2dhSmFVeWt5cmFNYXRmcDV6aGRrSVlRRWw4cDhUZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rtx-2026-07-01-002",
+    "date": "2026-07-01",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Alley Investment Management Company LLC Increases Stake in RTX Corporation $RTX - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOd2RNVnRXQWpwSlJhMU9OQklkOEJCbmZ0T3d6dWdCcFRBUDZ2azgzdTFaVnNJem5ZZF9UYTFtNVN5TzBva2pzeV9mSkltNlNBZVFMOTRKQThQY3FsMnJEbXV5Sml3dnFYVTdDVGtYel",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOd2RNVnRXQWpwSlJhMU9OQklkOEJCbmZ0T3d6dWdCcFRBUDZ2azgzdTFaVnNJem5ZZF9UYTFtNVN5TzBva2pzeV9mSkltNlNBZVFMOTRKQThQY3FsMnJEbXV5Sml3dnFYVTdDVGtYelhiNzU4Q0R6bjhsaS15NXl0UXBEVW1TSV9RWUpjYnRCTUhNU2tQWjFlQ1RVa1NNb0pwTXgwS3kyc3J1MXhqSWIyUEN1LTRqWm51RzNray1iMWgzc0FSQ3VxYTMtaXM2S1NoaWtvUUFB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-07-01-003",
+    "date": "2026-07-01",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "L3Harris Technologies Inc $LHX Holdings Increased by iA Global Asset Management Inc. - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSVhfd0JpSFM2bGk2a3NMWEdXblVfckd6VzJvMkxDTi04NTA1NFVDdlREVDdva19EVDdJaFZpSzVsMnlOZGRENDZIaTAyakxDR1dMRElDZVZwVmVod1RjS01veVlkN0E3dWZrNGJrQn",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSVhfd0JpSFM2bGk2a3NMWEdXblVfckd6VzJvMkxDTi04NTA1NFVDdlREVDdva19EVDdJaFZpSzVsMnlOZGRENDZIaTAyakxDR1dMRElDZVZwVmVod1RjS01veVlkN0E3dWZrNGJrQnVBRzRxaks3NllEOE05VF9DTmQ0ejdCZ1M2Nmoweng5bkhKdTV2OEdfV1h4UjBwUk1ycUdpbFRjaDNPWEdQS3U3V29jM2NUNFpSdzVTYzRyNEo0WUk0LURTRFVHaHdTYTZRNG5VSDR2d1RoOFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-07-01-004",
+    "date": "2026-07-01",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ukraine Orders Tens of Thousands of 155mm Artillery Shells From Rheinmetall in Multi-Million Euro Deal - UNITED24 Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMVhQUjhheG9MeUwwemV5RjF3NjNsSTNuX1hXSHMtTnJtTFdLa0J6WE0yMmRsYzRQcUZwQV90ZHJHVmF6OWVLTmd6TWdIN1pYUDZyQnpzRnFEUXo2ZHMybmNvQUpFclkwMEFObWt2R2",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMVhQUjhheG9MeUwwemV5RjF3NjNsSTNuX1hXSHMtTnJtTFdLa0J6WE0yMmRsYzRQcUZwQV90ZHJHVmF6OWVLTmd6TWdIN1pYUDZyQnpzRnFEUXo2ZHMybmNvQUpFclkwMEFObWt2R2dhbWpFSnFySF91UlIxQllIbkZadk9FbElkVWxUZzloTjJ3TmhGbmtSUVZOMVpmc2pZWnBYMVhSNm91ZWxtQ3ZvOVdNYmN6Q3BfWWhDb0pidVdpcFlCMERKaEtEazB4WURaV3dxVkdKdVo3OXlRcTJVSg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-07-01-005",
+    "date": "2026-07-01",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall AG - Acquires Majority Stake In DOK-ING - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdzc3cTUxR2VUS3JVN1FQZ3lTZk5NTEdETGNlMnltdmxmbWtCUzJvSlZ3ZXBMSlBIM2pIb29CV2UxWnpnMWJwSWFjS2h6M0EyNERSak90Vm9uRTdTVU5KbnQ2MldUNTZMM2hfYmlvZ2",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdzc3cTUxR2VUS3JVN1FQZ3lTZk5NTEdETGNlMnltdmxmbWtCUzJvSlZ3ZXBMSlBIM2pIb29CV2UxWnpnMWJwSWFjS2h6M0EyNERSak90Vm9uRTdTVU5KbnQ2MldUNTZMM2hfYmlvZ2RoRDByNnNBNjhJRklZakZWUjRoLVJrTmlNY19CX3pJZnBBeC05dUdkMEpCVW5iZXQ4cWNITVptbUhQTEhfanZSZ29Xc0FnNkRvZGRN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-07-01-006",
+    "date": "2026-07-01",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Closing completed: Rheinmetall acquires majority stake in DOK-ING - Rheinmetall",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNZThPeER0RVRlU1BFWmpLZ0hZeVlvRm41b3BSa0UwQ0QzZFo2Yi1pOHB2WW9vX0U0S01uNE1nRWgyVjlJZ1k2RWZxNGQycDFtR09CSzdfbXVBMUZWWi1fWXgwbGgwbVBBN0pxM05ncn",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZThPeER0RVRlU1BFWmpLZ0hZeVlvRm41b3BSa0UwQ0QzZFo2Yi1pOHB2WW9vX0U0S01uNE1nRWgyVjlJZ1k2RWZxNGQycDFtR09CSzdfbXVBMUZWWi1fWXgwbGgwbVBBN0pxM05ncnpXNk5ncjdTN2RvZThsUDlFcFRpMC11bHhoZDhhVDBtQTU2WlZwTmVQUXg3UGhVbUxvbmxIczM2dTFxcXhkZjBCbFZaalJmeF83YXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-07-01-007",
+    "date": "2026-07-01",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall gets off to a strong start in July after its latest slump - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPMmd1X0xEUGhIYVJQYWlXNDd1NTgwMGNLbG1FajhaQ2VzZEh6MFl2ZG9lM2VZZUZfVldVdk9kZ1JrUldpOVRiV0t3RjBzazNmWExEckMtei1CSEpkemdabGlLYURfU0NmdV9TRFdzSl",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMmd1X0xEUGhIYVJQYWlXNDd1NTgwMGNLbG1FajhaQ2VzZEh6MFl2ZG9lM2VZZUZfVldVdk9kZ1JrUldpOVRiV0t3RjBzazNmWExEckMtei1CSEpkemdabGlLYURfU0NmdV9TRFdzSlJ6TG4xRk5rM3lfWENRNkcxY0JIUGw2eVFlWnZ5Y1ZUZk5yMVlXaW5iQnc1TFprU2dZYzRIWkg3NHZicUgzUEZ2UkJGTHFhYWFwbE1sZUdRcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-07-01-008",
+    "date": "2026-07-01",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace Raises KAI Stake to 11.21% - Businesskorea",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBvd1FPMmlQNllLOUV1YW5uOFBFSml2YUFVVGREaWNUSjZuVUdKeDdOYzBaVUdNaFNhUnB6Sjc3NU9rclhXTEl5NjVTaGZZX0tTbzJGT0ZVRm1GWks5cG8zWkI3N2tOc3FXMXNvSmRCcW",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvd1FPMmlQNllLOUV1YW5uOFBFSml2YUFVVGREaWNUSjZuVUdKeDdOYzBaVUdNaFNhUnB6Sjc3NU9rclhXTEl5NjVTaGZZX0tTbzJGT0ZVRm1GWks5cG8zWkI3N2tOc3FXMXNvSmRCcW9PejBU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "elbit-2026-07-01-009",
+    "date": "2026-07-01",
+    "companies": [
+      "elbit"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Elbit : Investor Presentation (ps 01072026) - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNLTVXV0QwMmVlN1hzYUFxNTc4cG5LaFk1MlRtQjVnNDVqZFF5UEdrQ0RQYTBPQUxZMnZ5LTNnUF9GREc1M2pobHR1MmExOUNOamZEWkxodkhmYXJpamZXcDFzdVpPa25MZlhvT1oyLT",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLTVXV0QwMmVlN1hzYUFxNTc4cG5LaFk1MlRtQjVnNDVqZFF5UEdrQ0RQYTBPQUxZMnZ5LTNnUF9GREc1M2pobHR1MmExOUNOamZEWkxodkhmYXJpamZXcDFzdVpPa25MZlhvT1oyLTVyNTJudm5kYUozRGZfMlA5OGJBcy01UF9NdDJ3ZjV0MUtEX3dOQVZN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-07-01-010",
+    "date": "2026-07-01",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Data Analytics Q1 Earnings: Palantir Technologies (NASDAQ:PLTR) is the Best in the Biz - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaWVQcXJpNnphelgwQkFkT0RpN2FUNnVnQWNFOWZQYS1fN3BSekRrdzBLaWxITFhtVGFLazBtNDVVcUUwZmViRE9BMFZXbFdFSXZsd01WTXhUOHJodHJmUVFTSWhnUVdNdnY3YmgxbU",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaWVQcXJpNnphelgwQkFkT0RpN2FUNnVnQWNFOWZQYS1fN3BSekRrdzBLaWxITFhtVGFLazBtNDVVcUUwZmViRE9BMFZXbFdFSXZsd01WTXhUOHJodHJmUVFTSWhnUVdNdnY3YmgxbU9ERzJSR2tGbUNQQzZxX2p3YmNJRnRWMDlvcnVELXpqdExPM0k5Y3FEWk1BTVFsWFhzSVMwbF92TWxhT1NDSjFjUU8wcEp2dFNmVlVyUFc5NFpPNWFxOGFmQnZwYWxmY2ZoNFhQdlQ1X0dYMS1u?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-011",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "missile_defense",
+      "drone_warfare",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Israel tests Iron Dome with Iron Beam, pairing missiles with laser pulses for air defense",
+    "summary": "The combination of technologies is meant to give Israel a leg up in shooting down high-volume swarms of incoming threats like drones or missiles.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/global/mideast-africa/2026/07/01/israel-tests-iron-dome-with-iron-beam-pairing-missiles-with-laser-pulses-for-air-defense/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-012",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "defense_budget",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UK’s Starmer unveils $20 billion defense boost in long-delayed investment plan",
+    "summary": "The Defence Investment Plan falls short of the £28 billion($37 billion) wanted by defense chiefs and represents a 5% increase in annual defense spending.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/global/europe/2026/07/01/uks-starmer-unveils-20-billion-defense-boost-in-long-delayed-investment-plan/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-013",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ukraine signs $2.5 billion contract with Sweden for Gripen E deliveries by 2029",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/07/ukraine-signs-2-5-billion-contract-with-sweden-for-gripen-e-deliveries-by-2029/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-cont",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/07/ukraine-signs-2-5-billion-contract-with-sweden-for-gripen-e-deliveries-by-2029/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-014",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Europe’s defense boom faces a new test: Can it actually deliver weapons? - CNBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE0zWWdxY1Z0YzlUaWVFUXFtZkRWb0Utc0ktQ3ZCRlVQU0FNV2dDa3dhaVhWb2V2QnpfeDR2aDZYaFBZUm5ielpLRUFyU2hnWFJfTWxVQVpyVEl3WS1WN3BLdzJEbGxMbGRjcWlkWWJkSk",
+    "sources": [
+      {
+        "name": "google_defense_budget",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zWWdxY1Z0YzlUaWVFUXFtZkRWb0Utc0ktQ3ZCRlVQU0FNV2dDa3dhaVhWb2V2QnpfeDR2aDZYaFBZUm5ielpLRUFyU2hnWFJfTWxVQVpyVEl3WS1WN3BLdzJEbGxMbGRjcWlkWWJkSkJycThCM29mcNIBfkFVX3lxTE9VUkJzQTJxR0VKNmhoRnhGUDdHQ2lGMVlnY0xZQmo3eFMycVRJYWpwcFFWdm5oSEhnTXpZYzlzaXdUYXJ0X2lzdFJtMHBWYzR3bXlaYk52TTJnVVl1ZU5WUnVQTy1nZXdPek5xNllxQktzZnBJY3BxOFQtaHl5Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rtx-2026-06-30-001",
     "date": "2026-06-30",
     "companies": [
@@ -207,6 +478,801 @@
       {
         "name": "google_defense_budget",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOEJoOWlIS1haSVNfMXlWWG1PeGdMZERUUUctUWpJSHRoRFNMd3BtNWFOODh2VlVqb0tFa1RJQVpkT3RoLW5VSUJENUdkY1dHS0cyX3VGMGJweU1ESzloQ3VQd0puUXFyU0s1RWJXYWx2SVNmODJMbmRSRzhndVdlbWd1d1hvVTRYZlgxLUxnVHVyWmd3dW54eWw1N01QV2tvc0JaTFUyb2hiUdIBrwFBVV95cUxQeUtzYVBZOF9BNXBJWkFqNkJLWjlTZ3dSdllJZUVINnlvUGxsOTRCNmlJLU1wWmp5TFBoQlg5TUVMNVlxVGpZSEhqY2o3cl9TMXM4dkRuZnYwaUlwcGRyQ3VGSVFWSzFfS1F0RTdCeVZSTktzclE0SDc4WkZwSVQ2cy1sU2I4SWo0MTN0LVl3OVl4QkdOSUg1bTJ4Y0tNTWFuNi1oTWJpVE1SWGw3c25j?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rtx-2026-06-30-012",
+    "date": "2026-06-30",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "How Investors Are Reacting To RTX (RTX) Missile Win, Dividend Decision and Index Removal - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPN0lSVHhnendqeDJEUkNXYzNYcktKemRBMk03d2ViSmNtSExhVkJ0bDJqUzNwemVMZzlVbXl6anA3UjVsUDBzRHgzejl4eTdQRGRuT2xJdHdNaHRqZEc0Wkw0U1BfLWo2V2xIeG40RH",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN0lSVHhnendqeDJEUkNXYzNYcktKemRBMk03d2ViSmNtSExhVkJ0bDJqUzNwemVMZzlVbXl6anA3UjVsUDBzRHgzejl4eTdQRGRuT2xJdHdNaHRqZEc0Wkw0U1BfLWo2V2xIeG40RHZ3WG1ldFJCYzg1ai10dXZqWE1rM0J1djZiVGdGaUZnaTYzMXYxbk01Q2dENXh3X1A5?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rtx-2026-06-30-013",
+    "date": "2026-06-30",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "RTX's Raytheon to build space telescope for Schmidt Sciences Observatory (RTX:NYSE) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPVG51VHFGNTFmZkNoblBzVVp1aFZUQkZVSVpTSGcwZnZSek03T00zejZQaWxzLUREMG5kOVhrcFY4QlJQV3BxbF9Vb1d4MGNjQ2hGQlMyY0NjTEpTdV9XR2dkeDRTRzd1aFdNQzBNb2",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVG51VHFGNTFmZkNoblBzVVp1aFZUQkZVSVpTSGcwZnZSek03T00zejZQaWxzLUREMG5kOVhrcFY4QlJQV3BxbF9Vb1d4MGNjQ2hGQlMyY0NjTEpTdV9XR2dkeDRTRzd1aFdNQzBNb2tIdDREWVhkY25lZU0tbGl1b3Z5MUtsdFcwMnVnbi1JTXlpSW9GTW9QRmNzcGNWTkoyYzFYc2NfWVBKRHhvSnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-06-30-014",
+    "date": "2026-06-30",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "L3Harris Technologies awarded NASA contract to develop key technologies in Rochester - WHEC.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOUm0tVGxnZ3BucUVyYTBhMVhVRkZRS0FfMnJJVkN0LUVpNm5qZ2FyZTFxeDVNMDRQOEtvSno1N2lCSXdUT3BLUzdGSjUyYktWZmp5amNwYlR5R1dGOFdIMGlRV3QyeGs0T241RVMzZE",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUm0tVGxnZ3BucUVyYTBhMVhVRkZRS0FfMnJJVkN0LUVpNm5qZ2FyZTFxeDVNMDRQOEtvSno1N2lCSXdUT3BLUzdGSjUyYktWZmp5amNwYlR5R1dGOFdIMGlRV3QyeGs0T241RVMzZEZaaDBpVjhOSjJxU1hSLU1FbGx0Y1RqWFBfYThIdG90LWVuRmJlcGplVnoya3AzRnpOOGFvZFdaQktfN3ZhODU4SlhTN19sZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-06-30-015",
+    "date": "2026-06-30",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "US Space Force Accepts L3Harris’ Meadowlands for Operational Use - ExecutiveGov",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOUE95ZjRXeDh5blhoUk56TFVBVlpUTHZqeVBFU1VkMEFVR3ZTdGpZSDBHVnV3NXlNaWYtQ2Vrc0htdWJtTWhQbTktX21nQUd5RzRpTDRHMUhtbmgtWnBNZHRmZ1pYT2c2aERFWGFaZ0",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUE95ZjRXeDh5blhoUk56TFVBVlpUTHZqeVBFU1VkMEFVR3ZTdGpZSDBHVnV3NXlNaWYtQ2Vrc0htdWJtTWhQbTktX21nQUd5RzRpTDRHMUhtbmgtWnBNZHRmZ1pYT2c2aERFWGFaZ0lMcThpWXRHZlIxdmgtbDFTS0lDdG5tVTVOTG13ZlF6RjZIdWV2RFFrdg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-06-30-016",
+    "date": "2026-06-30",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rheinmetall gets Ukraine order for shells, propellant charges - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdFZKeDhiTURpLWNtMlNGTktyVDVEdnlDZms0M1hiYnJMZEllVXBQRF9iNEd3RU0xeE1YMG1vMENjd2hfNnNFV210RWVDSTI1NlpUVFZfTHRfLWE1VklYbGFxV2dveVlkLWt1WnVTMz",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdFZKeDhiTURpLWNtMlNGTktyVDVEdnlDZms0M1hiYnJMZEllVXBQRF9iNEd3RU0xeE1YMG1vMENjd2hfNnNFV210RWVDSTI1NlpUVFZfTHRfLWE1VklYbGFxV2dveVlkLWt1WnVTMzNkem1jS09sZFpjX0haYjhlVmx5MWxtLWFUbEJ1NGY4Rllfd2x5azZ5YndYVFpic3lRcnZ2X2lWaVk2TUVydUNBeG9rLWNkMm1rS0hFOWY1TzZiRlJRSXdiMHIzMkhYR2lpODF0N1ppMlRmQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-06-30-017",
+    "date": "2026-06-30",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ukraine signs contract with Rheinmetall for 155-mm artillery shells - Українська правда",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JLTFheUxWNDdSM0RiZWkyQXR4REFIcFZIMDFEbHBETndQVlJiTlNWblhDY05zOGhYZTEwUG5TbUlZRmstQjVnQmhwS2dpWHFLbG1sWWxlMUtSdU9xOTFMMGFiY0zSAXBBVV95cUxOaj",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JLTFheUxWNDdSM0RiZWkyQXR4REFIcFZIMDFEbHBETndQVlJiTlNWblhDY05zOGhYZTEwUG5TbUlZRmstQjVnQmhwS2dpWHFLbG1sWWxlMUtSdU9xOTFMMGFiY0zSAXBBVV95cUxOajNHQWI2LXZ5cnZuMWwyZjlFcTZwVDRqX2tFbVN1TFM5S3Y0S1hndndFQ1N0RWpJcS02UGQ0bjliN3BGZzNtX2hXSmlBUzVWQ1hQaWZJNTlURUJOQ0lrX0IxQ183Z3hPVkhQQzc2eFlK?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-06-30-018",
+    "date": "2026-06-30",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "German Defense Giant Rheinmetall Lands Multi-Million Dollar Artillery Order for Ukraine - UNITED24 Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOWHJvTHBkOWJZYzVGY2hWXzFmNEpWU0k1c1JBdHRLUkc1MUtZYWhXR2lMcjRkNmRuWXFPWGVxTk5uY3FtM09XdHpfY0xOaTRPNUtkOURrVGJ3LTJ2LWJNSzBBTG01TFZQWDduc0dFYz",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWHJvTHBkOWJZYzVGY2hWXzFmNEpWU0k1c1JBdHRLUkc1MUtZYWhXR2lMcjRkNmRuWXFPWGVxTk5uY3FtM09XdHpfY0xOaTRPNUtkOURrVGJ3LTJ2LWJNSzBBTG01TFZQWDduc0dFYzMtTTdDX0hTQWJPTThfaHpCTFRVQnNnTkptWGZHWXBuRzNGQTlDM0dQT1M1UEw2V3RtRnh1S25zMHRHUHBqaEZlSV9QcF9PVmhmWVRxOW96NFRkaFNqWmFTZUZvbVplb3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-06-30-019",
+    "date": "2026-06-30",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ukraine Ordered New Batch of 155-mm Shells from Rheinmetall - Мілітарний",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZaHlVaEt5LTVFZzd0UE52WTFYMVM3TUFOeThnUlVGR0NOanZaMWNsSFZMNjQ0Nmw0MkstSER6ZU1EZER5NmdUWFhzN1JsQ1NGTjhHQS10ZExaV3ZOLTJEc0dXUTNkM2U5YTBQQTJEV0",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZaHlVaEt5LTVFZzd0UE52WTFYMVM3TUFOeThnUlVGR0NOanZaMWNsSFZMNjQ0Nmw0MkstSER6ZU1EZER5NmdUWFhzN1JsQ1NGTjhHQS10ZExaV3ZOLTJEc0dXUTNkM2U5YTBQQTJEV0RDYVVZd2k0U1JyNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-06-30-020",
+    "date": "2026-06-30",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall receives contract from Ukraine for artillery ammunition – Reuters - Українська правда",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE45MTdyTVFLOHlnLUJTc3MyUXVoVi1zZlFNOE5hNy03V1NIdHJvbjh4NVNwSHRjcUg3OTZ1QkVBWlNVcHVUT0dhVHZZVEItQUJfZVluMGZuUm5oWHZHMHpRdFVIY1_SAXBBVV95cUxPZW",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45MTdyTVFLOHlnLUJTc3MyUXVoVi1zZlFNOE5hNy03V1NIdHJvbjh4NVNwSHRjcUg3OTZ1QkVBWlNVcHVUT0dhVHZZVEItQUJfZVluMGZuUm5oWHZHMHpRdFVIY1_SAXBBVV95cUxPZWQ3LTFNbXRhbEJvTVJxV3p5RFlLLXFMUGFpVVVqY21SN0RQakRPM0hnRFpMTHg0TkpPVF9LejNVektWT0lGTlQ2VGtGbEFlbk5ZRkNEOFYyTldiWDFHaE96T1F6andobHBYMjlEdVAx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-06-30-021",
+    "date": "2026-06-30",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall is supplying 155 mm artillery ammunition to Ukraine - Rheinmetall",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPejJCalZNZ0hxTWxWNlVnRkVOSS1xeDR5bVM3NHJXZ1A1OGVkQkRBSm5iOVNzamphYVN6UHJrMHFaZklkWnZYN2JQdEhSVGNaUG1nVW0xc25KRm9sLXpvem5rQ0FMX3RWSU1EcFk2bk",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPejJCalZNZ0hxTWxWNlVnRkVOSS1xeDR5bVM3NHJXZ1A1OGVkQkRBSm5iOVNzamphYVN6UHJrMHFaZklkWnZYN2JQdEhSVGNaUG1nVW0xc25KRm9sLXpvem5rQ0FMX3RWSU1EcFk2bkNVRGhQWktNaDRoQXFCa2tHaXdZaENOODJZSUtxc1lZclJBTjdRS2Y3emFBTGNacER1U2htX3ZJSjQ0UjdXa3VzWFUySnFic3pJY1ptSXVRYktycHF3TmYtVVJDSEJRVVNJa1pSYkp2Q0puUUU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-06-30-022",
+    "date": "2026-06-30",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Major order from Ukraine: Rheinmetall to supply artillery ammunition - European Security & Defence",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQbV9VLWt2VHB4U0VSeWJqNXJzeDBsS3ZCalBKRDhIQkJ2cEVJRC1ON2pJaFV3bDRnYVVzNTZZdW4tN2dzUGdENjZuUFlxelVGemZORF9XOUc0Q2lLVVRXTHBXeGNGODNEbmlKb3M1cn",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbV9VLWt2VHB4U0VSeWJqNXJzeDBsS3ZCalBKRDhIQkJ2cEVJRC1ON2pJaFV3bDRnYVVzNTZZdW4tN2dzUGdENjZuUFlxelVGemZORF9XOUc0Q2lLVVRXTHBXeGNGODNEbmlKb3M1cnlWMGZMWk1fQTVTSUFGcWZBS19jSGZDOV9xMk1OUl9ZYUk3bXA4QWVZUUdpSjA2TWZGMVFVVk50dDJWT3VjNkZZOXFn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-06-30-023",
+    "date": "2026-06-30",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall receives contract from Ukraine for artillery ammunition – Reuters - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOam1ocldKQWp6cVJIZVZ5bHU1OHJ3VE1wLVNWRnhUeENoT2ZLLWtrVGZNdXdfNUFsYXpEZUhLdHlYVWo1aVJLVmNMVWdTaUJVUlRURXhSVGZ4VE44Y0Npdk03d3lBa0xSRWZmcVZiT1",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOam1ocldKQWp6cVJIZVZ5bHU1OHJ3VE1wLVNWRnhUeENoT2ZLLWtrVGZNdXdfNUFsYXpEZUhLdHlYVWo1aVJLVmNMVWdTaUJVUlRURXhSVGZ4VE44Y0Npdk03d3lBa0xSRWZmcVZiT1dQR240dTlId25rSEczYXp6cXVEeUFXSGpoUW54azdXYkpLXzF3LVYyZjlKdnFSZWhVcEpWYW5Lbjc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-024",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Drones Manufactured in Brooklyn Are Being Used to Bomb Gazans - The Nation",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE14YVY4UzF1RUJvT09aRlFwdXR1bGVUSGJfTlBDRGFJeWRnSS10N2lTWmpoTF9TblJWblBxd2dLLTJXN0M4Y29lZ3JPVkhfdWsxV0s0b2R5RUloVXdzZFpkbTVMb9IBkgFBVV95cUxOdF",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14YVY4UzF1RUJvT09aRlFwdXR1bGVUSGJfTlBDRGFJeWRnSS10N2lTWmpoTF9TblJWblBxd2dLLTJXN0M4Y29lZ3JPVkhfdWsxV0s0b2R5RUloVXdzZFpkbTVMb9IBkgFBVV95cUxOdFE0QzVFWVpJZi1CcDNhWFJxU21wZWhPdUZpZ0FQbGlfaGdyYzRBUF9QMmtyWUR0cWxtdEllc2JJMjg2YkxpLUlzVXV4YzlnVFlSRlZPSUJWM3pvc1g1cG1OOUJsODg5TkRBcENqcmhnVW1JSDJZaTh4RWthWkx0ZUhwb2VDNXBmQk01cmZWVW9wUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "elbit-2026-06-30-025",
+    "date": "2026-06-30",
+    "companies": [
+      "elbit"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Elbit Systems Ltd. (ESLT): Among Aerospace and Defense Stocks with the Largest 5Y Share Price Returns - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ0ZNcGVwdGo3NWs3TnBxNEZKSExDMHU3b3psNmtBOGVMM0I0RnplSTJQMnFUUl9oZm5jM3RXVWdzbFVVallNTUl1bGk4UmNWOUJZRzNjNmZvajNHSnJxOHI2dFg2OHhXNjZRZC1GcU",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ0ZNcGVwdGo3NWs3TnBxNEZKSExDMHU3b3psNmtBOGVMM0I0RnplSTJQMnFUUl9oZm5jM3RXVWdzbFVVallNTUl1bGk4UmNWOUJZRzNjNmZvajNHSnJxOHI2dFg2OHhXNjZRZC1GcUltUWNwTmh0Mlo3bUJMdDFaZXhkd2lxS2trMzdWcWtBRGNnSjFtVktERw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "elbit-2026-06-30-026",
+    "date": "2026-06-30",
+    "companies": [
+      "elbit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A Look at Elbit Systems Ltd (ESLT) After 3.7% Gain -- GF Value $374.27 vs Price $758.72 - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxONnF0T1hLbFRDMXNmTmVFcVdJazZGZDRYT3VFTzFnUkhDUnJLNWdyaHl2UmN4bWRoVEdUbUFTRS10Q3FwYWFuTDFKSG5PM1V6OG5waWZVWVd5c3pVSWhZakRyTGhvaWk3ZjJzMXdkZ1",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONnF0T1hLbFRDMXNmTmVFcVdJazZGZDRYT3VFTzFnUkhDUnJLNWdyaHl2UmN4bWRoVEdUbUFTRS10Q3FwYWFuTDFKSG5PM1V6OG5waWZVWVd5c3pVSWhZakRyTGhvaWk3ZjJzMXdkZ1BQV2k2NDNjMnlmazBIdHZ6TE9Vb291MGN6RXZ5YVhWcGJOaWxBSlBXckxMdy14NkFSS0dXWDFTTHhPZ2FaZmZjWGhhMUxhZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "saab-2026-06-30-027",
+    "date": "2026-06-30",
+    "companies": [
+      "saab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Saab lands $4.8B Polish submarine deal as Baltic rearmament accelerates - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNcnhYTXBURkRGMmNVdzNBVHRXbS1jeTZnSHJHZHJzanZFSUJnUE85R01EVWUweTFoVWJQV29FZXBxdlBRbkk4TkROSWJWNlg3THI1a0RtYTBmdDk4dmNwZzFydGRFVjl0Ml9vc0FXTD",
+    "sources": [
+      {
+        "name": "saab",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcnhYTXBURkRGMmNVdzNBVHRXbS1jeTZnSHJHZHJzanZFSUJnUE85R01EVWUweTFoVWJQV29FZXBxdlBRbkk4TkROSWJWNlg3THI1a0RtYTBmdDk4dmNwZzFydGRFVjl0Ml9vc0FXTDlrMjY5YjRlZFhESUQyOHVxYUJBMW13VkFNM1V3OGVHVEEtVXpTc185ZlJiTTliMkxQN1lYWndTQzRYcTF4MnMwTng2cDhVbnhWQkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-06-30-028",
+    "date": "2026-06-30",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Palantir Stock vs. Sandisk Stock: Wall Street Says Buy One and Sell the Other - Yahoo Finance",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOMG5kRko1WGxacXQ5T0ZfakRqTmNhcHFuM2N6YWVZNlhGTkhzU0FqYUVlS2JOLXREalIyWXBZX1EybmVkcE1JUkNQZ1ZQaUVzRmVVZFhUeDBHa0ltNWFJeGdpVkRvQUxJVF",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMG5kRko1WGxacXQ5T0ZfakRqTmNhcHFuM2N6YWVZNlhGTkhzU0FqYUVlS2JOLXREalIyWXBZX1EybmVkcE1JUkNQZ1ZQaUVzRmVVZFhUeDBHa0ltNWFJeGdpVkRvQUxJVFFic1dLX3kwRlh5SWtuTmtLS0ZEejBCaXpoeTM1VUVOYzh5elpVdHRSTDRNX1dmbUJMZjQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-06-30-029",
+    "date": "2026-06-30",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "UBS Analyst Calls Palantir (NASDAQ: PLTR) Stock Undervalued As AI Competition Fears Grip Wall Street - foreignpolicyjournal.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWGkwWjdfdExVMjVRXzJUelJwak02dEc2Y3JhNEY2OUc2YUo3alhCUW1id3FIeU9jYVMxTmFjY29pa0NWeFJEZ19zeFg2X0szMzlLZHltV1ptazlERVNVUU10WW93LTV6VUFmYnhnYV",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWGkwWjdfdExVMjVRXzJUelJwak02dEc2Y3JhNEY2OUc2YUo3alhCUW1id3FIeU9jYVMxTmFjY29pa0NWeFJEZ19zeFg2X0szMzlLZHltV1ptazlERVNVUU10WW93LTV6VUFmYnhnYVN3Wmc1cW9DNGxsNlM3MXRLYWt1MEZLYUtDUER2YXoxTk5GNUY0b0g4N3lFTHBRWGphOHd5TzNZbGIzejdydXpjMUExeGppZjVJMWZBU2Vib3ExeFRZVm5SUTZOZ3d1WEN2NXdLU0JsOGhQWVNXVDZn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-06-30-030",
+    "date": "2026-06-30",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Palantir Technologies (bStocks Tokenized Stock) Price: PLTRB/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQcm1tUUFoNGY5Yk9kRGJFYmVhUFRpZnhqMjhZdktyWWI0dWhubFNYY09Vdm9KenFiWEJfWi1Md3hHSTFteHdWNjFVRjZTRFFXeTBlY0Q3ZUF5RWpEa2pIbWNacGNLSUhlbnVaNERoVW",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcm1tUUFoNGY5Yk9kRGJFYmVhUFRpZnhqMjhZdktyWWI0dWhubFNYY09Vdm9KenFiWEJfWi1Md3hHSTFteHdWNjFVRjZTRFFXeTBlY0Q3ZUF5RWpEa2pIbWNacGNLSUhlbnVaNERoVWpXeWl3ZDJ5TlhsZXE1ZldORjlKbzBpd2s?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-06-30-031",
+    "date": "2026-06-30",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Palantir Price Prediction: The Stock Will Hit $150 on This Date - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZmN4S1I2Z3FRY1E1am5HWVVZVms0WlRtV1QyTTIxOVpvamZXWElYUmlscmRIZW9IU1Y0bkMxMTgtUXA5elpNdzV4SU1xakt2OUZSY3k1UnkzSzJJVFNkajk1NV9XRWhCWnhmZW03RH",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZmN4S1I2Z3FRY1E1am5HWVVZVms0WlRtV1QyTTIxOVpvamZXWElYUmlscmRIZW9IU1Y0bkMxMTgtUXA5elpNdzV4SU1xakt2OUZSY3k1UnkzSzJJVFNkajk1NV9XRWhCWnhmZW03RHpHSVE3cUNuTi14OUxZd2NtamVrcjBmMjUxMHFoNjIyYzkzQWszdlR4aTlxWFNscTNZTUFCM2g1b1Y?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-032",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "The US Army goes into the breach — without soldiers",
+    "summary": "The phrase “into the breach,” invokes one of the Army’s most deadly missions. Now, instead of sending soldiers, the Army is experimenting with drones. ",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/news/your-military/2026/06/30/the-us-army-goes-into-the-breach-without-soldiers/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-033",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "drone_warfare",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SOCOM is seeking a long-range kamikaze drone",
+    "summary": "Armed with loitering munitions, SOCOM MC-130J gunships and other aircraft would be able to hunt targets deep inside enemy lines.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/06/30/socom-is-seeking-a-long-range-kamikaze-drone/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-034",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Latvia and Ukraine to open drone factory right on Baltic nation’s border with Russia",
+    "summary": "The Latgale region, where the new drone factory is to be built, is historically one of Latvia’s most economically disadvantaged.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/global/europe/2026/06/30/latvia-and-ukraine-to-open-drone-factory-right-on-baltic-nations-border-with-russia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-035",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "On the ground at Turkey’s EFES 2026 multinational military exercise",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/06/on-the-ground-at-turkeys-efes-2026-multinational-military-exercise/\"><img width=\"1024\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/06/on-the-ground-at-turkeys-efes-2026-multinational-military-exercise/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-036",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "House GOP defectors tank procedural vote to bring NDAA to floor",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/06/house-gop-defectors-tank-procedural-vote-to-bring-ndaa-to-floor/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sit",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/06/house-gop-defectors-tank-procedural-vote-to-bring-ndaa-to-floor/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-037",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "drone_warfare",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tobyhanna Depot boosts drone component production with new assembly lines",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/06/tobyhanna-depot-boosts-drone-component-production-with-new-assembly-lines/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/u",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/06/tobyhanna-depot-boosts-drone-component-production-with-new-assembly-lines/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-038",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "drone_warfare",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Drones, fighters, armored vehicles: Highlights from the UK’s Defence Investment Plan",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/06/drones-fighters-armored-vehicles-highlights-from-the-uks-defence-investment-plan/\"><img width=\"1024\" height=\"605\" src=\"https://breakingdefense.com/wp-co",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/06/drones-fighters-armored-vehicles-highlights-from-the-uks-defence-investment-plan/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-039",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Recent DoD changes risk fielding weapons with hidden problems, watchdog warns",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/06/recent-dod-changes-risk-fielding-weapons-with-hidden-problems-watchdog-warns/\"><img width=\"800\" height=\"451\" src=\"https://breakingdefense.com/wp-content",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/06/recent-dod-changes-risk-fielding-weapons-with-hidden-problems-watchdog-warns/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-040",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Russia, Hamas, and China: Three reasons Turkey shouldn’t get the F-35",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/06/russia-hamas-and-china-three-reasons-turkey-shouldnt-get-the-f-35/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/s",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/06/russia-hamas-and-china-three-reasons-turkey-shouldnt-get-the-f-35/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-041",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Ukraine’s military is adapting after four years of war with Russia",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/06/how-ukraines-military-is-adapting-after-four-years-of-war-with-russia/\"><img width=\"1024\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploa",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/06/how-ukraines-military-is-adapting-after-four-years-of-war-with-russia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-042",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Overland AI nets Marine Corps autonomous ground vehicle contract",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/06/overland-ai-nets-marine-corps-autonomous-ground-vehicle-contract/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/si",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/06/overland-ai-nets-marine-corps-autonomous-ground-vehicle-contract/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-043",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "defense_budget",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UK prime minister pledges near $105B defense budget by 2029",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/06/uk-prime-minister-pledges-near-105b-defense-budget-by-2029/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/06/uk-prime-minister-pledges-near-105b-defense-budget-by-2029/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-044",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pentagon seeks to hire ‘hundreds’ of software engineers for 2-year tours",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/06/pentagon-seeks-to-hire-hundreds-of-software-engineers-for-2-year-tours/\"><img width=\"1024\" height=\"666\" src=\"https://breakingdefense.com/wp-content/uplo",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/06/pentagon-seeks-to-hire-hundreds-of-software-engineers-for-2-year-tours/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-045",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Gripen E Fighters Officially Ordered By Ukraine",
+    "summary": "<p>Sweden’s most advanced fighter will be headed to Ukraine, bringing a major capability boost.</p>\n<p>The post <a href=\"https://www.twz.com/air/gripen-e-fighters-officially-ordered-by-ukraine\">Gripen",
+    "sources": [
+      {
+        "name": "the_war_zone",
+        "url": "https://www.twz.com/air/gripen-e-fighters-officially-ordered-by-ukraine",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-046",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "UK Sacrifices Its Future Destroyer As Part Of Massive Bet On Drones Across Its Forces",
+    "summary": "<p>The ambitious overhaul places uncrewed platforms at the center of future UK forces operations on land, at sea, and in the air.</p>\n<p>The post <a href=\"https://www.twz.com/news-features/uk-sacrific",
+    "sources": [
+      {
+        "name": "the_war_zone",
+        "url": "https://www.twz.com/news-features/uk-sacrifices-its-future-destroyer-as-part-of-massive-bet-on-drones-across-its-forces",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-047",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "MiG-29 Transfer To Ukraine Halted By Poland Over Claimed Drone Snub",
+    "summary": "<p>The decision to stop the donation of 14 additional MiG-29s comes amid worsening relations between Poland and Ukraine.</p>\n<p>The post <a href=\"https://www.twz.com/air/mig-29-transfer-to-ukraine-hal",
+    "sources": [
+      {
+        "name": "the_war_zone",
+        "url": "https://www.twz.com/air/mig-29-transfer-to-ukraine-halted-by-poland-over-claimed-drone-snub",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-048",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "House Advances $1 Trillion FY2027 Defense Bill - Legis1",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE53aFBXRjVHd2VlT0t5X2R5Z3Y3UUN5dV9SX0FpRHpCZzEwTmpEekhKdUhTcmdwcWhnMUFxYXhUbW9KRWlrX1pPM2tidUo4dXRrdS1ZNUEwZ01WcDNUTmg2OFJ5WWU4c3lRVGlWMXIxVk",
+    "sources": [
+      {
+        "name": "google_defense_budget",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE53aFBXRjVHd2VlT0t5X2R5Z3Y3UUN5dV9SX0FpRHpCZzEwTmpEekhKdUhTcmdwcWhnMUFxYXhUbW9KRWlrX1pPM2tidUo4dXRrdS1ZNUEwZ01WcDNUTmg2OFJ5WWU4c3lRVGlWMXIxVkQtZ21PYkthWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-049",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "drone_warfare",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Britain hopes drones will help it escape its defence-budget bind - The Economist",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNSm0yVjltR1lfMGZNbThoV2dtY19ZYVMya3RtbE4wa0VWNGJocDluc3d2VTdOcmFrS1JQTVE4MGYxY0FyVG5UVFRYZ19SNDhFdDZ5eXplM1pfcTVpUjBOQmVJY3lpSjNsU3UyamEzSX",
+    "sources": [
+      {
+        "name": "google_defense_budget",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSm0yVjltR1lfMGZNbThoV2dtY19ZYVMya3RtbE4wa0VWNGJocDluc3d2VTdOcmFrS1JQTVE4MGYxY0FyVG5UVFRYZ19SNDhFdDZ5eXplM1pfcTVpUjBOQmVJY3lpSjNsU3UyamEzSXZpYkNxRWszRXZ1Yk5ITHowSWRrc2gwX2wtZGIzZTdMM3FwdmJfdV9keWJXRlpLOXlVelJCOFk2LUhaOWs5dVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-050",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "defense_budget",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "5 things to know about the UK’s new defense spending plan - politico.eu",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPLW9IOWlsRlRMcDhIU19ZUnFYQm9RZ1pGZGpPOFMwOFp3OHVrcDJqNExaZm9jOWgzcHJEX2U2WjAxT3o1Z055OHVaRXZ3ZTRyWGNvNDh5LVRSRE9rUlhPSXowZmpmcjk4bWJUdnNucl",
+    "sources": [
+      {
+        "name": "google_defense_budget",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLW9IOWlsRlRMcDhIU19ZUnFYQm9RZ1pGZGpPOFMwOFp3OHVrcDJqNExaZm9jOWgzcHJEX2U2WjAxT3o1Z055OHVaRXZ3ZTRyWGNvNDh5LVRSRE9rUlhPSXowZmpmcjk4bWJUdnNuclMtVG54N0FxaXNxd09aMS1oeVJJcXJpMy1nLUZDM1hRb2pRLVk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-051",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "defense_budget",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The FY27 U.S. Defense Budget: Trends, Programs, and Industry Implications - Janes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNR1pfZnFHU0pOVVN2Nkc2YUVYMGZENk1taEZQMDZpdEV4amloMXJxVUVWdlp4N3FpUDhBZGVrWnNNOVNNUG5jRVBIdkJSWWQzazhNVVJ5RUUyUmNBUTVQLXZpVm1lRzNacGQ3TXJNVH",
+    "sources": [
+      {
+        "name": "google_defense_budget",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNR1pfZnFHU0pOVVN2Nkc2YUVYMGZENk1taEZQMDZpdEV4amloMXJxVUVWdlp4N3FpUDhBZGVrWnNNOVNNUG5jRVBIdkJSWWQzazhNVVJ5RUUyUmNBUTVQLXZpVm1lRzNacGQ3TXJNVHdrY0lXbGFNdVlrZzN3U0RpSHdpNVZMNzZCemxyYlBjUXJha3dlOG5wR3lZX1VIUWxITnZOMktTN0I4NUJhX05XTGJRZ2o1cDdYODRlaGE1QzNsajc5N0I2dDBqV1dXZVg5VlFPQzR2b0ZnQUpLR2ZrTnBtWTVXQlFGcUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-052",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan Defence Consensus and the Cost of Political Division - economy.ac",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WbEhKUDBHazlDMXNaeG9TQjBEWFRLREtwd1hXQjB6cW0zM0RrUEZSS0tTVG9nLWxhVHVlV0d2UGxVU205YmxiWUI5cUU5VnVON1NfNVFZbXZPdw?oc=5\" target=\"_blank\">Taiwa",
+    "sources": [
+      {
+        "name": "google_defense_budget",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WbEhKUDBHazlDMXNaeG9TQjBEWFRLREtwd1hXQjB6cW0zM0RrUEZSS0tTVG9nLWxhVHVlV0d2UGxVU205YmxiWUI5cUU5VnVON1NfNVFZbXZPdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-053",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Space Force fields mobile satellite-jamming system",
+    "summary": "<figure><img width=\"1024\" height=\"574\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/260626-X-X0914-1001.jpg?fit=1024%2C574&amp;ssl=1\" class=\"attachment-rss-image-size size-rss-image",
+    "sources": [
+      {
+        "name": "spacenews",
+        "url": "https://spacenews.com/space-force-fields-mobile-satellite-jamming-system/",
         "type": "rss"
       }
     ]
@@ -1217,6 +2283,61 @@
     ]
   },
   {
+    "id": "l3harris-2026-06-29-053",
+    "date": "2026-06-29",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "NASA Awards L3Harris Contract for Search-for-Life Mission - ASDNews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOLW9XMDhlejJ5ejJ6MXVoWVZBS2VrbVNrUF9jWkZGTThsODB2TTJMSmQzMm1hcWVldExwdmdiMV9TYXNQaTNiTmI1YzJlMXdOQ0NFa3lrM1VOR3g2dTZNRldUaldNWmNiUVZOME1jMl",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLW9XMDhlejJ5ejJ6MXVoWVZBS2VrbVNrUF9jWkZGTThsODB2TTJMSmQzMm1hcWVldExwdmdiMV9TYXNQaTNiTmI1YzJlMXdOQ0NFa3lrM1VOR3g2dTZNRldUaldNWmNiUVZOME1jMlo0RG1hb1RiTFNIcW1mRXhzLVk4NEo1dmVFUUJPd1pZa3pIVWVuenRfd0hINDdHYU5aaWRZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-29-054",
+    "date": "2026-06-29",
+    "companies": [],
+    "topics": [
+      "missile_defense",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Advanced Israeli air defense systems used by Qatar, Saudi Arabia despite lack of formal relations - All Israel News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQRWFSMUNEcTNCMVZxT2JhbTBEOVhEbUdJTE9vaTV1V25Oa2tYVmxsOWlKbU5IRjFFRkVpWVdMUTQyWGhZY2V4NG1kVVZETjBfa0VpcjZsY0JYUkg2TGpCNXNCVkxfMV9UWTliUjRpTz",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRWFSMUNEcTNCMVZxT2JhbTBEOVhEbUdJTE9vaTV1V25Oa2tYVmxsOWlKbU5IRjFFRkVpWVdMUTQyWGhZY2V4NG1kVVZETjBfa0VpcjZsY0JYUkg2TGpCNXNCVkxfMV9UWTliUjRpTzlJTEFMUjRWOEU5QW5FbnM1b2Vud09nUVQ5MnlQWHlOQWdiclROTWV4REo0M3NKZFpBUWFMNUo4Mi1nNERFNFVCc3l4N0xUSUYtRmNjam5Law?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-29-055",
+    "date": "2026-06-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Poland Signs $4.8 Billion Defense Deal, Deepening Sweden Ties - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUll1d2V3ODJfYmpfc2IxeFNyVEcwdW1wbk1lZm9EZDhLN1R6a0JaWUxYQ050Y1lxUDZzN3hxeWRhd0NkeUd0ZVU4ZVF2ZzVYa251Y3VLQVhNM04yWXM5THhmcThEWk1OS1JQekUycE",
+    "sources": [
+      {
+        "name": "saab",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUll1d2V3ODJfYmpfc2IxeFNyVEcwdW1wbk1lZm9EZDhLN1R6a0JaWUxYQ050Y1lxUDZzN3hxeWRhd0NkeUd0ZVU4ZVF2ZzVYa251Y3VLQVhNM04yWXM5THhmcThEWk1OS1JQekUycExncjloTjJmamxVSkEtOWEtZWpmZFV4ZkRqNFdnRzdiUWM0MjMzTDN4dHU4YzFGSTV2THM0NkU2bnV5eDE0Y1QzNWJKTXFodS1QbWlEMnNhbjRObEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rtx-2026-06-28-001",
     "date": "2026-06-28",
     "companies": [
@@ -1428,6 +2549,26 @@
     ]
   },
   {
+    "id": "palantir-2026-06-28-012",
+    "date": "2026-06-28",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "cybersecurity"
+    ],
+    "impact": "neutral",
+    "title": "Palantir | Big Data Analytics, Cybersecurity, & AI - Encyclopedia Britannica",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9mQVptUXBfc1dtdlpyZTJOWUtrNjdYMWZKSVp6SFRfc3lSeTZaQV90ck1JNnNhY1pEZ0NBSzhhem5iUDIyWFZLcDlhOHJMN0l6djRRdlVmU3h3RzVwZ3BMNzNwQU5tMmE5Tmc?oc=5\" ",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mQVptUXBfc1dtdlpyZTJOWUtrNjdYMWZKSVp6SFRfc3lSeTZaQV90ck1JNnNhY1pEZ0NBSzhhem5iUDIyWFZLcDlhOHJMN0l6djRRdlVmU3h3RzVwZ3BMNzNwQU5tMmE5Tmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rtx-2026-06-27-001",
     "date": "2026-06-27",
     "companies": [
@@ -1601,6 +2742,26 @@
       {
         "name": "palantir",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcUVDeWxvWFlaLTQ4UEUwcmZLM2dHenRUUVBlbTh4N2t5YThsd2JXbXlCcU5ZOHpqcU1qOU9WYVh0eUhQVjF5MVFrRllycHFiRDZ6ZzJsbFEwRF9Objh6V3NDWTU4akxyVV9ubnkwWmxQY1RhOFBHeWlBckUyR0hDYlpPcXY4SVQ3V01IanlLX1lYLWVFYWgzUXJ1VlVMZ3hjVVFkUzByMHJQM1BrbF80aQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rtx-2026-06-27-010",
+    "date": "2026-06-27",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "RTX Corporation: The Valuation Expects More Growth - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPbmQybXJocXd0Rm5iSW5ObHpsbl83Q2VwVTBpOWk3aTQxTDdIemp5Z0JqaDAwYmIxSUZlc0VyN3VBTkNxSkMwU0RpR1dubW5MMTdOQmNmX0ppMEhweC1XWEpOdjFxd3ZzdEc1WDVUT3",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbmQybXJocXd0Rm5iSW5ObHpsbl83Q2VwVTBpOWk3aTQxTDdIemp5Z0JqaDAwYmIxSUZlc0VyN3VBTkNxSkMwU0RpR1dubW5MMTdOQmNmX0ppMEhweC1XWEpOdjFxd3ZzdEc1WDVUT3Z0R3Zpc0RXUk9qUlFkWDJjTXRuRkE?oc=5",
         "type": "rss"
       }
     ]
@@ -2405,6 +3566,24 @@
       {
         "name": "the_war_zone",
         "url": "https://www.twz.com/air/its-official-f-35s-are-now-being-delivered-without-radars",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rtx-2026-06-26-043",
+    "date": "2026-06-26",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "RTX Board of Directors Declares Quarterly Cash Dividend - Quantisnow",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQN0hub3FXQWZKTDEzVE1tcFctanVRRlpzOS0tMmUyNXc5SmE4Y29uY3oycnN3R3VRLVhqcy1NaFZFb3Q5ci1Pb19OMlR2T3h6ODlaUGNQR0ZJbTZVc3o3aHJmSDA2NER3SlMzVDl5Vj",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN0hub3FXQWZKTDEzVE1tcFctanVRRlpzOS0tMmUyNXc5SmE4Y29uY3oycnN3R3VRLVhqcy1NaFZFb3Q5ci1Pb19OMlR2T3h6ODlaUGNQR0ZJbTZVc3o3aHJmSDA2NER3SlMzVDl5VjhrSGxVanR2dzZqTnV5OUxDc0tkUDA3R1V3ZGx4WWx1c0l6TzF0OGFGeEM1M2U4UFk?oc=5",
         "type": "rss"
       }
     ]

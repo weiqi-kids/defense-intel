@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 136,
+  "no_date": 0,
+  "too_old": 66,
+  "gate1_fail": 34,
+  "gate2_fail": 17,
+  "passed": 62,
+  "gate2_samples": [
+    "IFM Investors Pty Ltd Has $25.96 Million Position in RTX Corporation $RTX - MarketBeat",
+    "RTX (RTX) Outperforms Broader Market: What You Need to Know - Yahoo Finance",
+    "FAA weighs broad aircraft tracking mandate after deadly D.C. midair collision (RTX:NYSE) - Seeking A",
+    "Riverstone Advisors LLC Has $10.27 Million Stock Position in RTX Corporation $RTX - MarketBeat",
+    "L3Harris Technologies, Inc.(NYSE: LHX) dropped from Russell 1000 Dynamic Index - marketscreener.com"
+  ]
+}

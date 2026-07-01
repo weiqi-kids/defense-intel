@@ -1,0 +1,168 @@
+{
+  "date": "2026-07-01",
+  "date_range": {
+    "start": "2026-06-25",
+    "end": "2026-07-01"
+  },
+  "generated_at": "2026-07-01T11:19:42.277153Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "palantir-2026-06-25-035",
+      "date": "2026-06-25",
+      "title": "Wall Street Expects Palantir Technologies (PLTR) To Bounce Back Following a 23% YTD Decline - Yahoo Finance",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 46,
+      "last_week": 63,
+      "week_over_week_change": "-27%",
+      "sentiment_this_week": 0.01
+    },
+    "industry_general": {
+      "this_week": 34,
+      "last_week": 63,
+      "week_over_week_change": "-46%",
+      "sentiment_this_week": 0.01
+    },
+    "arms_export": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    },
+    "drone_warfare": {
+      "this_week": 7,
+      "last_week": 8,
+      "week_over_week_change": "-12%",
+      "sentiment_this_week": 0.0
+    },
+    "missile_defense": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "defense_budget": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rtx": {
+      "event_count": 11,
+      "sentiment_avg": 0.05,
+      "rank": 1
+    },
+    "l3harris": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "rheinmetall": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "elbit": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "palantir": {
+      "event_count": 11,
+      "sentiment_avg": -0.04,
+      "rank": 2
+    },
+    "leonardo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "aidc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "hanwha_aero": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "saab": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 248,
+        "last": 321,
+        "change_pct": -22.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-25",
+      "event_count": 61,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-26",
+      "event_count": 43,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-06-27",
+      "event_count": 10,
+      "sentiment_avg": 0.2
+    },
+    {
+      "date": "2026-06-28",
+      "event_count": 12,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-06-29",
+      "event_count": 55,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-30",
+      "event_count": 53,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-01",
+      "event_count": 14,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-25 ~ 2026-07-01）共 248 則事件，重點為「Wall Street Expects Palantir Technologies (PLTR...」。財報、國防航太通用、無人機作戰為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "RTX",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "萊茵金屬",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
