@@ -1,0 +1,16 @@
+{
+  "total_raw": 300,
+  "dup_title": 127,
+  "no_date": 0,
+  "too_old": 67,
+  "gate1_fail": 33,
+  "gate2_fail": 12,
+  "passed": 61,
+  "gate2_samples": [
+    "RTX (RTX) Outperforms Broader Market: What You Need to Know - Yahoo Finance",
+    "Smithbridge Asset Management Inc. DE Decreases Stock Position in RTX Corporation $RTX - MarketBeat",
+    "IFM Investors Pty Ltd Has $25.96 Million Position in RTX Corporation $RTX - MarketBeat",
+    "Forum Financial Management LP Sells 3,618 Shares of L3Harris Technologies Inc $LHX - MarketBeat",
+    "L3Harris Technologies, Inc.(NYSE: LHX) dropped from Russell 1000 Dynamic Index - marketscreener.com"
+  ]
+}

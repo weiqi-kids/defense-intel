@@ -1,0 +1,162 @@
+{
+  "date": "2026-07-02",
+  "date_range": {
+    "start": "2026-06-26",
+    "end": "2026-07-02"
+  },
+  "generated_at": "2026-07-02T10:32:19.908231Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "l3harris-2026-06-26-001",
+      "date": "2026-06-26",
+      "title": "L3Harris Technologies Inc Shs Unsponsored Brazilian Depositary Receipt Repr 0.25 Sh - TradingView",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 51,
+      "last_week": 63,
+      "week_over_week_change": "-19%",
+      "sentiment_this_week": 0.01
+    },
+    "industry_general": {
+      "this_week": 43,
+      "last_week": 63,
+      "week_over_week_change": "-32%",
+      "sentiment_this_week": -0.02
+    },
+    "drone_warfare": {
+      "this_week": 7,
+      "last_week": 6,
+      "week_over_week_change": "+17%",
+      "sentiment_this_week": 0.0
+    },
+    "missile_defense": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    },
+    "defense_budget": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "l3harris": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "leonardo": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "rheinmetall": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "aidc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "rtx": {
+      "event_count": 11,
+      "sentiment_avg": 0.05,
+      "rank": 3
+    },
+    "palantir": {
+      "event_count": 17,
+      "sentiment_avg": -0.03,
+      "rank": 1
+    },
+    "hanwha_aero": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "saab": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "elbit": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 248,
+        "last": 328,
+        "change_pct": -24.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-26",
+      "event_count": 43,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-06-27",
+      "event_count": 10,
+      "sentiment_avg": 0.2
+    },
+    {
+      "date": "2026-06-28",
+      "event_count": 12,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-06-29",
+      "event_count": 56,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-30",
+      "event_count": 55,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-07-01",
+      "event_count": 43,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-07-02",
+      "event_count": 29,
+      "sentiment_avg": -0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-26 ~ 2026-07-02）共 248 則事件，重點為「L3Harris Technologies Inc Shs Unsponsored Brazi...」。財報、國防航太通用、無人機作戰為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "萊茵金屬",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "RTX",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
