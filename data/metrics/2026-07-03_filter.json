@@ -1,0 +1,16 @@
+{
+  "total_raw": 300,
+  "dup_title": 137,
+  "no_date": 0,
+  "too_old": 65,
+  "gate1_fail": 29,
+  "gate2_fail": 13,
+  "passed": 56,
+  "gate2_samples": [
+    "RTX Corporation $RTX Shares Bought by Leonteq Securities AG - MarketBeat",
+    "RTX (RTX) Outperforms Broader Market: What You Need to Know - Yahoo Finance",
+    "Heritage Investors Management Corp Sells 6,709 Shares of RTX Corporation $RTX - MarketBeat",
+    "Smithbridge Asset Management Inc. DE Decreases Stock Position in RTX Corporation $RTX - MarketBeat",
+    "IFM Investors Pty Ltd Has $25.96 Million Position in RTX Corporation $RTX - MarketBeat"
+  ]
+}

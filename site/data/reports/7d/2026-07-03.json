@@ -1,0 +1,157 @@
+{
+  "date": "2026-07-03",
+  "date_range": {
+    "start": "2026-06-27",
+    "end": "2026-07-03"
+  },
+  "generated_at": "2026-07-03T10:30:07.838793Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "rtx-2026-06-27-001",
+      "date": "2026-06-27",
+      "title": "Welch Group LLC Sells 37,497 Shares of RTX Corporation $RTX - MarketBeat",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 52,
+      "last_week": 58,
+      "week_over_week_change": "-10%",
+      "sentiment_this_week": 0.02
+    },
+    "industry_general": {
+      "this_week": 44,
+      "last_week": 55,
+      "week_over_week_change": "-20%",
+      "sentiment_this_week": -0.02
+    },
+    "drone_warfare": {
+      "this_week": 6,
+      "last_week": 7,
+      "week_over_week_change": "-14%",
+      "sentiment_this_week": 0.0
+    },
+    "missile_defense": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "defense_budget": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rtx": {
+      "event_count": 11,
+      "sentiment_avg": 0.05,
+      "rank": 3
+    },
+    "l3harris": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "palantir": {
+      "event_count": 19,
+      "sentiment_avg": -0.03,
+      "rank": 1
+    },
+    "rheinmetall": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "hanwha_aero": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "saab": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "elbit": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "leonardo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 261,
+        "last": 329,
+        "change_pct": -20.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-27",
+      "event_count": 10,
+      "sentiment_avg": 0.2
+    },
+    {
+      "date": "2026-06-28",
+      "event_count": 12,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-06-29",
+      "event_count": 58,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-30",
+      "event_count": 56,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-07-01",
+      "event_count": 46,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-07-02",
+      "event_count": 68,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-03",
+      "event_count": 11,
+      "sentiment_avg": 0.05
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-27 ~ 2026-07-03）共 261 則事件，重點為「Welch Group LLC Sells 37,497 Shares of RTX Corp...」。財報、國防航太通用、無人機作戰為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "RTX",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Palantir Technologies",
+        "reason": "本週出現 19 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

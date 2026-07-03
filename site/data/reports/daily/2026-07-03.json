@@ -1,0 +1,220 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T10:30:07.687722Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rheinmetall-2026-07-03-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall Acquires DOK-ING to Launch Unmanned Ground Vehicles Division - Odessa Journal",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMk1HMU56M2wwYmdKamZFYloyRy1NR0N3ME1UN2lyWDhOZ3J0VzFPMkVCc1FWdjNJS0hHMXJIQ295QVJTNXJtTkpvSE1JNUlMTVJIMjVzdU44X3ctWS1EOUs4dGdWRDVBSkZvUnFPUG4wbkcxZVF0bXRHQ3Jxei1jdjE3RzVTS2RiNmRoU0Z6dUE2M1pfRzkxMUt3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-03-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha Announces 55 Trillion Won Aerospace, AI Investment - Let's Data Science",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbmZLdVlraFJPR2dPYWIxUWowSFQzYUJWUjRzeG9ITjZrU2pOZy1XUENqZmQyU2RNa21SV0N3Z0gxZE5Zc25YRms5UUxrN2p3bjBMRmR2Y0VEVFJhcF9LNC1tR1VZOU81Q1NwbEF4c2h5bGtwWDYxMnIwTGtLWDA3cjliQWdUaG5DTnJSeWRZNHA2T2huY2FMT2RtU1pFeHM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-03-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha Group's 55 Trillion Won Space, AI Strategy - 조선일보",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSFlKMzhjcWtMZ29Od1c0dC1LcDRIQllfZEFvM0NBM1F4ajlxdk1wTG4ta0FCdTU5UE92QjVueUxhVzR3cC1OMHdqV0RBQ2VSYXR1b1VYS1B0QTM4M1pHUDR1dU5xdy0tcUo4ampjSG5MNkdYaEJNb0ZzV3hkMG5VMWFWWHloakdN?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-03-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Kim Dong-kwan: \"Expand South Korea's AI Territory into Space\"... 5.5 Trillion Won Investment by 2040 - 매일경제",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SbUEzbVFhSTdkWUdDY3ZMWmFiU0FCRnZBOXB3M05rQ0toLVpDTmQ2cUQyU0pJQlU5RndpRHMyNEFhWXNWZHRSNjJQRThNdDVwMEZJ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "l3harris-2026-07-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "L3Harris (LHX) director Regnery gains phantom stock units in fee deferral - Stock Titan",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ1UwQ0NHdzlPbERYN19UOTVLVG9Xa3dibjAtVzU3R1FOdVJVdm9HYTFpUEc0QjlXbHJXYVo4M0w1bnFvdV9RX1hucGZSdy1LdnJWNDVCZl9EcDdxVkhaVVpXaEx0MGd6LW1ic0gzaF9xckVxQlRsUVNXSVB2TllOdm9sR0R5Y2FGUC1GZ1k0S2FLWjYybkFRYVZLb010aDZmdFlIbDVGWDRNVlFVNnlkZk1pUEV5Sk5aejVrWjhn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drone_warfare": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rheinmetall",
+        "count": 2
+      },
+      {
+        "id": "palantir",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "drone_warfare",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 300,
+    "dup_title": 137,
+    "too_old": 65,
+    "gate1_blocked": 29,
+    "gate2_blocked": 13,
+    "passed": 56,
+    "pass_rate": "34.4%",
+    "gate2_block_rate": "8.0%",
+    "gate2_samples": [
+      "RTX Corporation $RTX Shares Bought by Leonteq Securities AG - MarketBeat",
+      "RTX (RTX) Outperforms Broader Market: What You Need to Know - Yahoo Finance",
+      "Heritage Investors Management Corp Sells 6,709 Shares of RTX Corporation $RTX - MarketBeat",
+      "Smithbridge Asset Management Inc. DE Decreases Stock Position in RTX Corporation $RTX - MarketBeat",
+      "IFM Investors Pty Ltd Has $25.96 Million Position in RTX Corporation $RTX - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為萊茵金屬、Palantir Technologies、L3Harris Technologies相關動態：「Rheinmetall Acquires DOK-ING to Launch Unmanned Ground Ve...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Rheinmetall Acquires DOK-ING to Launch Unmanned Ground Vehicles Division - Od...（無人機作戰、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Hanwha Announces 55 Trillion Won Aerospace, AI Investment - Let's Data Science（財報、國防航太通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
