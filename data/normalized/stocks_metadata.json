@@ -1,38 +1,38 @@
 {
   "lockheed": {
-    "earliest": "2003-12-24",
+    "earliest": "2003-09-25",
     "latest": "2026-07-02",
-    "count": 5665
+    "count": 5728
   },
   "rtx": {
-    "earliest": "2003-12-24",
+    "earliest": "2003-09-25",
     "latest": "2026-07-02",
-    "count": 5665
+    "count": 5728
   },
   "northrop": {
-    "earliest": "2003-12-24",
+    "earliest": "2003-09-25",
     "latest": "2026-07-02",
-    "count": 5665
+    "count": 5728
   },
   "general_dynamics": {
-    "earliest": "2003-12-24",
+    "earliest": "2003-09-25",
     "latest": "2026-07-02",
-    "count": 5665
+    "count": 5728
   },
   "l3harris": {
-    "earliest": "2003-12-24",
+    "earliest": "2003-09-25",
     "latest": "2026-07-02",
-    "count": 5665
+    "count": 5728
   },
   "bae": {
-    "earliest": "2003-12-24",
+    "earliest": "2003-09-25",
     "latest": "2026-07-03",
-    "count": 5708
+    "count": 5772
   },
   "thales": {
-    "earliest": "2003-12-19",
+    "earliest": "2003-09-22",
     "latest": "2026-07-03",
-    "count": 5775
+    "count": 5839
   },
   "leonardo": {
     "earliest": "2005-07-18",
@@ -41,9 +41,9 @@
     "history_complete": true
   },
   "rheinmetall": {
-    "earliest": "2003-12-22",
+    "earliest": "2003-09-23",
     "latest": "2026-07-03",
-    "count": 5737
+    "count": 5801
   },
   "aidc": {
     "earliest": "2014-08-25",
@@ -52,19 +52,19 @@
     "history_complete": true
   },
   "hanwha_aero": {
-    "earliest": "2003-12-22",
+    "earliest": "2003-09-23",
     "latest": "2026-07-03",
-    "count": 5591
+    "count": 5655
   },
   "elbit": {
-    "earliest": "2003-12-24",
+    "earliest": "2003-09-25",
     "latest": "2026-07-02",
-    "count": 5665
+    "count": 5728
   },
   "saab": {
-    "earliest": "2003-12-19",
+    "earliest": "2003-09-22",
     "latest": "2026-07-03",
-    "count": 5689
+    "count": 5753
   },
   "palantir": {
     "earliest": "2020-09-30",
@@ -73,9 +73,9 @@
     "history_complete": true
   },
   "kratos": {
-    "earliest": "2003-12-24",
+    "earliest": "2003-09-25",
     "latest": "2026-07-02",
-    "count": 5665
+    "count": 5728
   },
   "etf_ita": {
     "earliest": "2006-05-05",
