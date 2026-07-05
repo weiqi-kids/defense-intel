@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 184,
+  "no_date": 0,
+  "too_old": 67,
+  "gate1_fail": 28,
+  "gate2_fail": 13,
+  "passed": 23,
+  "gate2_samples": [
+    "RTX (RTX) Outperforms Broader Market: What You Need to Know - Yahoo Finance",
+    "RTX Corporation $RTX Shares Bought by Leonteq Securities AG - MarketBeat",
+    "Smithbridge Asset Management Inc. DE Decreases Stock Position in RTX Corporation $RTX - MarketBeat",
+    "Heritage Investors Management Corp Sells 6,709 Shares of RTX Corporation $RTX - MarketBeat",
+    "Hsbc Holdings PLC Boosts Stock Position in L3Harris Technologies Inc $LHX - MarketBeat"
+  ]
+}
