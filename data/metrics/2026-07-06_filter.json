@@ -1,0 +1,16 @@
+{
+  "total_raw": 300,
+  "dup_title": 160,
+  "no_date": 0,
+  "too_old": 66,
+  "gate1_fail": 30,
+  "gate2_fail": 13,
+  "passed": 31,
+  "gate2_samples": [
+    "Fortune 45 LLC Takes Position in RTX Corporation $RTX - MarketBeat",
+    "RTX (RTX) Outperforms Broader Market: What You Need to Know - Yahoo Finance",
+    "RTX Corporation $RTX Shares Bought by Leonteq Securities AG - MarketBeat",
+    "Heritage Investors Management Corp Sells 6,709 Shares of RTX Corporation $RTX - MarketBeat",
+    "Smithbridge Asset Management Inc. DE Decreases Stock Position in RTX Corporation $RTX - MarketBeat"
+  ]
+}
