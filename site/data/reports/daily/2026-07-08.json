@@ -1,0 +1,239 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T10:10:58.687546Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-07-08-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cvfg LLC Has $2.57 Million Position in RTX Corporation $RTX - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT09yeHZzTTlSRFNia3RfTk92UUpkU0NtZnpyMmJQWWFKdWU0OUx2SlgxSTBPSDh1Y3ptQlY0SkpSbHpvQ2M4elk1Q1VESndtNnllYVVtMVRwR05Qa2M4U3ZaSFFYNXNabGYtZ1ZtTUY5OHVuWWJOV3ZHSGQ5MnVEcDNCVi1rVGpFZlN1VFU3RmhKMVZ2MHNlRjgtT1V0cG5OUTdVaTRsVTVsUUJlQnNtUC1jNTBxeXRM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "l3harris-2026-07-08-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris Technologies focuses on defense electronics as investors weigh long-term demand - AD HOC NEWS",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcVlteWpSQnBwZmxnZm1iWEV3WkJ4MllHaFJYQjdhN2NMNGxTOHk2T2laWkEzVE92cTd5ejlNMHkzcWFYVFAxV1FLX3dXRWxSd1ZUM0RUTUpCc3I5TUxlcm1VdlR3OGRNQVJaTmpXOFBPRzRQR1RXazNyMGhnTHdUMk5nRkVVM2lWU1plZ3psaFhYZUU5b1NSdUFvQ0d3bEZmZl9DdnJtTVhYbUJSN2NZS0tqWFdNWkVNSTJzSEZJQ29QcjZlcmttM3dn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rheinmetall-2026-07-08-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall slides again: taking stock after the F126 program was scrapped - marketscreener.com",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaTJIdnRLSXZvekpCM3dtaVhtSkRQUnFhVDVtZmNudE5ISFNRU0ZESkNVR3lCQVkxZGdzbUI2RGVjMnlKT0g1VkNWZFZqX0Q3VUZMYmFJcmQtZll2SV9SSkdvT2t5cy1Td240b1o5NE03Mzhrd2lzbTF6dWNxYml5dGtmN1UyNFE1azBxWnJDTTk1MFBlRGp1WURaYUtKWXM2SHhxbkY4WENwcHV6V3pTQnU3NjNJVVlsZkc4UmkxVzNLWXJM?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hanwha_aero-2026-07-08-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha Aerospace Deepens NATO Defense Cooperation - Businesskorea",
+      "companies": [
+        "hanwha_aero"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aZzYySTJPdEZlTXhzTmZnc1p4a1FQWllDSkx0RURkREFlV1BRalFfVnVqMkswcmlMV0lpN2h6a1RZUEZ1SVRhdVlwWmVUQ2JBdXFEZnZwb3ZjUHJWenFKa1ZaM0d0amEtRnM5alNwZzR4V09X?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_aero-2026-07-08-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha Aerospace to Participate in NATO Defense Industry Forum - starnewskorea.com",
+      "companies": [
+        "hanwha_aero"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUxBYzZTb3E1ZU9FLXphQ3lfRkFCX0ZjdlZIRWN0ZG40c284REtDQ2M4UTBKX1Y5MEgwVWZtUXAxbXhtNVNCUGhld3ZqcE4wSWVWV2RjRFloZmMtU1ZmdjhRcUFpYkh0UmE3WmpBWW84RXIybUxJZlIxck1ILXBtN2pWVQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 22,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_aero",
+        "count": 10
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "rheinmetall",
+        "count": 2
+      },
+      {
+        "id": "palantir",
+        "count": 2
+      },
+      {
+        "id": "rtx",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "earnings",
+        "count": 10
+      },
+      {
+        "id": "drone_warfare",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 315,
+    "dup_title": 122,
+    "too_old": 62,
+    "gate1_blocked": 30,
+    "gate2_blocked": 15,
+    "passed": 86,
+    "pass_rate": "44.6%",
+    "gate2_block_rate": "7.8%",
+    "gate2_samples": [
+      "RTX Corporation $RTX Shares Purchased by Fishman Jay A Ltd. MI - MarketBeat",
+      "RTX Corporation (NYSE:RTX) Receives Average Rating of \"Moderate Buy\" from Brokerages - MarketBeat",
+      "Kiley Juergens Wealth Management LLC Acquires New Shares in RTX Corporation $RTX - MarketBeat",
+      "Fortune 45 LLC Takes Position in RTX Corporation $RTX - MarketBeat",
+      "RTX Corporation $RTX Shares Bought by Leonteq Securities AG - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為韓華航太、L3Harris Technologies、萊茵金屬相關動態：「Cvfg LLC Has $2.57 Million Position in RTX Corporation $R...」。主要關注主題為國防航太通用、財報、無人機作戰，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Cvfg LLC Has $2.57 Million Position in RTX Corporation $RTX - MarketBeat（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "L3Harris Technologies focuses on defense electronics as investors weigh long-...（財報、國防航太通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

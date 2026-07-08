@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 122,
+  "no_date": 0,
+  "too_old": 62,
+  "gate1_fail": 30,
+  "gate2_fail": 15,
+  "passed": 86,
+  "gate2_samples": [
+    "RTX Corporation $RTX Shares Purchased by Fishman Jay A Ltd. MI - MarketBeat",
+    "RTX Corporation (NYSE:RTX) Receives Average Rating of \"Moderate Buy\" from Brokerages - MarketBeat",
+    "Kiley Juergens Wealth Management LLC Acquires New Shares in RTX Corporation $RTX - MarketBeat",
+    "Fortune 45 LLC Takes Position in RTX Corporation $RTX - MarketBeat",
+    "RTX Corporation $RTX Shares Bought by Leonteq Securities AG - MarketBeat"
+  ]
+}
