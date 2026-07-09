@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 145,
+  "no_date": 0,
+  "too_old": 62,
+  "gate1_fail": 27,
+  "gate2_fail": 21,
+  "passed": 60,
+  "gate2_samples": [
+    "RTX (RTX) Registers a Bigger Fall Than the Market: Important Facts to Note - Yahoo Finance",
+    "RTX Corporation $RTX Shares Purchased by Fishman Jay A Ltd. MI - MarketBeat",
+    "Kiley Juergens Wealth Management LLC Acquires New Shares in RTX Corporation $RTX - MarketBeat",
+    "RTX Corporation (NYSE:RTX) Receives Average Rating of \"Moderate Buy\" from Brokerages - MarketBeat",
+    "Fortune 45 LLC Takes Position in RTX Corporation $RTX - MarketBeat"
+  ]
+}
