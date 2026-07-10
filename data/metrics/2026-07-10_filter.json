@@ -1,0 +1,16 @@
+{
+  "total_raw": 300,
+  "dup_title": 143,
+  "no_date": 0,
+  "too_old": 65,
+  "gate1_fail": 37,
+  "gate2_fail": 11,
+  "passed": 44,
+  "gate2_samples": [
+    "First Horizon Corp Has $7.75 Million Holdings in RTX Corporation $RTX - MarketBeat",
+    "RTX (RTX) Registers a Bigger Fall Than the Market: Important Facts to Note - Yahoo Finance",
+    "RTX Corporation $RTX Shares Purchased by Fishman Jay A Ltd. MI - MarketBeat",
+    "RTX Corporation (NYSE:RTX) Receives Average Rating of \"Moderate Buy\" from Brokerages - MarketBeat",
+    "Kiley Juergens Wealth Management LLC Acquires New Shares in RTX Corporation $RTX - MarketBeat"
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T10:47:39.089613Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "general_dynamics-2026-07-10-001",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Zacks Industry Outlook Highlights GE Aerospace, RTX and General Dynamics - TradingView",
+      "companies": [
+        "general_dynamics",
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOM3RheE5SMU9BWEk2Y2dISndDZFFpQk1vMkRyOWVIS2hBQkwzaXVEc1daYkc0RFd6V0QySHhYN3p1cDZwNUZ4WTlta3ZIS19HTEhLS3B4Q3ZjMEs4VjJnRkZ4blBGMzhjTUtUX0JHeG5vWEVVMFlCRnEtbEQ5ZlVmS21oS3RWYk1wQzEzdVc3cUZGRk05MWktZGJzSGJWVUU0VmIyOGtNWmFYMGxIa0Y3QlBONHdCaVBQY3FpSHpSY18zTFk0RlE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rheinmetall-2026-07-10-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Germany awards Rheinmetall-MBDA team contract to develop high-energy laser weapon system for German Navy - Defence Industry Europe",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbDFiUEc2ZmxILWJJMW1qRlFMc2NsWF9Rb2o1RTVkbnJ3d1RZb2FPS1gyQkROM2dNdGswWVpYeEpYQUhtMHJZYW1MU2dOd045T2ZwMGtrNmtuaGxrMmQ1UzFiYmZ2ZWpqSUhJNFRCOUFmaXZVNFpqRk9sMW1hWjhMMUt5QWdHSkNRMXpXRkpuZlJBNExOZDktUlN1Vi1JSE1UbXBGTWNsTzB2NU42ODRjQngzU1hocUZLSXIyMFE3OW9qNGhVb3QycWhrcWFJZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hanwha_aero-2026-07-10-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha Aerospace Opens Sixth H-Lounge at Armed Forces Gangneung Hospital - Seoul Economic Daily",
+      "companies": [
+        "hanwha_aero"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS3l6MTRWSzkxU2piNWNTdHVGUzBfanBtaUVuQ1FLWDJRdnlSeXc0Q3hSb0dmeU4xV0Rtd0FGa1FTNkJnOHF6QWFBeHhBdFlOS2tQSHlHRVNzYXc5bzBjQjQzU2tjYWhjaFNCUDZzN0lQM2ZQUHZDclQyblkyQkVoTkZldWpwdXp6eTRUWGtVWWQwS3N4aFFHcUkzMA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "palantir-2026-07-10-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Pro-Palantir data has litany of errors, English hospitals admit - Financial Times",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUUkzQzhqTjlRSXZzVUFkRmp5dUJ1bnFCVkE1SGNwRGNnbFpYbUdhMEs2SHNJb2VWMFE2eldOVEN4RXRSaWZ0ZnZBektJT3NUM2VXMzdDV1haRW5yOWl0LUxoQk9CWWg0c2stYXUxQ2RNRXg2aVpYVURXVVJyV2dueTQzdy0?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "palantir-2026-07-10-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Palantir Stock Is Down 36% From Its All-Time High. Time to Buy? - The Motley Fool",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM0RZb3ZnU016MUxHNTVtQ3YwZDBtSGx1S0NpYnJZMXZhR2FJYjlyZDZPRlJLMmZpTzBiR25fNi1RcVF6MlRHNEdUbzh2TUVRT1lzaWNjbnowZFRQMUdld0F3LWM4dU9LR0I2clZ0d0tKVzhaeXZ6ZHdIZmlGdWczallEOUlJeWlJeDRsU1k1aUpoVTRLSDZKUA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "missile_defense": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "defense_budget": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "palantir",
+        "count": 3
+      },
+      {
+        "id": "rtx",
+        "count": 2
+      },
+      {
+        "id": "rheinmetall",
+        "count": 2
+      },
+      {
+        "id": "hanwha_aero",
+        "count": 2
+      },
+      {
+        "id": "general_dynamics",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "missile_defense",
+        "count": 2
+      },
+      {
+        "id": "defense_budget",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 300,
+    "dup_title": 143,
+    "too_old": 65,
+    "gate1_blocked": 37,
+    "gate2_blocked": 11,
+    "passed": 44,
+    "pass_rate": "28.0%",
+    "gate2_block_rate": "7.0%",
+    "gate2_samples": [
+      "First Horizon Corp Has $7.75 Million Holdings in RTX Corporation $RTX - MarketBeat",
+      "RTX (RTX) Registers a Bigger Fall Than the Market: Important Facts to Note - Yahoo Finance",
+      "RTX Corporation $RTX Shares Purchased by Fishman Jay A Ltd. MI - MarketBeat",
+      "RTX Corporation (NYSE:RTX) Receives Average Rating of \"Moderate Buy\" from Brokerages - MarketBeat",
+      "Kiley Juergens Wealth Management LLC Acquires New Shares in RTX Corporation $RTX - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為Palantir Technologies、RTX、萊茵金屬相關動態：「Zacks Industry Outlook Highlights GE Aerospace, RTX and G...」。主要關注主題為國防航太通用、財報、飛彈防禦，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Zacks Industry Outlook Highlights GE Aerospace, RTX and General Dynamics - Tr...（財報、國防航太通用）",
+        "level": "red"
+      },
+      {
+        "text": "Germany awards Rheinmetall-MBDA team contract to develop high-energy laser we...（財報、國防航太通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
