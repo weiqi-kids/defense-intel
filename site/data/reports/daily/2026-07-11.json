@@ -1,0 +1,215 @@
+{
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T09:20:59.892267Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "l3harris-2026-07-11-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rochester’s L3Harris Awarded $84M Army Contract for Radios - Finger Lakes Daily News",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGdZVXA2aldRb3MyMzZPWU51YmVQTllqM0o1c3EzWi04U1h6UlNvajlpaExQWmZrQTlaX3VoMEhkYjFfZDZRTmRqVGd5YXBTbTF0OGRwTGJ2UXg1UXlreWoxVzRHN2p6QTBWQkN2RGNMd0F0Vm1XUjdSNWwyb05DNTRZeTlOampWNjU5eXJhWlc3QXMycUE2bE9EWHB2TkFndTNFTXgzVHkzYTdlWUJnSEJFZlViWGc1cmpzQ3FFRVI?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "palantir-2026-07-11-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Palantir CEO: \"Something Has Gone Completely Wrong\" With OpenAI and Anthropic - 24/7 Wall St.",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc2pqTllpLVd0V0RqMkQ3bUhyUy1kV3lodVZJeFR1VHlzOTlVc0YzdU9xZ1lIV3dMM05DbF9YNDdKazF5RmZkSVVKUWo2dE5yajJnbUxGX2xScW1VUktFbWhNamw5S1IzRUp5cEtVMEtKa0ZTQml2M1h5c3VRMVI4aW9wZmxYbmRWbGNwc09EZzNOSkQ3a25nZUp6dDZiTTd4YUxGOXpteWpVbHZlejF1NXFndTRoYXhxOFJtOA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-07-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "L3Harris Technologies stock holds steady as defense spending supports long-term demand - ad-hoc-news.de",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "defense_budget",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdEE4NVQxSHgzQkRyRC1lQnlIT2g2Zml2d2pkTzZISGtQbU1JOEhGTnNTSXl5SE9YUHh1My1LX2VYNzc4YUktTkxlelpPWlIzZmJyUHFTSmVDLXhwZC1SY3IxWnZXX3AwRHZBZmF0S3psWGxwRnVrRWZBZGNZczd2d0FxTFRXUXhyS0ZqdGI4enJaMWFlQk1BOEI2SUNleHZRZV9sdW53UGFaeklrQXhQWXdIYlFwMmd6OEVrajN0X3luUVM3RDFJ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-11-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Canada's next defence fight won’t be over spending. It’ll be over trust - CBC",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hdWZfekkzZFk0WTlwWWUwOXpUZmZXU3k2WDl3aVlCYTgwSjRqRFc4QTF3dnN5QUJzSzhGTE51d293UFJGMFRHUjhaR3gzdVNBZ0dtN2xIR2xScFAwbnJyM3FMNE9jMTRhWldEYjdMWkU0RUtablJCY0VLUjlRYVk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-11-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "FCC approves first Reflect Orbital satellite",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://spacenews.com/fcc-approves-first-reflect-orbital-satellite/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "defense_budget": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "palantir",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "defense_budget",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 315,
+    "dup_title": 152,
+    "too_old": 63,
+    "gate1_blocked": 42,
+    "gate2_blocked": 8,
+    "passed": 50,
+    "pass_rate": "30.7%",
+    "gate2_block_rate": "4.9%",
+    "gate2_samples": [
+      "RTX Corporation $RTX Shares Purchased by Fishman Jay A Ltd. MI - MarketBeat",
+      "First Horizon Corp Has $7.75 Million Holdings in RTX Corporation $RTX - MarketBeat",
+      "RTX Corporation (NYSE:RTX) Receives Average Rating of \"Moderate Buy\" from Brokerages - MarketBeat",
+      "Kiley Juergens Wealth Management LLC Acquires New Shares in RTX Corporation $RTX - MarketBeat",
+      "Fortune 45 LLC Takes Position in RTX Corporation $RTX - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為L3Harris Technologies、Palantir Technologies相關動態：「Rochester’s L3Harris Awarded $84M Army Contract for Radio...」。主要關注主題為國防航太通用、財報、國防預算，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Rochester’s L3Harris Awarded $84M Army Contract for Radios - Finger Lakes Dai...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Palantir CEO: \"Something Has Gone Completely Wrong\" With OpenAI and Anthropic...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
