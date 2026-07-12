@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T09:20:56.725916Z",
+  "updated_at": "2026-07-12T09:46:06.787058Z",
   "quarter": "2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -246,15 +246,15 @@
       "ticker": "HO.PA",
       "currency": "EUR",
       "ar": 3968900000,
-      "ar_prev": 6741800000,
-      "ar_qoq": "-41%",
+      "ar_prev": 4418400000,
+      "ar_qoq": "-10%",
       "ar_period": "QoQ",
       "inventory": 4964200000,
-      "inv_prev": 5418800000,
-      "inv_qoq": "-8%",
+      "inv_prev": 4935500000,
+      "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
+      "alert": false,
       "quarter_date": "2025-12-31"
     }
   ]
