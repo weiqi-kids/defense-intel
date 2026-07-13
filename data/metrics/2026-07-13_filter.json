@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 159,
+  "no_date": 0,
+  "too_old": 66,
+  "gate1_fail": 37,
+  "gate2_fail": 19,
+  "passed": 34,
+  "gate2_samples": [
+    "Lifeworks Advisors LLC Boosts Stock Holdings in RTX Corporation $RTX - MarketBeat",
+    "Welch & Forbes LLC Sells 28,646 Shares of RTX Corporation $RTX - MarketBeat",
+    "Sequoia Financial Advisors LLC Acquires 9,227 Shares of RTX Corporation $RTX - MarketBeat",
+    "Conning Inc. Has $34.56 Million Stock Holdings in RTX Corporation $RTX - MarketBeat",
+    "First Horizon Corp Has $7.75 Million Holdings in RTX Corporation $RTX - MarketBeat"
+  ]
+}
