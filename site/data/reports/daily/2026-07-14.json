@@ -1,0 +1,255 @@
+{
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T09:51:41.922170Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "kratos-2026-07-14-005",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Kratos and L3Harris receive space domain contracts - Unmanned airspace",
+      "companies": [
+        "kratos",
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaVlPZWk2M0tGX0plSXpMS0pCOW5oaGVYZzhvczlpQXF6UU5Vc2lic00wUW5fXzhrUGlQZ2N5Wmh5cWhRMFV3Z1hTTHM2cE5lc3ltbUhhUXRCVkktamVPaXZaQ3ZSZ3ZDV1FNTkx0cS1WMXA1WW5JNkZNZExJRmt4TEJFWVhIaElXODRhamxvN1U5VzVaSWhLUjJKMXNzOUx2N2o1eWFQcnAwODFucDJXa21kSQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rtx-2026-07-14-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Corporation $RTX Shares Bought by Calamos Wealth Management LLC - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUDZPRDF3S182dkpzdURseWpaV1VaV2Y2azM5R09RWWxndjhXb3ZjNS1WR19fLUtmQ3RULUhDVFBWNEs5V2FyWnJGWHpibmlYUzdsMU5hLTZ3ZUNnaVMzLVM4QV83UUNQNTRzLTRNVmE1U3h1NFMxWGdVMFdDVnZQMWMtdExjcGsyLVhVbXEzRGs1UXlBYjZkX3lieGtnT2hkUmp5YmNOSFVvS0ZOLUlBUUs0cldYVHk1WDNJUlpDUmNIMk5MVkE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-07-14-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Calamos Advisors LLC Decreases Position in L3Harris Technologies Inc $LHX - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNjdERVpLZkQ2RFBhUmd1NGRmMXBmSHZQcllVbHNvSUdDX1lWRU1aN3VIME1qY1V3VV9CZUtJbWtsLXE4ckZWclFXWjBXeFNfQkZ6eDU5MlM2WEJPaEQxUUJaVVI4dmpIaXdBNHg0ZnQyTlp0Q0pjbVNoXzdNb0ZYbThpM0lhSmFIbHFZck9FYnE0WVdIMG51eXNhNXE2bk5EZWNBMEdsU0pKc00wLW51SWFPcUNPdWNxWlZrbGdkWlZGOHNaUDRIWGQ5SkktUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "l3harris-2026-07-14-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "US Space Force Taps L3Harris to Build 18 Golden Dome Satellites - The Defense Post",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NMWx4UXJFVlRXVXdGMFh1MnA3VjNxUUFRM0o0aVJWbjFNeDkzbV9yWDhIVlZhNE1zX05JUllpYm1QTU9QLXg1TzlsZGZKRGcyamxrSEhvSWZITnFlVEJqRW9LdXJtcXdIWjIxTmhBa9IBdEFVX3lxTE0yQUt4SlF6MnlQWjJtT01nTmtIQ01YdzlIeGQ2LW1BNDZGX0FvS1Q2Z2w0VktJZFBpc1REQXJ3RF80V1Y2ZHRNTUxydzBEVXRMRWlzbXdOalE1ZnpMRlZBNENVdGlDaHY0MkZMdHJMM040MzZh?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "l3harris-2026-07-14-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SDA Awards $1.75B in AMDT3 Prototype Agreements to L3Harris, Sierra Space - GovCon Wire",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRGtuUUg1bXl0LXlHWlp2SXF0ZHhBWXVxb1pYSk1WcVRiOUNBVk1mUFN4S19uVXkydmJHQ3hhMFBtSm1WSHRwZzhtUUNTaC1OZ1A1M3h4ZnlYeTNyYkdiSEJ4UFA4MU9wYVhNZzNNNnExYzM1RFNYR19RMGhVemtqTDF6U09NQ0FxTk1IMg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "missile_defense": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 15,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "l3harris",
+        "count": 7
+      },
+      {
+        "id": "elbit",
+        "count": 2
+      },
+      {
+        "id": "palantir",
+        "count": 2
+      },
+      {
+        "id": "rtx",
+        "count": 1
+      },
+      {
+        "id": "kratos",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 11
+      },
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "drone_warfare",
+        "count": 4
+      },
+      {
+        "id": "missile_defense",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 300,
+    "dup_title": 123,
+    "too_old": 69,
+    "gate1_blocked": 32,
+    "gate2_blocked": 17,
+    "passed": 59,
+    "pass_rate": "33.3%",
+    "gate2_block_rate": "9.6%",
+    "gate2_samples": [
+      "RTX Corporation $RTX Shares Acquired by Calamos Advisors LLC - MarketBeat",
+      "Bryn Mawr Trust Advisors LLC Decreases Stock Position in RTX Corporation $RTX - MarketBeat",
+      "Welch & Forbes LLC Sells 28,646 Shares of RTX Corporation $RTX - MarketBeat",
+      "Lifeworks Advisors LLC Boosts Stock Holdings in RTX Corporation $RTX - MarketBeat",
+      "Sequoia Financial Advisors LLC Acquires 9,227 Shares of RTX Corporation $RTX - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為L3Harris Technologies、艾爾比特、Palantir Technologies相關動態：「Kratos and L3Harris receive space domain contracts - Unma...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Kratos and L3Harris receive space domain contracts - Unmanned airspace（無人機作戰、財報）",
+        "level": "red"
+      },
+      {
+        "text": "RTX Corporation $RTX Shares Bought by Calamos Wealth Management LLC - MarketBeat（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

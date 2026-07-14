@@ -1,0 +1,16 @@
+{
+  "total_raw": 300,
+  "dup_title": 123,
+  "no_date": 0,
+  "too_old": 69,
+  "gate1_fail": 32,
+  "gate2_fail": 17,
+  "passed": 59,
+  "gate2_samples": [
+    "RTX Corporation $RTX Shares Acquired by Calamos Advisors LLC - MarketBeat",
+    "Bryn Mawr Trust Advisors LLC Decreases Stock Position in RTX Corporation $RTX - MarketBeat",
+    "Welch & Forbes LLC Sells 28,646 Shares of RTX Corporation $RTX - MarketBeat",
+    "Lifeworks Advisors LLC Boosts Stock Holdings in RTX Corporation $RTX - MarketBeat",
+    "Sequoia Financial Advisors LLC Acquires 9,227 Shares of RTX Corporation $RTX - MarketBeat"
+  ]
+}
