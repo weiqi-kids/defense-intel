@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 131,
+  "no_date": 0,
+  "too_old": 66,
+  "gate1_fail": 32,
+  "gate2_fail": 17,
+  "passed": 69,
+  "gate2_samples": [
+    "RTX (RTX) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
+    "RTX Corporation $RTX Shares Acquired by Calamos Advisors LLC - MarketBeat",
+    "Bryn Mawr Trust Advisors LLC Decreases Stock Position in RTX Corporation $RTX - MarketBeat",
+    "Welch & Forbes LLC Sells 28,646 Shares of RTX Corporation $RTX - MarketBeat",
+    "Lifeworks Advisors LLC Boosts Stock Holdings in RTX Corporation $RTX - MarketBeat"
+  ]
+}
