@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 140,
+  "no_date": 0,
+  "too_old": 62,
+  "gate1_fail": 31,
+  "gate2_fail": 23,
+  "passed": 59,
+  "gate2_samples": [
+    "RTX Corporation $RTX Shares Acquired by Journey Advisory Group LLC - MarketBeat",
+    "Can RTX's Global Sustainment Services Drive Long-Term Growth? - Yahoo Finance",
+    "RTX Corporation $RTX Shares Acquired by Calamos Advisors LLC - MarketBeat",
+    "Lifeworks Advisors LLC Boosts Stock Holdings in RTX Corporation $RTX - MarketBeat",
+    "Welch & Forbes LLC Sells 28,646 Shares of RTX Corporation $RTX - MarketBeat"
+  ]
+}

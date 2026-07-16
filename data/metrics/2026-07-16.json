@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-16",
+  "total_events": 11,
+  "by_company": {
+    "l3harris": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hanwha_aero": {
+      "count": 7,
+      "sentiment_avg": 0.14
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 7,
+      "sentiment_avg": 0.0
+    },
+    "drone_warfare": {
+      "count": 7,
+      "sentiment_avg": 0.14
+    },
+    "industry_general": {
+      "count": 10,
+      "sentiment_avg": 0.1
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

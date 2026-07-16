@@ -1,0 +1,232 @@
+{
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T10:02:34.236565Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "l3harris-2026-07-16-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris Technologies Inc $LHX Shares Sold by Bank of New York Mellon Corp - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUHlNcmxCMjBfemJGX0x6MGV4UGdCU0FuR2w2STR6NTIzMndlMWFRcVBFSm1pQ2NkWXBzSndNN3pFUEt3NFJOb3pIc0praGVCalBpeTFNUVRsX2RHZ0lKNTV3TVkzS2FQU214UU1WRzdQaUh2T1c3QXVoZVJtb1ZzM056YXRaOTRWZklTdzZxU0hSUnVSVDhtb3NQdTN1NWlRUnl3NERPMHRoRWJrTjV0bWtMSmZnckZaaFV3N2RINkh2SmlScUZYaUxrdzNqSkE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hanwha_aero-2026-07-16-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha Aerospace wins Army unmanned ground vehicle deal: arms agency - Yonhap News Agency",
+      "companies": [
+        "hanwha_aero"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkTFNSTHZ0b2NpdUZiU19vX015c3Jad3FnOEFITXAwOUx6alVudk5LQ3plU2ZicHB0TXVzV29lMVg5RmZlcmswcElpVnY2UTNKeEFRaE1KeHZUdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hanwha_aero-2026-07-16-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha Aerospace wins South Korea army deal for Arion-SMET unmanned vehicle - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "hanwha_aero"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNclBqd3lmVWFQcGRYakZsZkxpbXYwMEFDMEZkY1RCcElXRjI1eDkwMTJpXzFaUEF1NGRyQ21MeEx2YjhDd1NUeGlJUWZXZWEzUF9vMmlzeFlGVDlOUGFVZU1NSWk1U3Vnc0QwNmZEQ1JKaC1oNkJPSUNmMTg0QmJydHBB0gGWAUFVX3lxTFBIeklBN0h4cTU0SFVoVnZKU2NFbnFoQjVIQ2wyX0xVdVhOTU1RYUkyN2VtSi1POXltTzRmM1I1NE96SlFaZGhIVzdXYmNneDlXWTV1TlVqLUpCcVZTeHJ3ZFVjMTRJRmxhZERHaldSdjU4cTZSS0hfTU5SWWZCc0otRnZhYUdCdTJlbW82MEdjSnBxLWEtUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hanwha_aero-2026-07-16-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha Aerospace's Arion-SMET (photo) has been selected as the first multi-purpose unmanned vehicle - 매일경제",
+      "companies": [
+        "hanwha_aero"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uWWVHS2ZfeVloRDFRRHRQSDBBTnB0Snd1ZHAxQjRpRW9aYVE1WlBaQ2tPeWVkajFNRmVyRWVneG1TMUNXYXZ0VDZ6N09oUVlIdjk4?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_aero-2026-07-16-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "'Hanwha Aerospace vs. Hyundai Rotem' Showdown... Multipurpose Unmanned Vehicle Vendor to Be Decided Today [Yang Nakgyu's Defence Club] - 아시아경제",
+      "companies": [
+        "hanwha_aero"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oMnB3X0d0WTkzNUs3YUxjd2ZQNkhFT3dmdXVDQ3dDZUNVTTdjanV2X0ZsZUFlSlVvd3Q4cG5tT0NJbVVFX19YRlI0d3h6empPd0s0SkJTMjkyb0xEdkhXU1V3T1Y?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.14,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_aero",
+        "count": 7
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "drone_warfare",
+        "count": 7
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 315,
+    "dup_title": 140,
+    "too_old": 62,
+    "gate1_blocked": 31,
+    "gate2_blocked": 23,
+    "passed": 59,
+    "pass_rate": "33.7%",
+    "gate2_block_rate": "13.1%",
+    "gate2_samples": [
+      "RTX Corporation $RTX Shares Acquired by Journey Advisory Group LLC - MarketBeat",
+      "Can RTX's Global Sustainment Services Drive Long-Term Growth? - Yahoo Finance",
+      "RTX Corporation $RTX Shares Acquired by Calamos Advisors LLC - MarketBeat",
+      "Lifeworks Advisors LLC Boosts Stock Holdings in RTX Corporation $RTX - MarketBeat",
+      "Welch & Forbes LLC Sells 28,646 Shares of RTX Corporation $RTX - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為韓華航太、L3Harris Technologies相關動態：「L3Harris Technologies Inc $LHX Shares Sold by Bank of New...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "L3Harris Technologies Inc $LHX Shares Sold by Bank of New York Mellon Corp - ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Hanwha Aerospace wins Army unmanned ground vehicle deal: arms agency - Yonhap...（無人機作戰、財報、國防航太通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
