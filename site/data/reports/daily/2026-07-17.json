@@ -1,0 +1,144 @@
+{
+  "date": "2026-07-17",
+  "generated_at": "2026-07-17T09:51:18.122901Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "l3harris-2026-07-17-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sanctuary Advisors LLC Purchases 4,202 Shares of L3Harris Technologies Inc $LHX - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORW5KV290SEtyUElyQ3JQU2tfeWlsZ2h2ZFlwQ0x6WG0zSnhCdF9xY0dfVVJEMlBNOTBvWExGUktiQWRacFBlSUxJbC01UjlFcEdpWHhlTjRqeTBnSXctTHBoVkwzcjBwd2RpUWwwZ1hURFl6bllNZ1JZNG9oMnlreE1zRXRvT1FoX19jQ2hPTUVxdUxPSHpzeVF5cGIwNjNGMlp2eHA0Y1Jrb3dsUHBmMklMNHBhSk5OZVp3VlNPWWtqTVVwMFprN3BOLWNnQUQzTWN5RQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "saab-2026-07-17-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saab Q2 results 2026: Strong order bookings reinforce market position - Saab",
+      "companies": [
+        "saab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU0ZmME1GZXZ3a25rZ3JQZTRoZWFYeG5YekNpMExoS256NmpUN1dOYkJuRE5FQzVpREVsMjVDYTNsWjMwQ0pSU3pNZ0xPeHoxNXJBS0F2ZU4zZWU2bTU1d0M4TDdHOW5Ld1RTX19IMEdra1V6b2M2RGF2ZWRSNkxZelVZZnBEcmZWQmVaMjkzTVUzdHI0SmpMOE85Tm4yQTRsZXpuZ1hsQnlYb1hmTjFaUnNtMEFpTllJd3c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-07-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Allspring Global Investments Holdings LLC Sells 146,413 Shares of L3Harris Technologies Inc $LHX - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOEQ0X19pS1VfOFZ2UHRVUVdic1BhTjhoMjZVTXd6NDBZTllkR1FzNlpCRXluSVNySUNxSTdVckpFak9sbzQtTDEyQk1kenFDY1NEZS1XYTNOOUJxVlNac19zcWE0QmVmN1ZzMDlKRnZESUFyMGhlZS1YMERFZ1o1alpMQkkxZzJOSzgyOXdYdE1WS05uQVZqV19DRkw3clUtcXg4RkJrUWlhUmV6Tms3a2FLUzJGQjdfZDlkYjBSUkFOLWJtYUw1VlE1bEw2RDJFUW9nTkljc2NZMS1jZXJDSVJabHctQ0l5UFdZ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "saab",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 315,
+    "dup_title": 154,
+    "too_old": 66,
+    "gate1_blocked": 27,
+    "gate2_blocked": 18,
+    "passed": 50,
+    "pass_rate": "31.1%",
+    "gate2_block_rate": "11.2%",
+    "gate2_samples": [
+      "Financiere des Professionnels Fonds d investissement inc. Takes $10.87 Million Position in RTX Corpo",
+      "RTX Corporation $RTX Shares Purchased by Wealthfront Advisers LLC - MarketBeat",
+      "RTX Corporation $RTX Shares Acquired by Calamos Advisors LLC - MarketBeat",
+      "Bryn Mawr Trust Advisors LLC Decreases Stock Position in RTX Corporation $RTX - MarketBeat",
+      "Lifeworks Advisors LLC Boosts Stock Holdings in RTX Corporation $RTX - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為L3Harris Technologies、紳寶相關動態：「Sanctuary Advisors LLC Purchases 4,202 Shares of L3Harris...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Sanctuary Advisors LLC Purchases 4,202 Shares of L3Harris Technologies Inc $L...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Saab Q2 results 2026: Strong order bookings reinforce market position - Saab（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

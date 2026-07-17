@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 154,
+  "no_date": 0,
+  "too_old": 66,
+  "gate1_fail": 27,
+  "gate2_fail": 18,
+  "passed": 50,
+  "gate2_samples": [
+    "Financiere des Professionnels Fonds d investissement inc. Takes $10.87 Million Position in RTX Corpo",
+    "RTX Corporation $RTX Shares Purchased by Wealthfront Advisers LLC - MarketBeat",
+    "RTX Corporation $RTX Shares Acquired by Calamos Advisors LLC - MarketBeat",
+    "Bryn Mawr Trust Advisors LLC Decreases Stock Position in RTX Corporation $RTX - MarketBeat",
+    "Lifeworks Advisors LLC Boosts Stock Holdings in RTX Corporation $RTX - MarketBeat"
+  ]
+}
