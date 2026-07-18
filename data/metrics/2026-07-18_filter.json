@@ -1,0 +1,16 @@
+{
+  "total_raw": 300,
+  "dup_title": 159,
+  "no_date": 0,
+  "too_old": 64,
+  "gate1_fail": 28,
+  "gate2_fail": 16,
+  "passed": 33,
+  "gate2_samples": [
+    "Assetmark Inc. Trims Position in RTX Corporation $RTX - MarketBeat",
+    "RTX (RTX) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
+    "RTX Corporation $RTX Shares Purchased by Wealthfront Advisers LLC - MarketBeat",
+    "RTX Corporation $RTX Shares Acquired by Calamos Advisors LLC - MarketBeat",
+    "Bessemer Group Inc. Buys 4,081 Shares of L3Harris Technologies Inc $LHX - MarketBeat"
+  ]
+}

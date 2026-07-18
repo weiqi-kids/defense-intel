@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-17T09:51:13.843999Z",
-  "quarter": "2025-12-31, 2026-03-31",
+  "updated_at": "2026-07-18T09:17:59.225807Z",
+  "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
       "id": "aidc",
@@ -228,17 +228,17 @@
       "name": "紳寶",
       "ticker": "SAAB-B.ST",
       "currency": "SEK",
-      "ar": 9348000000,
-      "ar_prev": 13713000000,
-      "ar_qoq": "-32%",
+      "ar": 10991000000,
+      "ar_prev": 9348000000,
+      "ar_qoq": "+18%",
       "ar_period": "QoQ",
-      "inventory": 27357000000,
-      "inv_prev": 25439000000,
-      "inv_qoq": "+8%",
+      "inventory": 27721000000,
+      "inv_prev": 27357000000,
+      "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-03-31"
+      "alert": false,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "thales",
@@ -246,15 +246,15 @@
       "ticker": "HO.PA",
       "currency": "EUR",
       "ar": 3968900000,
-      "ar_prev": 6741800000,
-      "ar_qoq": "-41%",
+      "ar_prev": 4418400000,
+      "ar_qoq": "-10%",
       "ar_period": "QoQ",
       "inventory": 4964200000,
-      "inv_prev": 5418800000,
-      "inv_qoq": "-8%",
+      "inv_prev": 4935500000,
+      "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
+      "alert": false,
       "quarter_date": "2025-12-31"
     }
   ]
