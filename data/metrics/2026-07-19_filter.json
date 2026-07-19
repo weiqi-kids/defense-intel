@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 170,
+  "no_date": 0,
+  "too_old": 68,
+  "gate1_fail": 30,
+  "gate2_fail": 11,
+  "passed": 36,
+  "gate2_samples": [
+    "AIA Group Ltd Acquires 73,800 Shares of RTX Corporation $RTX - MarketBeat",
+    "Assetmark Inc. Trims Position in RTX Corporation $RTX - MarketBeat",
+    "RTX Corporation $RTX Shares Acquired by Calamos Advisors LLC - MarketBeat",
+    "L3Harris (LHX) Stock Could Be A Bargain On Cash Flow Despite Strong Returns - simplywall.st",
+    "L3Harris Technologies Inc $LHX Shares Sold by California Public Employees Retirement System - Market"
+  ]
+}
