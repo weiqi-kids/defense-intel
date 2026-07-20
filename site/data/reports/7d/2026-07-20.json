@@ -1,0 +1,151 @@
+{
+  "date": "2026-07-20",
+  "date_range": {
+    "start": "2026-07-14",
+    "end": "2026-07-20"
+  },
+  "generated_at": "2026-07-20T10:46:35.007589Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "kratos-2026-07-14-005",
+      "date": "2026-07-14",
+      "title": "Kratos and L3Harris receive space domain contracts - Unmanned airspace",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 40,
+      "last_week": 51,
+      "week_over_week_change": "-22%",
+      "sentiment_this_week": -0.01
+    },
+    "industry_general": {
+      "this_week": 28,
+      "last_week": 60,
+      "week_over_week_change": "-53%",
+      "sentiment_this_week": 0.0
+    },
+    "drone_warfare": {
+      "this_week": 13,
+      "last_week": 8,
+      "week_over_week_change": "+62%",
+      "sentiment_this_week": 0.11
+    },
+    "missile_defense": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rtx": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "l3harris": {
+      "event_count": 16,
+      "sentiment_avg": -0.09,
+      "rank": 1
+    },
+    "kratos": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "rheinmetall": {
+      "event_count": 10,
+      "sentiment_avg": -0.05,
+      "rank": 3
+    },
+    "elbit": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "palantir": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "hanwha_aero": {
+      "event_count": 7,
+      "sentiment_avg": 0.14,
+      "rank": 4
+    },
+    "saab": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 258,
+        "last": 361,
+        "change_pct": -28.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-14",
+      "event_count": 67,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-07-15",
+      "event_count": 69,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-16",
+      "event_count": 57,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-17",
+      "event_count": 27,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-18",
+      "event_count": 28,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-07-19",
+      "event_count": 8,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-07-20",
+      "event_count": 2,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-14 ~ 2026-07-20）共 258 則事件，重點為「Kratos and L3Harris receive space domain contra...」。財報、國防航太通用、無人機作戰為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "RTX",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 16 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "萊茵金屬",
+        "reason": "本週出現 10 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

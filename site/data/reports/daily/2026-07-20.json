@@ -1,0 +1,103 @@
+{
+  "date": "2026-07-20",
+  "generated_at": "2026-07-20T10:46:34.854139Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sweden eyes additional batch of Gripen E jets to replace Ukraine-bound aircraft",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://breakingdefense.com/2026/07/sweden-eyes-additional-batch-of-gripen-e-jets-to-replace-ukraine-bound-aircraft/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Qatari Air Force One will be taken offline for ‘maxed out’ upgrades: Trump",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://breakingdefense.com/2026/07/qatari-air-force-one-will-be-taken-offline-for-maxed-out-upgrades-trump/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 95,
+    "dup_title": 58,
+    "too_old": 5,
+    "gate1_blocked": 26,
+    "gate2_blocked": 1,
+    "passed": 5,
+    "pass_rate": "13.5%",
+    "gate2_block_rate": "2.7%",
+    "gate2_samples": [
+      "SpaceX’s only problem is finding more space to work with"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為國防航太通用相關動態：「Sweden eyes additional batch of Gripen E jets to replace ...」。主要關注主題為國防航太通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Sweden eyes additional batch of Gripen E jets to replace Ukraine-bound aircraft（國防航太通用）",
+        "level": "green"
+      },
+      {
+        "text": "Qatari Air Force One will be taken offline for ‘maxed out’ upgrades: Trump（國防航太通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
