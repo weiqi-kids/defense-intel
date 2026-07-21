@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 124,
+  "no_date": 0,
+  "too_old": 66,
+  "gate1_fail": 29,
+  "gate2_fail": 17,
+  "passed": 79,
+  "gate2_samples": [
+    "Dimensional Fund Advisors LP Acquires 95,726 Shares of RTX Corporation $RTX - MarketBeat",
+    "Jackson Square Aviation selects Pratt & Whitney GTF engines for Airbus aircraft (RTX:NYSE) - Seeking",
+    "AIA Group Ltd Acquires 73,800 Shares of RTX Corporation $RTX - MarketBeat",
+    "L3Harris (LHX) Stock Could Be A Bargain On Cash Flow Despite Strong Returns - simplywall.st",
+    "L3HARRIS TECHNOLOGIES, INC. (LHX) - MSN"
+  ]
+}

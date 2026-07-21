@@ -1,0 +1,222 @@
+{
+  "date": "2026-07-21",
+  "generated_at": "2026-07-21T10:19:44.202353Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-07-21-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX's Pratt & Whitney Valox™ 1500 Engine Completes Key Design Milestone - marketscreener.com",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUS1aRlE5TEYxN3BRTjJDMmdtNno2MjZ0OVBMRC1kazZ4VzVDdWhqaG9YSG1BLWR5bjRtOGZTWEdzRS1rY0NiMlBjSVY3UTlfellhOGpielRZYWsxd3NCMTV3Q3VXck0wQnphNmFMbkl2S1NibThlQjRKdUozS085d0IwT3UyWm43dGZZUDBESWZ5c1E0RjZGMF9fVlJ2ZTdxMEJvWkRPbE1FckVMMkdld2dvc1pKRUs0UXRxV0F6aw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hanwha_aero-2026-07-21-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha Aerospace raises $500m in Korea’s first defense bond sold abroad - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "hanwha_aero"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRnp6dDF6VnZtRzY0cHUwaDd1OFg5Q1RRZVV6QnpfYVhtZGdzYWlZY0Y4ek1WYkJkZkxTemtMUGNaMXZxX2F6YWtZNTZlYnlMNFpjUHowSGlWNzBNNGpmaG1vbzlpR1c1YTFzZGtIcmFGZURZR2Jsd2s4MG50Rm5PdXVn0gGWAUFVX3lxTE5KQVZjVUlHenhjVWRiQkhvRmszVmlQV3V1bEpMR1hKekdvc1VzVXBuY1pOODFXMWJmSl93NEstTVJJNjFlRnRCcUJiblp4dmFiSG5HSm05Wm1SUk52bnJQTy1FZXEyRkVYSlVVRGxFU1RqT2xhbE1iZ295QVpjZlBoMU43V2RIUDhhemo4b2xJX2V0YU01Zw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-21-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Contract delays sink Korea defense stocks despite wartime tensions - CHOSUNBIZ - Chosunbiz",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaElBTFdUWHBVYTd2b1Btb1BMcXd2MEFpQmN6bFQ0MlR6NVNFbWVFSG1FXy1saUJhU1Z0WFlEbzZyN212VEVlLTRXTWp4MVBmNmtjUGNTZDQ1WFo4aW5qdjJEeldDRFFBLWdyLU0tX0Z4UVNtODd3U3JfV2pLRlBRQ9IBlAFBVV95cUxOUHJTcXdTdFRZV0s1ejlHOU5mZFM0dGxUWWFKWEZ0T2NZeU5yUFc0dXZzQk4yWHZzbmhqQUp6NFNPcEg2SERxVEdJd0hBNkhwSWhFMEtZVDZEalZ6djUtVzFPTEdYYlVxQVJjQ290NkVoUkx3OHJ6TFVKaWZhVWxEZ05sNVlFU0hhRmpzTk9qTlF4TGtx?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "elbit-2026-07-21-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Elbit Systems of America Awarded Contracts from US Customs and Border Protection Totaling Over $370 Million to Enhance US National Security - Raksha Anirveda",
+      "companies": [
+        "elbit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTXZVeTgxaW9ET2tibVBadF9tTEZwRml6Zjh1S2xLdkpHQWRvR21aV0RlRV9nRUFFQ0hPV1NIR09IRHQ1T2JKTG10dG9fTmNNUW1aWTYzUWNocTdHaEI5cXVNeXNyWEladFBxQzJEQnBhYmk1NjdRRk1rRWdzT0ZJX1dWM0tzQmx2aFFsSkVWNVZyNUFieXFnZ3dZaEl1VDlYZXoycWIzOS1mVWxpQnZaSWtRWDZLc0FFZE5mRVRFaElNWUIxSS1GekZ4MGt3VzZTc3R3WlRFU1FXOG45VTFDOG1wZnZSMkYwdXVBdGFzUVU0VU12N0pBR3pUOA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "palantir-2026-07-21-015",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Palantir and Sandisk Both Posted Blowout Earnings in 2026. The Stock Market Rewarded Only One of Them the Same Day. Here's the Difference. - Yahoo Finance",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ0tLb0dtM0pCamRxQjVjQ0tTZHRISXMxQ1BDejhKeTdvV25fc0QyX3h3U3UzYmtCMHgwMUFUWmZucGVRUFFtaTZaNFRBUHpDWEo3S3VTZU5rbWlEdnNhN0VjLWp6YlFKcERqSzVMTl9yY0poakh5UE5PcG1tSzZRWTdZYXNPYXoyMjkxTGhvOG1iZ1duNTdNUVh4UVVpa2cyR1Uw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 16,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_aero",
+        "count": 5
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "palantir",
+        "count": 2
+      },
+      {
+        "id": "rtx",
+        "count": 1
+      },
+      {
+        "id": "thales",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 315,
+    "dup_title": 124,
+    "too_old": 66,
+    "gate1_blocked": 29,
+    "gate2_blocked": 17,
+    "passed": 79,
+    "pass_rate": "41.4%",
+    "gate2_block_rate": "8.9%",
+    "gate2_samples": [
+      "Dimensional Fund Advisors LP Acquires 95,726 Shares of RTX Corporation $RTX - MarketBeat",
+      "Jackson Square Aviation selects Pratt & Whitney GTF engines for Airbus aircraft (RTX:NYSE) - Seeking",
+      "AIA Group Ltd Acquires 73,800 Shares of RTX Corporation $RTX - MarketBeat",
+      "L3Harris (LHX) Stock Could Be A Bargain On Cash Flow Despite Strong Returns - simplywall.st",
+      "L3HARRIS TECHNOLOGIES, INC. (LHX) - MSN"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為韓華航太、L3Harris Technologies、Palantir Technologies相關動態：「RTX's Pratt & Whitney Valox™ 1500 Engine Completes Key De...」。主要關注主題為國防航太通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "RTX's Pratt & Whitney Valox™ 1500 Engine Completes Key Design Milestone - mar...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Hanwha Aerospace raises $500m in Korea’s first defense bond sold abroad - CHO...（財報、國防航太通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
