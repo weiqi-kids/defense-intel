@@ -1,0 +1,161 @@
+{
+  "date": "2026-07-22",
+  "date_range": {
+    "start": "2026-07-16",
+    "end": "2026-07-22"
+  },
+  "generated_at": "2026-07-22T10:19:18.671191Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "leonardo-2026-07-17-010",
+      "date": "2026-07-17",
+      "title": "Rheinmetall, Leonardo, BAE: When Will Weakened Defense Stocks Rebound? - Morningstar",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 39,
+      "last_week": 46,
+      "week_over_week_change": "-15%",
+      "sentiment_this_week": 0.0
+    },
+    "drone_warfare": {
+      "this_week": 9,
+      "last_week": 7,
+      "week_over_week_change": "+29%",
+      "sentiment_this_week": 0.11
+    },
+    "industry_general": {
+      "this_week": 32,
+      "last_week": 37,
+      "week_over_week_change": "-14%",
+      "sentiment_this_week": 0.02
+    },
+    "missile_defense": {
+      "this_week": 1,
+      "last_week": 6,
+      "week_over_week_change": "-83%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "l3harris": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "hanwha_aero": {
+      "event_count": 14,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "saab": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "rtx": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "rheinmetall": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "palantir": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 4
+    },
+    "thales": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "elbit": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "bae": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "lockheed": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 271,
+        "last": 334,
+        "change_pct": -18.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-16",
+      "event_count": 58,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-17",
+      "event_count": 28,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-07-18",
+      "event_count": 29,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-07-19",
+      "event_count": 17,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-07-20",
+      "event_count": 55,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-21",
+      "event_count": 66,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-07-22",
+      "event_count": 18,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-16 ~ 2026-07-22）共 271 則事件，重點為「Rheinmetall, Leonardo, BAE: When Will Weakened ...」。財報、國防航太通用、無人機作戰為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "韓華航太",
+        "reason": "本週出現 14 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "RTX",
+        "reason": "本週出現 12 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
