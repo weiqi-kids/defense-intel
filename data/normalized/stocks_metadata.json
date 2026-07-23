@@ -1,104 +1,104 @@
 {
   "lockheed": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-21",
-    "count": 6676,
+    "latest": "2026-07-22",
+    "count": 6677,
     "history_complete": true
   },
   "rtx": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-21",
-    "count": 6676,
+    "latest": "2026-07-22",
+    "count": 6677,
     "history_complete": true
   },
   "northrop": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-21",
-    "count": 6676,
+    "latest": "2026-07-22",
+    "count": 6677,
     "history_complete": true
   },
   "general_dynamics": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-21",
-    "count": 6676,
+    "latest": "2026-07-22",
+    "count": 6677,
     "history_complete": true
   },
   "l3harris": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-21",
-    "count": 6676,
+    "latest": "2026-07-22",
+    "count": 6677,
     "history_complete": true
   },
   "bae": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-22",
-    "count": 6758,
+    "latest": "2026-07-23",
+    "count": 6759,
     "history_complete": true
   },
   "thales": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-22",
-    "count": 6822,
+    "latest": "2026-07-23",
+    "count": 6823,
     "history_complete": true
   },
   "leonardo": {
     "earliest": "2005-07-18",
-    "latest": "2026-07-22",
-    "count": 5338,
+    "latest": "2026-07-23",
+    "count": 5339,
     "history_complete": true
   },
   "rheinmetall": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-22",
-    "count": 6785,
+    "latest": "2026-07-23",
+    "count": 6786,
     "history_complete": true
   },
   "aidc": {
     "earliest": "2014-08-25",
-    "latest": "2026-07-22",
-    "count": 2858,
+    "latest": "2026-07-23",
+    "count": 2859,
     "history_complete": true
   },
   "hanwha_aero": {
     "earliest": "2000-01-04",
-    "latest": "2026-07-22",
-    "count": 6637,
+    "latest": "2026-07-23",
+    "count": 6638,
     "history_complete": true
   },
   "elbit": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-21",
-    "count": 6676,
+    "latest": "2026-07-22",
+    "count": 6677,
     "history_complete": true
   },
   "saab": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-22",
-    "count": 6736,
+    "latest": "2026-07-23",
+    "count": 6737,
     "history_complete": true
   },
   "palantir": {
     "earliest": "2020-09-30",
-    "latest": "2026-07-21",
-    "count": 1457,
+    "latest": "2026-07-22",
+    "count": 1458,
     "history_complete": true
   },
   "kratos": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-21",
-    "count": 6676,
+    "latest": "2026-07-22",
+    "count": 6677,
     "history_complete": true
   },
   "etf_ita": {
     "earliest": "2006-05-05",
-    "latest": "2026-07-21",
-    "count": 5083,
+    "latest": "2026-07-22",
+    "count": 5084,
     "history_complete": true
   },
   "etf_ppa": {
     "earliest": "2005-10-26",
-    "latest": "2026-07-21",
-    "count": 5214,
+    "latest": "2026-07-22",
+    "count": 5215,
     "history_complete": true
   }
 }
