@@ -1,0 +1,166 @@
+{
+  "date": "2026-07-24",
+  "date_range": {
+    "start": "2026-07-18",
+    "end": "2026-07-24"
+  },
+  "generated_at": "2026-07-24T10:10:38.972950Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "lockheed-2026-07-23-059",
+      "date": "2026-07-23",
+      "title": "Palantir vs. Lockheed Martin: Which Defense Stock Wins the Next 5 Years? - Yahoo Finance",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 48,
+      "last_week": 40,
+      "week_over_week_change": "+20%",
+      "sentiment_this_week": 0.05
+    },
+    "industry_general": {
+      "this_week": 38,
+      "last_week": 32,
+      "week_over_week_change": "+19%",
+      "sentiment_this_week": 0.04
+    },
+    "drone_warfare": {
+      "this_week": 4,
+      "last_week": 13,
+      "week_over_week_change": "-69%",
+      "sentiment_this_week": 0.0
+    },
+    "missile_defense": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rtx": {
+      "event_count": 24,
+      "sentiment_avg": 0.08,
+      "rank": 1
+    },
+    "rheinmetall": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "palantir": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 4
+    },
+    "l3harris": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "thales": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "hanwha_aero": {
+      "event_count": 8,
+      "sentiment_avg": 0.12,
+      "rank": 5
+    },
+    "elbit": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "bae": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "lockheed": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "aidc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "leonardo": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 334,
+        "last": 319,
+        "change_pct": 4.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-18",
+      "event_count": 29,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-07-19",
+      "event_count": 17,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-07-20",
+      "event_count": 59,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-21",
+      "event_count": 70,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-22",
+      "event_count": 68,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-07-23",
+      "event_count": 80,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-07-24",
+      "event_count": 11,
+      "sentiment_avg": 0.18
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-18 ~ 2026-07-24）共 334 則事件，重點為「Palantir vs. Lockheed Martin: Which Defense Sto...」。李奧納多表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "RTX",
+        "reason": "本週出現 24 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "萊茵金屬",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Palantir Technologies",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

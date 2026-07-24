@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 135,
+  "no_date": 0,
+  "too_old": 59,
+  "gate1_fail": 27,
+  "gate2_fail": 16,
+  "passed": 78,
+  "gate2_samples": [
+    "L3Harris Technologies Inc (NYSE:LHX) Receives Average Recommendation of \"Moderate Buy\" from Analysts",
+    "Why L3Harris Technologies (LHX) Stock Is Up Today - Quiver Quantitative",
+    "L3Harris Technologies Inc (LHX) Shares Surge 5.1% -- What GF Sco - GuruFocus",
+    "L3Harris Technologies Inc $LHX Stock Position Boosted by PNC Financial Services Group Inc. - MarketB",
+    "L3Harris Delivers SLS Core Stage Engines for Artemis III Mission - ASDNews"
+  ]
+}

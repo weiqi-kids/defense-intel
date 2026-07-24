@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-24",
+  "total_events": 11,
+  "by_company": {
+    "rtx": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "l3harris": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "leonardo": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "rheinmetall": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "hanwha_aero": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.25
+    },
+    "industry_general": {
+      "count": 7,
+      "sentiment_avg": 0.21
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
