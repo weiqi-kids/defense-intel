@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T10:10:35.537170Z",
+  "updated_at": "2026-07-25T09:39:36.388927Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -143,17 +143,17 @@
       "name": "洛馬",
       "ticker": "LMT",
       "currency": "USD",
-      "ar": 2322000000,
-      "ar_prev": 3901000000,
-      "ar_qoq": "-40%",
+      "ar": 3356000000,
+      "ar_prev": 2322000000,
+      "ar_qoq": "+45%",
       "ar_period": "QoQ",
-      "inventory": 4251000000,
-      "inv_prev": 3524000000,
-      "inv_qoq": "+21%",
+      "inventory": 4411000000,
+      "inv_prev": 4251000000,
+      "inv_qoq": "+4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "northrop",
@@ -211,17 +211,17 @@
       "name": "RTX Corporation",
       "ticker": "RTX",
       "currency": "USD",
-      "ar": 12945000000,
-      "ar_prev": 14701000000,
-      "ar_qoq": "-12%",
+      "ar": 13942000000,
+      "ar_prev": 12945000000,
+      "ar_qoq": "+8%",
       "ar_period": "QoQ",
-      "inventory": 14153000000,
-      "inv_prev": 13364000000,
-      "inv_qoq": "+6%",
+      "inventory": 14409000000,
+      "inv_prev": 14153000000,
+      "inv_qoq": "+2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "saab",

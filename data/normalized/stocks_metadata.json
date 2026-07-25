@@ -1,32 +1,32 @@
 {
   "lockheed": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-23",
-    "count": 6678,
+    "latest": "2026-07-24",
+    "count": 6679,
     "history_complete": true
   },
   "rtx": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-23",
-    "count": 6678,
+    "latest": "2026-07-24",
+    "count": 6679,
     "history_complete": true
   },
   "northrop": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-23",
-    "count": 6678,
+    "latest": "2026-07-24",
+    "count": 6679,
     "history_complete": true
   },
   "general_dynamics": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-23",
-    "count": 6678,
+    "latest": "2026-07-24",
+    "count": 6679,
     "history_complete": true
   },
   "l3harris": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-23",
-    "count": 6678,
+    "latest": "2026-07-24",
+    "count": 6679,
     "history_complete": true
   },
   "bae": {
@@ -67,8 +67,8 @@
   },
   "elbit": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-23",
-    "count": 6678,
+    "latest": "2026-07-24",
+    "count": 6679,
     "history_complete": true
   },
   "saab": {
@@ -79,26 +79,26 @@
   },
   "palantir": {
     "earliest": "2020-09-30",
-    "latest": "2026-07-23",
-    "count": 1459,
+    "latest": "2026-07-24",
+    "count": 1460,
     "history_complete": true
   },
   "kratos": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-23",
-    "count": 6678,
+    "latest": "2026-07-24",
+    "count": 6679,
     "history_complete": true
   },
   "etf_ita": {
     "earliest": "2006-05-05",
-    "latest": "2026-07-23",
-    "count": 5085,
+    "latest": "2026-07-24",
+    "count": 5086,
     "history_complete": true
   },
   "etf_ppa": {
     "earliest": "2005-10-26",
-    "latest": "2026-07-23",
-    "count": 5216,
+    "latest": "2026-07-24",
+    "count": 5217,
     "history_complete": true
   }
 }

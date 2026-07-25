@@ -1,0 +1,223 @@
+{
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T09:39:39.781130Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-07-25-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Corporation $RTX Shares Bought by Entropy Technologies LP - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOFhlTDFwV3g2d1VrbGFESjNtaWRtRGY3UUFvSTM5bURTV3AzekNadmN0M3plT1JVckd1MXU0WEVuakQ2V2NWelNWNzhRczRfNG1PSkZkN0RqNV9EMWk1VnpTVlZIYnZPUHZKa05XMXBXVDVQMnVXVzEtUmwyYURoN2ZEVjg3WGV5YUlTSkE4Q3N4UUlueUNrb1l6RUxhS1hfbXpWQW5WeVdtOFZYdEhMVXBiUDFhT1FyLU9hX0lR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rtx-2026-07-25-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bank of Nova Scotia Cuts Holdings in RTX Corporation $RTX - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS1NtOXhUMWszd0tSZFgxSl9TUU9OOXE4eDdySnZDSEJVeVhNUE5WaE0yVlJ3aFY0Qml4czJZT2g0eDZSbEFzRG11dFZGMWhYaHRkcVY2dGxERFFlNy1WLWNlek9RYWQ1MzRpcjNHaWlMMWdCaE5vR3dBS3lQSHRTM2FUd3RXaUFkdHhJNURsTGl3a29iaXZvbGdISUswR3JCbnVhbEVKbnN5aWRZZkZBU3YtVlgtWHZ4?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-07-25-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Arrowstreet Capital Limited Partnership Lowers Holdings in L3Harris Technologies Inc $LHX - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVF9COFdzSmJaVXVKQU5oNmFWZzZMN0ZTUWFWRE9KSE9XajVsSzI5XzM2eHBHeHNCR2QwUjNPZmhGQXhuSWVtWGNhVjBabXFFbnktNE03OFM1QmZvMGdIOG0zcl82VWhhMFJmRWVYa2FXV21ubGNWaHRfV0wwV2NFdzVjemtVM01nQ2NTZXREQmVwdWVoZDFaTDlMMWJMTy1yMmg0cTR2ZFpTam05Zkx1bF9OeHVQeXNvc1lnOXVEUVY3R1o1Z1A0eFgwd21YQ2hILWpfRzlKTFQtY0tUODBQZVMxdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "leonardo-2026-07-25-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Leonardo stock trades steady as defense orders and profitability shape investor focus - AD HOC NEWS",
+      "companies": [
+        "leonardo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTk1VZWJ6azRNWTlZNE4yREV2WE5GNVZUWHNaNE5aWldYREstcldFMm00c1FQb1VkQkYzZ3dfRGVxSHQ1d2hGUWFCbGM3c0JDbmtVUHpqNmZiLXlMcDE2THR4M29ramNYX0V5NHpLLUlBWmhjY2xxWHk5eDNfcUh1bkhsSVVWT3Y2OFcxRmxvTWhrREM0VHFxQnhYS19uM3FLNGEyZ0x5UzE5blQ5S2JMeDJVbWFSWGlSQnp6dzYwdEM1WllKVnhvZA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "palantir-2026-07-25-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Microsoft, Meta, Nvidia, OpenAI, and Palantir have a message for Washington - Business Insider",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRU9HcDZxSU13THpkYncxR0VweGg0dUEwYjk5OUZYd1RDWXp6UV9IYXcyc1liSk54WTdRWm5TNWNpVEhaX1Q5Smx6cW9VREs0TzlyN3VoTVp0MDNGdFlVekVXQ2JKVExhQ1VrblhZaXlOWWJYVGE4dE44bnlzMm9zb0VpRElOWlQxUTU4bTd2V0RKb3hPWXBGT0FTNXVrMEYxVG9wLU9zZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "palantir",
+        "count": 4
+      },
+      {
+        "id": "rtx",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "leonardo",
+        "count": 1
+      },
+      {
+        "id": "rheinmetall",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 315,
+    "dup_title": 154,
+    "too_old": 57,
+    "gate1_blocked": 27,
+    "gate2_blocked": 15,
+    "passed": 62,
+    "pass_rate": "38.5%",
+    "gate2_block_rate": "9.3%",
+    "gate2_samples": [
+      "Why Is RTX (RTX) Stock Soaring Today - Yahoo Finance",
+      "RTX Corporation: The Beat And Raise Investors Wanted - Seeking Alpha",
+      "Why L3Harris Technologies (LHX) Stock Is Up Today - Quiver Quantitative",
+      "L3Harris (LHX) Stock Looks Below Fair Value On Current Assumptions - Yahoo Finance UK",
+      "L3Harris Technologies Inc (NYSE:LHX) Receives Average Recommendation of \"Moderate Buy\" from Analysts"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Palantir Technologies、RTX、L3Harris Technologies相關動態：「RTX Corporation $RTX Shares Bought by Entropy Technologie...」。主要關注主題為財報、國防航太通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "RTX Corporation $RTX Shares Bought by Entropy Technologies LP - MarketBeat（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Bank of Nova Scotia Cuts Holdings in RTX Corporation $RTX - MarketBeat（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
