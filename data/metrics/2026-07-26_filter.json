@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 197,
+  "no_date": 0,
+  "too_old": 56,
+  "gate1_fail": 26,
+  "gate2_fail": 16,
+  "passed": 20,
+  "gate2_samples": [
+    "RTX Corporation: The Beat And Raise Investors Wanted - Seeking Alpha",
+    "Why L3Harris Technologies (LHX) Stock Is Up Today - Quiver Quantitative",
+    "L3Harris Technologies Inc (NYSE:LHX) Receives Average Recommendation of \"Moderate Buy\" from Analysts",
+    "L3Harris (LHX) Stock Looks Below Fair Value On Current Assumptions - Yahoo Finance UK",
+    "L3Harris Technologies Inc $LHX Stock Position Boosted by PNC Financial Services Group Inc. - MarketB"
+  ]
+}
