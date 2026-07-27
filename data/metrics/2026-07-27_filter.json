@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 184,
+  "no_date": 0,
+  "too_old": 55,
+  "gate1_fail": 29,
+  "gate2_fail": 18,
+  "passed": 29,
+  "gate2_samples": [
+    "Waverly Advisors LLC Acquires 6,117 Shares of RTX Corporation $RTX - MarketBeat",
+    "RTX Corporation: The Beat And Raise Investors Wanted - Seeking Alpha",
+    "Clough Capital Partners L P Acquires 9,873 Shares of RTX Corporation $RTX - MarketBeat",
+    "OMERS ADMINISTRATION Corp Has $18.55 Million Stock Position in RTX Corporation $RTX - MarketBeat",
+    "SummitTX Capital L.P. Invests $11.68 Million in L3Harris Technologies Inc $LHX - MarketBeat"
+  ]
+}
