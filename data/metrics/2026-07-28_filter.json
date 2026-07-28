@@ -1,0 +1,16 @@
+{
+  "total_raw": 299,
+  "dup_title": 142,
+  "no_date": 0,
+  "too_old": 54,
+  "gate1_fail": 28,
+  "gate2_fail": 21,
+  "passed": 54,
+  "gate2_samples": [
+    "RTX Corporation: The Beat And Raise Investors Wanted - Seeking Alpha",
+    "RTX (NYSE:RTX) Stock Price Up 2.7% on Analyst Upgrade - MarketBeat",
+    "Waverly Advisors LLC Acquires 6,117 Shares of RTX Corporation $RTX - MarketBeat",
+    "Clough Capital Partners L P Acquires 9,873 Shares of RTX Corporation $RTX - MarketBeat",
+    "OMERS ADMINISTRATION Corp Has $18.55 Million Stock Position in RTX Corporation $RTX - MarketBeat"
+  ]
+}
