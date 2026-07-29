@@ -1,0 +1,256 @@
+{
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T10:33:11.170628Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lockheed-2026-07-29-002",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "L3Harris to quadruple THAAD propulsion in contract with DoW, Lockheed - Army Technology",
+      "companies": [
+        "lockheed",
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "missile_defense",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzcnZfUi1SS21pVVZaNjIxUkJkUWVadEsxUmdiYnhqVE5iTmFyX3EtaW1YYUtMbjI0Y3FlWHpLNER3MC1fcmlDRGk2YXRGMnZJNjRzZHQxNTlEemVpbElYTUl1Q2JNTktTbTI3UGlKUlh4a1BOMDJ5UXhEUFQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rtx-2026-07-29-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Amundi Buys 3,070,123 Shares of RTX Corporation $RTX - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUndMX1lVbUpqUko5TFR4TTE2bHo5bDNINFdXRExzek9Dem9xNXVWQlJ6d0Jtd2hOMHQ1enEtbWYxYWNtRzVRMG0xSXNZRl9CQnJIM2lfSnVjcXAyamJKcmxHb2ZYRjJzRUVnLUNaSzYxNThFQjhtZzFWcjF0ZXBkM3lHeVI2TWcteTRHRU1Pb0xuTkJDX0ZGRXNRLWRCTGlfUjhodFY5anZ1Ukk0dzAw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hanwha_aero-2026-07-29-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha Aerospace Wins approximately $34 Million South Korean Military Unmanned Vehicle Contract with 'Arion-SMET' - finance.biggo.com",
+      "companies": [
+        "hanwha_aero"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MSWR3T1k2VEljV2dUVmVMSWNUdkRkNlZTM0hSa3pONzFObmcxMHhnOF9oVDJSckE4SUkzRXdSQ2loTmNNQl9sTVpZUUVDNXdqQ01yMVpacklYM19oQXYzUEY5aHV6WUsxVWZiX2FiQmhnVEgyWGc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hanwha_aero-2026-07-29-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha Aerospace Picked for Military Multipurpose Unmanned Vehicle Program - Seoul Economic Daily",
+      "companies": [
+        "hanwha_aero"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcTA2UG5SN3hPVGJqa1FrZldSc2xyOVQ1bkxkT1hERHhrN3RPN2wtQ1d6eDI0SjU0eDJqNWpza09uWDFLTVFtNVRiczVDUGpoV0NzMXV2aktzcmpiTDNLTTZxVXd2VU5rZ2h5MG5wSElRVkRKTDZ0RmJVQ2VvZk1ZZDdTN0dRTlV3ZU1FT0ZDVWsyNTYtcU9ONUJqMFZuTUNVdHc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-29-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Korea Aerospace Industries (047810) Earnings: 2Q Operating Profit Misses Estimates, Down 43% Y/Y - Smartkarma",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZ0tfSlpwR3E3RXJiZ1RtMF96NEtwOVJrcHVCWVNjaGI2YldPYVdqeTFJRkJjNzQ4eDdsaklFaVdFVXFTaWE0YWNVWTJPczhDSHBtbzF2U2pyWmlEVlQxT0JwaVZaSjdNRk1LRlJyN0xBY0JuYlNwUkpRNTJjdHFIbVM0SnRaNGhUdEl4ZHpwcHh6Y0NiTnVFTkJZdC1hLXhOQXNldGM4Rk9DZDZCRmVsdmVNNWJuMFNmb291cGJPM0Y3dHFoMFctMmxIY1dMbTdKTmNocHpqNTlUSDlzRm91NWhmZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "missile_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 16,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_aero",
+        "count": 6
+      },
+      {
+        "id": "palantir",
+        "count": 4
+      },
+      {
+        "id": "rtx",
+        "count": 1
+      },
+      {
+        "id": "lockheed",
+        "count": 1
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 11
+      },
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "drone_warfare",
+        "count": 6
+      },
+      {
+        "id": "missile_defense",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 314,
+    "dup_title": 144,
+    "too_old": 55,
+    "gate1_blocked": 30,
+    "gate2_blocked": 20,
+    "passed": 65,
+    "pass_rate": "38.2%",
+    "gate2_block_rate": "11.8%",
+    "gate2_samples": [
+      "RTX Corporation: The Beat And Raise Investors Wanted - Seeking Alpha",
+      "RTX director Tracy Atkinson sells $500,424 in common stock - Investing.com",
+      "RTX Corporation $RTX Shares Acquired by Quantinno Capital Management LP - MarketBeat",
+      "Waverly Advisors LLC Acquires 6,117 Shares of RTX Corporation $RTX - MarketBeat",
+      "Clough Capital Partners L P Acquires 9,873 Shares of RTX Corporation $RTX - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為韓華航太、Palantir Technologies、RTX相關動態：「L3Harris to quadruple THAAD propulsion in contract with D...」。主要關注主題為財報、國防航太通用、無人機作戰，市場情緒中性。",
+    "signals": [
+      {
+        "text": "L3Harris to quadruple THAAD propulsion in contract with DoW, Lockheed - Army ...（飛彈防禦、財報）",
+        "level": "red"
+      },
+      {
+        "text": "Amundi Buys 3,070,123 Shares of RTX Corporation $RTX - MarketBeat（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,5 +1,328 @@
 [
   {
+    "id": "rtx-2026-07-29-001",
+    "date": "2026-07-29",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Amundi Buys 3,070,123 Shares of RTX Corporation $RTX - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQUndMX1lVbUpqUko5TFR4TTE2bHo5bDNINFdXRExzek9Dem9xNXVWQlJ6d0Jtd2hOMHQ1enEtbWYxYWNtRzVRMG0xSXNZRl9CQnJIM2lfSnVjcXAyamJKcmxHb2ZYRjJzRUVnLUNaSz",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUndMX1lVbUpqUko5TFR4TTE2bHo5bDNINFdXRExzek9Dem9xNXVWQlJ6d0Jtd2hOMHQ1enEtbWYxYWNtRzVRMG0xSXNZRl9CQnJIM2lfSnVjcXAyamJKcmxHb2ZYRjJzRUVnLUNaSzYxNThFQjhtZzFWcjF0ZXBkM3lHeVI2TWcteTRHRU1Pb0xuTkJDX0ZGRXNRLWRCTGlfUjhodFY5anZ1Ukk0dzAw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lockheed-2026-07-29-002",
+    "date": "2026-07-29",
+    "companies": [
+      "lockheed",
+      "l3harris"
+    ],
+    "topics": [
+      "missile_defense",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "L3Harris to quadruple THAAD propulsion in contract with DoW, Lockheed - Army Technology",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFAzcnZfUi1SS21pVVZaNjIxUkJkUWVadEsxUmdiYnhqVE5iTmFyX3EtaW1YYUtMbjI0Y3FlWHpLNER3MC1fcmlDRGk2YXRGMnZJNjRzZHQxNTlEemVpbElYTUl1Q2JNTktTbTI3UGlKUl",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzcnZfUi1SS21pVVZaNjIxUkJkUWVadEsxUmdiYnhqVE5iTmFyX3EtaW1YYUtMbjI0Y3FlWHpLNER3MC1fcmlDRGk2YXRGMnZJNjRzZHQxNTlEemVpbElYTUl1Q2JNTktTbTI3UGlKUlh4a1BOMDJ5UXhEUFQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-07-29-003",
+    "date": "2026-07-29",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "drone_warfare",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace Selected for South Korean Army's Multipurpose Unmanned Ground Vehicle Program - thelec.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94aXViYk5hdFJybVllS3l2WFZDaWhJdkl4ODJZcHI5cmViVDVyMDRmd3dJUFJveXJFVFlSLUp2bGNOMlNIeXhZT0lTOXRNZW9qNUlVZ1lkWWNZRnJjbWY2UXdENlFtMFk?oc=5\" targ",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94aXViYk5hdFJybVllS3l2WFZDaWhJdkl4ODJZcHI5cmViVDVyMDRmd3dJUFJveXJFVFlSLUp2bGNOMlNIeXhZT0lTOXRNZW9qNUlVZ1lkWWNZRnJjbWY2UXdENlFtMFk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-07-29-004",
+    "date": "2026-07-29",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "drone_warfare",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace's 'Arion Smet' Selected as Military Multipurpose Unmanned Vehicle; Contract in August - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qTTFVT1dUd25SZHVWaXF3UW5nUGJ0YkRzd0FiaV90Zl9ma3V0VzlRNHQyXzFtVUpndk5mcUd4WTlWcjBkYVdGWkRNTWNKejBfXy1J?oc=5\" target=\"_blank\">Hanwha Aerospac",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qTTFVT1dUd25SZHVWaXF3UW5nUGJ0YkRzd0FiaV90Zl9ma3V0VzlRNHQyXzFtVUpndk5mcUd4WTlWcjBkYVdGWkRNTWNKejBfXy1J?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-07-29-005",
+    "date": "2026-07-29",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "drone_warfare",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace Wins approximately $34 Million South Korean Military Unmanned Vehicle Contract with 'Arion-SMET' - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1MSWR3T1k2VEljV2dUVmVMSWNUdkRkNlZTM0hSa3pONzFObmcxMHhnOF9oVDJSckE4SUkzRXdSQ2loTmNNQl9sTVpZUUVDNXdqQ01yMVpacklYM19oQXYzUEY5aHV6WUsxVWZiX2FiQm",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MSWR3T1k2VEljV2dUVmVMSWNUdkRkNlZTM0hSa3pONzFObmcxMHhnOF9oVDJSckE4SUkzRXdSQ2loTmNNQl9sTVpZUUVDNXdqQ01yMVpacklYM19oQXYzUEY5aHV6WUsxVWZiX2FiQmhnVEgyWGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-07-29-006",
+    "date": "2026-07-29",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "drone_warfare",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace Picked for Military Multipurpose Unmanned Vehicle Program - Seoul Economic Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOcTA2UG5SN3hPVGJqa1FrZldSc2xyOVQ1bkxkT1hERHhrN3RPN2wtQ1d6eDI0SjU0eDJqNWpza09uWDFLTVFtNVRiczVDUGpoV0NzMXV2aktzcmpiTDNLTTZxVXd2VU5rZ2h5MG5wSE",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcTA2UG5SN3hPVGJqa1FrZldSc2xyOVQ1bkxkT1hERHhrN3RPN2wtQ1d6eDI0SjU0eDJqNWpza09uWDFLTVFtNVRiczVDUGpoV0NzMXV2aktzcmpiTDNLTTZxVXd2VU5rZ2h5MG5wSElRVkRKTDZ0RmJVQ2VvZk1ZZDdTN0dRTlV3ZU1FT0ZDVWsyNTYtcU9ONUJqMFZuTUNVdHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-007",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Korea Aerospace Industries (047810) Earnings: 2Q Operating Profit Misses Estimates, Down 43% Y/Y - Smartkarma",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZ0tfSlpwR3E3RXJiZ1RtMF96NEtwOVJrcHVCWVNjaGI2YldPYVdqeTFJRkJjNzQ4eDdsaklFaVdFVXFTaWE0YWNVWTJPczhDSHBtbzF2U2pyWmlEVlQxT0JwaVZaSjdNRk1LRlJyN0",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZ0tfSlpwR3E3RXJiZ1RtMF96NEtwOVJrcHVCWVNjaGI2YldPYVdqeTFJRkJjNzQ4eDdsaklFaVdFVXFTaWE0YWNVWTJPczhDSHBtbzF2U2pyWmlEVlQxT0JwaVZaSjdNRk1LRlJyN0xBY0JuYlNwUkpRNTJjdHFIbVM0SnRaNGhUdEl4ZHpwcHh6Y0NiTnVFTkJZdC1hLXhOQXNldGM4Rk9DZDZCRmVsdmVNNWJuMFNmb291cGJPM0Y3dHFoMFctMmxIY1dMbTdKTmNocHpqNTlUSDlzRm91NWhmZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-07-29-008",
+    "date": "2026-07-29",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace wins South Korea military UGV deal, readies August contract - CHOSUNBIZ - Chosunbiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOdHdFWmE1b3F1WHBsU0duYktjeDh0U1F5eVJyanRyNGVVbXZZLU81X21RM3FPQXlEZE13UWxBQ3RzSTVTN0ZCZkpPRnJZb2N6ZGdlTU9yM0NyRUVnVlRqYWhDME5sendvU0pDdmo1aD",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdHdFWmE1b3F1WHBsU0duYktjeDh0U1F5eVJyanRyNGVVbXZZLU81X21RM3FPQXlEZE13UWxBQ3RzSTVTN0ZCZkpPRnJZb2N6ZGdlTU9yM0NyRUVnVlRqYWhDME5sendvU0pDdmo1aDZuc2c2d0Vtd2ZXWmZpQXlKQnNfQzQxTVUxcTNzcWg2RmRpZFgwdkHSAZYBQVVfeXFMTnR3RVphNW9xdVhwbFNHbmJLY3g4dFNReXlScmp0cjRlVW12WS1PNV9tUTNxT0F5RGRNd1FsQUN0c0k1UzdGQmZKT0ZyWW9jemRnZU1PcjNDckVFZ1ZUamFoQzBObHp3b1NKQ3ZqNWg2bnNnNndFbXdmV1pmaUF5SkJzX0M0MU1VMXEzc3FoNkZkaWRYMHZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-009",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "drone_warfare",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha 'Arion-SMET' Selected as Contractor for Defense Acquisition Program Administration's Multi-Purpose Unmanned Vehicle Project - starnewskorea.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOV3VoM3FhRGVEV3NKc2NHbTBrQ1BQR3E4NHNQcFZwZkFhT09QR1JjdWJxRjhvMm9yS2Q3YU44TEdac2dLajVUU01jNFFQMGxIX0o0aXh0N1dHMVh3c2h0a1VYTTVRV1VzOG1fWGtubT",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV3VoM3FhRGVEV3NKc2NHbTBrQ1BQR3E4NHNQcFZwZkFhT09QR1JjdWJxRjhvMm9yS2Q3YU44TEdac2dLajVUU01jNFFQMGxIX0o0aXh0N1dHMVh3c2h0a1VYTTVRV1VzOG1fWGtubTE1Ykozbmg2cGZhZmctOEZwQjB6SQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-07-29-010",
+    "date": "2026-07-29",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "drone_warfare",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace's Arion-SMET Wins Military Multipurpose Unmanned Vehicle Project - 아시아경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XYmd6UThfT05SMjRhME9semdXdENmUmstLU16QVJmaWlaMEl5MmJZZ2ZPU2Qzc21ueGMyMzZaWWFtU0tlV0U2VC1zTTI5UGlRVzBmd0NLeWhOTXBZMjNrbXlWOHA?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XYmd6UThfT05SMjRhME9semdXdENmUmstLU16QVJmaWlaMEl5MmJZZ2ZPU2Qzc21ueGMyMzZaWWFtU0tlV0U2VC1zTTI5UGlRVzBmd0NLeWhOTXBZMjNrbXlWOHA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "elbit-2026-07-29-011",
+    "date": "2026-07-29",
+    "companies": [
+      "elbit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Altshuler Shaham Ltd Sells 55,659 Shares of Elbit Systems Ltd. $ESLT - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPaWFGTWNXOG9ta2ZzdWJieEo1YnRZcC03c2I0VnRuenVqS3NpN0xkWktPNmVZV3MzU2dVQ2pqRFhxa2gxSW9DaDE4V2JmbWNGalRBQjZqLU1lRFZ0Y2tia2g5cHFPVnJROFVfUS1VUm",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaWFGTWNXOG9ta2ZzdWJieEo1YnRZcC03c2I0VnRuenVqS3NpN0xkWktPNmVZV3MzU2dVQ2pqRFhxa2gxSW9DaDE4V2JmbWNGalRBQjZqLU1lRFZ0Y2tia2g5cHFPVnJROFVfUS1VUmloOGFpbnBKd1Z5RWw0VGJ6akdaU0FaRTRlaXVyeGhNRWtKR1V3QVBmWWFRVkxVYWd1X0NvaDhZT0RlSHdkbGhIRHh3Qk1PdXIzUFozd3B4RU5YRnhM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-07-29-012",
+    "date": "2026-07-29",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is Palantir Still a Millionaire-Maker Stock? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxORjlmVGNMdHJZUEZxWlVvSjRNajVUc1dWcTdMdkYwb2dXb0hJbUZUU0lWdWVRMkdScC1ldG9tZkoxMlREaUhqMmNpTktGdEV4RmphdGdwNzZXZ0VpNDN5cE55OFoyNFNaM3NybnVuaU",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORjlmVGNMdHJZUEZxWlVvSjRNajVUc1dWcTdMdkYwb2dXb0hJbUZUU0lWdWVRMkdScC1ldG9tZkoxMlREaUhqMmNpTktGdEV4RmphdGdwNzZXZ0VpNDN5cE55OFoyNFNaM3NybnVuaUo3SHc2UlplN093MjhYdHBnb2JGc24yX0lKRE1FZGttVGU1TjJTb2pJN1V2WGh4OWQ1Z1NsTVVB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-07-29-013",
+    "date": "2026-07-29",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is Palantir Still a Millionaire-Maker Stock? - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVExVbjkwT3k3OU5wTjBtUUc1blozY0RJRl8tVE9fbElUNmJEVHcybzFUd3RZZ2dXVmdWWFk2aFBwbnlXMzNsYlRVSkRFZk5nYWl2dXBaTFNHY2NhNzNVQ1N4U2pfOVlhampoZ1ctMH",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVExVbjkwT3k3OU5wTjBtUUc1blozY0RJRl8tVE9fbElUNmJEVHcybzFUd3RZZ2dXVmdWWFk2aFBwbnlXMzNsYlRVSkRFZk5nYWl2dXBaTFNHY2NhNzNVQ1N4U2pfOVlhampoZ1ctMHRhSzBTMGJWXzUtUnFaUWh4cTZPMEt1VU8xZmMwcVFKRlFDTFV1c1BLcXRHRFpKTTkxQjFZOVhRTTFXcW1JcTNsMFRUUmtpUlpwZUIxSGl6dldVNjEyZDVXbg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-07-29-014",
+    "date": "2026-07-29",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Prediction: Palantir's Stock Will Make a Huge Move on Aug. 3 - AOL.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPd3hWdlY1VDdiSDFOeTBxV2hCdjd6RE01SUNjQXJvdjdjWEJIVTJsSS1zWTk3NEVUU2JqSnlRcjVjdklINUZLaUZkN2xaN1NlWmJOWThoTTlwdE9PczlMMEk5UjZfR1FlRk9SdXNMeX",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd3hWdlY1VDdiSDFOeTBxV2hCdjd6RE01SUNjQXJvdjdjWEJIVTJsSS1zWTk3NEVUU2JqSnlRcjVjdklINUZLaUZkN2xaN1NlWmJOWThoTTlwdE9PczlMMEk5UjZfR1FlRk9SdXNMeXRoWU5zeFJIV3dZelNBSVFFbWJaNzVLeHM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-07-29-015",
+    "date": "2026-07-29",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Prediction: Palantir's Stock Will Make a Huge Move on Aug. 3 - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQc3FPSlllSnVoRlhzdkhQaE1EeWZOenpwUjYwWHMzN2NQcVlNRnNqWTBCYUdSYjlYSzMwazVjaEV5amhyRUZJd0JlUl9tb1JXeVdJajIzd3dydWZ3RGJjeGJvZm42WE1SUUc4bHlSVD",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc3FPSlllSnVoRlhzdkhQaE1EeWZOenpwUjYwWHMzN2NQcVlNRnNqWTBCYUdSYjlYSzMwazVjaEV5amhyRUZJd0JlUl9tb1JXeVdJajIzd3dydWZ3RGJjeGJvZm42WE1SUUc4bHlSVDlsSlI0LWZkOU9RRXVBOFJ4cjFjZ2ctcUlOTmZBNWo1WmtJYkpTT2NVZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-016",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Boeing still working with NASA to schedule next Starliner flight",
+    "summary": "<figure><img width=\"1024\" height=\"705\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/NHQ202406030004large.jpg?fit=1024%2C705&amp;ssl=1\" class=\"attachment-rss-image-size size-rss-imag",
+    "sources": [
+      {
+        "name": "spacenews",
+        "url": "https://spacenews.com/boeing-still-working-with-nasa-to-schedule-next-starliner-flight/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rtx-2026-07-28-001",
     "date": "2026-07-28",
     "companies": [
@@ -215,6 +538,811 @@
       {
         "name": "defense_news",
         "url": "https://www.defensenews.com/global/europe/2026/07/28/french-wildfires-threaten-nuclear-deterrence-industry-rafale-assembly/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rtx-2026-07-28-012",
+    "date": "2026-07-28",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Aging Jets, Rising Threats: Why RTX Corporation (RTX) Just Raised Its 2026 Outlook - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQMmJMY2xudDN0ZlRGQlZCOGhJeG9oalpVX2VpWDN1b3hLLThNb0hpRGx6WXBuVFRuNnhhSVBsU21SV0RKMWVHWWJkTDQ2RzRxUDBhNkMtUkV3bGNiOFNkNlVCT29aS3NZUUljeWlfd1",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMmJMY2xudDN0ZlRGQlZCOGhJeG9oalpVX2VpWDN1b3hLLThNb0hpRGx6WXBuVFRuNnhhSVBsU21SV0RKMWVHWWJkTDQ2RzRxUDBhNkMtUkV3bGNiOFNkNlVCT29aS3NZUUljeWlfd1l0XzR6bDQtMkxCazBhWjN5bE5UdThwS3RNNFp5U29KUzI3UV9nR2hnelp3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rtx-2026-07-28-013",
+    "date": "2026-07-28",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rtx president, Collins Aerospace Brunk sells $1.79m in stock - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOSEplM0UzWXJQOV83WF9hTFhwZ0w2ZVlheDdyRjFwb2NuUHZZNjBuMWxwU1FEeWJkOWhHODJBRnBtd1BoQkN1WF9NZEdNTmpDU3JHV3hEby1TOHVTMFFaZDE4RnhNVWl4MzN4YkJxa2",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSEplM0UzWXJQOV83WF9hTFhwZ0w2ZVlheDdyRjFwb2NuUHZZNjBuMWxwU1FEeWJkOWhHODJBRnBtd1BoQkN1WF9NZEdNTmpDU3JHV3hEby1TOHVTMFFaZDE4RnhNVWl4MzN4YkJxa2cydXpFQzVyM2RReVg1QmJpN1JMTVdyN0FJRjNYdnBmTi1Dd2ZWVTVSMllDMHFNWXRKek9GU0FmYnNnczNOZzRiZ0RGa1ZMQm82R3I3R2hZM05IcTJxOUIySVVR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rtx-2026-07-28-014",
+    "date": "2026-07-28",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "RTX Corporation $RTX Stock Position Boosted by Rokos Capital Management LLP - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUk9SbHFuakMyRW9pWFItZVluM196a1ZMX2hJVm1aRHVmaWQtcGdFTWJodDJLdy0zOUZ5ZlRxVzY5NF9XNFNuRGRfTEFBcUhPMkVaVTdjSXBXUHJEd0ZUaEhNS21FZS1JRnVSN0R0NV",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUk9SbHFuakMyRW9pWFItZVluM196a1ZMX2hJVm1aRHVmaWQtcGdFTWJodDJLdy0zOUZ5ZlRxVzY5NF9XNFNuRGRfTEFBcUhPMkVaVTdjSXBXUHJEd0ZUaEhNS21FZS1JRnVSN0R0NVVoVExHeGRtaHVfMTlRWWNqVE92TXVVVlBTcmdmYzRsejVmdHdua2stSHdQdTEtZ2QtalZXSUtwQjFMNnpZY2ZYd3RmVlhwTG5KZ3RKZGtJSlBsTXVfaWMzX1lDNlhrdUVC?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rtx-2026-07-28-015",
+    "date": "2026-07-28",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "RTX (NYSE:RTX) Insider Sells $1,799,451.53 in Stock - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNNFFlOGRHVDNJMDJzcENuZ0dkalFubnpqRUI0a00tTjQ1TEo0c3NNdjFmWkhiZkJMNEU1S1ZNWGlaYkhvWGE1N21RVzZPM09nazNiUDk5eF81LTBnQTZRQkFpMlQ4c1VNRTctMTNZdW",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNFFlOGRHVDNJMDJzcENuZ0dkalFubnpqRUI0a00tTjQ1TEo0c3NNdjFmWkhiZkJMNEU1S1ZNWGlaYkhvWGE1N21RVzZPM09nazNiUDk5eF81LTBnQTZRQkFpMlQ4c1VNRTctMTNZdWZNc3BqNmp2Y2Q5RmZPb1RaTXdCWHNHRmhDY1JKbkIyNkhVbVpBdDM4QU1EdHFRZ28?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rtx-2026-07-28-016",
+    "date": "2026-07-28",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Kevin Dasilva Sells 4,760 Shares of RTX (NYSE:RTX) Stock - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd0p5WlRZa3hubS1RaVh4NVdickQxNE5oaUE3MERjcF9FeFFyNXhyVE55RXh3N2JmTVgwV1hwTjI4aXlQSU5keGQ1SFZ3OWRacDFnbjJlV1JadUlPT2YtZkNualJTd0NSMUc0MGZpZ1",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd0p5WlRZa3hubS1RaVh4NVdickQxNE5oaUE3MERjcF9FeFFyNXhyVE55RXh3N2JmTVgwV1hwTjI4aXlQSU5keGQ1SFZ3OWRacDFnbjJlV1JadUlPT2YtZkNualJTd0NSMUc0MGZpZ1BRMmZrNTMwRGVpa0RDS1VuaTloMjFvaFJDdXd5QS1OTTVmaTBWZDRVblhHb0lxQ2Y3UV82OGpYSldXZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rtx-2026-07-28-017",
+    "date": "2026-07-28",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "RTX (NYSE:RTX) VP Kevin Dasilva Sells 2,250 Shares - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNNXJxYWVLYUFVcDVsYTI4eVd6RGhqRlN6ZmlEZHdmbGkxTERjbkFGbVVjamhYcjBvZ2IySTBDNDlYZFdhV21UUU4zTGxxMG1WMi1iUDQ4aFU1S2Y0aGdPMUl1UUUzajl3Vk92dWp1UF",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNXJxYWVLYUFVcDVsYTI4eVd6RGhqRlN6ZmlEZHdmbGkxTERjbkFGbVVjamhYcjBvZ2IySTBDNDlYZFdhV21UUU4zTGxxMG1WMi1iUDQ4aFU1S2Y0aGdPMUl1UUUzajl3Vk92dWp1UFFBWWJFUVpiOXB4bFZBeEtQMnRneTkwLXlnWEFLUEdjUEx0T0E5bkZXdklaYUFJakdWYnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rtx-2026-07-28-018",
+    "date": "2026-07-28",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Evercore Wealth Management LLC Reduces Stake in RTX Corporation $RTX - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPSTFmeFcwb0Joc195Ylo2azVkNkF2eVMxcEN1dW5ZVGROQWprcWd2aUNESHZxUWZUU21zdHp2d0VDUkVNeDhUclFEWExNMXFiNEN4ZDFPSERYNF9DYUhkQThWdUtEV1B1emp3Rjlyem",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSTFmeFcwb0Joc195Ylo2azVkNkF2eVMxcEN1dW5ZVGROQWprcWd2aUNESHZxUWZUU21zdHp2d0VDUkVNeDhUclFEWExNMXFiNEN4ZDFPSERYNF9DYUhkQThWdUtEV1B1emp3Rjlyem90NnJ6MUh4cHZfMzFlZWJhR2FKVXJHMHEta0l4ZkdzdkVHUFRKWFhsaHhoZDBFS0p2UXhSdVFjc3hWSWUtOUNwck8wX0o1NFIwQ0lPTlI4UnNTRmIzZTRj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lockheed-2026-07-28-019",
+    "date": "2026-07-28",
+    "companies": [
+      "lockheed",
+      "l3harris"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "L3Harris to finalize 7-year defense contract with Department of War + Lockheed Martin - The Bama Buzz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFAzaUtlc3ZKdkYyeWpDWGxZNkhrVURMWGF5YVpQR19fMjJXV0NmWHQ1WFJiS3FleVBYNXRFT1gtZjZqSXY1R2hnVVBSTURrVzgyUExKS2h3azk1ME0xZmdSUDJ3WXY4bkVnNUI5UzB5ZG",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzaUtlc3ZKdkYyeWpDWGxZNkhrVURMWGF5YVpQR19fMjJXV0NmWHQ1WFJiS3FleVBYNXRFT1gtZjZqSXY1R2hnVVBSTURrVzgyUExKS2h3azk1ME0xZmdSUDJ3WXY4bkVnNUI5UzB5ZGk3UlFtVlBPQw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lockheed-2026-07-28-020",
+    "date": "2026-07-28",
+    "companies": [
+      "lockheed",
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "L3Harris inks deals with DOD, Lockheed Martin to expand component production - Manufacturing Dive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOQnAyQUtnSTZFdV9hTUtGcWsxZnJEd2x6NWxQTHZZTC1MUW1mQ0tlajgxdy1hdDNvRmh3R3gtM19ZRy1oR2I3NUs0SVVYby0zRzlKRHlsc0p5TVpTUU9aWEU0Z1pYaTBkSFBLVmZKTT",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQnAyQUtnSTZFdV9hTUtGcWsxZnJEd2x6NWxQTHZZTC1MUW1mQ0tlajgxdy1hdDNvRmh3R3gtM19ZRy1oR2I3NUs0SVVYby0zRzlKRHlsc0p5TVpTUU9aWEU0Z1pYaTBkSFBLVmZKTTNnbjVOWHgtempkNTFCREhPR3BpQkZrUnFWbkE4dV9mdmxrNFoxN0RmdmZtVktzWHRtSUJNMzJIUU9nLVFYb2IxRU1Jdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-07-28-021",
+    "date": "2026-07-28",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "missile_defense",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "L3Harris (LHX) Lands Its Biggest Ever PAC 3 And THAAD Propulsion Awards - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX29CZUluSVZvRklYSm9HbDFWT1p4dnpMZ0J4dW1iTVplcW02ZWJJd3pEWmlmVk0yOVhmZDVwcU5iVkZPYlNUS0dVendQMzk5R20wQkFBZTE1TnFRYXE1RG1odmJGV2gyUlRLaE9IMm",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX29CZUluSVZvRklYSm9HbDFWT1p4dnpMZ0J4dW1iTVplcW02ZWJJd3pEWmlmVk0yOVhmZDVwcU5iVkZPYlNUS0dVendQMzk5R20wQkFBZTE1TnFRYXE1RG1odmJGV2gyUlRLaE9IMmhYUUwxZzduVi1KZ2YyZUtOS244cmNnVkVnUTN5M084NkNHSEJ5ZXRsRU0xRmhFbjBlX1ktTTIzYzNuREJZNlhuazNtWTQ4b3REdTF4c3dSZXFuRFZpbDhHZlR1MnhuVW5KcDhRUDZmRUZwSHJTUmNZ0gHfAUFVX3lxTE5fb0JlSW5JVm9GSVhKb0dsMVZPWnh2ekxnQnh1bWJNWmVxbTZlYkl3ekRaaWZWTTI5WGZkNXBxTmJWRk9iU1RLR1V6d1AzOTlHbTBCQUFlMTVOcVFhcTVEbWh2YkZXaDJSVEtoT0gyaFhRTDFnN25WLUpnZjJlS05LbjhyY2dWRWdRM3kzTzg2Q0dIQnlldGxFTTFGaEVuMGVfWS1NMjNjM25EQlk2WG5rM21ZNDhvdER1MXhzd1JlcW5EVmlsOEdmVHUyeG5VbkpwOFFQNmZFRnBIclNSY1k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-07-28-022",
+    "date": "2026-07-28",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "L3Harris to expand missile propulsion production under new Defense Department agreements - 256 Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQUm1nUmFyU1R2RXNuRjVBVzYyZ2lZdnpwRUVTZVF2WjR5aHRLWW1DWWZQSmRMRmlfZHdoNWxBWEtDZzFENlBpc0xJcFdFS3JzTEJrRlVyd2FvU0oxSWhpUjNjazFjLWJvNTBTS09xRE",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUm1nUmFyU1R2RXNuRjVBVzYyZ2lZdnpwRUVTZVF2WjR5aHRLWW1DWWZQSmRMRmlfZHdoNWxBWEtDZzFENlBpc0xJcFdFS3JzTEJrRlVyd2FvU0oxSWhpUjNjazFjLWJvNTBTS09xREdqblRselM0ZzhZczdxUXNPczJiRllDYmxjV04tZ3AwbEdEakIxUlEyUm45ank0NGE5dWlaLTRZaWlRU3dFalhv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-07-28-023",
+    "date": "2026-07-28",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Rokos Capital Management LLP Takes $59.61 Million Position in L3Harris Technologies Inc $LHX - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZXZsTzBLZUZzQWdCM1VGRkFLOUxOTmhjRXJadmQ2V0lxWmgzdnVsU2h3TUN0aFh3NWt4eUk1VUEwNFV2T3JxY0gtclZXVVR5bEQ5RnduRFpCanVSMVRWMVlrNzB5WWF4am1Iby1BV2",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZXZsTzBLZUZzQWdCM1VGRkFLOUxOTmhjRXJadmQ2V0lxWmgzdnVsU2h3TUN0aFh3NWt4eUk1VUEwNFV2T3JxY0gtclZXVVR5bEQ5RnduRFpCanVSMVRWMVlrNzB5WWF4am1Iby1BV2tRMzdJQ1NaNEZVWUpNZlo0dWR5VFYydGZteFVlN1BBRXNpTjlEYjRYT05xb2t4MkR6a3JsLWZhSEptWHVCUS1CbHF0WjhrQkhlRXJSN1JQMUt5NGtDa3h6UkJ6NW9fZnNEVnFtdWZ6SG1HZUMydDVrZGJwRnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-07-28-024",
+    "date": "2026-07-28",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "L3Harris Technologies Inc $LHX Holdings Lifted by Quantinno Capital Management LP - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVDlTdjFjY29PUlo2YXJvQXV1VEI2QXJoVllhbUFZS3lERjBqQUxhZzBPU2NGelJXaUFtMW1aSC10aVp2eDYwZDg4RDQ5RlB3eklIMmpRLWQybUEzMTZER0IxVWdYUDNuMVFmUktPX1",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVDlTdjFjY29PUlo2YXJvQXV1VEI2QXJoVllhbUFZS3lERjBqQUxhZzBPU2NGelJXaUFtMW1aSC10aVp2eDYwZDg4RDQ5RlB3eklIMmpRLWQybUEzMTZER0IxVWdYUDNuMVFmUktPX1BTdUJKSlBfQTIwTHJZZ2NYNGxheFFKZ0hYVnhLWWRQMlRHeXR5bTVpdlM4RUx6QUtDX1AyMXh5RUtscXJCZDVoWEN4dExsQmZ2cmFfT1FGc1hKTDdRanNQRHJtYUZqUXB6UFBJcHhlaHA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-07-28-025",
+    "date": "2026-07-28",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Germany Orders 56 More Rheinmetall Elefant 2 Transporters - The Defense Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5uc1oxZm1uOURJT3hWR3lYam5wdGVPUEl3OGlsN0c3VV9LNTJ6NzVyTzdNUXZkUHpqTnJmU2M1RWlBcmo1Qi1ZM0htM2xEbW56a0ZKVEtEUmF1M2txemFCLUtkZFZiLUVkZzlTVHdhWm",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uc1oxZm1uOURJT3hWR3lYam5wdGVPUEl3OGlsN0c3VV9LNTJ6NzVyTzdNUXZkUHpqTnJmU2M1RWlBcmo1Qi1ZM0htM2xEbW56a0ZKVEtEUmF1M2txemFCLUtkZFZiLUVkZzlTVHdhWmZQYTdzSFpNeHRZX0s4UdIBgwFBVV95cUxPVjBJcVdsYWxjd0hWbFNzRUM4ZG5DWEVUT3ljZ2lpNmxkZzdqbF9OUHVoT1hPOWdWRTNPUGx2OEVMbHhPMzdIejZhY0lDUVU2dGRZblFuenBkckxabk5QX3NRQ1JrZHBSVWstQXZHVnZ6MGh1cTFzNk9nZHJ6b3VRQ0RyTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-07-28-026",
+    "date": "2026-07-28",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Bundeswehr orders 56 more Elefant 2 transporters from Rheinmetall - Army Technology",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQUkZ5OU1hQmdnM29oUlpLdTc2OTJKOG91UGNacWlfSXprY1E2ekxjUWVfb3p0cllzRm5kcG5tSllKMmJxU0VMb3hGdjl0SjRMMGZTazIyYW93YnVfQzdVNFpOdFFVWEdMeXU0R2k1Zn",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUkZ5OU1hQmdnM29oUlpLdTc2OTJKOG91UGNacWlfSXprY1E2ekxjUWVfb3p0cllzRm5kcG5tSllKMmJxU0VMb3hGdjl0SjRMMGZTazIyYW93YnVfQzdVNFpOdFFVWEdMeXU0R2k1ZnQydl9mb0tpRVZJYXpZSXdmTXBn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-07-28-027",
+    "date": "2026-07-28",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Germany to trim munitions spending in blow for Rheinmetall - The Japan Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPM09vTXdpc2lNYlRCRWptM1Jfa04tbjZHa2RBZ3lxOUg1cS03ZTZuNFVxTUgyLTNBY2xPdlAxQTVCb0dqU2dLLUNmdnEzVWtqbmF3R2pxdHZleDJ3N0laV1pZSGhIWmJaRFZfaHh1aX",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM09vTXdpc2lNYlRCRWptM1Jfa04tbjZHa2RBZ3lxOUg1cS03ZTZuNFVxTUgyLTNBY2xPdlAxQTVCb0dqU2dLLUNmdnEzVWtqbmF3R2pxdHZleDJ3N0laV1pZSGhIWmJaRFZfaHh1aXNHb0VheEVCSU1pZ2ZXckZjM2xscWFta3QxdXpBQzBLRG0tTEJfY1p0eDQ4SXFYSWM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-07-28-028",
+    "date": "2026-07-28",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "drone_warfare",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace’s Arion-SMET selected for South Korea’s first military unmanned ground vehicle acquisition programme - Defence Industry Europe",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbWtFenRIV21hZk9TTkMxbmxEQ3M3a2RSbjZPcHhaaG96U1VjclBOQnh5dVg2OXFCcnUyWWNEaWZhRW9rdDE0bTZlbXJJNzBSTk9Ub2tkS0dldldIZk5samhSQVpyejh2ZUVDeVYwNF",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbWtFenRIV21hZk9TTkMxbmxEQ3M3a2RSbjZPcHhaaG96U1VjclBOQnh5dVg2OXFCcnUyWWNEaWZhRW9rdDE0bTZlbXJJNzBSTk9Ub2tkS0dldldIZk5samhSQVpyejh2ZUVDeVYwNFZOZXNxWnNENFM0dEJjNnUwSUswSWRnT2dDWTZMLW1iWko2R1FTRFRWdk1nVjN3UzNiQkdMRXR0Y1EwU1pPVi0xTUJydll3UWotck9KVHlJNUpKOEY2YUJwUGRPR0xpaDA3N2VJdVU3RGNxaGN4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-029",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Systems Q2 Operating Profit Tops 100 Billion Won on Defense Exports - thelec.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yTzY2YV9OTmxteWVpcS13alQ1R0NBVkFmendRUG5GeFM4M0tvUS1TQWtpRlc3TGpwUW1nM0c4cUlJTWdweXVyaFYxNU1KSXc2ekk5OVBrRk4wS2xxSkNiMHpuMmVkbkk?oc=5\" targ",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yTzY2YV9OTmxteWVpcS13alQ1R0NBVkFmendRUG5GeFM4M0tvUS1TQWtpRlc3TGpwUW1nM0c4cUlJTWdweXVyaFYxNU1KSXc2ekk5OVBrRk4wS2xxSkNiMHpuMmVkbkk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-030",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Kiwoom forecasts Hanwha spin-off to lift combined market cap in Korea - CHOSUNBIZ - Chosunbiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQN1lBN09MeWlVeG9YSXN6YXgwZlQzalF3eUxVVUo4UVJJSmtrVDdBcHNESDdSZ1ZiTUNqQ0JPQzY2SDdZZ2RlbHdvMk5SZ09qckNodHRVTEJJdlR1YkpoVmQtLVZhamt0ZmhfVTFzd3",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN1lBN09MeWlVeG9YSXN6YXgwZlQzalF3eUxVVUo4UVJJSmtrVDdBcHNESDdSZ1ZiTUNqQ0JPQzY2SDdZZ2RlbHdvMk5SZ09qckNodHRVTEJJdlR1YkpoVmQtLVZhamt0ZmhfVTFzd3JJRU5heHhXOGFLT2owS09EbNIBlAFBVV95cUxPeFVuZ25sUTBmVk5VbllDN2RLY2lubHBnN25GQjg0TW1QMHNCNk5tM0tCN0VSMENXUmpSbTNKbUp3TmpheXh6VTRxMnB1ZjBtRWZsSjk3QkZfRkhNa0hrTnVRdGxHOFBJVm5vRDkwTF9PNW4zb1h0ZWRabHBFNTg0aEpIQTFBZExxbVFZa1d0MGk5SDRI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-07-28-031",
+    "date": "2026-07-28",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Anthropic’s Amodei defends open-weight stance following critique from Palantir’s Karp - Fox Business",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQaFBXM1I3QXlmRzl4dzd0SExrOFE2bUQ4eHZNTFJOZ2ZTaWhRWVhnaUlaVzE0c2ZyU0toVmxrQUhsbWlRRDFEY1o3T3A5Z0RtU25relZrS0gweGlMczNUeDlKRE4zSlhSLXJHSTVWRG",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaFBXM1I3QXlmRzl4dzd0SExrOFE2bUQ4eHZNTFJOZ2ZTaWhRWVhnaUlaVzE0c2ZyU0toVmxrQUhsbWlRRDFEY1o3T3A5Z0RtU25relZrS0gweGlMczNUeDlKRE4zSlhSLXJHSTVWRGtraVdyYlRfTXg3a3U5bmpZZnN6V2ZyTHFmeG5McW4zUWdoMmh6LVZJYnAxMDlZSlY5RHhNb0lsYU4wNlFkYXdDZzdfUmJTM0lkNlBGNlFtUdIBxAFBVV95cUxPR0xOQW4yMndPR0tOWVAyNXg1RHpwWVVkanJXNU5DOGl6WWtRR0JLdTdBQVYxT1g5R0hzTEhubTJKRm1lU3dHTWZ1Q1JXYml2RndXVFZrTGgyWFZMWlBaekstR0ZwLVpZZGx1a0g3ODdzZndLeDJLN2JSekJwbzdueE9oSGtwZmQtOHpqaF9ZYmI4RlF4QzNOd1ZibVU3S2ptb3pIOS1HVnNIVTZjYUtfWFRPOFJQclNISEpVc0V4eExlNU1D?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-07-28-032",
+    "date": "2026-07-28",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Why Did Palantir Technologies Stock Drop Again? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxORUpYa2ZXWnVudzY4cm4tVEJBY09EbmVCTkdERTRrSHhaZlNsOVdCT09ZZjZxMnVvZGxFZmRESFlsUDFJWmw3cml3ZVpCVnh4ZHZldFNjbkJ2R0tsWkhjVU9uUjBIdEhXaUl6TzJrWD",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORUpYa2ZXWnVudzY4cm4tVEJBY09EbmVCTkdERTRrSHhaZlNsOVdCT09ZZjZxMnVvZGxFZmRESFlsUDFJWmw3cml3ZVpCVnh4ZHZldFNjbkJ2R0tsWkhjVU9uUjBIdEhXaUl6TzJrWDgwd3c5QUJ1WXl1TlBSTm5sSU16ZUE2ZEVFbGFUa2s3OWhHVUdwRVRHTUN3bGxqNGtXQ2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-07-28-033",
+    "date": "2026-07-28",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Why Did Palantir Technologies Stock Drop Again? - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOSkhoODBCZjhiRElTUExQeTZlWnE5S1dEOG9OU2JtYm5MalR3UVlDb1lRUkNTTHlOcmMzc2Z0UThycjhWOGdyMmVyaWhqSlpUYkFTRU4wLUFFRmdWb1dIUHdEYmdIdTZsY0xvVXFlTE",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSkhoODBCZjhiRElTUExQeTZlWnE5S1dEOG9OU2JtYm5MalR3UVlDb1lRUkNTTHlOcmMzc2Z0UThycjhWOGdyMmVyaWhqSlpUYkFTRU4wLUFFRmdWb1dIUHdEYmdIdTZsY0xvVXFlTEI0cGNzVGI1VkFNVlk0akcydHBZdFJxR3BMdFJBTTFVR2hWNjA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-07-28-034",
+    "date": "2026-07-28",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "New Jersey Organizations Call on State Investment Council to Divest from Palantir and Israel Bonds - Insider NJ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaDFzcFBZcHhZdnQwdmNDTWY1RzJCR2VRZDZUdTRuMnVQSE90N2s3bUFLVnZHY0FhMmxweklRcHItUzJLUk9YZlZvQ1hWcXBUNEZrOTdwam5rVEVmMmgya19kdFlreE1tTkVReDhDaH",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaDFzcFBZcHhZdnQwdmNDTWY1RzJCR2VRZDZUdTRuMnVQSE90N2s3bUFLVnZHY0FhMmxweklRcHItUzJLUk9YZlZvQ1hWcXBUNEZrOTdwam5rVEVmMmgya19kdFlreE1tTkVReDhDaHhEY1NaUEREQkdBY3VDT1NrcTl0QTA2SERab1I5bWRYc1llVFdUTG9UX1JKVG5zZXhMV295T3NpMUNLNmp1LW5EX05RZi10bXR1VVZIendvcld0WW8yaW9CTEd4MElRaVRDOVQtcGFB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-07-28-035",
+    "date": "2026-07-28",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Why Is Palantir Stock Falling on Tuesday? - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOcE1YbjM5aVN6SUFPS1hmVEtGVXVnOEJrUHFPVjBua3V2bDlURzFjUGNCdkVwVmtGcUN6OUplYTFtN2JJYUhYUnFFNlJ5VkhUQ1hpUEhzcEo1N2dDRzRVQVR0cHQ0WWY4U3JaZms3el",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcE1YbjM5aVN6SUFPS1hmVEtGVXVnOEJrUHFPVjBua3V2bDlURzFjUGNCdkVwVmtGcUN6OUplYTFtN2JJYUhYUnFFNlJ5VkhUQ1hpUEhzcEo1N2dDRzRVQVR0cHQ0WWY4U3JaZms3eldiTzRma05PbENqU09EWjZEbnNJLUp1dXVmSHc5ekVpeGlsek0zMW5ocXNmZ1ktOGF2WGRqZnNn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-07-28-036",
+    "date": "2026-07-28",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Palantir Technologies Lobbyists, 2022 - OpenSecrets",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNN0hTdXl5NWlKb0k5bjg4NU9jZHQ4VWFhU2g5ZlRuUW0yOVlLdl93M1JYOVhNWXRpT2ppbnBzVTh5eHFuX3BoOUc0bGZDYjhrdWJjU3lTMS1HNWQ4RTBkVlJnT2xjTW9NQk5BMkhlSV",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN0hTdXl5NWlKb0k5bjg4NU9jZHQ4VWFhU2g5ZlRuUW0yOVlLdl93M1JYOVhNWXRpT2ppbnBzVTh5eHFuX3BoOUc0bGZDYjhrdWJjU3lTMS1HNWQ4RTBkVlJnT2xjTW9NQk5BMkhlSVNCdTlRMGJWU0d4QThPTXFqN29QYWpMSVZjUTV3Q3hDeHhvVlFCVHBzTVRjYzZtV1AxaWJEaFFqT3pNRWZtZVJ6REZn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-037",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "El Nino is a threat indicator. The military should treat it like one.",
+    "summary": "The weather forecast for the second half of 2026 is giving the DoD something commanders rarely get before disruption arrives: months of notice.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/opinion/2026/07/28/el-nino-is-a-threat-indicator-the-military-should-treat-it-like-one/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-038",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "First Anduril YFQ-44A rolls off production line for US CCA program",
+    "summary": "Anduril's Ohio-based facility produced its first YFQ-44A, an unmanned, semi-autonomous aircraft, on Monday.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/07/28/first-anduril-yfq-44a-rolls-off-production-line-for-us-cca-program/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-039",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US Central Command, UAE to launch artifical intelligence task force",
+    "summary": "CENTCOM and the UAE will establish Task Force Talon Synapse aimed at boosting the development of military artificial intelligence applications.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/07/28/us-central-command-uae-to-launch-artifical-intelligence-task-force/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-040",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "drone_warfare",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Finland closes airspace, restricts maritime traffic near Russia over drone risk",
+    "summary": "Finland’s military said it closed a section of Finnish airspace and restricted maritime traffic off the country’s southern coast near the Russian border.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/global/europe/2026/07/28/finland-closes-airspace-restricts-maritime-traffic-near-russia-over-drone-risk/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-041",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Marine Corps accepts last Osprey aircraft",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/07/marine-corps-accepts-last-osprey-aircraft/\"><img width=\"1024\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2022/08/3377618-",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/07/marine-corps-accepts-last-osprey-aircraft/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-042",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Boeing’s Air Force One replacement  racks up $280M charge",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/07/boeings-air-force-one-replacement-racks-up-280m-charge/\"><img width=\"1024\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/202",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/07/boeings-air-force-one-replacement-racks-up-280m-charge/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-043",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CENTCOM announces US-UAE task force on AI",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/07/centcom-announces-us-uae-task-force-on-ai/\"><img width=\"1024\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2021/11/handstyp",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/07/centcom-announces-us-uae-task-force-on-ai/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-044",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Commerce aims to speed advocacy timelines for foreign weapon sales",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/07/commerce-aims-to-speed-advocacy-timelines-for-foreign-weapon-sales/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/07/commerce-aims-to-speed-advocacy-timelines-for-foreign-weapon-sales/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-045",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Air Force mulls ‘maybe’ pulling B-52s from retirement",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/07/air-force-eyes-maybe-pulling-b-52s-from-retirement/\"><img width=\"1024\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2022/08",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/07/air-force-eyes-maybe-pulling-b-52s-from-retirement/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-046",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AIA chief Eric Fanning on the budget and the health of America’s defense industry",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/07/aia-chief-eric-fanning-on-the-budget-and-the-health-of-americas-defense-industry/\"><img width=\"1024\" height=\"576\" src=\"https://breakingdefense.com/wp-co",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/07/aia-chief-eric-fanning-on-the-budget-and-the-health-of-americas-defense-industry/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-047",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "PACAF looks to reduce exercise participation to preserve ‘readiness’: Commander",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/07/pacaf-looks-to-reduce-exercise-participation-to-preserve-readiness-commander/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-conten",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/07/pacaf-looks-to-reduce-exercise-participation-to-preserve-readiness-commander/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-048",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "missile_defense",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Time to decide: A critical moment in Japan-US missile defense cooperation",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/07/time-to-decide-a-critical-moment-in-japan-us-missile-defense-cooperation/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/up",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/07/time-to-decide-a-critical-moment-in-japan-us-missile-defense-cooperation/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "leonardo-2026-07-28-049",
+    "date": "2026-07-28",
+    "companies": [
+      "leonardo"
+    ],
+    "topics": [
+      "drone_warfare",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Leonardo UK CEO sees potential CCA role, but wary of funding",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/07/leonardo-uk-ceo-sees-potential-cca-role-but-wary-of-funding/\"><img width=\"1024\" height=\"605\" src=\"https://breakingdefense.com/wp-content/uploads/sites/1",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/07/leonardo-uk-ceo-sees-potential-cca-role-but-wary-of-funding/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-050",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Air Force eyes next-gen engine ‘integration’ by 2030",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/07/air-force-eyes-next-gen-engine-integration-by-2030/\"><img width=\"1024\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2025/03",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/07/air-force-eyes-next-gen-engine-integration-by-2030/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-051",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Prized Ohio Class Guided Missile Submarine USS Georgia Heading Into Retirement",
+    "summary": "<p>The Navy's Ohio guided missile submarines are heavily in demand, but all are set to be gone from active service within the next three years.</p>\n<p>The post <a href=\"https://www.twz.com/sea/prized-",
+    "sources": [
+      {
+        "name": "the_war_zone",
+        "url": "https://www.twz.com/sea/prized-ohio-class-guided-missile-submarine-uss-georgia-heading-into-retirement",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-052",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A Guide To China’s Growing Long-Range Nuclear Missile Arsenal",
+    "summary": "<p>A closer look at the intercontinental and submarine-launched ballistic missiles at the core of Beijing’s strategic deterrent.</p>\n<p>The post <a href=\"https://www.twz.com/nuclear/a-guide-to-chinas-",
+    "sources": [
+      {
+        "name": "the_war_zone",
+        "url": "https://www.twz.com/nuclear/a-guide-to-chinas-growing-long-range-nuclear-missile-arsenal",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-053",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Italy's League says parliament will have final say on EU defence funds - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQRkhhQUZxcVQtaXFNR0pZUXh5eWhaN3hPamVJeElScjFYUHJaeDkyaGY2LUNkeVFIS2plRnJqc1dJempkWWdKZU5WRmVlbDNydlVuQmx5cExFTTJsaHN2dGZFRFpTSWEzOUNBYlNTMF",
+    "sources": [
+      {
+        "name": "google_defense_budget",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRkhhQUZxcVQtaXFNR0pZUXh5eWhaN3hPamVJeElScjFYUHJaeDkyaGY2LUNkeVFIS2plRnJqc1dJempkWWdKZU5WRmVlbDNydlVuQmx5cExFTTJsaHN2dGZFRFpTSWEzOUNBYlNTMFFycXM5ZUp5TFJYa3lJV084M1dHWTVucWx3bXBHd3FaMHhzQkVUblVPWVdNMW9ZMDBpcVdVOE8xeGFHZTJSTksxWUJTNA?oc=5",
         "type": "rss"
       }
     ]
@@ -1354,6 +2482,140 @@
       {
         "name": "spacenews",
         "url": "https://spacenews.com/amazon-files-application-for-direct-to-device-satellite-constellation/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-07-27-059",
+    "date": "2026-07-27",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "L3Harris Signs Transformational Agreement to Drastically Increase Production for PAC-3 MSE - ASDNews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxORTF3b3pSdWstdHQ1bkc0RWU0blRYM1d1QWFFbFBRcFVybFN4c0VVX0ZmSzZnVFhhVmJfYzN2V0NnV01EQUpRd2k5dzlwb0FsS0otdG8wQ1ZTNGd1QUs0VHpWc2NhaUNTZDVyWXJCNG",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORTF3b3pSdWstdHQ1bkc0RWU0blRYM1d1QWFFbFBRcFVybFN4c0VVX0ZmSzZnVFhhVmJfYzN2V0NnV01EQUpRd2k5dzlwb0FsS0otdG8wQ1ZTNGd1QUs0VHpWc2NhaUNTZDVyWXJCNGVRRC00NnpFS2tLUG9WdlBxWGpncXdxbGRXTXFtOXhTX19fd0R4VEJaLWZRdDRJUzNlMjc5VjFLSmRETkRFZGpab0tCN2dKUXl0UG5rZDBpazFzdC0tYUJ2XzlB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-07-27-060",
+    "date": "2026-07-27",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Germany to Trim Munitions Spending in Blow for Rheinmetall - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxORWw3QWJTQ0JVYUFkbUtaVEhHeTdkQWVwQzJHTjh4X29Ua19DZlpXMTJpNWwwcWVvTzRqMmEwNEFKRjNKRkZtOHVpNWxDYW45WnlUUk1lV1MwQ0p1a0c5Z1IzSHQ1QXVpSUlGeDByS1",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORWw3QWJTQ0JVYUFkbUtaVEhHeTdkQWVwQzJHTjh4X29Ua19DZlpXMTJpNWwwcWVvTzRqMmEwNEFKRjNKRkZtOHVpNWxDYW45WnlUUk1lV1MwQ0p1a0c5Z1IzSHQ1QXVpSUlGeDByS1ZmbHAyNjVBaHpWVmxGWFpSSzZqYW1ZTk83czFlbjIyeUVQdkJ5NE5DR3hsbGJiWERXaVlzbkpJOF9MaG5ZaDJQc2NQTFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-061",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How industry views Congress’ continuing resolution plans",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/07/how-industry-views-congress-continuing-resolution-plans/\"><img width=\"1024\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/20",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/07/how-industry-views-congress-continuing-resolution-plans/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-062",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Army picks GM Defense, Ford and BC Customs to build nine ISV-Heavy prototypes",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/07/army-picks-gm-defense-ford-and-bc-customs-to-build-nine-isv-heavy-prototypes/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-conten",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/07/army-picks-gm-defense-ford-and-bc-customs-to-build-nine-isv-heavy-prototypes/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-063",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "drone_warfare",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Coast Guard searching for tech to defeat unmanned underwater vehicles",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/07/coast-guard-searching-for-tech-to-defeat-unmanned-underwater-vehicles/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploa",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/07/coast-guard-searching-for-tech-to-defeat-unmanned-underwater-vehicles/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-07-27-064",
+    "date": "2026-07-27",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pentagon inks deal with L3Harris to ramp rocket motor production",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/07/pentagon-inks-deal-with-l3harris-to-ramp-rocket-motor-production/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/si",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/07/pentagon-inks-deal-with-l3harris-to-ramp-rocket-motor-production/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-065",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "America’s fighter force is running out of margin: Rep. Biggs",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/07/americas-fighter-force-is-running-out-of-margin-rep-biggs/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/07/americas-fighter-force-is-running-out-of-margin-rep-biggs/",
         "type": "rss"
       }
     ]

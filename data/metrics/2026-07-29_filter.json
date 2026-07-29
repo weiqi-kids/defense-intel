@@ -1,0 +1,16 @@
+{
+  "total_raw": 314,
+  "dup_title": 144,
+  "no_date": 0,
+  "too_old": 55,
+  "gate1_fail": 30,
+  "gate2_fail": 20,
+  "passed": 65,
+  "gate2_samples": [
+    "RTX Corporation: The Beat And Raise Investors Wanted - Seeking Alpha",
+    "RTX director Tracy Atkinson sells $500,424 in common stock - Investing.com",
+    "RTX Corporation $RTX Shares Acquired by Quantinno Capital Management LP - MarketBeat",
+    "Waverly Advisors LLC Acquires 6,117 Shares of RTX Corporation $RTX - MarketBeat",
+    "Clough Capital Partners L P Acquires 9,873 Shares of RTX Corporation $RTX - MarketBeat"
+  ]
+}
