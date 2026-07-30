@@ -1,0 +1,239 @@
+{
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T10:17:42.434671Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "l3harris-2026-07-30-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "L3Harris Technologies Inc (LHX) (Q2 2026) Earnings Call Highlights: Record Orders and Revenue ... - Yahoo! Finance Canada",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS2RYS1FLN2J1TDNWaFRXUVlRSm9iWXFRU2I3WmlqaVhJZk1McXhCZEpFQTdrVGJuZUNBVm5fR25ONG5kRFZUT3d0aXgyQW5rN1VHYXB4b2UySlJaNWo5dWZBeW1raXZreHE3U1Zma0xDaThxTWQ0Wnd0NkNvLVFHMUt2UDh5cWJN?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rtx-2026-07-30-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bank of America Corp DE Reduces Holdings in RTX Corporation $RTX - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRTlFd3A2UnlCYnpmb0s1dUlEalQxRDdJMzdORFpVdmY3S25PVjVwalRkNzV0WFVDbDNmQXZXendSTWhBYlljS05GdWlPRzF3WTJFLXdOVHVsSzlkUmhWQzRJRHdGXy1XWW8xRVlLOXBvSXRIUDROV3V6c2FzZUEybEhaTmRTaXhmWWRFVzhNSkJxRkZLUDZTODRZUmNESWVBN1FMd1NaMl9SQ3hhZk84bjFLNlZ0SURhb1JybXEzMGFzdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-07-30-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris Delays Missile Solutions Unit IPO - Aviation Week",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSlpXN1BTTHhUcjhMX2loaGFCdUpxT0hCQ3JhX3NPQ1RNOUFYNnB5OEg3RFlYMkdoclF3Mk5JOEJVVFY4a3FaTlpPUmNyRHhnMXJPRmxLNURianRHSWNPdHlLNEJabkh6bE9xTnpIZS1ZdXNneHQyU3V3ODkxaXI4VV8xZ0ZkYnJRU3pHcTd5c1BvUG11a1pfblNoNjYxUjZa?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "l3harris-2026-07-30-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris Technologies Q2 Earnings Call Highlights - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYl9URmxKSU4wcl9LUEZoUVFvQnRPaUgyMGlGOW16NlFwbUZjcXNjNnJHa2VoMkRRalQ2UlhQRTRlUTM2Qk9yMW9va2xmSHE3NkczM09wQzVXZGNiLVdkakdtSkcyaWJiWjBlVXZIazlKMW5QdzNXRUlRSkdTd3FXWk1kVFZMbDlQTTRsai1abWJ3emRzU3M1SWVsNXNVZHlMTGZlLWpR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "l3harris-2026-07-30-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris to quadruple THAAD propulsion production under new framework agreement - Military Aerospace",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "missile_defense",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUDJHRllTRnVhQmMwTlVETkd4QzNlLW45WTEzTTViRzk0Wk1Ja3JDZGVublhPRFdhdUZiNzdJbF9PYXdwRGkzVlFVWmgzNU5RaE9Sd0hrNVR2VXF2MFhqZms5cnJjSnd5MGFFSzZUNjBqQ1hnTEIzeEw2VUlhLUVBTDhTeXBvSHE1cy1LVkJTQ2pnbWJ2TlpXQ2JTSk1wVzBPbkpHeV9xTXNHaG5YYjhNSVFYTGNEdGEtenV3WGJUanlLZGlzdjNWR1pKV1kzOVdK?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "missile_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 13,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "l3harris",
+        "count": 4
+      },
+      {
+        "id": "palantir",
+        "count": 4
+      },
+      {
+        "id": "rheinmetall",
+        "count": 2
+      },
+      {
+        "id": "rtx",
+        "count": 1
+      },
+      {
+        "id": "elbit",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 12
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "missile_defense",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 315,
+    "dup_title": 124,
+    "too_old": 69,
+    "gate1_blocked": 33,
+    "gate2_blocked": 16,
+    "passed": 73,
+    "pass_rate": "38.2%",
+    "gate2_block_rate": "8.4%",
+    "gate2_samples": [
+      "What Are Wall Street Analysts' Target Price for RTX Corporation Stock? - Yahoo Finance",
+      "What Are Wall Street Analysts' Target Price for RTX Corporation Stock? - Barchart.com",
+      "RTX Corporation: The Beat And Raise Investors Wanted - Seeking Alpha",
+      "RTX Corporation $RTX Shares Sold by The Manufacturers Life Insurance Company - MarketBeat",
+      "Here is What to Know Beyond Why RTX Corporation (RTX) is a Trending Stock - Yahoo Finance Singapore"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為L3Harris Technologies、Palantir Technologies、萊茵金屬相關動態：「L3Harris Technologies Inc (LHX) (Q2 2026) Earnings Call H...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "L3Harris Technologies Inc (LHX) (Q2 2026) Earnings Call Highlights: Record Or...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Bank of America Corp DE Reduces Holdings in RTX Corporation $RTX - MarketBeat（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

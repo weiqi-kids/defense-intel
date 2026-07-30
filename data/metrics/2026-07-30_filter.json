@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 124,
+  "no_date": 0,
+  "too_old": 69,
+  "gate1_fail": 33,
+  "gate2_fail": 16,
+  "passed": 73,
+  "gate2_samples": [
+    "What Are Wall Street Analysts' Target Price for RTX Corporation Stock? - Yahoo Finance",
+    "What Are Wall Street Analysts' Target Price for RTX Corporation Stock? - Barchart.com",
+    "RTX Corporation: The Beat And Raise Investors Wanted - Seeking Alpha",
+    "RTX Corporation $RTX Shares Sold by The Manufacturers Life Insurance Company - MarketBeat",
+    "Here is What to Know Beyond Why RTX Corporation (RTX) is a Trending Stock - Yahoo Finance Singapore"
+  ]
+}
