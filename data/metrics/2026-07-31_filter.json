@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 113,
+  "no_date": 0,
+  "too_old": 66,
+  "gate1_fail": 29,
+  "gate2_fail": 20,
+  "passed": 87,
+  "gate2_samples": [
+    "What Are Wall Street Analysts' Target Price for RTX Corporation Stock? - barchart.com",
+    "Ex-Worker Says RTX Exposed 1.5M In Employee Data Breach - Law360",
+    "Here is What to Know Beyond Why RTX Corporation (RTX) is a Trending Stock - Yahoo Finance Singapore",
+    "RTX Corporation $RTX Shares Sold by The Manufacturers Life Insurance Company - marketbeat.com",
+    "RTX Corporation $RTX Shares Acquired by Quantinno Capital Management LP - marketbeat.com"
+  ]
+}
