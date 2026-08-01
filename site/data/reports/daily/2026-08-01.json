@@ -1,0 +1,216 @@
+{
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01T09:53:20.459784Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "l3harris-2026-08-01-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris (LHX) Lands Seven Year Missile Propulsion Deals For PAC 3 And THAAD - Yahoo Finance",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "missile_defense",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ25pckxLNHBoZVVQdEZsMUpqQ2kwVGVMdndnSDJoc2ppdGxZbWN0UEtZRWJQRDY3UFNXcFIzTjJBWXFkSDl3dUNhc2VwWkd5TlFRcVh6MXphd3BCWnhMWFFkYlFjZ0JES0Z2WVFrRFRIbXdHdkhSR1h4ZDNHclZlMHhjcTZPY3ZyNHFKU1ozY1NHNkZPbi1oVE5ubXJ3QQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "palantir-2026-08-01-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Investors Are Reacting To Palantir Technologies (PLTR) Pentagon Maven AI Momentum Ahead Of Q2 Earnings - simplywall.st",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNek94TnhuTk1pdDBibWRsWVpkYmt6SjFZd3JxSXRoai0ycHJYTUZudzBKeUhyTHIxcnQwMGNES3JLRU9idExDLWtWMENjZEVicWlKRFdVaThjLU11aFNEWUZ2MkFYZWxsLWhxR3RyYlFIaFVZZkJFQkZyN21CSnhoR0RmOEpqTlNHYi1HdFpPdUQ3b051dFZTMmc0dDZ3SW9sZlFLOThqX0xSV0ltSncwejNVa21CbVhaby05d0JkajJuWFJBMURQWEQwRkR6SUh3ZThhZE56c1AtcWFr0gHcAUFVX3lxTE16T3hOeG5OTWl0MGJtZGxZWmRia3pKMVl3cnFJdGhqLTJwclhNRm53MEp5SHJMcjFydDAwY0RLcktFT2J0TEMta1YwQ2NkRWJxaUpEV1VpOGMtTXVoU0RZRnYyQVhlbGwtaHFHdHJiUUhoVVlmQkVCRnI3bUJKeGhHRGY4SmpOU0diLUd0Wk91RDdvTnV0VlMyZzR0NndJb2xmUUs5OGpfTFJXSW1KdzB6M1VrbUJtWFpvLTl3QmRqMm5YUkExRFBYRDBGRHpJSHdlOGFkTnpzUC1xYWs?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-01-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hegseth seeks $1.5 trillion defence budget - MorungExpress",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MODJGOEZnREhFZ0V5Y3hvN1hCTDE2SGVIMGhOWUp6WlRBWEZjMHJ4M0hSem02c0pheUtJM1pUR1R1WlZyVFB0UTBaanF2Ym52ellSbnVJU3JiaGZmTkx1cUptQ1Rrd1JYNTJuX1ZSc2pWYzdM?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "l3harris-2026-08-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bank of America Corp DE Acquires 350,313 Shares of L3Harris Technologies Inc $LHX - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUDFpRjQyS21UeTl0V2FYN21pRTVXZkp2dlJWRW5QYU5rMWlGZVloNGdtU2ZJclliNExqRlZadzVMS1F5WkNmZUV6eHhJRW4wMWVESzlJRVV4TmJaT0VLRzZhWWNpU0RNWURuSzE1dGlFd09vYjhndTZjSVBwalZOVDBBY0IwRTZDOTNWOHB0dEtidUp5dXppRG05ZlpoX19rRG85eHJCaTg3RV9qWmh6bzEtTUV1RnR5blJRaUpjVHZlNzlXTzVrZU83WTZRczg4NUdHVm1LMA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "palantir-2026-08-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Palantir CEO Alex Karp Says Anthropic's Dario Amodei Isn't the 'Caricature' Most Americans Think— but Sti - Benzinga",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNMUhjRzdKR3JNcElianFVVm1VNjZvUHN6OWxXT01BRlM4QVlSeVl1UzZZS1FjcTZESjl4a2xaQ0RXTDJwNTdhdWtqUHRXR29WNHhyYW9EOUxWTURPUEZHZzNsenF5TmJWOE5NcTh3TEdkQU80TE5jQU45MmR3YzNKclMteW9fMmFJOUhYaWZHV0ZDcERVU0JUa0RPcS1PYlFwSnM1MVZnY1E1cnlFU3VTQUViYnpBZ2VSTmNNY2sxc2dnMUxTLXVEQXVhUjlXVlZWWlFHTFFhS1ZyT3Y5NEVFWm1CVGtyN2RSdnh3QXkyaGptbFBCcEVCY1U1aGNuX0RaZWZ6Z2J5ZEVQN1haaWxaeDZ1cEJkNTg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "missile_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "palantir",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "missile_defense",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 315,
+    "dup_title": 144,
+    "too_old": 74,
+    "gate1_blocked": 30,
+    "gate2_blocked": 13,
+    "passed": 54,
+    "pass_rate": "31.6%",
+    "gate2_block_rate": "7.6%",
+    "gate2_samples": [
+      "What Are Wall Street Analysts' Target Price for RTX Corporation Stock? - Barchart.com",
+      "RTX Corporation $RTX Shares Sold by The Manufacturers Life Insurance Company - MarketBeat",
+      "Royal Fund Management LLC Has $13.19 Million Stock Position in RTX Corporation $RTX - MarketBeat",
+      "RTX Corporation $RTX Shares Acquired by Quantinno Capital Management LP - MarketBeat",
+      "Why L3Harris Technologies Stock Is Plummeting Today - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為L3Harris Technologies、Palantir Technologies相關動態：「L3Harris (LHX) Lands Seven Year Missile Propulsion Deals ...」。主要關注主題為財報、飛彈防禦、國防航太通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "L3Harris (LHX) Lands Seven Year Missile Propulsion Deals For PAC 3 And THAAD ...（飛彈防禦、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "How Investors Are Reacting To Palantir Technologies (PLTR) Pentagon Maven AI ...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 144,
+  "no_date": 0,
+  "too_old": 74,
+  "gate1_fail": 30,
+  "gate2_fail": 13,
+  "passed": 54,
+  "gate2_samples": [
+    "What Are Wall Street Analysts' Target Price for RTX Corporation Stock? - Barchart.com",
+    "RTX Corporation $RTX Shares Sold by The Manufacturers Life Insurance Company - MarketBeat",
+    "Royal Fund Management LLC Has $13.19 Million Stock Position in RTX Corporation $RTX - MarketBeat",
+    "RTX Corporation $RTX Shares Acquired by Quantinno Capital Management LP - MarketBeat",
+    "Why L3Harris Technologies Stock Is Plummeting Today - Yahoo Finance"
+  ]
+}
