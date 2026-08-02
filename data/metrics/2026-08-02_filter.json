@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 174,
+  "no_date": 0,
+  "too_old": 78,
+  "gate1_fail": 28,
+  "gate2_fail": 11,
+  "passed": 24,
+  "gate2_samples": [
+    "What Are Wall Street Analysts' Target Price for RTX Corporation Stock? - Barchart.com",
+    "RTX Corporation $RTX Shares Sold by The Manufacturers Life Insurance Company - MarketBeat",
+    "Why L3Harris Technologies Stock Is Plummeting Today - The Motley Fool",
+    "Why Is L3Harris Stock Falling on Thursday? - Benzinga",
+    "Why L3Harris Technologies Stock Is Plummeting Today - Yahoo Finance"
+  ]
+}

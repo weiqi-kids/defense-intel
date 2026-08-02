@@ -1,0 +1,152 @@
+{
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02T09:50:45.114074Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-02-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UTX5547417 Bond Profile — Key Metrics - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ONXlyN0tXdXBubFRkMGFVaVpSLTY1Q2VxN1FhQmZVRmJ2SXlCam5yQ0JrTmJPcmxKalc5V0ZPQzhfbEQ2ZmJWeTY4MVZVM3lVQWE4dlpkM2dYNHp4U0hTV0wxUGtoS2hXOFRXNjVISlN6ZDduOWRyeVVR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "palantir-2026-08-02-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Palantir Technologies (PLTR) Q2 Earnings: What To Expect - Yahoo Finance UK",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZXRaZzhSS1NRYy1VZWlfSE8tRndtZzBKN0Myc09URG43TnFFR2V2cnp1emREWWpfbVQ5YW1tOVNhenBLb2RNdURrQVdOTE9VTlhuZ1dDeHZiMHdFcFJhQlNtMW02STJta2JiOUEySDFYSU80WmFWWkk5SjQzdlhDQUh5V0R1djRGSXVMdWY3cGw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "This Is the Most Attractive Defense Stock Right Now - Barron's",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORG1jVFpkU0ktXzNmaG1iYUFoWUlKdDl3SHhnejVUR0NNbTZSRUwtWUc1QzJQb281dEtjLVlEUW92NlE4VzBNM1FKdmwyQUNXbnJQREV5VkpidXRQU0s1TDdzc2JnUkVaMU1qZnVhOXVJZWVYX3hSelFRZC0yNmFPMFVhMHZYYVFZ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "palantir",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 315,
+    "dup_title": 174,
+    "too_old": 78,
+    "gate1_blocked": 28,
+    "gate2_blocked": 11,
+    "passed": 24,
+    "pass_rate": "17.0%",
+    "gate2_block_rate": "7.8%",
+    "gate2_samples": [
+      "What Are Wall Street Analysts' Target Price for RTX Corporation Stock? - Barchart.com",
+      "RTX Corporation $RTX Shares Sold by The Manufacturers Life Insurance Company - MarketBeat",
+      "Why L3Harris Technologies Stock Is Plummeting Today - The Motley Fool",
+      "Why Is L3Harris Stock Falling on Thursday? - Benzinga",
+      "Why L3Harris Technologies Stock Is Plummeting Today - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Palantir Technologies相關動態：「UTX5547417 Bond Profile — Key Metrics - TradingView」。主要關注主題為財報、國防航太通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "UTX5547417 Bond Profile — Key Metrics - TradingView（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Palantir Technologies (PLTR) Q2 Earnings: What To Expect - Yahoo Finance UK（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

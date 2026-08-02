@@ -1,5 +1,61 @@
 [
   {
+    "id": "unknown-2026-08-02-001",
+    "date": "2026-08-02",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UTX5547417 Bond Profile — Key Metrics - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5ONXlyN0tXdXBubFRkMGFVaVpSLTY1Q2VxN1FhQmZVRmJ2SXlCam5yQ0JrTmJPcmxKalc5V0ZPQzhfbEQ2ZmJWeTY4MVZVM3lVQWE4dlpkM2dYNHp4U0hTV0wxUGtoS2hXOFRXNjVISl",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ONXlyN0tXdXBubFRkMGFVaVpSLTY1Q2VxN1FhQmZVRmJ2SXlCam5yQ0JrTmJPcmxKalc5V0ZPQzhfbEQ2ZmJWeTY4MVZVM3lVQWE4dlpkM2dYNHp4U0hTV0wxUGtoS2hXOFRXNjVISlN6ZDduOWRyeVVR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-02-002",
+    "date": "2026-08-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This Is the Most Attractive Defense Stock Right Now - Barron's",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxORG1jVFpkU0ktXzNmaG1iYUFoWUlKdDl3SHhnejVUR0NNbTZSRUwtWUc1QzJQb281dEtjLVlEUW92NlE4VzBNM1FKdmwyQUNXbnJQREV5VkpidXRQU0s1TDdzc2JnUkVaMU1qZnVhOX",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORG1jVFpkU0ktXzNmaG1iYUFoWUlKdDl3SHhnejVUR0NNbTZSRUwtWUc1QzJQb281dEtjLVlEUW92NlE4VzBNM1FKdmwyQUNXbnJQREV5VkpidXRQU0s1TDdzc2JnUkVaMU1qZnVhOXVJZWVYX3hSelFRZC0yNmFPMFVhMHZYYVFZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-08-02-003",
+    "date": "2026-08-02",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Palantir Technologies (PLTR) Q2 Earnings: What To Expect - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQZXRaZzhSS1NRYy1VZWlfSE8tRndtZzBKN0Myc09URG43TnFFR2V2cnp1emREWWpfbVQ5YW1tOVNhenBLb2RNdURrQVdOTE9VTlhuZ1dDeHZiMHdFcFJhQlNtMW02STJta2JiOUEySD",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZXRaZzhSS1NRYy1VZWlfSE8tRndtZzBKN0Myc09URG43TnFFR2V2cnp1emREWWpfbVQ5YW1tOVNhenBLb2RNdURrQVdOTE9VTlhuZ1dDeHZiMHdFcFJhQlNtMW02STJta2JiOUEySDFYSU80WmFWWkk5SjQzdlhDQUh5V0R1djRGSXVMdWY3cGw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "l3harris-2026-08-01-001",
     "date": "2026-08-01",
     "companies": [
@@ -91,6 +147,161 @@
       {
         "name": "google_defense_budget",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MODJGOEZnREhFZ0V5Y3hvN1hCTDE2SGVIMGhOWUp6WlRBWEZjMHJ4M0hSem02c0pheUtJM1pUR1R1WlZyVFB0UTBaanF2Ym52ellSbnVJU3JiaGZmTkx1cUptQ1Rrd1JYNTJuX1ZSc2pWYzdM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rtx-2026-08-01-006",
+    "date": "2026-08-01",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Axiom Investment Management LLC Takes Position in RTX Corporation $RTX - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPYU9mdUtyeGVpZXk5UFlLXzl6cUR0amQtdUJUMG80M2NBbkZSYm5TNU1UME53Q3RHOU5fXzd0SkpPYjR2UWFJN2w2YkQwQkxiR3JnRENkZW9veDhDeW5XeHh2S2VqczdCbmJfM0dnaW",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYU9mdUtyeGVpZXk5UFlLXzl6cUR0amQtdUJUMG80M2NBbkZSYm5TNU1UME53Q3RHOU5fXzd0SkpPYjR2UWFJN2w2YkQwQkxiR3JnRENkZW9veDhDeW5XeHh2S2VqczdCbmJfM0dnaW5IM2pIaDgwUGdiMWRnWXAzTzQwbWVIOEc0dzBaeGpHTVdaV1J2cTdGUHhoM2oweDdzckZEdG1vZExBZVN3cTUzWHFKRExiekIzT3R4WklRN25VQ2Myd0RNa2h3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rtx-2026-08-01-007",
+    "date": "2026-08-01",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Summit Financial Wealth Advisors LLC Cuts Stake in RTX Corporation $RTX - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQQTh2TFl2OU8xVkFaSm1seXJkeEtpdFBTemxCT0pyMzIyQmhxY0pQRmRONUxCV255OHJfa1BGYm9DM3VJNEFMaVJhOHEzX0loSVozZ09FTGxfdEVqVDZfWjNJUjlIOVZsZWpnTDlaZU",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQTh2TFl2OU8xVkFaSm1seXJkeEtpdFBTemxCT0pyMzIyQmhxY0pQRmRONUxCV255OHJfa1BGYm9DM3VJNEFMaVJhOHEzX0loSVozZ09FTGxfdEVqVDZfWjNJUjlIOVZsZWpnTDlaZUJyTUxPcGJDTGpPeC1DRE52SlZrZnJaVGFrdm1JdXBJYVBkQmFoTFBjSFlFU25MaERwd1M2VmJfYjI4dTN4XzFqM2pWbkxXRjJNcEhvalJROVdpT3h4Y2pKeFJVZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rtx-2026-08-01-008",
+    "date": "2026-08-01",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Glenmede Trust Co. NA Trims Stock Position in RTX Corporation $RTX - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUUxiQzdDbXJFQWFTX0ZoTkZ4djRQLXpZZ3JvM1dhdWFBVjM3dDdGd05wcTNJRTdUUERWOFNDbmdlbFJaOTJnZEs4SW5HMlo2RjBsSGM0VXVLN3dZQnlXSFFiVEMtTkEtcGV3eG5oOU",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUUxiQzdDbXJFQWFTX0ZoTkZ4djRQLXpZZ3JvM1dhdWFBVjM3dDdGd05wcTNJRTdUUERWOFNDbmdlbFJaOTJnZEs4SW5HMlo2RjBsSGM0VXVLN3dZQnlXSFFiVEMtTkEtcGV3eG5oOUNfSUlJMnB4QlhNaEVUenRod1VDdjZSdGtwTHVzU0hwOG5oOHVOUkdxODlFUEpMbUxKb1ROaEhNay1lNThUWGNFeXQtdlNsVG9yN0RIbG1SMlZvM2M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rtx-2026-08-01-009",
+    "date": "2026-08-01",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Montchanin Asset Management LLC Takes $1 Million Position in RTX Corporation $RTX - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTXZHTXF6RlFfbmtwTFZ5UENaYjN4djVDQTRlREdycWh1b29ZMnk0bE9QVVFOS2Y3c210Q1VGREhZMkZMY0VBUzJib2VnRENsYnVkTWdublVYaG5fdGM4S2Y4NElQa3NQWlgzaXBmNH",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTXZHTXF6RlFfbmtwTFZ5UENaYjN4djVDQTRlREdycWh1b29ZMnk0bE9QVVFOS2Y3c210Q1VGREhZMkZMY0VBUzJib2VnRENsYnVkTWdublVYaG5fdGM4S2Y4NElQa3NQWlgzaXBmNHNxSDhhbWdrN1l0WFNFalIzRUtEbFJhMGRld2ktSm5neGh6dGtHZXlZTnJFeWRWamhia1pIeUZPQ0JqOF90Ti1pTUZBTjh3eGE3cUJaak1nNlJibUVzekxkY2RPRUVlOGhNRHBkdndXRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rtx-2026-08-01-010",
+    "date": "2026-08-01",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "839,280 Shares in RTX Corporation $RTX Bought by Groupama Asset Managment - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQWE1tSV9RTU9HNmRKVTZGbDBta09HTmMzd0hOOUpkc0VuU3JyOFRPQTJpYWlnWktQQ0FfSFFUYnVBQ1lsYUViS29JT1kzNlRua3NCM09IcmVhQllqcjB2WTNWX2hORnRGUDctcnBkWF",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWE1tSV9RTU9HNmRKVTZGbDBta09HTmMzd0hOOUpkc0VuU3JyOFRPQTJpYWlnWktQQ0FfSFFUYnVBQ1lsYUViS29JT1kzNlRua3NCM09IcmVhQllqcjB2WTNWX2hORnRGUDctcnBkWFR0UnV2UGFXZ2hVclYwSGZYTzNWRWhmNzVXRGgyc3Q3Q1FXTmp6bjFoWVU1bS1wWWltMTBHcElCam1vZmJpVDJHb2I3ZzRxa1g1Tk1NblNPUzBjNkpGVkhOaVVZZjM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-08-01-011",
+    "date": "2026-08-01",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "L3Harris Stock And 2 Defense Picks With Long Term Contract Demand - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYmY1TkZkeVFnVDVHd0ZWcERoOGtSUzZWVzFnQWtWMG90dnRzeWk3QkVCak85WTllM3l1RENqMmZOLWJOT3MwcXBSMW01a0NvQU1wQ0taOHMyWGNkSXpUYllzSW9lS0RKUjh1MVY3RX",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYmY1TkZkeVFnVDVHd0ZWcERoOGtSUzZWVzFnQWtWMG90dnRzeWk3QkVCak85WTllM3l1RENqMmZOLWJOT3MwcXBSMW01a0NvQU1wQ0taOHMyWGNkSXpUYllzSW9lS0RKUjh1MVY3RXBfRXV5bXd1eUpaSzJMWGdiOXpSeWVuNk4xZ2hRcC1RLVU0b1pqN29valg4OU9NLURYYWQ0N0ZTdFRmcC1zSEY3a1o5dVhGWHB0TlZlcHFVb2JTLVlOVGQtUTZXUElqU216NU9lTGZKREJKVkk4MjJB0gHfAUFVX3lxTE1iZjVORmR5UWdUNUd3RlZwRGg4a1JTNlZXMWdBa1Ywb3R2dHN5aTdCRUJqTzlZOWUzeXVEQ2oyZk4tYk5PczBxcFIxbTVrQ29BTXBDS1o4czJYY2RJelRiWXNJb2VLREpSOHUxVjdFcF9FdXltd3V5SlpLMkxYZ2I5elJ5ZW42TjFnaFFwLVEtVTRvWmo3b29qWDg5T00tRFhhZDQ3RlN0VGZwLXNIRjdrWjl1WEZYcHROVmVwcVVvYlMtWU5UZC1RNldQSWpTbXo1T2VMZkpEQkpWSTgyMkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-01-012",
+    "date": "2026-08-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "As defense ties deepen, Serbia becomes one of Israel's closest allies in Europe - The Jerusalem Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yT09rVEJ2c0VuNW9vYzh0SUNRcXpHcEo3dkp4N0VLY1liTjl6bEVjWk9CaFZLMWJaRlJrUHdDczA0eVBVRThGUko1bnBxUWlYbnlvTDg1SGRZWlFab2Zj?oc=5\" target=\"_blank\"",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yT09rVEJ2c0VuNW9vYzh0SUNRcXpHcEo3dkp4N0VLY1liTjl6bEVjWk9CaFZLMWJaRlJrUHdDczA0eVBVRThGUko1bnBxUWlYbnlvTDg1SGRZWlFab2Zj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-08-01-013",
+    "date": "2026-08-01",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Palantir Technologies (NASDAQ: PLTR) Financials Defy \"LLM Wrapper\" Dismissal As Stock Retreats From Peak - foreignpolicyjournal.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNajRWQzdVN0xoR19uQ3d5WmJ5bXRtWFdsUVZ2U0UxNXk5WlRRYTVxLTRLU05janVLSWdwMDZNNE5tMjdmLXFFbFRwS2FoTFQ2M2Z1ZmlaQ09NNEdwR0RFWndlTGhTWjdScHY3cUpNOW",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNajRWQzdVN0xoR19uQ3d5WmJ5bXRtWFdsUVZ2U0UxNXk5WlRRYTVxLTRLU05janVLSWdwMDZNNE5tMjdmLXFFbFRwS2FoTFQ2M2Z1ZmlaQ09NNEdwR0RFWndlTGhTWjdScHY3cUpNOWpQRnc1YjV0bnlsTDBFVllQTnY5azNRRFFnTklBVFpqOXhZRkNacXVDVWs4cHZkUjB6d2VOOWhYUjU4eTZaRm5CX181SkNQTG1lMlloYmI3cjlwS2xqa2pmLUY3MjI2cXBWLXRzRWxYaVNjSkV0SmZ3V093?oc=5",
         "type": "rss"
       }
     ]
@@ -1382,6 +1593,251 @@
       {
         "name": "spacenews",
         "url": "https://spacenews.com/spain-commits-up-to-2-3-billion-for-national-military-communications-for-iris%c2%b2/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rtx-2026-07-31-067",
+    "date": "2026-07-31",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "RTX vs. Redwire: Which Aerospace & Defense Stock Offers More Upside? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOZEpncnF6LTlISTdtVFA5OHdoZGhTQnFKa3lfX2hSdmo3TVQzNnotNFlpWWlUUjFnVVI2UUYyVjRpYWVrNURpSTNad3ItaUhvZUZ6ODBkT1lmdW9LR1VGSmI1dEItWGlvVlJoN0ZoRD",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZEpncnF6LTlISTdtVFA5OHdoZGhTQnFKa3lfX2hSdmo3TVQzNnotNFlpWWlUUjFnVVI2UUYyVjRpYWVrNURpSTNad3ItaUhvZUZ6ODBkT1lmdW9LR1VGSmI1dEItWGlvVlJoN0ZoRDdXQWQ4U3FKdHdNMmpCLXFvRURldkRXRl9pTUFodGwxa3pobVNGa0NVNmNhaVJWdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-07-31-068",
+    "date": "2026-07-31",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Bernstein Adjusts Price Target on L3Harris Technologies to $365 From $405, Maintains Outperform Rating - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGtOb0JZcDQtOWRWZnlyeW1ZTl93TEVQOVYxRDBTQ18zZkZPb1NNeGVpVURid1NPd3pqd0RIUXRZRUZZNWZQT3hIRFc2OWhrZXJlYzB0RS04bVZ2UEZiSkhsU0hXQjFtQ3Q5Zm85el",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGtOb0JZcDQtOWRWZnlyeW1ZTl93TEVQOVYxRDBTQ18zZkZPb1NNeGVpVURid1NPd3pqd0RIUXRZRUZZNWZQT3hIRFc2OWhrZXJlYzB0RS04bVZ2UEZiSkhsU0hXQjFtQ3Q5Zm85elFqVnl2SjhaYW5ScGVLVmxFWDlTNUtWVG9hSEZvQjN2ejhfbVdJakNabU5UamRVODJMQUlQMGFjMjM5eU5KLWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-07-31-069",
+    "date": "2026-07-31",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Rheinmetall Story: Once Part of the Nazi War Machine, Now Europe's Hottest Defense Champion - DER SPIEGEL - The German View",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5hNEJMMXBsbHg2RzNsVERwUlJDR0ZNMlQ1dWlmX2NvbFNMMUhOVk1vMXZYVm9iQXlrdE5ELVUxZzhSQ1BYV1VCQnNCSHhVYnd2QlJCeWs5VVdDZlJEQVRrSzdsa1NXYjd6VlNlbEpiQV",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hNEJMMXBsbHg2RzNsVERwUlJDR0ZNMlQ1dWlmX2NvbFNMMUhOVk1vMXZYVm9iQXlrdE5ELVUxZzhSQ1BYV1VCQnNCSHhVYnd2QlJCeWs5VVdDZlJEQVRrSzdsa1NXYjd6VlNlbEpiQVFWVWQyWTZ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-07-31-070",
+    "date": "2026-07-31",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace 2Q Net Profit Beat FactSet-Compiled Consensus - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNXdsc3o4Q0xNSjhGLXNMbkYtNzBRRmxtLURqd2FaZlQ5SmVJa0dzR0NPRl9GWmtaRXEzWG5pZ3prc1VLRnJLZGdFSC1tV1VLbWdNTDdUZFZJMlloMEFqM3lOZkJncU5lMGVDM3JjOH",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNXdsc3o4Q0xNSjhGLXNMbkYtNzBRRmxtLURqd2FaZlQ5SmVJa0dzR0NPRl9GWmtaRXEzWG5pZ3prc1VLRnJLZGdFSC1tV1VLbWdNTDdUZFZJMlloMEFqM3lOZkJncU5lMGVDM3JjOHBYX0RwV1N3OWJpc1MxakZEOFlmMWVNUm9vWHRVYlIybFNhYTFZcVNUQzNWZUVpcmZ5bU0xSFdLQ0FzQ1Uxdktja1E5WHZkZHlpSGNWZnRRZEN4Ny1aRUxqUERDZkJWTGJxMjJiQk1n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-07-31-071",
+    "date": "2026-07-31",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "(LEAD) Hanwha Aerospace's quarterly operating profit tops 1 tln won - Yonhap News Agency",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGejJwYm13RG9xckdDOUFLOGltQkQ4UTVCN3FRU1A3eW0wQmZOVkdPdUh6blljN2Y2MUVaS3ltRmxtSDNvdTZ0T3l5VHZJdFJpQUNBUVlTZkVPZw?oc=5\" target=\"_blank\">(LEAD",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGejJwYm13RG9xckdDOUFLOGltQkQ4UTVCN3FRU1A3eW0wQmZOVkdPdUh6blljN2Y2MUVaS3ltRmxtSDNvdTZ0T3l5VHZJdFJpQUNBUVlTZkVPZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-07-31-072",
+    "date": "2026-07-31",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Hanwha Aerospace Quarterly Operating Profit Tops 1 Trillion Won for First Time; Posts Record Results After Hanwha Ocean Integration - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFA0WXZxNjBaSkZZa1RPME1nc0RhYTA3eDN3Rzhyb2FiWHI0QWdZcG4yazZNMnlrS2hndEE3RGRsYTFtRlBLaUZxbHdjVFhlbUo0Q2NaOEVpQ0hCLS1FYkx6R3c3UHF6NEREdS1qZGNYdF",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0WXZxNjBaSkZZa1RPME1nc0RhYTA3eDN3Rzhyb2FiWHI0QWdZcG4yazZNMnlrS2hndEE3RGRsYTFtRlBLaUZxbHdjVFhlbUo0Q2NaOEVpQ0hCLS1FYkx6R3c3UHF6NEREdS1qZGNYdFpvcmkxdXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-07-31-073",
+    "date": "2026-07-31",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Palantir Technologies' Next Earnings Report on Aug. 3 Could Send the Stock Soaring. Here's Why. - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPUG9SUE5XQlNiU1NlTzBOY1ZKWnR6T2ZoTFBtUkVXb1otS3pqRFRjS1phU2tJb0ZPdm1rMC1aM2oxQW0wYkJVRlBkRU5Ld2hVWFo5cFdodFFuNkhSMUxfYTk4WnozQkdBZ0tUOU9oRX",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUG9SUE5XQlNiU1NlTzBOY1ZKWnR6T2ZoTFBtUkVXb1otS3pqRFRjS1phU2tJb0ZPdm1rMC1aM2oxQW0wYkJVRlBkRU5Ld2hVWFo5cFdodFFuNkhSMUxfYTk4WnozQkdBZ0tUOU9oRXZQenVPM2M5d2JwdnpJRy1UZDk5MnJPa08yenY1bUZHWWlHZmNzME1lMWtXbjkyREc3NDNTWWItQmhYMm9SQndjUVIwRmFqemdIalltNVRpZGJ2RktYNlRhcVNfajJSZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-07-31-074",
+    "date": "2026-07-31",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Palantir CEO Alex Karp wants everyone to get serious and admit that AI models are dangerous; warns: We ar - The Times of India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAJBVV95cUxOZlJyd2duSl9IX2c0ZVRaZlRKbV9taTVZbGVDYllqcURLVjBRTzBfN0tlU3NEUzRYR0hqRFRsVmxpQm93Ty1oX0J2MUZBY3JUQ1BNTWpMNGNfdkpEcC1GSTl4bnluVnoxSTBkMm9uNn",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOZlJyd2duSl9IX2c0ZVRaZlRKbV9taTVZbGVDYllqcURLVjBRTzBfN0tlU3NEUzRYR0hqRFRsVmxpQm93Ty1oX0J2MUZBY3JUQ1BNTWpMNGNfdkpEcC1GSTl4bnluVnoxSTBkMm9uNnlVT2ZlZDJMN0VCOFFkUEUtTm56TlB2RFBVc3c4dDZzUE5Tc0lYS2loaUl6UUVrMXZobmFFYjFSNWJqYUpzV3I0Z2NlV2hfMVlUTnNWT19EdjA4U0xzakNqTjN6ZFQ4Y3M5T2VCeE55NUlvQTNMaVNrSm1zemQyZG02Uzc5Zk4xSjFNQS1Fa21pb2VZODVtQjhQaHBJcjlsbVo3c01HZGNCbGFDZzdNai1CQ25BMERSdjBRVUpyT0tIOC02aVXSAbICQVVfeXFMT3YwS28zZDcwSkw0Q1R0aE1HdFlwT2NoUk5RSG54NTlOVjBFeTRmazRURFpkbno1ZmdvalJuZ1Z1M3YwZEwzdktkbG9sU0JrOF9UdFYxem9pUEJYTHZRaGhodnFZaWt0WDA1dHlUZ0RDYkZtME1lM3VhdHZ1SXBaSjZ5bHhfMUstallPNW9nTk5zZG5iUDA3eXp6clBoQVBDd3NrRmowek5KUldIOFlZb0ZjOGUzZXFfYkF6LVgxcXVHOVJWa0RIN1RGYll1STVMVzBYcjFoTW1zcndScXNFREdLQVhNaXFfc0lRYWxlUUdfVmpWTENqQmNjOGs4R055WnEyaWhZOUM3b1lyRV9ZUjE1T2FMUFZQT00zbmRkMWlzanNwVm1SaW9JczE4N1Fzb2tn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-07-31-075",
+    "date": "2026-07-31",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Will Palantir Technologies (PLTR) Stock Rise or Fall After Earnings? - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQejdXenRuU2VLUGExSWZTUFRBUFpkUUFOMU1vSlpPLV9vYnFRQmx4SGtfRm5wRUs3cVRpOUZKXzFROGd2dzJwX1k4clN1X1d1dXdzdW11NGdrT2xjRHphSmJUVUJUM2E1bVBNenRDSW",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQejdXenRuU2VLUGExSWZTUFRBUFpkUUFOMU1vSlpPLV9vYnFRQmx4SGtfRm5wRUs3cVRpOUZKXzFROGd2dzJwX1k4clN1X1d1dXdzdW11NGdrT2xjRHphSmJUVUJUM2E1bVBNenRDSWtKSFo0T1U3S3B2MklzWFdPQ2M2aVkzYUFZaFBQb3gtRWpxSE9pVWV6VnUtUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-07-31-076",
+    "date": "2026-07-31",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is Wall Street Bullish or Bearish on Palantir Technologies Stock? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQSFVXQV9PR3Q2UnloY19RTFk0c2hqXzV4U2RQVVNUR3VRVXVhZjFaeml4VjJEU1N0a1h3bktBUEZJRHZVeHByb3V0cjFYc1o4dUZxT0dEYlNWM2VUNmRVN2lFbzVmM3ZOUENHYmVUMF",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSFVXQV9PR3Q2UnloY19RTFk0c2hqXzV4U2RQVVNUR3VRVXVhZjFaeml4VjJEU1N0a1h3bktBUEZJRHZVeHByb3V0cjFYc1o4dUZxT0dEYlNWM2VUNmRVN2lFbzVmM3ZOUENHYmVUMFBhcTdtMzhhb0huNUs1azhGTDhFTTdmOWlVNXNnMTh0TkpLNWxFY1ZJVTliRkY4N3N1Qjc0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-07-31-077",
+    "date": "2026-07-31",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ahead of Palantir Earnings, Here's What Barchart Data Says Comes Next for PLTR Stock - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxORHBqakNiRDF3QmdFVTFPaUNYa0RNZU90eUhHY2RFQ24tTmtLUjM5TWVJSElfV3dRbEE2UGhoMXk3Z002VEQtSDdYb2dVWjVQeXdwdTZzOHhaQWRvN1JrdDFyOENadkhlLUsxRXFXUm",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORHBqakNiRDF3QmdFVTFPaUNYa0RNZU90eUhHY2RFQ24tTmtLUjM5TWVJSElfV3dRbEE2UGhoMXk3Z002VEQtSDdYb2dVWjVQeXdwdTZzOHhaQWRvN1JrdDFyOENadkhlLUsxRXFXUm92R0FBWlBkakI0YVF3eTFJY2ZpXzFhU3NoM3N1UGg0ZHRlV2Vra3FQYjdGNlFBU2ptaDJDQmNIeGtvdnNDZmd1NllWV0VPSm1yaGhJcHJCWmlvQkpEYVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-07-31-078",
+    "date": "2026-07-31",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Palantir Technologies' Next Earnings Report on Aug. 3 Could Send the Stock Soaring. Here's Why. - theglobeandmail.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxOdDg3V2hHMG51U08wbnBMUHVBaEdBbUNoUWQxRVAxcnozTDVjc3hvbFR5dV9BX0RFdWxJeG9NeHZuRlNwV3B6SFpYNlRya1VVenVfSzF5UkJfV0ZOX0ZwcnRvWHR3eTJYbWFPazhpZ2",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOdDg3V2hHMG51U08wbnBMUHVBaEdBbUNoUWQxRVAxcnozTDVjc3hvbFR5dV9BX0RFdWxJeG9NeHZuRlNwV3B6SFpYNlRya1VVenVfSzF5UkJfV0ZOX0ZwcnRvWHR3eTJYbWFPazhpZ29LTVczTkEwNko4R0hwZF9VSHY5TnVScTBTTVRLRW5UdlBkbUNULUJxYnZON3dsTzRQMkhLLXNpbEZDY3U1TktVZVdFaG9RS0pZNXdqT0U4Sl9hTzhuQ0R6a3VWN1lsTmNWQzNrMXVlenFrYVZoUm9NalRNWFY0M3hsTmhWQmIyRHVMalMxQ01XRE1lUFFmc183RUtwc1dRNl82dw?oc=5",
         "type": "rss"
       }
     ]
@@ -4156,6 +4612,26 @@
       {
         "name": "palantir",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbTRRMWVLdEg3Mk1CMGI2Q2xzaVZQSHNINUJ0LWhncHJZZVZPTkhnN19HTFdQak1QWGF3Rk5zVFZDQTRPMGFYckR4alVOcE5QR0NEOEcwTnRsTXJqWFpzU0NpZmdUaFl3OVR3V1VwT3c2T0JSa0tKTm5Zdm1fZkYxRlRsOU44OTdxRDNtdk55OHRRaVdia04wUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-07-29-072",
+    "date": "2026-07-29",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "L3Harris Raises Guidance on Higher Profit, Revenue - wsj.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNcUVZLVRPR3pGZkFadzFWNmpxSVJfSmEzZ3d6OEx3N20xOWE1UktQTjhoY1lhd3BQN1R5NjdGRkY0ZFYtb3FHWkhqYVY5Y2tSYU5jeU0yaGNlVzRtOXdDYWRXNGVYQkFqSk96UEVHcU",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcUVZLVRPR3pGZkFadzFWNmpxSVJfSmEzZ3d6OEx3N20xOWE1UktQTjhoY1lhd3BQN1R5NjdGRkY0ZFYtb3FHWkhqYVY5Y2tSYU5jeU0yaGNlVzRtOXdDYWRXNGVYQkFqSk96UEVHcUlpWERLMG42RTREQXVyajh5RzcwUS15MER2TjZyNVZVTkd4NXl1OGpnS1pfQzc?oc=5",
         "type": "rss"
       }
     ]
