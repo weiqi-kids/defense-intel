@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T09:50:41.604990Z",
+  "updated_at": "2026-08-03T11:16:04.546339Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -24,17 +24,17 @@
       "name": "英國航太",
       "ticker": "BA.L",
       "currency": "GBP",
-      "ar": 1563000000,
-      "ar_prev": 3155000000,
-      "ar_qoq": "-50%",
+      "ar": 3875000000,
+      "ar_prev": 1563000000,
+      "ar_qoq": "+148%",
       "ar_period": "QoQ",
-      "inventory": 1384000000,
-      "inv_prev": 1371000000,
-      "inv_qoq": "+1%",
+      "inventory": 1536000000,
+      "inv_prev": 1384000000,
+      "inv_qoq": "+11%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "elbit",
@@ -246,15 +246,15 @@
       "ticker": "HO.PA",
       "currency": "EUR",
       "ar": 3968900000,
-      "ar_prev": 4418400000,
-      "ar_qoq": "-10%",
+      "ar_prev": 6741800000,
+      "ar_qoq": "-41%",
       "ar_period": "QoQ",
       "inventory": 4964200000,
-      "inv_prev": 4935500000,
-      "inv_qoq": "+1%",
+      "inv_prev": 5418800000,
+      "inv_qoq": "-8%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
+      "alert": true,
       "quarter_date": "2025-12-31"
     }
   ]

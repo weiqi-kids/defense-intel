@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 171,
+  "no_date": 0,
+  "too_old": 69,
+  "gate1_fail": 28,
+  "gate2_fail": 12,
+  "passed": 35,
+  "gate2_samples": [
+    "Return on assets % of RTX Corporation Shs Cert.Deposito Arg.Repr. 0.2 Shs – BCBA:RTX.CI - TradingVie",
+    "What Are Wall Street Analysts' Target Price for RTX Corporation Stock? - Yahoo Finance",
+    "Royal Fund Management LLC Has $13.19 Million Stock Position in RTX Corporation $RTX - marketbeat.com",
+    "Why L3Harris Technologies Stock Is Plummeting Today - Yahoo Finance",
+    "L3Harris Technologies Reports Robust Second Quarter 2026 Results - Yahoo Finance"
+  ]
+}
