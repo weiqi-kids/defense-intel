@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 126,
+  "no_date": 0,
+  "too_old": 65,
+  "gate1_fail": 28,
+  "gate2_fail": 17,
+  "passed": 79,
+  "gate2_samples": [
+    "Return on assets % of RTX Corporation Shs Cert.Deposito Arg.Repr. 0.2 Shs – BCBA:RTX.CI - tradingvie",
+    "What Are Wall Street Analysts' Target Price for RTX Corporation Stock? - Yahoo Finance",
+    "RTX Corporation $RTX Stock Holdings Lessened by Sapient Capital LLC - MarketBeat",
+    "Here is What to Know Beyond Why RTX Corporation (RTX) is a Trending Stock - Yahoo Finance Singapore",
+    "Steelhead Wealth Management LLC Purchases Shares of 5,714 RTX Corporation $RTX - MarketBeat"
+  ]
+}
