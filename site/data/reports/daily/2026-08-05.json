@@ -1,0 +1,209 @@
+{
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T10:29:54.384854Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-05-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Army Tests Autonomous Trucks Designed to Keep Soldiers Out of Harm's Way - Military.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd2RISWpfa0o2cDN5QlNWMEMyNjM5SkJyOHBGdzRTZ3RTV2JLUVRwZUdyQk5KUkxPY3dZemt3U0pkd0VOVEl5Q2JfOVJWUENDUkFucWZuRGlib2ppTTB5c1VmczF1Tk5ndnpnSW1BMlJMVEV1VDAtT0VFSXROdmdRTkVIdklMVnVGSnVybC1kSnozd0VXMGFSNTdOeks?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "palantir-2026-08-05-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Palantir paid just £2m corporation tax in UK in 2024 despite lucrative public sector contracts - The Guardian",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcklocnFVX3RLa25YRVJLZHZ2V3hTelZoSDByY2c1R2ZKQjdTUUgteHA3bGtHblpTMnNvMVp0d1VaSlQ3bXlGMm4tRjJzLUZQal8xRUE1UzJOUFdoQ1U5ejF1bUhpeDdoVE1jbTFkbXdoa3NrMHZhNzF2YkxhUVQ0dEZrSDM0dGkwQXc5M1JTQ0VwbXh1MlpNam1obUVMMm9IYkhSQXp0MA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "palantir-2026-08-05-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Palantir (PLTR) Stock Reprices As Profitability Catches Up With AI Demand - simplywall.st",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRE1zZEJuSDZHNEdUd2c0TGtnRGIwR2FtQ3AxSlhIN3VqVm1mUkdhLWFNV09WU0R2N0hGQURINk1JSFZaSjZDSzd6ZGNOc0hnbU9VdzkzREY2aFM4eDRVZGJrUkpUZTJTQlRxZzlYdU5vX2pQdWwtSnZodzRCd3ZHbHZPOERnRFg3VTh3dVpGSWlPUFhhZGhKeWY1OVB1ZFJ0TU56aUlmdHlSYXBVTkNzXzNNaDdJQl9sWVlYUWQza1hieUY1STU1SlVULXpUMzhIWDF3dE04SdIB3AFBVV95cUxNZGNXaXlJUjNlUUxYdF9UanhnRmNsTHpXSGNJcEx1VXZDZ3ZsX2dmTGxFUWlqV0RTNDdKZ1Z3elFibHlEUjA0WnlHOXZJQmdObHlLX0t1QnhUWkx5OWRhSXZZeHU4MHdnUm80N1M1M3lBdk5wcGRsbWtCY1IwN29rRXA2cUNxQnlWdUtJRlpSdDVncjNWMFhTZEExZkJnNDdBa2lRbWxIblJIN2dIWms3ZGs4eHJtMDM0czhnSlk4Qmo0UUFGYXg3d05SajF1OVJkU2hsbGRFcXlsWXJY?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "palantir-2026-08-05-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "This 2x Palantir ETF Lost $3,400 on Every $10,000 Invested Over One Year - 24/7 Wall St.",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONnNUakJrR0xCUEROVDBjOGVUcENqbjhsWThEUHlIemdsMkhITjhjdk9LREYwaWZIdUpUQ3BVMDZiX2xUYnpFM1NFbUtndmJhWm5vRGFzTHM2NXh1cW5DRGpqME1uNHFKT2JGWURZM3Y1eTc5djVaeXZFcVp2Q3haQ3FmaW54U2NsRGZhaWZNWjFGcGMzRDlsWHBKb25jNXpZdnlNUmdvVk1RTU04VTNXanVtcVRjSkE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "palantir-2026-08-05-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Palantir Earnings - Never Boring (PLTR) - Seeking Alpha",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaUm11UTlPVXFXcm1rVzY4ZjJrekVGM3ExeHBHTTExVl9IYjNldWJPd0N4U2VhOEJwRTJlRWtkZW9LUzFCcUxveVNmQ0FLUjkyV1B0V0lMQU5Pb0FYUW5GQjF3dk9IR0EzckhGMmZfeFA0U0JEcVljcDI5RQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "palantir",
+        "count": 4
+      },
+      {
+        "id": "elbit",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 315,
+    "dup_title": 135,
+    "too_old": 73,
+    "gate1_blocked": 38,
+    "gate2_blocked": 16,
+    "passed": 53,
+    "pass_rate": "29.4%",
+    "gate2_block_rate": "8.9%",
+    "gate2_samples": [
+      "Return on assets % of RTX Corporation Shs Cert.Deposito Arg.Repr. 0.2 Shs – BCBA:RTX.CI - TradingVie",
+      "RTX Corporation $RTX Stock Holdings Lessened by Sapient Capital LLC - MarketBeat",
+      "Steelhead Wealth Management LLC Purchases Shares of 5,714 RTX Corporation $RTX - MarketBeat",
+      "Here is What to Know Beyond Why RTX Corporation (RTX) is a Trending Stock - Yahoo Finance Singapore",
+      "What Are Wall Street Analysts' Target Price for RTX Corporation Stock? - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為Palantir Technologies、艾爾比特相關動態：「Army Tests Autonomous Trucks Designed to Keep Soldiers Ou...」。主要關注主題為財報、國防航太通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Army Tests Autonomous Trucks Designed to Keep Soldiers Out of Harm's Way - Mi...（財報、國防航太通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Palantir paid just £2m corporation tax in UK in 2024 despite lucrative public...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
