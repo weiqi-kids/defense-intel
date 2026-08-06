@@ -1,0 +1,216 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T10:32:33.343467Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rheinmetall-2026-08-06-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Financial report for first half of 2026 – Strong sales growth and record profitability - Rheinmetall",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONWRoeUtta3c0VHRNZ3RkWWJOVnFiQ01faWVMbkM3ZjhpWGtrTGpfcER2M0xReWl3QVZmeEo5VWJrSnhicW94OGljbHJFV2xLSGJJYkM0TUpTNHVmSXpOd01wUGRkRHcyX0hhSFBYbkIzMUpnTS1qZjRpR2VmOU9jR25OMmNBZkxLbjVXUFl6bmFPLTJyVnZHWGlobktYVldsTzUtRGRqN3RUU0pnSzI4aXFUd0JVNEFDVkE0Tg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rheinmetall-2026-08-06-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Arms Maker Rheinmetall Trims Sales Guidance After Germany Scraps Frigate Project - WSJ",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaUhqelR1aFhlRWNZSEc5NGl2TXhSVkRVaDZJM2VucEhYb01KQzBEeUVTay1RbmQxNjZxQjRHcThjOUhBaW96T0Y0b2VmYlFXNVVESkJCbUJPcnRGeVN0OFNoY3kxelBsU2N1WU92RWo4cHNKdjd5dFN2WXEwa0VseUlTWWdUam1vcTd1dDMwcDNyWGFDQmpFY0M0aTk3WmJHTURhY253MkdfYTljN3JOUDVIcV9qRGpZdEE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rheinmetall-2026-08-06-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall Cuts Outlook After Losing Out on Naval Contract - Bloomberg.com",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZzJiMVRCQmU5VExUZGJ1WUhZaUw5YXJNX2VkOUhGTnBRTS1lZlhQQVo5OHdpOERtV0dFNEowMkpRSE1lSk84RW5adFNPVUJoaU9uXzVkTk43bnBWeGNTbE9sYUdmTlZMT2phSGpKWkFsZ3ZfYy1NQUlPOTlaRURyUkZFTl9WNFp4UFZEck5xNjUwbnlldWx5RUdVMERtTWpQSEZqZ1BKcG10WUstZ0xZ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rheinmetall-2026-08-06-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall cuts sales outlook after Germany scraps warship project - Financial Times",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcERZYnNleXlJd0xnV0xGN2dna1RYa2EwNjZkdXV3MzdDQ1J0MmQ1ajFHUlhJUTJNNWdoTFNIeVZMTmhhazJuUllZUl9FSnhNc2RaLXlza0lSa3dPLWgtRWlWTWpMUDVPUHMzT01qRmNlQjVhSVp0MnJfSkY3NUtHeVhnSUk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rheinmetall-2026-08-06-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall scales down 2026 sales outlook on scrapped frigate programme - Reuters",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZGVpdDBBWEs1T3VjMGdZOUQzZmJxOTgxMG1qYlZVdGRQS3lxM2tISS1kRE92SXdEZDZSaVh0eEhqak83ODYtUmNhc3Q5Rk9fV05EakRJZmF0UVV0UlFFQkkycUlxVHZhRFN6U1JXRy1Ed0J0eUtJbjhGVDVwMFExQVBjU3ppOFJCVW0tbTBqcWo1M0VfVkoyRHViOVA4QThJcElIbHV6eWstb3V0d2V3SXZZV0d5QlJmbUtFNTV6dGZmWmxoU1ZZc29mTUk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rheinmetall",
+        "count": 10
+      },
+      {
+        "id": "palantir",
+        "count": 2
+      },
+      {
+        "id": "elbit",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 12
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 315,
+    "dup_title": 150,
+    "too_old": 63,
+    "gate1_blocked": 34,
+    "gate2_blocked": 18,
+    "passed": 50,
+    "pass_rate": "30.3%",
+    "gate2_block_rate": "10.9%",
+    "gate2_samples": [
+      "Steelhead Wealth Management LLC Purchases Shares of 5,714 RTX Corporation $RTX - MarketBeat",
+      "Why L3Harris Technologies Stock Is Plummeting Today - Yahoo Finance",
+      "AE Industrial Closes Purchase of L3Harris’s Space Propulsion, Power and Electronics Units Establishi",
+      "UBS Group Lowers L3Harris Technologies (NYSE:LHX) Price Target to $298.00 - MarketBeat",
+      "L3Harris (NYSE: LHX) awards 17,995 RSUs to segment president - Stock Titan"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為萊茵金屬、Palantir Technologies、艾爾比特相關動態：「Financial report for first half of 2026 – Strong sales gr...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Financial report for first half of 2026 – Strong sales growth and record prof...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Arms Maker Rheinmetall Trims Sales Guidance After Germany Scraps Frigate Proj...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

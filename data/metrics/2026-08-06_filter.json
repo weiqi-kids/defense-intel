@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 150,
+  "no_date": 0,
+  "too_old": 63,
+  "gate1_fail": 34,
+  "gate2_fail": 18,
+  "passed": 50,
+  "gate2_samples": [
+    "Steelhead Wealth Management LLC Purchases Shares of 5,714 RTX Corporation $RTX - MarketBeat",
+    "Why L3Harris Technologies Stock Is Plummeting Today - Yahoo Finance",
+    "AE Industrial Closes Purchase of L3Harris’s Space Propulsion, Power and Electronics Units Establishi",
+    "UBS Group Lowers L3Harris Technologies (NYSE:LHX) Price Target to $298.00 - MarketBeat",
+    "L3Harris (NYSE: LHX) awards 17,995 RSUs to segment president - Stock Titan"
+  ]
+}

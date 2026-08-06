@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T10:29:51.368711Z",
+  "updated_at": "2026-08-06T10:32:29.973626Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -92,17 +92,17 @@
       "name": "Kratos Defense & Security Solutions",
       "ticker": "KTOS",
       "currency": "USD",
-      "ar": 194500000,
-      "ar_prev": 164900000,
-      "ar_qoq": "+18%",
+      "ar": 171300000,
+      "ar_prev": 194500000,
+      "ar_qoq": "-12%",
       "ar_period": "QoQ",
-      "inventory": 225700000,
-      "inv_prev": 188200000,
-      "inv_qoq": "+20%",
+      "inventory": 235900000,
+      "inv_prev": 225700000,
+      "inv_qoq": "+5%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "l3harris",
