@@ -1,0 +1,221 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T08:49:42.873926Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lockheed-2026-08-07-001",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "RTX Corporation (NYSE: RTX) Trades At Premium Valuation As Radar Milestone Strengthens Defense Backlog Over Lockheed Martin (NYSE: LMT) - foreignpolicyjournal.com",
+      "companies": [
+        "lockheed",
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPbnkza3c0NmxsUDlmRm54ZHp4eERRUUY1Um9oek5NWDJaS1lBdE50NDd0R2djR0E4VnM1dGpLblNnQ3pMVXdNRzBqZUltYzhKNkJzZDZHYlBZZERSaUNWLThKUUJFWVFEMVpVNF9zZHQ3MV8yX1dtNzVqWG1FZXNFYndTVS0xR2c4TmJLcExJbFFBQ1k1UzR4bWFVd3JxYWFtM2pkeU9ZVHlGeVpldlVFUXhzLXRkdHVhM0xUTGJMb0FqX0NkSGFwV0ROLU9VR3o4SFBoZ3VtYnBKekpWVEtObEFlUUxlcHBqTUtXM0EydEpPSmM0M1dYb1NDbFktR21HVEY1aU9TTmlrQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-07-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Korean defense companies post record combined OP in Q2 - mkbn.mk.co.kr",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YYkZ1ZERIVHdDT0hlLUowZmxCS3BYSjNwemNRYklLZ09RZFJlYTI3WnZNTER2dzV1UllNbVpXNER1b0Z2RVZGQURTUHNUX1djLU9YYmp3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rheinmetall-2026-08-07-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall CEO expects ATACMS revenues from 2028, Boxer deal by year-end - Reuters",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbDNieTdRemdmNGN4TnRTVk50Z3pHMmdhZVlfNk9sWUFpcU1qMzhrQmR0Tk5TVVZtM0ktMUlVSlk0bmdBYk8tZlN1M1R4anJTcVJBTEUtcXg3MDZ0WGpnWGItU09peWcxWjhaMFA4WVdOUWhEWl9UV3FOWE80V3BaMi1JWlBwN0gxTXB6aE8zVkIySUtWTkY1WTlNWlg0THZ1dVEtdk1NLWJnN2JXRUluSkZrclNGV011MDNHV1o4Y0luWVN0bUJKZFFB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rheinmetall-2026-08-07-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall CEO expects ATACMS revenues from 2028, Boxer deal by year-end - Global Banking & Finance Review",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZndzQ0I4WTExZ2FfWGNzTGNPSmk0SjM4LVFTM0VjVElmZVhIdmZNa1haS3lhVTVDU05HNEdKTmZ3MXdlVnhydDhPVGw4dW5VZEtkd2hUcy1lUTVBOXMzRGJCblJHeWZwZFFscGs3cDBwTEZtLTAwZEZRZ2V2VHhrRmE1MjNPbUtudjZZS0U4ODFPRDFCV3Q1eTNFZDE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "palantir-2026-08-07-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Should You Buy Palantir Stock After Its Spectacular Investor Update? - The Motley Fool",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUkhGMVMzMkxsVEhHTHVoX3dDS245d3lJcVZjU1ZZbDlkUzVMcmdSbHlOTkQ1YnlhcmdCWm9hYlpuRFVLMVVhdDlVZG1Ed05rT0NpNS0yWXRnT3ptQVNyVjJFcDNHamxUeDZNSzZsN2tDRUhYU0ZKQ2MtWmNjekwweXFodTdKUTdLc1djbDU2RTRBWmFzYnVzYQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.2,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rheinmetall",
+        "count": 3
+      },
+      {
+        "id": "lockheed",
+        "count": 1
+      },
+      {
+        "id": "rtx",
+        "count": 1
+      },
+      {
+        "id": "palantir",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 315,
+    "dup_title": 146,
+    "too_old": 68,
+    "gate1_blocked": 35,
+    "gate2_blocked": 16,
+    "passed": 50,
+    "pass_rate": "29.6%",
+    "gate2_block_rate": "9.5%",
+    "gate2_samples": [
+      "RTX Corporation $RTX Stock Holdings Lessened by Sapient Capital LLC - MarketBeat",
+      "Steelhead Wealth Management LLC Purchases Shares of 5,714 RTX Corporation $RTX - MarketBeat",
+      "AE Industrial Closes Purchase of L3Harris’s Space Propulsion, Power and Electronics Units Establishi",
+      "L3Harris (NYSE: LHX) awards 17,995 RSUs to segment president - Stock Titan",
+      "Rheinmetall slumps as JPMorgan cuts stock to Neutral, cites two key challenges - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為萊茵金屬、洛馬、RTX相關動態：「RTX Corporation (NYSE: RTX) Trades At Premium Valuation A...」。主要關注主題為財報、國防航太通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "RTX Corporation (NYSE: RTX) Trades At Premium Valuation As Radar Milestone St...（財報、國防航太通用）",
+        "level": "red"
+      },
+      {
+        "text": "Korean defense companies post record combined OP in Q2 - mkbn.mk.co.kr（財報、國防航太通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

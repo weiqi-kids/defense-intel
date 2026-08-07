@@ -1,5 +1,124 @@
 [
   {
+    "id": "lockheed-2026-08-07-001",
+    "date": "2026-08-07",
+    "companies": [
+      "lockheed",
+      "rtx"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "RTX Corporation (NYSE: RTX) Trades At Premium Valuation As Radar Milestone Strengthens Defense Backlog Over Lockheed Martin (NYSE: LMT) - foreignpolicyjournal.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxPbnkza3c0NmxsUDlmRm54ZHp4eERRUUY1Um9oek5NWDJaS1lBdE50NDd0R2djR0E4VnM1dGpLblNnQ3pMVXdNRzBqZUltYzhKNkJzZDZHYlBZZERSaUNWLThKUUJFWVFEMVpVNF9zZH",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPbnkza3c0NmxsUDlmRm54ZHp4eERRUUY1Um9oek5NWDJaS1lBdE50NDd0R2djR0E4VnM1dGpLblNnQ3pMVXdNRzBqZUltYzhKNkJzZDZHYlBZZERSaUNWLThKUUJFWVFEMVpVNF9zZHQ3MV8yX1dtNzVqWG1FZXNFYndTVS0xR2c4TmJLcExJbFFBQ1k1UzR4bWFVd3JxYWFtM2pkeU9ZVHlGeVpldlVFUXhzLXRkdHVhM0xUTGJMb0FqX0NkSGFwV0ROLU9VR3o4SFBoZ3VtYnBKekpWVEtObEFlUUxlcHBqTUtXM0EydEpPSmM0M1dYb1NDbFktR21HVEY1aU9TTmlrQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-08-07-002",
+    "date": "2026-08-07",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Watch Rheinmetall CEO 'Very Unhappy' With Naval Contract Loss - bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPM1l6NTdSVlUxNkg0Z2RnQlZ0VTAwUDhJUFFldnk4d2JtRWhSaXZJTkVYelpBa2pyZ2QtNHFlY0ZWd2V2U29XY2VjSWstNm9JUllub1AtNjlPaUw0ZFMwVEVFUzlsNVFybWRlYUtHeV",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM1l6NTdSVlUxNkg0Z2RnQlZ0VTAwUDhJUFFldnk4d2JtRWhSaXZJTkVYelpBa2pyZ2QtNHFlY0ZWd2V2U29XY2VjSWstNm9JUllub1AtNjlPaUw0ZFMwVEVFUzlsNVFybWRlYUtHeVdqcFZoU2R6cjVyeGNiR1Z5M0pmOTZnb1VtcGU1cllHdUtHdjhja1l4akpGTmdSMFJsaHVjakFibWh5ajJW?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-08-07-003",
+    "date": "2026-08-07",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall CEO expects ATACMS revenues from 2028, Boxer deal by year-end - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQbDNieTdRemdmNGN4TnRTVk50Z3pHMmdhZVlfNk9sWUFpcU1qMzhrQmR0Tk5TVVZtM0ktMUlVSlk0bmdBYk8tZlN1M1R4anJTcVJBTEUtcXg3MDZ0WGpnWGItU09peWcxWjhaMFA4WV",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbDNieTdRemdmNGN4TnRTVk50Z3pHMmdhZVlfNk9sWUFpcU1qMzhrQmR0Tk5TVVZtM0ktMUlVSlk0bmdBYk8tZlN1M1R4anJTcVJBTEUtcXg3MDZ0WGpnWGItU09peWcxWjhaMFA4WVdOUWhEWl9UV3FOWE80V3BaMi1JWlBwN0gxTXB6aE8zVkIySUtWTkY1WTlNWlg0THZ1dVEtdk1NLWJnN2JXRUluSkZrclNGV011MDNHV1o4Y0luWVN0bUJKZFFB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-08-07-004",
+    "date": "2026-08-07",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall CEO expects ATACMS revenues from 2028, Boxer deal by year-end - Global Banking & Finance Review",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQZndzQ0I4WTExZ2FfWGNzTGNPSmk0SjM4LVFTM0VjVElmZVhIdmZNa1haS3lhVTVDU05HNEdKTmZ3MXdlVnhydDhPVGw4dW5VZEtkd2hUcy1lUTVBOXMzRGJCblJHeWZwZFFscGs3cD",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZndzQ0I4WTExZ2FfWGNzTGNPSmk0SjM4LVFTM0VjVElmZVhIdmZNa1haS3lhVTVDU05HNEdKTmZ3MXdlVnhydDhPVGw4dW5VZEtkd2hUcy1lUTVBOXMzRGJCblJHeWZwZFFscGs3cDBwTEZtLTAwZEZRZ2V2VHhrRmE1MjNPbUtudjZZS0U4ODFPRDFCV3Q1eTNFZDE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-07-005",
+    "date": "2026-08-07",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Korean defense companies post record combined OP in Q2 - mkbn.mk.co.kr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YYkZ1ZERIVHdDT0hlLUowZmxCS3BYSjNwemNRYklLZ09RZFJlYTI3WnZNTER2dzV1UllNbVpXNER1b0Z2RVZGQURTUHNUX1djLU9YYmp3?oc=5\" target=\"_blank\">Korean defe",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YYkZ1ZERIVHdDT0hlLUowZmxCS3BYSjNwemNRYklLZ09RZFJlYTI3WnZNTER2dzV1UllNbVpXNER1b0Z2RVZGQURTUHNUX1djLU9YYmp3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-08-07-006",
+    "date": "2026-08-07",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Should You Buy Palantir Stock After Its Spectacular Investor Update? - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNUkhGMVMzMkxsVEhHTHVoX3dDS245d3lJcVZjU1ZZbDlkUzVMcmdSbHlOTkQ1YnlhcmdCWm9hYlpuRFVLMVVhdDlVZG1Ed05rT0NpNS0yWXRnT3ptQVNyVjJFcDNHamxUeDZNSzZsN2",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUkhGMVMzMkxsVEhHTHVoX3dDS245d3lJcVZjU1ZZbDlkUzVMcmdSbHlOTkQ1YnlhcmdCWm9hYlpuRFVLMVVhdDlVZG1Ed05rT0NpNS0yWXRnT3ptQVNyVjJFcDNHamxUeDZNSzZsN2tDRUhYU0ZKQ2MtWmNjekwweXFodTdKUTdLc1djbDU2RTRBWmFzYnVzYQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rheinmetall-2026-08-06-001",
     "date": "2026-08-06",
     "companies": [
@@ -254,6 +373,768 @@
       {
         "name": "palantir",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVmNSeExLa2lydDQ2M2FrREZXWjYxTl8xMDhYekt1Y0JhZDZjd05WTF9kRERSYS11cUV4T2xNYlRoZFdmV3djTExlTV9aR3ZsYlNKSmpjZXJlNDJwamEyOFlTQkNnQnZTR3FhbXRkcUlDYTdYQXBaZzFqMXlmZkIxSHUtQ3JiSzRWOTdtSDIxQXhuZDdzTVhYZ0JzTWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lockheed-2026-08-06-014",
+    "date": "2026-08-06",
+    "companies": [
+      "lockheed",
+      "rtx"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "RTX (RTX) vs. Lockheed Martin (LMT): How Street Is Pricing Two Defense Giants - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQVzBOZGllZi1rV3JudDJJbE9RbmdqWmdOUm9WbkJ2RDFEVHhnUGhIMGNGLVNYckpFZF90OHItRndUQkpuNTZhQmhHRmpPeUc3dVlkNWpFc3loUXZEa3hFQ2RONDNZSFZzdmo3OXVmOT",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVzBOZGllZi1rV3JudDJJbE9RbmdqWmdOUm9WbkJ2RDFEVHhnUGhIMGNGLVNYckpFZF90OHItRndUQkpuNTZhQmhHRmpPeUc3dVlkNWpFc3loUXZEa3hFQ2RONDNZSFZzdmo3OXVmOTF6T1RjRzBacDhqaDFIU2I1Zg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-015",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Acquisition reform at the speed of war - Breaking Defense",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNdngzZXpiQ3FvSmV6YnZ3cnd5ZEhheUJPTy1UcDJtNFdfZjRXM1A5NUFzdzljNU5EbWJXM3hLZUpZWExkMVcwdURLeDl4YlR6aUFyeTNUZ05xR2RBMk01eEVaZnF1QVNIU3l1MzJ3LW",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdngzZXpiQ3FvSmV6YnZ3cnd5ZEhheUJPTy1UcDJtNFdfZjRXM1A5NUFzdzljNU5EbWJXM3hLZUpZWExkMVcwdURLeDl4YlR6aUFyeTNUZ05xR2RBMk01eEVaZnF1QVNIU3l1MzJ3LWVDb0ZFYW1fSjhQWERhbVNZYQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-08-06-016",
+    "date": "2026-08-06",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "missile_defense",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "L3Harris Technologies (LHX) Could Be 24% Undervalued On Major Missile Defense Deals - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNEsxWjhfdFFqZHBVd1A0S2pxWWZ3NEh0eWdrYUlveXc5OWtyb1NfWXpMYkI2UkNEbUNQcHVSVW5vTm9tckFhak5KTF81cGE1NkdORG5RTGtHcGNDQXVidXBDTkJTcW9mNFJ6WjJsRV",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNEsxWjhfdFFqZHBVd1A0S2pxWWZ3NEh0eWdrYUlveXc5OWtyb1NfWXpMYkI2UkNEbUNQcHVSVW5vTm9tckFhak5KTF81cGE1NkdORG5RTGtHcGNDQXVidXBDTkJTcW9mNFJ6WjJsRVJvTjVhTVhpWk9JaEMxelpHVEJPR0NaeVJDVXdKczMyZi1ldHlEdUZFN0pfaDF1b1FmLUI0ZXlXV3hwcFR5QUdxY0xLUTJZSWYyd1o0ZkotMXM2VjVhMk9mNmxPVi1meXNvYVV6VVlFRDBIQdIB3wFBVV95cUxQMFg0ZVJ6QUU0NlRXRjh6U1VjQS1kYnlvcW5SV3QxNGl4ampkaDEtSU0taEhvSjVld2ZMNVNhMTRKUGpMS2wwc3FkRjVFUU82RG1nM2hqR0FxeklFNGVOT0VHZVQ2WVM2dEFxQVk2SWtSMS1vcG9vQkEyZ3QxT1NzZWFQbmJTZURVeF9aLVhCQTdyZHo0YWNkX1FCbGt6WGxxS1R6aGx1T0JCMXNnd19pbWZ4UjZYUjUzRkplTGJ5TGZTWXpUbzhaVE5lT3hRb0dpR2xqOXJvcDBXYndlVDNF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-08-06-017",
+    "date": "2026-08-06",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocketdyne Returns as AE Industrial Buys L3Harris Space Business - The Defense Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPZDZQMnFkT2V2RWpsem1OWjh1OUl6eGlZRzR2SXBxN3A4TC1Eelpoa1NKQ0ZTUDRHMmVXcjlXVDlCNi00enlsRDJhWTNHNmxnN19NSUNMellUa2lOM2ROVTZJNjg2UDdWMHpLbkFGWW",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZDZQMnFkT2V2RWpsem1OWjh1OUl6eGlZRzR2SXBxN3A4TC1Eelpoa1NKQ0ZTUDRHMmVXcjlXVDlCNi00enlsRDJhWTNHNmxnN19NSUNMellUa2lOM2ROVTZJNjg2UDdWMHpLbkFGWWFYZWVINDk5UVk3c0dOc1JyOWNJZ03SAYoBQVVfeXFMT0xvZ2V3R2pjY0lGQjBoWTRtSG1NV18yQTkwbDRDVkQ0UExJRzhzVGNsRW9GanBZMmVhaUFOWGJmamVKWlpZakR1VUxvT1NqRVdaUlp5ZU9wVkxzcjlwZFFSaWhWYWF2ZmZyekdpdWtjT24wNld1aEhpbmlLaEZBQTlKRmtNOVlJa0Z3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-08-06-018",
+    "date": "2026-08-06",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "L3Harris Technologies’ ‘Viper Shield’ EW system Tested on F-16C and D models - Defensemirror.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ2Nzc1kyN3hrUmdOOWF3aU80VGVJaF9XQlpKSzdubmVPN2I4RHIyUzZMWmo4UmIwTUZqN2pMZk4zb1ZkYnRxMW5lQ0UwTUV3TGh1X3U2ejYzdnJMSVdPb1NKOTJRMTNLOVo3YTNueE",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ2Nzc1kyN3hrUmdOOWF3aU80VGVJaF9XQlpKSzdubmVPN2I4RHIyUzZMWmo4UmIwTUZqN2pMZk4zb1ZkYnRxMW5lQ0UwTUV3TGh1X3U2ejYzdnJMSVdPb1NKOTJRMTNLOVo3YTNueEdHaS1XQ3JHNHBEbkd6blJMYzZONGRYWm1fUVpPY0RpSnZ6UE1Pc2p3WmFON3ZtWjNwcWRnSXBVNlI3RGNWbU5KMGVPdzNUOGhuWVJN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-08-06-019",
+    "date": "2026-08-06",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall scales down 2026 sales outlook on scrapped frigate program - Defense News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPclRYaDhPZlVvaGtPdnhtbkFHNmFXOFRvWEk5TFpDWkMtR0N5dmtFSHUtTmg5WGlvVGdjejhKWkVmTjN5X1J5SWFXTmxvUTNRYzFCOE1JLXM5LXBub2YxODVqeVFUbElZSmZSMU9ORT",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPclRYaDhPZlVvaGtPdnhtbkFHNmFXOFRvWEk5TFpDWkMtR0N5dmtFSHUtTmg5WGlvVGdjejhKWkVmTjN5X1J5SWFXTmxvUTNRYzFCOE1JLXM5LXBub2YxODVqeVFUbElZSmZSMU9ORTZBZ2FUWGZoc1VVaUNubUplU0w4UUFQbE11ellyVUxmc1VOb1lqd2xNYVJYd1UtVnViSGNiczg0c3lfdlVRblo3ZC1yc2huQXhaWXZUUFBDWHF0UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-08-06-020",
+    "date": "2026-08-06",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall stock volatile after trimming guidance as Germany's F126 warship cancellation hits sales outlook - CNBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPYVBVNDkwU2c1NUZkY2V4X3B1eVF0OGM5ZGhhbWNXMWoyR1d5NEowcmEzU2Y1Rl9MOUJIdkRSTjZ2STRsWkxyZ1o4MGIzVjVxTkV6WnBUcjM0OFJkSXhzcXpjTGlJQUJXSUh6T2J3TV",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYVBVNDkwU2c1NUZkY2V4X3B1eVF0OGM5ZGhhbWNXMWoyR1d5NEowcmEzU2Y1Rl9MOUJIdkRSTjZ2STRsWkxyZ1o4MGIzVjVxTkV6WnBUcjM0OFJkSXhzcXpjTGlJQUJXSUh6T2J3TVdISjlVVExSaGlJd3c2SDVOMTlLUkVPbTjSAYwBQVVfeXFMTmxFVHVXMGpfQUlyMEpjZjc3VU1LakstalFpeGNMSnQwQkdFQ1VvV3VSWGtoMGpmT2lHQ2cweFluZGNrbXczYjloWVFXd25qWE1pNGthQzZpSkVFbi1Ual9zanp4LWlGdFF2RFpETHVSZmd2cjR1enN0ajJmdEZxM2xqUWp2ZDRWVkNsamw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-08-06-021",
+    "date": "2026-08-06",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Rheinmetall projects $346 million naval loss after F126 frigate cancellation - Breaking Defense",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQYnlQU0ZHRDB2SUlWSmFfY0I0c1N0MmNOMkhteHc0YUdjVjhtQVc3TWlpRFdWUURMZXE5VWxTWGVRODk0UGY1YUxJXzV3M2hYR3BJNmV1LVdHTU1oeWJ2Vkdwdl9zWDc1UVFCVkt2RH",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYnlQU0ZHRDB2SUlWSmFfY0I0c1N0MmNOMkhteHc0YUdjVjhtQVc3TWlpRFdWUURMZXE5VWxTWGVRODk0UGY1YUxJXzV3M2hYR3BJNmV1LVdHTU1oeWJ2Vkdwdl9zWDc1UVFCVkt2RHdLYXZ6bkZONjE3RDhWM24zQlZPdG5kUk9YM0gxSThPRHpQRENmSkFuSmp6T3JGVENsMGV3eFJFSS1hdWlyYkw4YUxB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-08-06-022",
+    "date": "2026-08-06",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall cuts sales outlook after Germany scraps warship project - ft.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPcERZYnNleXlJd0xnV0xGN2dna1RYa2EwNjZkdXV3MzdDQ1J0MmQ1ajFHUlhJUTJNNWdoTFNIeVZMTmhhazJuUllZUl9FSnhNc2RaLXlza0lSa3dPLWgtRWlWTWpMUDVPUHMzT01qRm",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcERZYnNleXlJd0xnV0xGN2dna1RYa2EwNjZkdXV3MzdDQ1J0MmQ1ajFHUlhJUTJNNWdoTFNIeVZMTmhhazJuUllZUl9FSnhNc2RaLXlza0lSa3dPLWgtRWlWTWpMUDVPUHMzT01qRmNlQjVhSVp0MnJfSkY3NUtHeVhnSUk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-08-06-023",
+    "date": "2026-08-06",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall cuts outlook after frigate setback but sticks to naval goals - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNZGVpdDBBWEs1T3VjMGdZOUQzZmJxOTgxMG1qYlZVdGRQS3lxM2tISS1kRE92SXdEZDZSaVh0eEhqak83ODYtUmNhc3Q5Rk9fV05EakRJZmF0UVV0UlFFQkkycUlxVHZhRFN6U1JXRy",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZGVpdDBBWEs1T3VjMGdZOUQzZmJxOTgxMG1qYlZVdGRQS3lxM2tISS1kRE92SXdEZDZSaVh0eEhqak83ODYtUmNhc3Q5Rk9fV05EakRJZmF0UVV0UlFFQkkycUlxVHZhRFN6U1JXRy1Ed0J0eUtJbjhGVDVwMFExQVBjU3ppOFJCVW0tbTBqcWo1M0VfVkoyRHViOVA4QThJcElIbHV6eWstb3V0d2V3SXZZV0d5QlJmbUtFNTV6dGZmWmxoU1ZZc29mTUk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-08-06-024",
+    "date": "2026-08-06",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall Cuts Outlook After Losing Out on Naval Contract - bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPZzJiMVRCQmU5VExUZGJ1WUhZaUw5YXJNX2VkOUhGTnBRTS1lZlhQQVo5OHdpOERtV0dFNEowMkpRSE1lSk84RW5adFNPVUJoaU9uXzVkTk43bnBWeGNTbE9sYUdmTlZMT2phSGpKWk",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZzJiMVRCQmU5VExUZGJ1WUhZaUw5YXJNX2VkOUhGTnBRTS1lZlhQQVo5OHdpOERtV0dFNEowMkpRSE1lSk84RW5adFNPVUJoaU9uXzVkTk43bnBWeGNTbE9sYUdmTlZMT2phSGpKWkFsZ3ZfYy1NQUlPOTlaRURyUkZFTl9WNFp4UFZEck5xNjUwbnlldWx5RUdVMERtTWpQSEZqZ1BKcG10WUstZ0xZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-08-06-025",
+    "date": "2026-08-06",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall Sees Atacms Missile Production In Germany Next Year - Aviation Week",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeXJ0SGQwYUt3bko1d2M5OFphNWhoclpjU2xoV0dCN2ltcjQzUzF5Y05RRmJibnppNjlWbWRZaTU5cUd4MW1hN2NKdElFdXp0TExma2c2Vkdfem8wMDV1QjhRUkkxbEI2OVZwanNjRX",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeXJ0SGQwYUt3bko1d2M5OFphNWhoclpjU2xoV0dCN2ltcjQzUzF5Y05RRmJibnppNjlWbWRZaTU5cUd4MW1hN2NKdElFdXp0TExma2c2Vkdfem8wMDV1QjhRUkkxbEI2OVZwanNjRXZ3MXM4M3RWS1V3d3NwSE1aV3pTZ2pYQ1VZS1dQbEptdlRCeHJUVWdBWEJPbEphaE14UmU0YTBoZkpCN09mVkVxZ0xHbzJ3N2dT?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-08-06-026",
+    "date": "2026-08-06",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Rheinmetall AG (RNMBF) (Q2 2026) Earnings Call Highlights: Record Order Intake and Strategic ... - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQdkJHVlhXNWJTSFhHOExCd0VHVUpMYmJraWItblVvYXk3OFMxOENUR2dQZFVCSHdKNTQyZzV1cHhRUUVGdnRsY3R4dkxYU1NKd1lMaDY4SnJFblZwZl9GaURqZlIyUV9Wc2FUdDRGUW",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdkJHVlhXNWJTSFhHOExCd0VHVUpMYmJraWItblVvYXk3OFMxOENUR2dQZFVCSHdKNTQyZzV1cHhRUUVGdnRsY3R4dkxYU1NKd1lMaDY4SnJFblZwZl9GaURqZlIyUV9Wc2FUdDRGUWxMWnlyeHdXSERBZ1RCVFBvd3NRME1RZXpnOG0ta1p3WnQ1emxoMHZoWA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-08-06-027",
+    "date": "2026-08-06",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rheinmetall sales keep surging despite cancelled naval frigate project - France 24",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeVhxcUo4Skktai1sRVF4aTFRWmNPVG0zVE1OQVZfbk5kRVJJMExQUmllZ1pTVXhWRi1JVzE3bUlXeGVaZ2RzR1hpc2NJcGhtWG1Hc3M4ZTI0WjM3VkxHU1hnZHNUeFN3ZVhrLXhMZ2",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeVhxcUo4Skktai1sRVF4aTFRWmNPVG0zVE1OQVZfbk5kRVJJMExQUmllZ1pTVXhWRi1JVzE3bUlXeGVaZ2RzR1hpc2NJcGhtWG1Hc3M4ZTI0WjM3VkxHU1hnZHNUeFN3ZVhrLXhMZ2lqUnlhaWZUOTZXOVUwR1d1R1FfcUdRMk92d3lPVHVqNm1DVzR5anYtNHJBcXF2RDY5Nm4wbHJHNF92Wkt1c19EN1N0U21pcGQt?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-08-06-028",
+    "date": "2026-08-06",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall (XTRA:RHM) Following Q2 Results And Lower Outlook Still Looks Undervalued - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNVjBUd3prVHo4aWV4WGxnQ0hjTE1BaVhJR25KM2FpQmg2WW1LNER1bWJIa1JESE9oa1l4aDY5Z3dVOGN6S3R0aDhBSi1DdmMtS0hKV3d0aERzWUttckZ3eDdtbGlndFRVcXU2RlowRF",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVjBUd3prVHo4aWV4WGxnQ0hjTE1BaVhJR25KM2FpQmg2WW1LNER1bWJIa1JESE9oa1l4aDY5Z3dVOGN6S3R0aDhBSi1DdmMtS0hKV3d0aERzWUttckZ3eDdtbGlndFRVcXU2RlowRFRPWXVrVkFaYzZRcWRWYy01WHpYN1l2Q2lTZk85Mk44WXRyaGwwM0xMVENnejhLZUU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-08-06-029",
+    "date": "2026-08-06",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace Number of Employees 2026 | Employee Count & Headcount Data - reveliolabs.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1KNmw1em94OGVSdHhITUQzMkFNMmNORWRtSFRWbFRUWWhhYWZINXUzdERONjlIZHEzekx0WlVMdzJkS3FqNFp1Wk1TWW5GU3g0cHlkaVVvNzQ0OWl1bXFsZ2J1dlc0MkdZbGN0cUhkMX",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KNmw1em94OGVSdHhITUQzMkFNMmNORWRtSFRWbFRUWWhhYWZINXUzdERONjlIZHEzekx0WlVMdzJkS3FqNFp1Wk1TWW5GU3g0cHlkaVVvNzQ0OWl1bXFsZ2J1dlc0MkdZbGN0cUhkMXppdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-030",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "HNWH6473449 Bond Price and Chart — FINRA:HNWH6473449 - tradingview.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vR2hwdG9Dd3BqMjlucEhacnV1M3Zma3RzWGR5S2Izb1VZZ2hEODVYTXZKYmJlWjN4Q2lvMUZTU2kyUzE3d3dTWXlFMjZoMExvUHdSUGo1NFFDaUNXdWVOSnNkQU0?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vR2hwdG9Dd3BqMjlucEhacnV1M3Zma3RzWGR5S2Izb1VZZ2hEODVYTXZKYmJlWjN4Q2lvMUZTU2kyUzE3d3dTWXlFMjZoMExvUHdSUGo1NFFDaUNXdWVOSnNkQU0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-031",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Could Korea's K9 bid in Spain influence subsequent deals with Poland, Romania? - Korea JoongAng Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQRFhEQ2xsUkRjUG5sWC05N1NrVXZlMmpxeUhuY1hqZ0ktTWo5SUhVZV9RamlzTldZS2RjSjdYUW9aZ25hbXA4d0dPVTRMYzJYXzVkcmVJUnhlSnIzeXZOTnBiSHNpMVB6TnhWSUdkSU",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRFhEQ2xsUkRjUG5sWC05N1NrVXZlMmpxeUhuY1hqZ0ktTWo5SUhVZV9RamlzTldZS2RjSjdYUW9aZ25hbXA4d0dPVTRMYzJYXzVkcmVJUnhlSnIzeXZOTnBiSHNpMVB6TnhWSUdkSUU2X2t6WnExWV9pcVQ5QWJBZkkyMU1NZHFaZnFhcnZ3bFRwNUxucHVnR0RjLWdfQ0tQaEJ1NzFSWUZpZEU2Z1l2V3hTbVNRQzk0MXJnbU5MVEVmWVBXQ1dv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "elbit-2026-08-06-032",
+    "date": "2026-08-06",
+    "companies": [
+      "elbit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Court hears Palestine Action defendant suffered from emotional turmoil before Elbit raid - Middle East Eye",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSHBmQ21iZV9DVk9xVVJRR0V2Nm52b0h0Tk45enpTb2FCdlA2akhWc1BENEZ6MzlueGdOS2RFYi0waTY3eFZ2T18yaF9rRTI4Q05Dand1ZDBvcEZoVWlhdjRPTktNVGhjS0NKVHBrZF",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSHBmQ21iZV9DVk9xVVJRR0V2Nm52b0h0Tk45enpTb2FCdlA2akhWc1BENEZ6MzlueGdOS2RFYi0waTY3eFZ2T18yaF9rRTI4Q05Dand1ZDBvcEZoVWlhdjRPTktNVGhjS0NKVHBrZFhuWTdpSGNERUFONG5CLTVKR3NlVkU5T2VuNGpERmxONGwtTWxLNGlNSk9UdVVINm9SalNpOElJdF9OZnUwWjNMeDc0MWpBR0FrMlhwV2hicEpKTHJTRWJxVg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-08-06-033",
+    "date": "2026-08-06",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Why $370bn tech group Palantir pays 1.4 percent tax rate: Report - Al Jazeera",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOcmtBTFEwT09QS0hTa0diSmNLN1NXNTlvUFlyYjVDb28yWk1rWkdpaE9LNjhYbTRWckY4TVlJcnVkMXpUMFc1LTEtajBGMmdZQkNPcDVfVktBZl81eFBfc3hYVkpIQ183ZU9GZVhBd2",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcmtBTFEwT09QS0hTa0diSmNLN1NXNTlvUFlyYjVDb28yWk1rWkdpaE9LNjhYbTRWckY4TVlJcnVkMXpUMFc1LTEtajBGMmdZQkNPcDVfVktBZl81eFBfc3hYVkpIQ183ZU9GZVhBd2dmdWg1dEE0cjlpaUtOcGJmTkFYZTZiLUFETHZPSG80elFtSFdiZHktNjNPdzRCVlFaZlZOTtIBqgFBVV95cUxPZ1pGV01wRGFZNXBVZHZLUWRmX0Z5a0ZFU2d3NElxZmNtUkRRcngzZFBzWnc2TFVURTY1dmpPSktVdV9qSFM4TUZxOXl0dF9FVUY1YnVaUFBEeHJlb2I1cVUyTW8tdVZKMThsS0dJOGtDQTVUVlI2bkh6WmE4SWxmZktCQUQ3Ull3QW0wMWlZYmZEMzlTTnJGVGVSejJTZTJiX1B6WXlWRHhSdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-08-06-034",
+    "date": "2026-08-06",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Palantir: Surveillance State Profiteer Making Billions in Profits, But With an Effective US Tax Rate of... Zero - Common Dreams",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mTkUwR0hjOXpBak5HLW91S3R3N1dkRWZqVkVZNk15TWtOa3pXQkJkSXNmc3hkNndEOXNWX0EzWjBGS1FZLVdfN2RtRU04WmpXOUxYUWRQOTdOUUJS?oc=5\" target=\"_blank\">Pal",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mTkUwR0hjOXpBak5HLW91S3R3N1dkRWZqVkVZNk15TWtOa3pXQkJkSXNmc3hkNndEOXNWX0EzWjBGS1FZLVdfN2RtRU04WmpXOUxYUWRQOTdOUUJS?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-08-06-035",
+    "date": "2026-08-06",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Palantir has quietly become tech’s hottest streetwear brand — and fans are paying up for the privilege - New York Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNOU5VRkZqX3hhTGpiV2U0ZUd5UFJwWnZEdW1RQ1FSV2FLSjJ2SjhKXzlJd2hzN1dpWVRwZVRyN19VS0dZMWt5clpQbTZiV1pxWVVyUElPX0U4dW51bTFHbTVLNDZYVktILXFHdC0wNW",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOU5VRkZqX3hhTGpiV2U0ZUd5UFJwWnZEdW1RQ1FSV2FLSjJ2SjhKXzlJd2hzN1dpWVRwZVRyN19VS0dZMWt5clpQbTZiV1pxWVVyUElPX0U4dW51bTFHbTVLNDZYVktILXFHdC0wNWJXZExFRU5oT1Z4NHBZd0Y1blRzLV9nS3VKRzZzdU9KMnFneEhBWVI1UEpGY3FmZ2M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-08-06-036",
+    "date": "2026-08-06",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "USA Today Co. announces partnership with data analytics giant Palantir - Poynter",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPWVlNZGQ5OENKNUkyYjlJclRBdVZfR1U4cVNrQk5Ta0pwSmFKRDMwRUhfaTBCS3NoRkFqUk9qYnBnSUE4NHV5OE14amlEb3lqTDlsZUNrNktrWF9pSXlsckt0OGVBTW5GNElaX203M2",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWVlNZGQ5OENKNUkyYjlJclRBdVZfR1U4cVNrQk5Ta0pwSmFKRDMwRUhfaTBCS3NoRkFqUk9qYnBnSUE4NHV5OE14amlEb3lqTDlsZUNrNktrWF9pSXlsckt0OGVBTW5GNElaX203M2hKbHJFb2E4UmthTGEyLUNqb0pYb1Q?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-08-06-037",
+    "date": "2026-08-06",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Why Is Palantir Stock Falling on Thursday? - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOdkNXWXFCZDVTNTdWX1Zjckd1dExhN2dsdTl2TWk3bGxDaEVXcFRDNVJudnhPRmF5UTYtNkVYRXV4Z1hGa0tMY2lPNElfX0JvZDdhRWZibFBOWWM0MTE5VGI3aXB5YVdqYy1JVzlpbD",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdkNXWXFCZDVTNTdWX1Zjckd1dExhN2dsdTl2TWk3bGxDaEVXcFRDNVJudnhPRmF5UTYtNkVYRXV4Z1hGa0tMY2lPNElfX0JvZDdhRWZibFBOWWM0MTE5VGI3aXB5YVdqYy1JVzlpbDB2VUxVNlh5Vy0xNXVEWFhnaVpjb0EtS245cUlibmYyYVNlYkdBYURHX1M2bU9rNDI2bkhnQ0RBSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kratos-2026-08-06-038",
+    "date": "2026-08-06",
+    "companies": [
+      "kratos"
+    ],
+    "topics": [
+      "missile_defense",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kratos Receives U.S. Army Contract to Develop a Next-Generation Seeker for the Javelin Missile System",
+    "summary": "SAN DIEGO, Aug. 06, 2026 (GLOBE NEWSWIRE) -- Kratos Defense &amp; Security Solutions, Inc. (Nasdaq: KTOS), a technology company in defense, national security, and global markets, announced today that ",
+    "sources": [
+      {
+        "name": "kratos",
+        "url": "https://ir.kratosdefense.com/news-releases/news-release-details/kratos-receives-us-army-contract-develop-next-generation-seeker",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-08-06-039",
+    "date": "2026-08-06",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Rheinmetall scales down 2026 sales outlook on scrapped frigate program",
+    "summary": "German defense company Rheinmetall lowered its 2026 sales outlook on Thursday after the German government canceled a delayed frigate program.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/global/europe/2026/08/06/rheinmetall-scales-down-2026-sales-outlook-on-scrapped-frigate-program/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-040",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Army awards contracts to four companies to boost Hydra-70 rocket production",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/08/army-awards-contracts-to-four-companies-to-boost-hydra-70-rocket-production/\"><img width=\"1024\" height=\"683\" src=\"https://breakingdefense.com/wp-content",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/08/army-awards-contracts-to-four-companies-to-boost-hydra-70-rocket-production/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-041",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Top cover and clear metrics: How to make the new PAE structure work",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/08/top-cover-and-clear-metrics-how-to-make-the-new-pae-structure-work/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/08/top-cover-and-clear-metrics-how-to-make-the-new-pae-structure-work/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-042",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Australia commits to buying secretive AIM-260 JATM missiles, first non-US user",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/08/australian-commits-to-buying-secretive-aim-260-jatm-missiles-first-non-us-user/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-cont",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/08/australian-commits-to-buying-secretive-aim-260-jatm-missiles-first-non-us-user/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-043",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Air Force signs off on production of long-range JDAM",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/08/air-force-signs-off-on-production-of-long-range-jdam/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/08/air-force-signs-off-on-production-of-long-range-jdam/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-08-06-044",
+    "date": "2026-08-06",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "drone_warfare",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Acquisition reform at the speed of war",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/08/acquisition-reform-at-the-speed-of-war/\"><img width=\"900\" height=\"670\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/image-5.png\"",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/08/acquisition-reform-at-the-speed-of-war/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-045",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "drone_warfare",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Navy creates new robotic and autonomous systems DRPM",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/08/navy-creates-new-robotic-and-autonomous-systems-drpm/\"><img width=\"1024\" height=\"575\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2022/",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/08/navy-creates-new-robotic-and-autonomous-systems-drpm/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-08-06-046",
+    "date": "2026-08-06",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Rheinmetall projects $346 million naval loss after F126 frigate cancellation",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/08/rheinmetall-projects-346-million-naval-loss-after-f126-frigate-cancellation/\"><img width=\"1024\" height=\"575\" src=\"https://breakingdefense.com/wp-content",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/08/rheinmetall-projects-346-million-naval-loss-after-f126-frigate-cancellation/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-047",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "drone_warfare",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Ukraine tries to intercept Russian drones more effectively — and affordably",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/08/how-ukraine-tries-to-intercept-russian-drones-more-effectively-and-affordably/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-conte",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/08/how-ukraine-tries-to-intercept-russian-drones-more-effectively-and-affordably/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-048",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Japanese MoD report highlights push to bolster defense industry",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/08/japanese-mod-report-highlights-push-to-bolster-defense-industry/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sit",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/08/japanese-mod-report-highlights-push-to-bolster-defense-industry/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-049",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jet-Powered JDAM Production Is A Go For The U.S. Navy",
+    "summary": "<p>Putting JDAM-LR into production will give the Navy an important new stream of lower-cost standoff munitions for its carrier air wings.</p>\n<p>The post <a href=\"https://www.twz.com/air/jet-powered-j",
+    "sources": [
+      {
+        "name": "the_war_zone",
+        "url": "https://www.twz.com/air/jet-powered-jdam-production-is-a-go-for-the-u-s-navy",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-050",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Falaj 3 May Be The World’s Most Heavily Armed Patrol Boat",
+    "summary": "<p>Officially an offshore patrol vessel, the compact design carries the kind of combat capability normally associated with well-armed corvettes or even frigates. </p>\n<p>The post <a href=\"https://www.",
+    "sources": [
+      {
+        "name": "the_war_zone",
+        "url": "https://www.twz.com/uncategorized/the-falaj-3-may-be-the-worlds-most-heavily-armed-patrol-boat",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kratos-2026-08-06-051",
+    "date": "2026-08-06",
+    "companies": [
+      "kratos"
+    ],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "XQ-58 Valkyrie Drones With Built-In Landing Gear Are Now In Production",
+    "summary": "<p>Despite the setback of a crash this week, Kratos says the Valkyrie program is ramping up for the Marines and other customers globally.</p>\n<p>The post <a href=\"https://www.twz.com/air/xq-58-valkyri",
+    "sources": [
+      {
+        "name": "the_war_zone",
+        "url": "https://www.twz.com/air/xq-58-valkyries-drones-with-built-in-landing-gear-are-now-in-production",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-052",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab launches 8th iQPS satellite",
+    "summary": "<figure><img width=\"1024\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/55446149624_ed5e7d02a7_k.jpg?fit=1024%2C768&amp;ssl=1\" class=\"attachment-rss-image-size size-rss-",
+    "sources": [
+      {
+        "name": "spacenews",
+        "url": "https://spacenews.com/rocket-lab-launches-8th-iqps-satellite/",
         "type": "rss"
       }
     ]
@@ -883,6 +1764,26 @@
       {
         "name": "spacenews",
         "url": "https://spacenews.com/satellite-manufacturing-thrives-in-california-despite-cost-and-regulatory-pressures/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-08-05-034",
+    "date": "2026-08-05",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Rocketdyne returns as standalone company as L3Harris retains SLS engine work, missile programs - 256today.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQWG5SODJvVnlVcjdPbi1RZC1LYmhMalFSVi14YVJBM1BDN0Jod3Y2YndHR0R6dUxkTHp2QlM2b0VyNzJEc1dYdk53UWNrSS1iQ2h0WkJiRHMwQW1Wd0RvczdxcFZCUHZ1WUp6dkZrUE",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWG5SODJvVnlVcjdPbi1RZC1LYmhMalFSVi14YVJBM1BDN0Jod3Y2YndHR0R6dUxkTHp2QlM2b0VyNzJEc1dYdk53UWNrSS1iQ2h0WkJiRHMwQW1Wd0RvczdxcFZCUHZ1WUp6dkZrUExwdjlCUzFVZGhvSVdEWFI1SVdlYlpTUlVmNkFYajlGeEliWGhxUmFXUElHYXQzc0dwTWltUmZVVDF3Ti0xellZaGpaXzNrZw?oc=5",
         "type": "rss"
       }
     ]
@@ -2092,6 +2993,26 @@
       {
         "name": "palantir",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdEZ6c1ZCa0JZYXNGSjd4UThnWEJNa2l6U0FpYVNRX3BwTWc3cVpPWHh4TXJhTG1sRkNqaXFXMF9LMm9scnZLM0tidjRGbWhzdFZJakVNb2NXSUNpU0Z2REZQSVN4U2pYSGU2OVctRHk1MC01eERxaWI1MlpiYjZBb1BZNkZOQlVkUzlWd0g5dkU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-08-04-063",
+    "date": "2026-08-04",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "L3Harris Technologies (LHX) Is Up 9.9% After Major Missile Propulsion Deals And Dividend Announcement – Has The Bull Case Changed? - webull.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFByUEh1YkZYQ0lQQmFNeTBxdS02bHRFYnV4cFQ4MENETGVrNHpPQ0lKMUl0OFQwRG1uX1huMEoxUUdnUy16QnE0cjRxZnkzdHljcDd0bno1NzQ?oc=5\" target=\"_blank\">L3Harris",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByUEh1YkZYQ0lQQmFNeTBxdS02bHRFYnV4cFQ4MENETGVrNHpPQ0lKMUl0OFQwRG1uX1huMEoxUUdnUy16QnE0cjRxZnkzdHljcDd0bno1NzQ?oc=5",
         "type": "rss"
       }
     ]
@@ -3625,6 +4546,64 @@
       {
         "name": "palantir",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGxBY3BvX0dmN2paa3FvRko5dmkwakpUUGpxTEhSUnlPcjVqSl9FRV8zemhnZWhxeFJ0elFkbGd4Nm1vUGR3RFNPYVlJX2c5M2lrdUZFeEhxT241bEdWU2xKSmNkOV9lTFYySmNRc2NpTktqRjQyX3VmZHVUV3A0ck1JTDk5WEFjY1RONC1aek9oLXRXbm50Z0N3YzNmVXV0UlM0SS1zd09JVC1EdUVRd3dn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "elbit-2026-08-03-079",
+    "date": "2026-08-03",
+    "companies": [
+      "elbit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Documents Reveal How Israel's Elbit Armed the United Arab Emirates - haaretz.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZGJLRHZZQ0JWR0VueEx1a3FZbHRaYjg1aGllZWk3MXBaWllzQ29LdkxHemZJNjZ2NUhqczduU0JQclRkaGhBOW1yVW96UnhBSkJGanZjbEExdThxOURONjFVdTBld19hWHEtc3pKQU",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZGJLRHZZQ0JWR0VueEx1a3FZbHRaYjg1aGllZWk3MXBaWllzQ29LdkxHemZJNjZ2NUhqczduU0JQclRkaGhBOW1yVW96UnhBSkJGanZjbEExdThxOURONjFVdTBld19hWHEtc3pKQUQ5dF9TMnRxYWp0c1FSaTl3UkxEQnVDTmJUSWI2bHpYM1VabmlUSXRqWGJHZ0dSZFVSZllGV0EyR1VhM1dhQ1NRcmZaM05HQnc2T20xTG80ZndfVVVfS29QNTU4X2dWekxDTzg5N0tNaHN5QWpnUWxia1AyNU5KYVE4OVk3dGR6QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-08-03-080",
+    "date": "2026-08-03",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Palantir Jumps After ‘Otherworldly’ Demand Lifts Outlook - bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGxBY3BvX0dmN2paa3FvRko5dmkwakpUUGpxTEhSUnlPcjVqSl9FRV8zemhnZWhxeFJ0elFkbGd4Nm1vUGR3RFNPYVlJX2c5M2lrdUZFeEhxT241bEdWU2xKSmNkOV9lTFYySmNRc2",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGxBY3BvX0dmN2paa3FvRko5dmkwakpUUGpxTEhSUnlPcjVqSl9FRV8zemhnZWhxeFJ0elFkbGd4Nm1vUGR3RFNPYVlJX2c5M2lrdUZFeEhxT241bEdWU2xKSmNkOV9lTFYySmNRc2NpTktqRjQyX3VmZHVUV3A0ck1JTDk5WEFjY1RONC1aek9oLXRXbm50Z0N3YzNmVXV0UlM0SS1zd09JVC1EdUVRd3dn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-081",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NATO defence spending: navigating the noise - iiss.org",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSWlJSWl6eGhlSkRIR0ZRcnA0U3BLd1VWZm44aGhoZ1dqT01JU3IzWjBodXNrWGFnNXFRaGFKVjdTVGl2RUVpSllrUGRCTk9zOUZVQUNldUp1cnhwYjcwU1RtLXJBdndiaEtzOXdGUG",
+    "sources": [
+      {
+        "name": "google_defense_budget",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSWlJSWl6eGhlSkRIR0ZRcnA0U3BLd1VWZm44aGhoZ1dqT01JU3IzWjBodXNrWGFnNXFRaGFKVjdTVGl2RUVpSllrUGRCTk9zOUZVQUNldUp1cnhwYjcwU1RtLXJBdndiaEtzOXdGUGdWOEhIUDlhcnExNUxvRzEtQnY4VjkyZnZXbENzaklfVW1FN3IzVVhRSjU4NjBWekNyVnRfd09sSEQ?oc=5",
         "type": "rss"
       }
     ]

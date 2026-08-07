@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 146,
+  "no_date": 0,
+  "too_old": 68,
+  "gate1_fail": 35,
+  "gate2_fail": 16,
+  "passed": 50,
+  "gate2_samples": [
+    "RTX Corporation $RTX Stock Holdings Lessened by Sapient Capital LLC - MarketBeat",
+    "Steelhead Wealth Management LLC Purchases Shares of 5,714 RTX Corporation $RTX - MarketBeat",
+    "AE Industrial Closes Purchase of L3Harris’s Space Propulsion, Power and Electronics Units Establishi",
+    "L3Harris (NYSE: LHX) awards 17,995 RSUs to segment president - Stock Titan",
+    "Rheinmetall slumps as JPMorgan cuts stock to Neutral, cites two key challenges - Investing.com"
+  ]
+}
