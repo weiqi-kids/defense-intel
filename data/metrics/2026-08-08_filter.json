@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 143,
+  "no_date": 0,
+  "too_old": 72,
+  "gate1_fail": 38,
+  "gate2_fail": 22,
+  "passed": 40,
+  "gate2_samples": [
+    "RTX Is Up 44% in the Past Year and Near a Record High. Is It Too Late to Buy? - TIKR.com",
+    "18,187 Shares in RTX Corporation $RTX Purchased by St. Louis Financial Planners Asset Management LLC",
+    "RTX Corporation $RTX Shares Sold by Assenagon Asset Management S.A. - MarketBeat",
+    "RTX Corporation $RTX Stock Holdings Lessened by Sapient Capital LLC - MarketBeat",
+    "Steelhead Wealth Management LLC Purchases Shares of 5,714 RTX Corporation $RTX - MarketBeat"
+  ]
+}

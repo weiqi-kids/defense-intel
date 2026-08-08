@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-08-07T08:49:39.454953Z",
-  "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
+  "updated_at": "2026-08-08T08:31:30.029025Z",
+  "quarter": "2026-03-31, 2026-06-30",
   "companies": [
     {
       "id": "aidc",
       "name": "漢翔航空",
       "ticker": "2634.TW",
       "currency": "TWD",
-      "ar": 13161843000,
-      "ar_prev": 12363450000,
-      "ar_qoq": "+6%",
+      "ar": 9466938000,
+      "ar_prev": 13161843000,
+      "ar_qoq": "-28%",
       "ar_period": "QoQ",
-      "inventory": 14327837000,
-      "inv_prev": 15923850000,
-      "inv_qoq": "-10%",
+      "inventory": 15371416000,
+      "inv_prev": 14327837000,
+      "inv_qoq": "+7%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2025-12-31"
+      "alert": true,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "bae",
@@ -177,17 +177,17 @@
       "name": "Palantir Technologies",
       "ticker": "PLTR",
       "currency": "USD",
-      "ar": 1405588000,
-      "ar_prev": 1042065000,
-      "ar_qoq": "+35%",
+      "ar": 1485249000,
+      "ar_prev": 1405588000,
+      "ar_qoq": "+6%",
       "ar_period": "QoQ",
       "inventory": null,
       "inv_prev": null,
       "inv_qoq": "N/A",
       "inv_period": "QoQ",
       "inventory_applicable": false,
-      "alert": true,
-      "quarter_date": "2026-03-31"
+      "alert": false,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "rheinmetall",

@@ -1,0 +1,160 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T08:31:33.351689Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "palantir-2026-08-08-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Palantir Technologies (PLTR) Looks Fully Valued Following Q2 Earnings And Raised 2026 Guidance - simplywall.st",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUDFfaHphNVItbWVuazdKTFh1dVJxY3FEdmttbnpiZDdZTEhwc05pdy00Y0pIa0FaNU5CaE9uMWtIaThxNXFPazJIQzFobzZlZFVyQU14Vll1dktVN2RGMjFMejkxMG5jUWlENTVnOGNmMHdyT0RPUDFvTnhES2M1dzBZRjhkNnF6U3R6ZGJlc2duWjVBZEw0VWhncXVoa3NYU0RsT2FjNmRBWExXamkzLXFOQ1hEdjZUTEhnNmt2R3ZfMUxJSUJtNXR2VHNLaF9VVk0zOVRtbFJSaVRW0gHcAUFVX3lxTE9QMV9oemE1Ui1tZW5rN0pMWHV1UnFjcUR2a21uemJkN1lMSHBzTml3LTRjSkhrQVo1TkJoT24xa0hpOHE1cU9rMkhDMWhvNmVkVXJBTXhWWXV2S1U3ZEYyMUx6OTEwbmNRaUQ1NWc4Y2Ywd3JPRE9QMW9OeERLYzV3MFlGOGQ2cXpTdHpkYmVzZ25aNUFkTDRVaGdxdWhrc1hTRGxPYWM2ZEFYTFdqaTMtcU5DWER2NlRMSGc2a3ZHdl8xTElJQm01dHZUc0toX1VWTTM5VG1sUlJpVFY?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "palantir-2026-08-08-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Palantir Technologies Inc. $PLTR Shares Sold by Abner Herrman & Brock LLC - MarketBeat",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOS2k0UWQzS0tCbk1mR1E4U29iUDNicnFucUotMUcxREsxTGNYMkplUWVhSTBNclRid01fMl9iM3hXWklHaGFZSzN4SkI0WjVpdW1qT3c3SFZTX2JyQVZGdVkyUHpqa2I2SUJvdnpVc0V4V2hub2NjV2VkYm50bzB3dUlZWlk0Smc4YTROQ3UzV3U4eHJ1NWhsU202T1RmSGlNSnRzZE1UMmg5VEYySjZZZk4zQkttdndvU29NNThZekFwUWNMa2ZpRU5B?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rheinmetall-2026-08-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rheinmetall chief receptive to Germany's new military service law - Yahoo",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWHNFcTNUU1p1TFUzMXhjaXFhYV8zMWhKLW9ibUR0dGkzQVVqbDNBRWU2ZUl5TERfeTRLWVI3Yks2VWp3YzA3ckNHRmlXUWVqMXMzUnFBLVlhb1k1UnlxX2pSUlhVOWVVOWp2dXlnUmcxOHZuUDd2S0V4aE12UlJCaURQenhUajVsQTRSRWhUVV9rNmYxdlJNQllCSEdLRFJnNHc0SlBweFk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "palantir",
+        "count": 2
+      },
+      {
+        "id": "rheinmetall",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 315,
+    "dup_title": 143,
+    "too_old": 72,
+    "gate1_blocked": 38,
+    "gate2_blocked": 22,
+    "passed": 40,
+    "pass_rate": "23.3%",
+    "gate2_block_rate": "12.8%",
+    "gate2_samples": [
+      "RTX Is Up 44% in the Past Year and Near a Record High. Is It Too Late to Buy? - TIKR.com",
+      "18,187 Shares in RTX Corporation $RTX Purchased by St. Louis Financial Planners Asset Management LLC",
+      "RTX Corporation $RTX Shares Sold by Assenagon Asset Management S.A. - MarketBeat",
+      "RTX Corporation $RTX Stock Holdings Lessened by Sapient Capital LLC - MarketBeat",
+      "Steelhead Wealth Management LLC Purchases Shares of 5,714 RTX Corporation $RTX - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Palantir Technologies、萊茵金屬相關動態：「Palantir Technologies (PLTR) Looks Fully Valued Following...」。主要關注主題為財報、國防航太通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Palantir Technologies (PLTR) Looks Fully Valued Following Q2 Earnings And Rai...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Palantir Technologies Inc. $PLTR Shares Sold by Abner Herrman & Brock LLC - M...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
