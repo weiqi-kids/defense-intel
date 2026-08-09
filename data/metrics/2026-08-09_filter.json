@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 166,
+  "no_date": 0,
+  "too_old": 71,
+  "gate1_fail": 34,
+  "gate2_fail": 23,
+  "passed": 21,
+  "gate2_samples": [
+    "RTX Is Up 44% in the Past Year and Near a Record High. Is It Too Late to Buy? - TIKR.com",
+    "RTX Corporation $RTX Shares Sold by Assenagon Asset Management S.A. - MarketBeat",
+    "18,187 Shares in RTX Corporation $RTX Purchased by St. Louis Financial Planners Asset Management LLC",
+    "L3Harris Technologies Inc (HRS.DU) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "L3Harris Technologies, Inc. Stock 12‑Month Price Target Cut to $359, Implies 25% Upside - TradingVie"
+  ]
+}

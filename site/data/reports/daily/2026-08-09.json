@@ -1,0 +1,232 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T08:34:30.068709Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "palantir-2026-08-09-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Palantir Is Worth $413 Billion. The $500 Billion Line Sits Almost Exactly at Its Record High. - The Motley Fool",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRlQ1dHlfSWY4VmQ5aW80SEl6T21mNEJPSTkza2RkNW53X2R5c0NiNjl3TXM2ZU5rZmtuV2dEV3g2M3FadlNKa3dUcDZheEdjSHdWMTI2bHhyS1c2TV9rV052ZDBuRUJTUHRNeHoyOHlZc3p2aTlFNG5kbEgzdWJIbjVmNzNYbTFvdklvUDNnNGt1bUNyR0JjVA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rheinmetall-2026-08-09-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall CEO under police protection: 'No backing down' - marketscreener.com",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdXB3Q205OWM2bDNmc2thSDR3aVpfWjhRanZIU0pfSGRwRE9UWlRhUklNcFQtbk1RUVVwSFpYMHFBR3RuZFBzWlQ0TlpQSVE3T3lyVEZRWUtDZE1OMk5IaHhDTTFwZDB3NkxCdmY0QURwQXFDYmo1RWJFTmNtQVhzclU3Sy0td09xeTJwTFJTSFhndVBtR1Qyd1R5aWk3aTR6TTlNZTZGVVAxNUcz?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "palantir-2026-08-09-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is the Worst Finally Over for Palantir Stock? - Yahoo Finance",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcUd4MzVoZnVibXdiSWpaWmNONHBySnZVbGJXam1KTWF4VjJGTlNYLVdnQ3l4dGhhbjBSUEExX21tMGJWVnZidHdNQlExZThIaFBkeGFXZUpyRXU2U2h5RERoaE5rX0lqSlAzVm9TUW4yWXBzTld6NjlXblB2SVBCNXNlRzBkWEdXUFlRRnlCbVRVWUE0eTh3dl9FclBtalk?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "palantir-2026-08-09-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Palantir Technologies (PLTR) Is Up 39.8% After Raising 2026 Guidance and Expanding Mercury Systems Deal - simplywall.st",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSjRUWURHbUIwRl9TZjlQY0c5YXoxbXRGVEQwU1VFdW0td2tzWS1iMDJNemNLQzdiTE5vbXA5WnpkOVNBVlRJR2YxemJ0d01hU0JNRXIteWZCN1hmYUFHT3VmMTk2MGpBMEladGhQSWdBeDR6RmdXeTQ0d05kWGdiNnJTOUpxMWdBbnhDWVVTY2ZpRWN5bVo0Z2dxck1zNlcteENGV29HXzZwM3VSYm5BVm5SWWNfS2RtZk1TdmFWQzlRUG1DWXhsRVZqYldlalBRVmRsQU1DRdIB3AFBVV95cUxOSEZpZlZaa0JBek9nZFpZbTZtZjZWWEh2VEFIblJfQ1RUU0haaXVHNEp3OHpGSUFQS2dIQ1FkX0RwUXZWc25ic2ljQ2ljd3ZIVFhkS2V3LUx3UWNTcGpMRkk5blBIeVdTcVVXWEZxTF8tQndycmlZdGJaSWhHdTJRaHhxZDBMcGIyYmtyN0hrZU50dkFGTTMtOElYUk9wRkZSa2FvSkdXa1p6X0daSmxrUElJb0JUclpxejlkUXhYcU10MVhEcUkxT3RLdmxmdEkwVjR5RzdjYjhOV3Vx?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-09-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Taiwan plans 16% defence spending hike for 2027 - The Economic Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNlB6bFA5em9QTDVjNGVWSDJoZFF1TDBaenBxdHdOSGxOcVF4U3BCVWU5cFExc1RvaVBVTFBOYzJSWVRUb1lSVGlPajJOb1BNZXAwdkpxVWtFZkxKcmQteHRWQlh2OENsMlFmd2FTYlpRakxwM0hfV0ZMNWJTaVVtSGZpRV9oNnVOdWN0aS1zSENJZVpJajJCSXQ4ZmpSdmlfUkhrdk5NRzVtSHFpeEVaelc0WdIBuAFBVV95cUxNVnZpRDJiN3MzOTBGRW9YRjJqTnE5NUxVRWVYM2lpbUNvaWY4d1ZCUFBVSXlGYlZOZjFGZEhjemZyWGUxTW1EbkZvejRRdF9vcjF1N2xmQ2RzcXN1Um5EMDVvWTF1dmpsdTBVYkFCLWFzNVFfODd4TUxWNHN2ZTRVV0ZFZE01YlBOemJpT2ZoLV9MV0RkVkpLQjFsWnpJQlRUeVpid05pYzZWeVdHNTVSb3BiMkpURGgx?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.3,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "palantir",
+        "count": 3
+      },
+      {
+        "id": "rheinmetall",
+        "count": 1
+      },
+      {
+        "id": "hanwha_aero",
+        "count": 1
+      },
+      {
+        "id": "elbit",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "drone_warfare",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 315,
+    "dup_title": 166,
+    "too_old": 71,
+    "gate1_blocked": 34,
+    "gate2_blocked": 23,
+    "passed": 21,
+    "pass_rate": "14.1%",
+    "gate2_block_rate": "15.4%",
+    "gate2_samples": [
+      "RTX Is Up 44% in the Past Year and Near a Record High. Is It Too Late to Buy? - TIKR.com",
+      "RTX Corporation $RTX Shares Sold by Assenagon Asset Management S.A. - MarketBeat",
+      "18,187 Shares in RTX Corporation $RTX Purchased by St. Louis Financial Planners Asset Management LLC",
+      "L3Harris Technologies Inc (HRS.DU) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "L3Harris Technologies, Inc. Stock 12‑Month Price Target Cut to $359, Implies 25% Upside - TradingVie"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為Palantir Technologies、萊茵金屬、韓華航太相關動態：「Palantir Is Worth $413 Billion. The $500 Billion Line Sit...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Palantir Is Worth $413 Billion. The $500 Billion Line Sits Almost Exactly at ...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Rheinmetall CEO under police protection: 'No backing down' - marketscreener.com（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
