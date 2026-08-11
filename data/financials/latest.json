@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T09:10:49.047160Z",
+  "updated_at": "2026-08-11T08:46:09.376746Z",
   "quarter": "2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -194,17 +194,17 @@
       "name": "萊茵金屬",
       "ticker": "RHM.DE",
       "currency": "EUR",
-      "ar": 1741000000,
-      "ar_prev": 1907000000,
-      "ar_qoq": "-9%",
+      "ar": 2654000000,
+      "ar_prev": 1741000000,
+      "ar_qoq": "+52%",
       "ar_period": "QoQ",
-      "inventory": 5717000000,
-      "inv_prev": 4137000000,
-      "inv_qoq": "+38%",
+      "inventory": 6248000000,
+      "inv_prev": 5717000000,
+      "inv_qoq": "+9%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "rtx",
