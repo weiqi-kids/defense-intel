@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-12",
+  "total_events": 17,
+  "by_company": {
+    "l3harris": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "elbit": {
+      "count": 6,
+      "sentiment_avg": 0.5
+    },
+    "palantir": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 11,
+      "sentiment_avg": 0.18
+    },
+    "industry_general": {
+      "count": 8,
+      "sentiment_avg": 0.12
+    },
+    "drone_warfare": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "missile_defense": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
