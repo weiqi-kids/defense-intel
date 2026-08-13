@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 130,
+  "no_date": 0,
+  "too_old": 69,
+  "gate1_fail": 36,
+  "gate2_fail": 14,
+  "passed": 66,
+  "gate2_samples": [
+    "RTX Outperforms Industry in the Past Month: How to Play the Stock? - Yahoo! Finance Canada",
+    "Charles Schwab Trust Co Purchases New Holdings in RTX Corporation $RTX - MarketBeat",
+    "Hennion & Walsh Asset Management Inc. Acquires 4,634 Shares of RTX Corporation $RTX - MarketBeat",
+    "RTX Corporation $RTX Shares Sold by Assenagon Asset Management S.A. - MarketBeat",
+    "L3Harris Technologies, Inc. Stock 12‑Month Price Target Cut to $359, Implies 25% Upside - TradingVie"
+  ]
+}
