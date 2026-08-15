@@ -1,0 +1,168 @@
+{
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T08:19:10.835029Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-08-15-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "BIP Wealth LLC Invests $2.54 Million in RTX Corporation $RTX - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS1VaS0FZUlFrS1ltR2pNZXZBdE02Z1pScmdWZ2ZGUi10b2xfOWMtaWJEQ2M0NEYwRXdXcml1NS1NTVNTRjhWU1NTcXAweTJ4c0pzZ0cydlBER2JpZk16TUlNSHZZUWNUNmJySUt0MTNIZGFBYk8yeF9IeFpna3RSdFBoWGw0UDNMbk1JWlNJLVpEemFvaVVBeGpzbGV1S0Q3WlNwVW9Ec3N2RWpyeU50Z3VfMHNxMWJiSHc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "palantir-2026-08-15-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Anthropic Projects $200 Billion 2028 Revenue: Report - Palantir Technologies (NASDAQ:PLTR), Cloudflare (N - benzinga.com",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVUdJbW8tS0RkeWhTQ05sZ2h2YUNjX3NBRHlQdjczUndJRUNfcGhvRFNwa0lRb2FLZTczOGVXY2ZiMEZSQTVrS1hYQTR6a2VxRGQ5UTB1YnViUDVpSkcydDBVdlZzSHcwRURHT0ZkbGVYME8xalYyMGNmQ1MwVUVTNDM1T3M1SUdyMTBvODZMbk91NTVKVDNmM01wZ0tPa29mbmRRTUtlZ21sNTg4?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-08-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "L3Harris Technologies, Inc. • Robinhood Token Price, LHX Price, Live Charts, and Marketcap - Coinbase",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OWkk2dGhDRjF3X2dXMl95YkVFNGRuLVRjVm0wbl9DWThoMHFqMlVZcVJvbnpYMGNSS0lmUFdrRHNEaFRuX3hVWEFfaXo2Z2lIWlh3RDF5dWZ2d3dMNWhQeFY4Z3RPYlFGVE1pWlRpYzZBb2lkdVJ1M3VhaW4?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "palantir-2026-08-15-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Palantir Technologies Inc. $PLTR Stake Lifted by Brookstone Capital Management - MarketBeat",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd2dRVDFjRUtTeHBhamZmNlI1UVp1emJHRlNGeEtwRWh3b213aE9vMkJOLWRmRmxUQzBIWHF0TnMyb3lpQVFuc1pVM0lCcXZ1WE5IQ0d1dnJsb2RaM05GdTZXbU10dnZyZjlQZ0lNanNsWWd4ODZnQk9JV2lvajVxTk91NWF2OC1NZmJQaGlCRVhOUUt4UWlpX3dKOWh2eEkxVHA5djhhRmJ1OHBMekdBNFN1akR5d1hsaGRvNVhqRFEwejlnWXN2ZXBhNHE5TTE3OXBr?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "palantir",
+        "count": 2
+      },
+      {
+        "id": "rtx",
+        "count": 1
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 315,
+    "dup_title": 164,
+    "too_old": 67,
+    "gate1_blocked": 26,
+    "gate2_blocked": 18,
+    "passed": 40,
+    "pass_rate": "26.5%",
+    "gate2_block_rate": "11.9%",
+    "gate2_samples": [
+      "Is RTX Strengthening Its Position in the Global Missile Market? - sg.finance.yahoo.com",
+      "RTX Outperforms Industry in the Past Month: How to Play the Stock? - Yahoo! Finance Canada",
+      "Charles Schwab Trust Co Purchases New Holdings in RTX Corporation $RTX - MarketBeat",
+      "Hennion & Walsh Asset Management Inc. Acquires 4,634 Shares of RTX Corporation $RTX - MarketBeat",
+      "L3Harris Technologies Inc. stock outperforms competitors on strong trading day - marketwatch.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Palantir Technologies、RTX、L3Harris Technologies相關動態：「BIP Wealth LLC Invests $2.54 Million in RTX Corporation $...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "BIP Wealth LLC Invests $2.54 Million in RTX Corporation $RTX - MarketBeat（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Anthropic Projects $200 Billion 2028 Revenue: Report - Palantir Technologies ...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 164,
+  "no_date": 0,
+  "too_old": 67,
+  "gate1_fail": 26,
+  "gate2_fail": 18,
+  "passed": 40,
+  "gate2_samples": [
+    "Is RTX Strengthening Its Position in the Global Missile Market? - sg.finance.yahoo.com",
+    "RTX Outperforms Industry in the Past Month: How to Play the Stock? - Yahoo! Finance Canada",
+    "Charles Schwab Trust Co Purchases New Holdings in RTX Corporation $RTX - MarketBeat",
+    "Hennion & Walsh Asset Management Inc. Acquires 4,634 Shares of RTX Corporation $RTX - MarketBeat",
+    "L3Harris Technologies Inc. stock outperforms competitors on strong trading day - marketwatch.com"
+  ]
+}
