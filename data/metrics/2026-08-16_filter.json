@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 183,
+  "no_date": 0,
+  "too_old": 62,
+  "gate1_fail": 26,
+  "gate2_fail": 14,
+  "passed": 30,
+  "gate2_samples": [
+    "Is RTX Strengthening Its Position in the Global Missile Market? - Yahoo Finance Singapore",
+    "RTX Outperforms Industry in the Past Month: How to Play the Stock? - Yahoo! Finance Canada",
+    "Everett Harris & Co. CA Invests $19.93 Million in RTX Corporation $RTX - MarketBeat",
+    "Charles Schwab Trust Co Purchases New Holdings in RTX Corporation $RTX - MarketBeat",
+    "New 50,000-sq-foot L3Harris facility to deliver advanced undersea training systems for US Navy - int"
+  ]
+}
