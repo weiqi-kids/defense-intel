@@ -31,32 +31,32 @@
   },
   "bae": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-14",
-    "count": 6775,
+    "latest": "2026-08-17",
+    "count": 6776,
     "history_complete": true
   },
   "thales": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-14",
-    "count": 6839,
+    "latest": "2026-08-17",
+    "count": 6840,
     "history_complete": true
   },
   "leonardo": {
     "earliest": "2005-07-18",
-    "latest": "2026-08-14",
-    "count": 5355,
+    "latest": "2026-08-17",
+    "count": 5356,
     "history_complete": true
   },
   "rheinmetall": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-14",
-    "count": 6802,
+    "latest": "2026-08-17",
+    "count": 6803,
     "history_complete": true
   },
   "aidc": {
     "earliest": "2014-08-25",
-    "latest": "2026-08-14",
-    "count": 2875,
+    "latest": "2026-08-17",
+    "count": 2876,
     "history_complete": true
   },
   "hanwha_aero": {
@@ -73,8 +73,8 @@
   },
   "saab": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-14",
-    "count": 6753,
+    "latest": "2026-08-17",
+    "count": 6754,
     "history_complete": true
   },
   "palantir": {

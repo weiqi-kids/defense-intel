@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 160,
+  "no_date": 0,
+  "too_old": 69,
+  "gate1_fail": 21,
+  "gate2_fail": 19,
+  "passed": 46,
+  "gate2_samples": [
+    "115,887 Shares in RTX Corporation $RTX Acquired by SCS Capital Management LLC - MarketBeat",
+    "18,824 Shares in RTX Corporation $RTX Acquired by Summit Asset Management LLC - MarketBeat",
+    "Centric Wealth Management Purchases Shares of 23,364 RTX Corporation $RTX - MarketBeat",
+    "Focus Partners Advisor Solutions LLC Invests $6.99 Million in RTX Corporation $RTX - MarketBeat",
+    "Focus Partners Advisor Solutions LLC Purchases New Shares in L3Harris Technologies Inc $LHX - Market"
+  ]
+}
