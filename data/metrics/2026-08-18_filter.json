@@ -1,0 +1,16 @@
+{
+  "total_raw": 300,
+  "dup_title": 131,
+  "no_date": 0,
+  "too_old": 68,
+  "gate1_fail": 23,
+  "gate2_fail": 15,
+  "passed": 63,
+  "gate2_samples": [
+    "Auxano Advisors LLC Invests $1.51 Million in RTX Corporation $RTX - MarketBeat",
+    "OMC Financial Services LTD Buys Shares of 13,927 RTX Corporation $RTX - MarketBeat",
+    "Roman Butler Fullerton & Co. Buys New Shares in RTX Corporation $RTX - MarketBeat",
+    "Simplicity Wealth LLC Acquires New Position in RTX Corporation $RTX - MarketBeat",
+    "5,175 Shares in L3Harris Technologies Inc $LHX Bought by Buckland Partners Management Co LLC - Marke"
+  ]
+}
