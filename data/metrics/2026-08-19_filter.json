@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 120,
+  "no_date": 0,
+  "too_old": 66,
+  "gate1_fail": 28,
+  "gate2_fail": 14,
+  "passed": 87,
+  "gate2_samples": [
+    "Diversify Advisory Services LLC Buys Shares of 46,852 RTX Corporation $RTX - MarketBeat",
+    "Artemis Wealth Advisors LLC Acquires New Position in RTX Corporation $RTX - MarketBeat",
+    "Aljian Capital Management LLC Acquires New Position in L3Harris Technologies Inc $LHX - MarketBeat",
+    "32,964 Shares in L3Harris Technologies Inc $LHX Acquired by Alpine Woods Capital Investors LLC - Mar",
+    "F128: TKMS open to Rheinmetall’s participation in the 2nd lot of MEKO A-200 - navalnews.com"
+  ]
+}

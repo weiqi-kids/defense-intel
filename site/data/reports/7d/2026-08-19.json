@@ -1,0 +1,140 @@
+{
+  "date": "2026-08-19",
+  "date_range": {
+    "start": "2026-08-13",
+    "end": "2026-08-19"
+  },
+  "generated_at": "2026-08-19T08:28:57.005477Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "elbit-2026-08-13-021",
+      "date": "2026-08-13",
+      "title": "Integrated Visual Augmentation Systems Market Trends Analysis and Growth Outlook 2026-2035 | Profiles Microsoft, BAE Systems, Elbit Systems, Lockheed Martin and More - Yahoo Finance",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 55,
+      "last_week": 71,
+      "week_over_week_change": "-23%",
+      "sentiment_this_week": 0.02
+    },
+    "drone_warfare": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    },
+    "industry_general": {
+      "this_week": 38,
+      "last_week": 26,
+      "week_over_week_change": "+46%",
+      "sentiment_this_week": 0.14
+    }
+  },
+  "company_7d_summary": {
+    "l3harris": {
+      "event_count": 15,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "rheinmetall": {
+      "event_count": 13,
+      "sentiment_avg": 0.04,
+      "rank": 4
+    },
+    "elbit": {
+      "event_count": 2,
+      "sentiment_avg": 0.38,
+      "rank": 6
+    },
+    "palantir": {
+      "event_count": 20,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "hanwha_aero": {
+      "event_count": 12,
+      "sentiment_avg": 0.04,
+      "rank": 5
+    },
+    "rtx": {
+      "event_count": 17,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "leonardo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 321,
+        "last": 377,
+        "change_pct": -14.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-13",
+      "event_count": 49,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-08-14",
+      "event_count": 54,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-15",
+      "event_count": 20,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-08-16",
+      "event_count": 22,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-17",
+      "event_count": 96,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-08-18",
+      "event_count": 62,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-19",
+      "event_count": 18,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-13 ~ 2026-08-19）共 321 則事件，重點為「Integrated Visual Augmentation Systems Market T...」。艾爾比特表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 15 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "萊茵金屬",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Palantir Technologies",
+        "reason": "本週出現 20 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
