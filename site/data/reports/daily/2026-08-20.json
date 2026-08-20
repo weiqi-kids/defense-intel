@@ -1,0 +1,220 @@
+{
+  "date": "2026-08-20",
+  "generated_at": "2026-08-20T08:29:30.718703Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-20-012",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Taiwan proposes boosting 2027 defence spending 18% to a record high - Reuters",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZkhITHJrak1JYzUzNnhrb1lqUVVRY1J0NWJ1VExDVGptcDJYNTZhYnlhS3ZJbEFtejZYdlFHbVhpRzNDaTVWOEZvb0xJNXNneG1rZllid1FlQVR6dkgyZEJnMGFIcmZDV1picjdfMVZiTXJsZVNuX25nVEttNUxfVUc1WkxmQTRxUUtxdEdJTnZzaHFYM1pFd2p6OWh6LWdkQXJtSXNmQjNLbUdlTEk2Q2xmVG9KNHc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rtx-2026-08-20-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Investors May Respond To RTX (RTX) Winning a US$22.9 Billion Tomahawk Deal and Raising Guidance - Yahoo Finance",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQXpmVl9Mcm5uc19WYTllanZ5MkU0SzJtR3BWSzdQSUNVcUlMTDBjZEt5dHhLc0VWY0wwVFZRZUZYNVI1cnN2cXgtQ0tjUjhXTWdKT2pXRWdFREJGd0xZMTkwUjlaTDY5eTk2cGFDcEFuN1lpQXZGRThwaVQwV3BTbzVNMkxEOXpvRFRZdkZoa2Q1T1Y5eDZkZjJR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-20-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The Crucial Moment That Companies Miss After They Oust a CEO - WSJ",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUjNxVFI4ZjhXRExITTlINHlrMjFfRHA2dTEyV3hSVUQ4RWxENXc3Z20zS2NteXVWWkJNVHRBMllfRlFHRURqbkZ2NjB4eU1WcEt6MUJKM3c1elhrcE9BeTBQNFV2dkM1Wm42WGhLY2J5SV9TVV9wck1YbFBXY2ZTR3BTYzA5el8wVUQzbjdONTR4RW92UExqcEVGclF0VlE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "l3harris-2026-08-20-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Diversify Advisory Services LLC Purchases Shares of 5,112 L3Harris Technologies Inc $LHX - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZDRwZ2FiSnVNWExpVDk2OXNGMzZBYmh6bmY0Ui1TcE1udDlLYjJ1cGUwZXl2ZUdqSXhqYXdHQ3FPNWFlLXFsbU5GMmozZTBFQmx3LWdXSVlOQ3REZ1ktUFNRY3hETG1nNmlfY29vYWw1Q00wdEFjQnBkb0hJS19ITmZQdjhrMnJPbFBOakNfTlB3ZzFEcjJYMnhSRnJMS21tT05xUmxqWWQxRnNSajZaWk1aRF9TZEQ0QWw3YUJRZkpLd05xdy1ZRXBJekRWSEVCcllUdnNvYnBIbXJZd1pTZA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "l3harris-2026-08-20-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris (LHX) Reaffirmed Guidance After Replacing Its CEO. Why Did Shares Fall 4.6%? - Yahoo Finance Australia",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYWsxZVdJeGppd09HU0l3WkVFbGxfYjhDQnhmSU1kYWxZdmJvdEFfMUNZeE9rUWZtTzVjTUZES3l5UUVER0dKV1gwM1Vpc2JXQU5BeEd2OFluMFFNM0txYlVGUHpTMFFRTnpkSUdDbVBUc1lidTZ4V1pCZzdTMTNFY091Z3NYcklLZ3BWRVZhU0NPRVVmTHc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 11,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "hanwha_aero",
+        "count": 2
+      },
+      {
+        "id": "rtx",
+        "count": 1
+      },
+      {
+        "id": "elbit",
+        "count": 1
+      },
+      {
+        "id": "palantir",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 11
+      },
+      {
+        "id": "industry_general",
+        "count": 6
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 315,
+    "dup_title": 146,
+    "too_old": 62,
+    "gate1_blocked": 37,
+    "gate2_blocked": 15,
+    "passed": 55,
+    "pass_rate": "32.5%",
+    "gate2_block_rate": "8.9%",
+    "gate2_samples": [
+      "9,886 Shares in RTX Corporation $RTX Bought by Foster & Motley Inc. - MarketBeat",
+      "Bell & Brown Wealth Advisors LLC Invests $4.98 Million in RTX Corporation $RTX - MarketBeat",
+      "RTX (NYSE:RTX) Stock Price Down 2.2% After Insider Selling - MarketBeat",
+      "L3Harris (LHX) Stock Looks Reasonable Even As Fair Value Stays Higher - simplywall.st",
+      "Elbit Systems Ltd (ESLT) Shares Fall 5.5% -- What GF Score of 73 Tells Investors - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為L3Harris Technologies、韓華航太、RTX相關動態：「Taiwan proposes boosting 2027 defence spending 18% to a r...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Taiwan proposes boosting 2027 defence spending 18% to a record high - Reuters（財報、國防航太通用）",
+        "level": "red"
+      },
+      {
+        "text": "How Investors May Respond To RTX (RTX) Winning a US$22.9 Billion Tomahawk Dea...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

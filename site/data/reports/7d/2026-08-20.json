@@ -1,0 +1,134 @@
+{
+  "date": "2026-08-20",
+  "date_range": {
+    "start": "2026-08-14",
+    "end": "2026-08-20"
+  },
+  "generated_at": "2026-08-20T08:29:30.866938Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "rheinmetall-2026-08-14-028",
+      "date": "2026-08-14",
+      "title": "Stuttgart Stock Exchange: Cisco Slips, Rheinmetall Reports Record Order Intake, Bayer Roundup - marketscreener.com",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 60,
+      "last_week": 65,
+      "week_over_week_change": "-8%",
+      "sentiment_this_week": 0.03
+    },
+    "industry_general": {
+      "this_week": 41,
+      "last_week": 28,
+      "week_over_week_change": "+46%",
+      "sentiment_this_week": 0.16
+    }
+  },
+  "company_7d_summary": {
+    "l3harris": {
+      "event_count": 16,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "rheinmetall": {
+      "event_count": 11,
+      "sentiment_avg": 0.05,
+      "rank": 5
+    },
+    "hanwha_aero": {
+      "event_count": 14,
+      "sentiment_avg": 0.04,
+      "rank": 4
+    },
+    "palantir": {
+      "event_count": 18,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "rtx": {
+      "event_count": 18,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "leonardo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "elbit": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 327,
+        "last": 367,
+        "change_pct": -10.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-14",
+      "event_count": 55,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-15",
+      "event_count": 20,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-08-16",
+      "event_count": 22,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-17",
+      "event_count": 97,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-08-18",
+      "event_count": 66,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-19",
+      "event_count": 55,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-20",
+      "event_count": 12,
+      "sentiment_avg": 0.08
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-14 ~ 2026-08-20）共 327 則事件，重點為「Stuttgart Stock Exchange: Cisco Slips, Rheinmet...」。財報、國防航太通用為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 16 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "萊茵金屬",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "韓華航太",
+        "reason": "本週出現 14 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

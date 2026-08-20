@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 146,
+  "no_date": 0,
+  "too_old": 62,
+  "gate1_fail": 37,
+  "gate2_fail": 15,
+  "passed": 55,
+  "gate2_samples": [
+    "9,886 Shares in RTX Corporation $RTX Bought by Foster & Motley Inc. - MarketBeat",
+    "Bell & Brown Wealth Advisors LLC Invests $4.98 Million in RTX Corporation $RTX - MarketBeat",
+    "RTX (NYSE:RTX) Stock Price Down 2.2% After Insider Selling - MarketBeat",
+    "L3Harris (LHX) Stock Looks Reasonable Even As Fair Value Stays Higher - simplywall.st",
+    "Elbit Systems Ltd (ESLT) Shares Fall 5.5% -- What GF Score of 73 Tells Investors - GuruFocus"
+  ]
+}
