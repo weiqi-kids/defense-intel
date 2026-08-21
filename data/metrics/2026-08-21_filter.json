@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 134,
+  "no_date": 0,
+  "too_old": 62,
+  "gate1_fail": 34,
+  "gate2_fail": 17,
+  "passed": 68,
+  "gate2_samples": [
+    "133,458 Shares in RTX Corporation $RTX Purchased by Allworth Financial LP - MarketBeat",
+    "Advisors Capital Management LLC Purchases Shares of 392,262 RTX Corporation $RTX - MarketBeat",
+    "Somerville Kurt F Purchases New Position in RTX Corporation $RTX - MarketBeat",
+    "Notis McConarty Edward Takes Position in RTX Corporation $RTX - MarketBeat",
+    "MSH Capital Advisors LLC Takes Position in RTX Corporation $RTX - MarketBeat"
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T08:31:15.938510Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-08-21-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bank of New York Mellon Corp Acquires Shares of 7,675,415 RTX Corporation $RTX - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWRDcHhjTURtSV9aQ1lBVUdXbVdZMFRuVDNfVDFiN0kwVnltXzJfWFFBeVpudVF6b2pYdHhQM0M1MFNYMXBMVEdMRkhfODBMLVJBaEprdVJSanNWWFA2aDRVNTk2MElqVGxqTndrRC1qdFdSZTRXcVlCTUVTdk9ZeGVQdnR5VVFqMXgzUHh3UUJtcUVzaXFJMm1LOHdneGl4NUl0ZFNncVc4WHM4U2xjdG8zLThjS2k4dDViN1hmTTQ4VE1vbXN2OXlKa2stVm50YXc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "palantir-2026-08-21-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Palantir Stock: Buy Before The Next Leg Higher (NASDAQ:PLTR) - Seeking Alpha",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTWNnX2tPU3VKS0hQbVpTWFdJOUN1TUNkRmdIcXQwYnUyM01DVm5Oa2Q2cXUwSk9qUHA2ZW5hR3BPTTdFUDNpNGp6c3JSR3ZZNi15YVVyTURTQTlnazZEZFJiYURjbHpwVW84LW9oeGU0cm53OEMtYTc1OW9EYzRUY1E1R0pJYU0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "palantir-2026-08-21-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Palantir posts Q2 revenue up 93%, raises 2026 g... - Pluang",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWThsa21aRk56eHV5TWJzeWZXYVpjb1h0QWtsbVlIQWtMMjJ5ZkV1aGxZNjlUeW1EUUNMUjhJNUxjajJUbEVNMGFLZGFyTXlkTGpqUDVQVk1KM05NeXdmWTRNQnZKc05uVGVvRHl1UTI3VFIta1FOMVVoUVczeURsV0hBcktEdHZvUVM4?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-21-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "US missile and air-defence spending is soaring - thenationalnews.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTHRDMVgyZVVzRzhhbUgxdk9vdVFreThHQXpFQzlGYmNqLU5PRVlad2M4bGh5N2M5YUJIMFRxdmxhRjEzUEp5eWN5RlhqNjN3T2s3cUVaOU5wQ3NIM2h2eXMwM1lMUVM5M0QyN3EwOWxSTnF1MHpNdHdKN0NfX3g1Ymxlb2xNWU1xSTgzTWlKd0hCdFU4Q0NIcVZyaUhIZVk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-21-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "U.S. reshapes Asia security, cuts Korea drills and pushes Taiwan defense surge - CHOSUNBIZ - Chosunbiz",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPemhjQ013cFcxSGdoU1pwenNScE4yc3ZzTVZneHNDQXZCeHpWcGgzeEZ5WFBSNnhWY2RYNHJodVlPZWNENk1kamtUWE42ZjNKSndEbVR2QzZ3QmhBS0kxVUlWVFRaYmZlNUdKd25pU1NtODk3VGs4a3hzVFBvREViQVB2SUV0X3Ew0gGcAUFVX3lxTFA1ZVd2WjQwRE4zc0VQTVBicWFDMDFyTGdFWm8wdmVHX0FmYXRtUEVlckZNU1k3LUxYVDZfbkhzckt4emFiWWpyTFhKNXAtemY2R1EzMGxDdEkxbzhBQWFHTVhmTkg3LXBmV2g0NEtrS2lKbHk5NVVhWEQ2T2tvc1o2NkZ4UF9GVUFLcVpzUF9uMVZfbXVjSF9Gd1Z0ag?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "defense_budget": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "palantir",
+        "count": 2
+      },
+      {
+        "id": "rtx",
+        "count": 1
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "drone_warfare",
+        "count": 1
+      },
+      {
+        "id": "defense_budget",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 315,
+    "dup_title": 134,
+    "too_old": 62,
+    "gate1_blocked": 34,
+    "gate2_blocked": 17,
+    "passed": 68,
+    "pass_rate": "37.6%",
+    "gate2_block_rate": "9.4%",
+    "gate2_samples": [
+      "133,458 Shares in RTX Corporation $RTX Purchased by Allworth Financial LP - MarketBeat",
+      "Advisors Capital Management LLC Purchases Shares of 392,262 RTX Corporation $RTX - MarketBeat",
+      "Somerville Kurt F Purchases New Position in RTX Corporation $RTX - MarketBeat",
+      "Notis McConarty Edward Takes Position in RTX Corporation $RTX - MarketBeat",
+      "MSH Capital Advisors LLC Takes Position in RTX Corporation $RTX - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為Palantir Technologies、RTX、L3Harris Technologies相關動態：「Bank of New York Mellon Corp Acquires Shares of 7,675,415...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Bank of New York Mellon Corp Acquires Shares of 7,675,415 RTX Corporation $RT...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Palantir Stock: Buy Before The Next Leg Higher (NASDAQ:PLTR) - Seeking Alpha（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
