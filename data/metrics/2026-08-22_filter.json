@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 166,
+  "no_date": 0,
+  "too_old": 67,
+  "gate1_fail": 28,
+  "gate2_fail": 14,
+  "passed": 40,
+  "gate2_samples": [
+    "Callan Family Office LLC Purchases New Position in RTX Corporation $RTX - MarketBeat",
+    "Portfolio Design Labs LLC Buys Shares of 30,917 RTX Corporation $RTX - MarketBeat",
+    "MJP Associates Inc. ADV Purchases Shares of 10,318 RTX Corporation $RTX - MarketBeat",
+    "41,273 Shares in RTX Corporation $RTX Purchased by Mystic Asset Management Inc. - MarketBeat",
+    "Jury refuses to convict seven Palestine Action defendants over Elbit raid - Middle East Eye"
+  ]
+}
