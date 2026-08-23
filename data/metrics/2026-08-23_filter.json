@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 185,
+  "no_date": 0,
+  "too_old": 68,
+  "gate1_fail": 27,
+  "gate2_fail": 15,
+  "passed": 20,
+  "gate2_samples": [
+    "Sterling Financial Planning Inc. Takes Position in RTX Corporation $RTX - MarketBeat",
+    "Keebeck Wealth Management Takes Position in RTX Corporation $RTX - MarketBeat",
+    "Callan Family Office LLC Purchases New Position in RTX Corporation $RTX - MarketBeat",
+    "EP Wealth Advisors LLC Purchases New Holdings in RTX Corporation $RTX - MarketBeat",
+    "Elbit Systems (NASDAQ:ESLT) Shares Gap Down - What's Next? - MarketBeat"
+  ]
+}

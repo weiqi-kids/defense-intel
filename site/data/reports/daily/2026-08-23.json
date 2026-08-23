@@ -1,0 +1,211 @@
+{
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T08:21:54.660872Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rheinmetall-2026-08-23-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall Stock And Other Defense Names With Long Term Revenue Visibility - simplywall.st",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUjVVaHFSSzZLZ0h6TnJjM2t5cElLU1ZXT0UzeEsyTl9WR3FQaUMxVzJZZnhXRVJMSnhxQ2JEWmRxWnBHbC1QeEFGVk5ob0VpSFhpS0pINmFZSVRiSndXSDRiNFpnUzdoajdrdndVNXlBTmhUc0xqQkZsRGJNR1RCRDF1SThLMnRGZHZCcUw1bVZmeUtXSV9DVzkzc0djcGZnNi11UWxjem9ESlExQ19OdFF1dDNxZDc3VFJTR3Z2WUtTZzEzZVhqWXlOTHRQV2w0X1hpc9IB2gFBVV95cUxNaW9TYzk5RFBaMlQwblpZbHh1dk54WUdHLVg4TmpiSDR3TVRrLTdsUmN0MVp0S2ZBOU1TNnVxbXJudlA2bHNtOXVHOWVlTmtiLUdnZ3RxVjZWbGJ1dDZ6MFVwc2puczB5N0I4ZHlUSHVsa1E5MjJtR1hNcmpFYldHMzlrZFdIazVxNGZsVXJyU2ozLTBtOUkzUU5nRFFPeUdsWUE5Vy0yVXZxUmROM0RfeFlnQzFWaXhNbVd3OHJYMUl5LWFWQXpHdzY3bTlKTERsTWw5d19fTllEdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-23-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha Injects 400 Billion Won into U.S. Defense Subsidiaries - 조선일보",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWWU1Si1tVm5sVTZFSWRhS2lwaFFzNTA1SThsdXBWZ0xyVENCNlpqRG5CcnNrdEFzUzhoUU1aSmQzamF3aEh5SGNDblNXWGFOZkJOWkNNYTMyQXVhTmM5ckQ2MjgzNE1XaGxDU3pCaHZ3cV9FMGsyN3BJUXZVN3V2UTlOb2x1d3Va?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-23-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha Injects ₩415 Billion Into U.S. Defense Subsidiaries — Dual-Track Push on K9 and Shipbuilding - finance.biggo.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00Q3A2ZnU1RTFRQmc2c0hHVmkwN1NTWmxZQXZQRjB4aWZOdE1LM05LblVnTU1pVWRIbnFhRmR2UXh1V1M0MXBxSzIxZFZmcXBuN2NkZ3NVV194bHNQVUk3VVNnWS1lLVJ2VXZqTTdmdmZLbG1GOGc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-23-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha boosts U.S. push with 415b-won investment after Army howitzer win - CHOSUNBIZ - Chosunbiz",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU0M5YjFiS0ZPMmtqMklkbG14MVhZOGZham52T0pDeEgzSVhudG56bThuaXdRamlhT3RacldHWXljRUNWb0hpQm52d2tUMnZsdEhJamxKMnBVbnd5dlJaYU51cnFNbTJTRU5Fd1RXR09VNkRPQXRlM0twYWZkT0V2QllR0gGWAUFVX3lxTE1SVXFKQ05zbnlHVS10RGJiUEpZa1RmZHJSdmtsZHpKM2QwZUw5UjR3akxxamxXdVdPc3I1QmhUQ0lISjhJd1l5NzdrRFZDVzB0aHVzWnAwWEMyeGhPTVZTUEJoWVN2cWp4d2tlbG1vRHlsOUw4bUhIRWVGaEl4RnlwajN4amFXZTJXQ3dFODlwZU1yaXV5QQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "palantir-2026-08-23-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Palantir Keeps 55 Cents of Every Revenue Dollar as Profit - The Motley Fool",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUkZRalMwaW9ETzF3UVpUdmZhUWRvSlVndFNHOWV2SE4zWjN0SDUzc192bHczZjZNM1R6cDNKb211Q1hJTHpQTkJ3bGk4Q19XNmMzdkEzMkZMQUwtYXlHYmNDVmtVc0ZOWDI4ZnJDVEpDcHZJNElZSEtTYjl5SmhDTnZDUnhQckNXQWtYNjBUMFFJeWZLYjB5ZFd4MVdINk80M1E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rtx",
+        "count": 2
+      },
+      {
+        "id": "palantir",
+        "count": 2
+      },
+      {
+        "id": "rheinmetall",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "industry_general",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 315,
+    "dup_title": 185,
+    "too_old": 68,
+    "gate1_blocked": 27,
+    "gate2_blocked": 15,
+    "passed": 20,
+    "pass_rate": "15.4%",
+    "gate2_block_rate": "11.5%",
+    "gate2_samples": [
+      "Sterling Financial Planning Inc. Takes Position in RTX Corporation $RTX - MarketBeat",
+      "Keebeck Wealth Management Takes Position in RTX Corporation $RTX - MarketBeat",
+      "Callan Family Office LLC Purchases New Position in RTX Corporation $RTX - MarketBeat",
+      "EP Wealth Advisors LLC Purchases New Holdings in RTX Corporation $RTX - MarketBeat",
+      "Elbit Systems (NASDAQ:ESLT) Shares Gap Down - What's Next? - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為RTX、Palantir Technologies、萊茵金屬相關動態：「Rheinmetall Stock And Other Defense Names With Long Term ...」。主要關注主題為財報、國防航太通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Rheinmetall Stock And Other Defense Names With Long Term Revenue Visibility -...（財報、國防航太通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Hanwha Injects 400 Billion Won into U.S. Defense Subsidiaries - 조선일보（財報、國防航太通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
