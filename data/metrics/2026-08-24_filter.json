@@ -1,0 +1,16 @@
+{
+  "total_raw": 314,
+  "dup_title": 176,
+  "no_date": 0,
+  "too_old": 68,
+  "gate1_fail": 28,
+  "gate2_fail": 19,
+  "passed": 23,
+  "gate2_samples": [
+    "7,665 Shares in RTX Corporation $RTX Acquired by Capital Square LLC - MarketBeat",
+    "Haverford Trust Co Invests $315.04 Million in RTX Corporation $RTX - MarketBeat",
+    "Martin & Co. Inc. TN Invests $2.05 Million in RTX Corporation $RTX - MarketBeat",
+    "Northwestern Mutual Wealth Management Co. Invests $106.97 Million in RTX Corporation $RTX - MarketBe",
+    "Callan Family Office LLC Purchases New Position in RTX Corporation $RTX - MarketBeat"
+  ]
+}
