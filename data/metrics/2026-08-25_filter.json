@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 140,
+  "no_date": 0,
+  "too_old": 64,
+  "gate1_fail": 32,
+  "gate2_fail": 21,
+  "passed": 58,
+  "gate2_samples": [
+    "RTX’s F-35 cooling system completes altitude testing (RTX:NYSE) - Seeking Alpha",
+    "33,782 Shares in RTX Corporation $RTX Acquired by Meiji Yasuda Asset Management Co Ltd. - MarketBeat",
+    "D.B. Root & Company LLC Invests $1.22 Million in RTX Corporation $RTX - MarketBeat",
+    "7,665 Shares in RTX Corporation $RTX Acquired by Capital Square LLC - MarketBeat",
+    "L3Harris Technologies Inc. stock underperforms Monday when compared to competitors - MarketWatch"
+  ]
+}
