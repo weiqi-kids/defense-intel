@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 111,
+  "no_date": 0,
+  "too_old": 70,
+  "gate1_fail": 31,
+  "gate2_fail": 23,
+  "passed": 80,
+  "gate2_samples": [
+    "RTX Corporation: More Missiles And Higher Commercial Maintenance Trigger Premium Price Tag (Rating D",
+    "Jupiter Topco LLC Takes Position in RTX Corporation $RTX - MarketBeat",
+    "EFG International AG Takes $2.62 Million Position in RTX Corporation $RTX - MarketBeat",
+    "6,679,261 Shares in RTX Corporation $RTX Bought by Legal & General Group Plc - MarketBeat",
+    "Are Wall Street Analysts Predicting L3Harris Technologies Stock Will Climb or Sink? - Yahoo Finance"
+  ]
+}

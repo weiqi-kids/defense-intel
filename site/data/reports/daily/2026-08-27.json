@@ -1,0 +1,265 @@
+{
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T18:42:55.439472Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "kratos-2026-08-27-026",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Kratos Defense vs. Elbit Systems: Which One Is the Better Defense Bet? - Yahoo Finance",
+      "companies": [
+        "kratos",
+        "elbit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS1ZNVGFGMEZzcmVWT1JCamZLR1g1S1NrX1NyQ0FncDhUdWcxeVdmTkEyUHFOd2EwOHZxRUlPYUFnMmpoY1YzUnc0T3MwRnpOOHpyanQ0R2kxYlVORGZLNGI5ME5xX203WkJrRGxRUmxvZWFoY1hocHlyakx5WWFzVW5fakhUTHZFWEFrb0c3ZV9rM2xSOXMtaUZLbXE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rtx-2026-08-27-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX's Raytheon Completes Expansion of Mississippi Plant With $50 Million Investment - marketscreener.com",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVkxIZy1hMTNDQkdESnJzel9jVVBaY2RwVElCcHN3U3pZYU9MQ2pBNUZrRGw2OHV1NnV3aXo3NTQ5SG82RGo2ajAtQ3NMQS13UmJJODNxTnUwOUgtWlZXUXhFZTBWQ295N0ZFWTRVaWFlaFlmRVdVb0NNZ2diV0I5dnZWM2gzNjVjRFctYTBwNDFDQ3VnTEpqaDVlVDFFM2JuN1FEd3dVNFVmR2pUUHdOQ2pIS3o3Yk5VVmpBWTlBUUZXYWVhS09SNVhHSGx4eG5F?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-27-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Can GE Aerospace Boost Profit Margin Amid Cost Pressures? - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVG5DUTJneENvY1gteUEtVGd4bVdzMVZDZEpCUHI5bHo4NEpROW12R2tCWjdGb0phQlZPVG5tWlhsUHcyS0RFNWo0aE5TeW9JQ3RmeUNMWVU3V01SWHNCTHdNWEQtaVJXVVFKQ2J0Y0wzeERQZGZOUmZDNmx6U2FsSWdzdndVeGwxN01xZGtDMmExcFVIeDFyVzh2RW1WU0d6TjBtMGl1bEdCZzZEYjZfb2Fn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rtx-2026-08-27-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Primecap Management Co. CA Acquires New Position in RTX Corporation $RTX - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObHRjQXlCdy0yWDJqc3dUWUJLd3FZeTJYOENMNTExV1lrQWt0LXlxVF9LZUEwQ3k5ME5yZ0ZyOHk3cERhbm5KblJCOWhYaGJ5X3V4RVYtVnJKemdxTUpEaHM5M01WQTRidkdzaFg3VVlHSnl0VHpSNHVmcFBoLV8xTTRSNjFvNVNDQXE3eUhId0czZTh6a1FLVGJtc090NGVQMEFVMlBUbzdYd3pJRVVGekxvWGxfR1BZV0dEUWs0bWNkMFVuWlI4N3VRZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rtx-2026-08-27-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "830,532 Shares in RTX Corporation $RTX Bought by Freestone Grove Partners LP - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTUNxV3dVWGZ6X21NY25XX2xFdjkzbmJqS0hYN2RfRlNyU3hEU0RDWWIzRGxzbDByeU9vS1M1SDg2WENMX3R1UXhhdnlRTmQ2eWJMVmNuOGd1RTZUcmQwSDBkQmZuSklSMlJDajg3azU1b1M0UGpYOV8zZGxTbDdwQWFrbURrRWFqNjB3YUtBVHpkVEZ2SU5PMnkyQ3YwT1lxd1ZsMU1ER0JfLXNkMTVjWnJ4ZG9iQW1leHZlU0ZSNTBpaDBTZXhxcXJZeE91NXNn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "defense_budget": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cybersecurity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 43,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 37,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "rheinmetall",
+        "count": 10
+      },
+      {
+        "id": "rtx",
+        "count": 9
+      },
+      {
+        "id": "palantir",
+        "count": 8
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "lockheed",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 23
+      },
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "drone_warfare",
+        "count": 4
+      },
+      {
+        "id": "defense_budget",
+        "count": 1
+      },
+      {
+        "id": "cybersecurity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 315,
+    "dup_title": 111,
+    "too_old": 70,
+    "gate1_blocked": 31,
+    "gate2_blocked": 23,
+    "passed": 80,
+    "pass_rate": "39.2%",
+    "gate2_block_rate": "11.3%",
+    "gate2_samples": [
+      "RTX Corporation: More Missiles And Higher Commercial Maintenance Trigger Premium Price Tag (Rating D",
+      "Jupiter Topco LLC Takes Position in RTX Corporation $RTX - MarketBeat",
+      "EFG International AG Takes $2.62 Million Position in RTX Corporation $RTX - MarketBeat",
+      "6,679,261 Shares in RTX Corporation $RTX Bought by Legal & General Group Plc - MarketBeat",
+      "Are Wall Street Analysts Predicting L3Harris Technologies Stock Will Climb or Sink? - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 43 則事件，焦點為萊茵金屬、RTX、Palantir Technologies相關動態：「Kratos Defense vs. Elbit Systems: Which One Is the Better...」。主要關注主題為財報、國防航太通用、無人機作戰，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Kratos Defense vs. Elbit Systems: Which One Is the Better Defense Bet? - Yaho...（國防航太通用）",
+        "level": "red"
+      },
+      {
+        "text": "RTX's Raytheon Completes Expansion of Mississippi Plant With $50 Million Inve...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
