@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 144,
+  "no_date": 0,
+  "too_old": 70,
+  "gate1_fail": 30,
+  "gate2_fail": 17,
+  "passed": 54,
+  "gate2_samples": [
+    "RTX Corporation: More Missiles And Higher Commercial Maintenance Trigger Premium Price Tag (Rating D",
+    "Glenview Trust Co Purchases Shares of 120,689 RTX Corporation $RTX - MarketBeat",
+    "RTX Corporation $RTX Shares Sold by Empowered Funds LLC - MarketBeat",
+    "Equitable Holdings Inc. Boosts Holdings in RTX Corporation $RTX - MarketBeat",
+    "EFG International AG Takes $2.62 Million Position in RTX Corporation $RTX - MarketBeat"
+  ]
+}
