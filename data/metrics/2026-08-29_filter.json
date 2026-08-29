@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 181,
+  "no_date": 0,
+  "too_old": 67,
+  "gate1_fail": 29,
+  "gate2_fail": 20,
+  "passed": 18,
+  "gate2_samples": [
+    "RTX Corporation: More Missiles And Higher Commercial Maintenance Trigger Premium Price Tag (Rating D",
+    "RTX Corporation $RTX Stock Position Lifted by Nissay Asset Management Corp Japan - MarketBeat",
+    "Campbell Newman Asset Management Inc. Sells 11,344 Shares of RTX Corporation $RTX - MarketBeat",
+    "EFG International AG Takes $2.62 Million Position in RTX Corporation $RTX - MarketBeat",
+    "Jupiter Topco LLC Takes Position in RTX Corporation $RTX - MarketBeat"
+  ]
+}
