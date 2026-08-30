@@ -1,0 +1,210 @@
+{
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T13:27:58.123858Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-08-30-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Benjamin Edwards Inc. Buys 44,900 Shares of RTX Corporation $RTX - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTFlSenRQWWxMMUNVVlktX3ZSZFdlM3lmQVNvdWpZaGdrTmI2NExBX1d3TmJJQjJNQ3JRb1dORS1IYXJON0JqQWZRajZsUmJyYzI3ZS1MRklhY3pjeVhWbjZjOE81ejNObnJIUmp4WWQ0My00S1pLak42V1BMUmh0eWZIMy1aVVZ1d21VSjM0ZnRQTVpUWHpIS0F1YlZTRm80N29yZ0pkeUZkdkg0SzladldsYVVjNWt4UlFWZlo2aw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "palantir-2026-08-30-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why Is Palantir Technologies (PLTR) Courting Democrats Ahead Of The Midterms? - simplywall.st",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLW5iR2thSlEyTlg2RFVPQTllQm1DSkhJc1B2MHhSOF9VRnJNZDRocXVMbURPRlpUWU1zS1hzQ1JDdVY4S1hGUHNtN0RsRzM4bFU5WllkdDNhMEN2bUFKNmNfbUNGRElyXzlsamJxM2l2LV93M3QtY1BHaWtzeXZsNkFhTHpxTzluc0V6WEtoc21ILUhaZUg5eXJzLXRFX3RHckVuNXJRQkFtbzQxaHREXzEtajNmcm15cDVzZzQ1NEh1VC1Tc3JuTy1SNW5JS3E0NFlfUGRpa9IB3AFBVV95cUxPN3EtQi1xeUs1anFGdDQ4T0pOdE1uOTg2dkhodkl6bzc0RmEzaXU1MTNEdTQtaHRaTzk3TjY2bUhBN2ZlOHQxaUZTaFJJT0dSOU1ROEx3Z29lakZKT2h1ejJFMXRqbXRMemxpWmNqU19HTXdhakhib2RKaWtuZ09yYVpwemNpY2VIbkozTWxzSTR2dzBKYzFGUkpaZGZaelZtMmZDMzlxM0VyMnRXRnpnbHBnMjloX1FOa0VXeEp5ZUlhODY2Zlc3R2M0XzFvZ2tfY2ZteGhMVE40NjRp?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rtx-2026-08-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Davidson Investment Advisors Has $31.10 Million Stock Holdings in RTX Corporation $RTX - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPV3c2WktsZjJ2RVJqbV9rOWk5cnByNFM1bHlreEdxSEp6b2Z0ZFNjczdlZWRLVmF6QTRlMGdpR3Vic0R4XzlVMkhVekVKUXlrblNHNnMzSFIyZFpyMUdYTkxmajVzSlVySlppLUN1WHhjYTgzcXZucU5TRkNiUFp2MUdPeWN5ZEpTV0EtZ1ZIQjlrYmI2WlBqRDJTSXFINnFIXzA2Qk52UlhsZGo4T2FKS0FXTW51dkN1V3NfbUo5YzM2UW1pck5INTVkY3VrSFBBLTBuTklUX3Z1dGRf?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "l3harris-2026-08-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "L3Harris says mission-networking demonstration connected dispersed U.S. Army formations for threat sensing, data sharing and response - Defence Industry Europe",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObHlDV1ZDU1ZjZWp0TXdVdzlHeDFGUVlDQVhWM2tBc0p3NWRsTkJncnN4VVdPbXJudDFIRXd6X0dkMFJLVWRqaDBLZHVvUnZNaUVvbm5JV01zMFpTSDZJRC1sT2JUS3RhanA2T1NYZ3NRRm9yRTFVSlNGMV9sN2lObWVTU3l1NWVHRUY0TGFWRXVQYTh4UndaRUcyamhXSkxUVkhDd1ZaR2FnS3lxb1c5T29kM1M0aDdEdHEyNW1ybjB6S1JRNkNldXZwdlVPQTYwOEVDci0wQm0zVmxXZ0hJRGRRb1JXYTFKNVlPOFZYc1hPQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rheinmetall-2026-08-30-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rheinmetall and KNDS joint venture in Lithuania readies Leopard 2 tanks damaged in combat for return to Ukraine with German funding - Defence Industry Europe",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSE04bjRjSmctN1RXWGtFcFJkTzFIUUF5QjFHUGg4VmZ5dzJzemVoc3NSN1pHSTJ3ME94QzhGZGVTOUoyaV8wcjQzZVAyZjFLX0ZsNlRwVURGVVJQQTBNMF9LVldQZVFZRVlRS05wNk9HaTZ0WjB4VGNBSUhoWW1WS0NMd0dFSFJXYlV5MEZfYUM2ZG11N0pFeE1lNUV3VlJxd0JRdHYwY1FEOTM2eHZUNllpOG9Uc0wzUm5HRFlJd3NWRTA2Qk5aMDhMVi14dkNxcmEzVDBwX3ZVWGNrME9NZ3NocDhZTGdvNno5dEhJMUttUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rtx",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "rheinmetall",
+        "count": 1
+      },
+      {
+        "id": "palantir",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 315,
+    "dup_title": 185,
+    "too_old": 67,
+    "gate1_blocked": 29,
+    "gate2_blocked": 17,
+    "passed": 17,
+    "pass_rate": "13.1%",
+    "gate2_block_rate": "13.1%",
+    "gate2_samples": [
+      "Marvin & Palmer Associates Inc. Sells 19,049 Shares of RTX Corporation $RTX - MarketBeat",
+      "RTX Corporation: More Missiles And Higher Commercial Maintenance Trigger Premium Price Tag (Rating D",
+      "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Increases Position in RTX Corpo",
+      "Campbell Newman Asset Management Inc. Sells 11,344 Shares of RTX Corporation $RTX - MarketBeat",
+      "L3Harris partners with NASA on telescope set to transform view of space - Spectrum News NY1"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為RTX、L3Harris Technologies、萊茵金屬相關動態：「Benjamin Edwards Inc. Buys 44,900 Shares of RTX Corporati...」。主要關注主題為國防航太通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Benjamin Edwards Inc. Buys 44,900 Shares of RTX Corporation $RTX - MarketBeat（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Why Is Palantir Technologies (PLTR) Courting Democrats Ahead Of The Midterms?...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

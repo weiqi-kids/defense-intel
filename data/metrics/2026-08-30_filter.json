@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 185,
+  "no_date": 0,
+  "too_old": 67,
+  "gate1_fail": 29,
+  "gate2_fail": 17,
+  "passed": 17,
+  "gate2_samples": [
+    "Marvin & Palmer Associates Inc. Sells 19,049 Shares of RTX Corporation $RTX - MarketBeat",
+    "RTX Corporation: More Missiles And Higher Commercial Maintenance Trigger Premium Price Tag (Rating D",
+    "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Increases Position in RTX Corpo",
+    "Campbell Newman Asset Management Inc. Sells 11,344 Shares of RTX Corporation $RTX - MarketBeat",
+    "L3Harris partners with NASA on telescope set to transform view of space - Spectrum News NY1"
+  ]
+}
