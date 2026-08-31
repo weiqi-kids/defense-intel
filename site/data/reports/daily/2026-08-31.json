@@ -1,0 +1,250 @@
+{
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T15:44:21.022131Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-31-032",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Japan seeks record $56B defense budget amid military buildup - Anadolu Ajansı",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "defense_budget",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOTB2cUJTQXl5d3k1RFh5WVVQSnJQT2pQSnZuZ2wxWk9XSkIxeDlMM0ZjWllFUll4bGg5MGwydjNkQ3d3SEZBUXVNRlI4aEpOWnJMR1k1cXdmRDZuWHpFV3JEdVlRa3lTNEZBQ1dWYmQxYmcxR050RmdtQnJLVEhLbHFHSXNtUmRDLWZJOEV2X2pjYXpCZ1FjSUk0UG1OVlpGRUJEUDhydWw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-31-035",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Japan seeks record defence Budget as Takaichi plans buildup - The Business Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbVRKb2ZGOUNwMW9kbkEzWWgzVDhwVzlNajlpaHRfXzB3MVVZTGVFcTdIdzRLbUxTcW9JcjBkLWpQOTRKc0c4MW9nZXpmUm92bERBV2xjeVZZRnZCNjBGMmduaVhqU3ZPR0JCcTJ2V2JsZ0NleW1lQ1hCQUlUMVctUU8ycmV2NmU0YUxjbWZybWpncldvSXJsWmQ0a1UwaVE5cjVKRjR3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rtx-2026-08-31-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Wellington Management Group LLP Sells 529,722 Shares of RTX Corporation $RTX - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcnhFU2lIcmNSd0JfTVlDeWVwQzVhR0xRTHZwRjEyMTQ3SnprcW5JOUJLYV9OZjlTSFRwREhzcTZoOWx1TlBMekRQcVkxM29keWRfSEtqTENnc0FnM0xjYlY3RFE3UU1TallMazlGWXo3WUpSaGV4TlVtLWpEVWNDVjRsdkJHY2pIN1RpZ2h2MjNYd0U1X3AxTHVXSVZFSnhXT2pSTVlJRHpEa0dodFlRUmFyaENQaEJzbHFHZTk3R2JsSFpjVUUwcU1YSkIway1v?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-31-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tata Advanced Systems, U.S. contractors plan Javelin missile production in India (LMT:NYSE) - Seeking Alpha",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTUZKVnZ1dHdmTVNmck4ydjBsTExNd1ljQU5yNUlBMGRyblk4bHBldExrVDZRQVVVa1NpeXIwcjBTeXI0amxuV2NTX3lCRmhsTURoeENLNWhtUV9xc1ozX3FlZVFGc2gxTkctbEtCMndnQ2Qya1V4Q2hrbjRZVVB3TXo2cnBwcjRuMlNwUmdBLWJYXzBaSGNjUDd3T2dZNFRHaUp2NERYbmRiaXlPLTRRTGRpWENlRlk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "l3harris-2026-08-31-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris Technologies stock steadies after fraud investigation shock as strong Q2 beat and guidance - AD HOC NEWS",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOEQ5NS0zenlPMEkzaWtCU0N1TEROUWVYZmNjLWpKWlRxUFB5cEk1T2V5a1Y0QUhFRnZFZHhzYmJiNmVEYnY1ZlZYNlMwejlkYTBrR3FpemRrOFVuY0x2VS1nT29yOEIxN3M4WkljVTdOQVhOSXRxQ25OMW5WeGRRVW1SLTZla25WRzBWSU1oZkU0OG5mYV9VYng2N0xmS203XzZPcW9pSjVFZzJNRDYwUjFrR1Z0T1c3NnlKMkFZOC1jeVVlRjdEUlJBTllxMjA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "defense_budget": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 35,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 32,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_aero",
+        "count": 9
+      },
+      {
+        "id": "palantir",
+        "count": 3
+      },
+      {
+        "id": "rtx",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "rheinmetall",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 22
+      },
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "drone_warfare",
+        "count": 2
+      },
+      {
+        "id": "defense_budget",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 295,
+    "dup_title": 146,
+    "too_old": 59,
+    "gate1_blocked": 35,
+    "gate2_blocked": 14,
+    "passed": 41,
+    "pass_rate": "27.5%",
+    "gate2_block_rate": "9.4%",
+    "gate2_samples": [
+      "RTX Corporation: More Missiles And Higher Commercial Maintenance Trigger Premium Price Tag (Rating D",
+      "Marvin & Palmer Associates Inc. Sells 19,049 Shares of RTX Corporation $RTX - MarketBeat",
+      "Campbell Newman Asset Management Inc. Sells 11,344 Shares of RTX Corporation $RTX - MarketBeat",
+      "Glenview Trust Co Purchases Shares of 120,689 RTX Corporation $RTX - MarketBeat",
+      "L3Harris partners with NASA on telescope set to transform view of space - Spectrum News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 35 則事件，焦點為韓華航太、Palantir Technologies、RTX相關動態：「Japan seeks record $56B defense budget amid military buil...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Japan seeks record $56B defense budget amid military buildup - Anadolu Ajansı（國防預算、財報、國防航太通用）",
+        "level": "red"
+      },
+      {
+        "text": "Japan seeks record defence Budget as Takaichi plans buildup - The Business Times（無人機作戰、財報、國防航太通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 295,
+  "dup_title": 146,
+  "no_date": 0,
+  "too_old": 59,
+  "gate1_fail": 35,
+  "gate2_fail": 14,
+  "passed": 41,
+  "gate2_samples": [
+    "RTX Corporation: More Missiles And Higher Commercial Maintenance Trigger Premium Price Tag (Rating D",
+    "Marvin & Palmer Associates Inc. Sells 19,049 Shares of RTX Corporation $RTX - MarketBeat",
+    "Campbell Newman Asset Management Inc. Sells 11,344 Shares of RTX Corporation $RTX - MarketBeat",
+    "Glenview Trust Co Purchases Shares of 120,689 RTX Corporation $RTX - MarketBeat",
+    "L3Harris partners with NASA on telescope set to transform view of space - Spectrum News"
+  ]
+}
