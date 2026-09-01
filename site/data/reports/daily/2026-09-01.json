@@ -1,0 +1,268 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T12:56:30.234751Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rheinmetall-2026-09-01-012",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Rheinmetall stock consolidates after record Q2 as guidance cut tempers defense boom - AD HOC NEWS",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOV2ZNMmFpZlBGel85Wm1qdlhwaXB0c0FiZEVvODUwcG1yNTJveURaQzJDSTJ2V1V4TDRBSnR6MVBnby12S01SZjJrYlNWdV9uOWJLdHpQeVVtX2ZFMTFqZ2UzQXFJalpSVnlVbVpfSGdWc1lQRWlDRHU3TVk5MmpvZnRzbndLY3BxcW9KTWc3Wm10TnlTa01SNnhxQmJ2eXEyeXNvdlNteVBaX01vVm9CSFdWUjBiNzNtWkhFS2NJNHdOalBGOEtUNEFpVTQ2UQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-01-041",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Tokyo seeks record defense budget with focus on AI, drones amid 'vigilance among regional countries' - Global Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "defense_budget",
+        "drone_warfare",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yaTAyd1BfeVo2VGNWSjBaMWI2NTAxMFJuLXFmOUdlYlRZSWVGY19zWExfQ19UUGdjMERhUUhlSWZUdlc2NEMxWTFtT05objg5TncyRm5weWNIUDlpdFVwRl9n?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rtx-2026-09-01-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Proficio Capital Partners LLC Purchases 7,758 Shares of RTX Corporation $RTX - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcVB4WkU4a2RoUy0tbC11eWVxeFgzalJWaDFGbUQ2N3o4VFNxdms0VVo1VzEyMGZtaFZaa2xjTFE5Q29fQkpQVE9yZkFNQ1NST1lUbWVZQjViSjZuZzdJSkF1SUhGUXZEZnhkemktYUFtRmxPcTBiS1d6S0V3VEZMQV9uZlhtX2VkZWdid1kwSVBuODctcmtTRHMwSWNYZnAtS0hUM3dFZkFOUnRtcG0wbTY0WmFXSE44NzJYOGpJaHRQY1hZaEFCWUV2U3FKeFJ5?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rtx-2026-09-01-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Chairman and CEO to present at the Morgan Stanley 14th Annual Laguna Conference - marketscreener.com",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNWw3cUtJVU9LeWQtMjBZa002bXFOanJVRGs5cGRwZlhUanQwZktKMC1oYks3TnNzMmR6TUhUWVZHcjQyUW1IWWRZa3ptdWdhUzlzWlBlZTA2VVd6UXlrRlU2dnYwaGhBQUs1VFNFd3JWLVlPTG9UeEtjeWFpUmNTQnVVeTFJXzlkRVpWeVNHOXJFa0h2d1ltQ3IwWVlzdFluZFNNTldHLW91UmJwdUJpRzhZSWpXZVdNdGRWQ2dfaXRaTGsxaURwSzV1VzgyZGJ1anc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "l3harris-2026-09-01-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris stock steadies as new CEO and missile contracts shape outlook - AD HOC NEWS",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYXFsQzV5NUhTTkRmbFZMYzZocTJTTVI3bXhwbkFFX1NLMHpRbVdkNUYxTVlXYklWTS1QRW9JcVpXQ2VsSmRvbzNxdGJyRzhhbTRTQTV3dGZScXRMZlkwdU8tajdtRmxVaGNyQUUzdldPb202em5qajNLel9nRE1wUlhNNkpXMzhEYzBockxqMGctS1djY21QS0V3azlvYlZ5Y1RWVTMxX1BEMXJWVTdCNnh4UVJDdG1SbV9yZ0lleUlOYXBFYm04Mmh4cWtwUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 27,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "defense_budget": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.67,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.21,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "missile_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 41,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 37,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rheinmetall",
+        "count": 11
+      },
+      {
+        "id": "elbit",
+        "count": 8
+      },
+      {
+        "id": "palantir",
+        "count": 5
+      },
+      {
+        "id": "l3harris",
+        "count": 3
+      },
+      {
+        "id": "rtx",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 27
+      },
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "defense_budget",
+        "count": 3
+      },
+      {
+        "id": "drone_warfare",
+        "count": 3
+      },
+      {
+        "id": "missile_defense",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 293,
+    "dup_title": 127,
+    "too_old": 58,
+    "gate1_blocked": 29,
+    "gate2_blocked": 17,
+    "passed": 62,
+    "pass_rate": "37.3%",
+    "gate2_block_rate": "10.2%",
+    "gate2_samples": [
+      "RTX Corporation: More Missiles And Higher Commercial Maintenance Trigger Premium Price Tag (Rating D",
+      "Marvin & Palmer Associates Inc. Sells 19,049 Shares of RTX Corporation $RTX - MarketBeat",
+      "Here's Why RTX (RTX) Fell More Than Broader Market - Yahoo Finance",
+      "Campbell Newman Asset Management Inc. Sells 11,344 Shares of RTX Corporation $RTX - MarketBeat",
+      "Bronstein, Gewirtz & Grossman, LLC Encourages L3Harris Technologies, Inc. (LHX) Stockholders to Inqu"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 41 則事件，焦點為萊茵金屬、艾爾比特、Palantir Technologies相關動態：「Rheinmetall stock consolidates after record Q2 as guidanc...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Rheinmetall stock consolidates after record Q2 as guidance cut tempers defens...（財報、國防航太通用）",
+        "level": "red"
+      },
+      {
+        "text": "Tokyo seeks record defense budget with focus on AI, drones amid 'vigilance am...（國防預算、無人機作戰、財報、國防航太通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

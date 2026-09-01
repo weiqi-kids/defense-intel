@@ -1,0 +1,16 @@
+{
+  "total_raw": 293,
+  "dup_title": 127,
+  "no_date": 0,
+  "too_old": 58,
+  "gate1_fail": 29,
+  "gate2_fail": 17,
+  "passed": 62,
+  "gate2_samples": [
+    "RTX Corporation: More Missiles And Higher Commercial Maintenance Trigger Premium Price Tag (Rating D",
+    "Marvin & Palmer Associates Inc. Sells 19,049 Shares of RTX Corporation $RTX - MarketBeat",
+    "Here's Why RTX (RTX) Fell More Than Broader Market - Yahoo Finance",
+    "Campbell Newman Asset Management Inc. Sells 11,344 Shares of RTX Corporation $RTX - MarketBeat",
+    "Bronstein, Gewirtz & Grossman, LLC Encourages L3Harris Technologies, Inc. (LHX) Stockholders to Inqu"
+  ]
+}
