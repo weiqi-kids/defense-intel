@@ -1,0 +1,235 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T12:26:34.281976Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "l3harris-2026-09-02-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Shield AI expands Tracker C-UAS integration with L3Harris VAMPIRE - Unmanned airspace",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQamJFcmZfazZxNHYxcGFpSTMxZGVfcl9hSGk5SG5URDY0eWNxVERkdXp5TUZuSV9KTE5vVlAtVUtlTUo4ZlF1Q0tFZk9BdnUzVDk2OTU5VXpIcE54U2M5eFZvemtiWUVObzNqcFBtY3JVclhKWnVhT0prVmNxODNuY3RBSVhkSTBTaVBNVm01WUZMNGt5Q3hYU1lqd1lLS053aVhOWFY5a3BUME4zb2NzWUlZNzRuVkdyYkpRX19jQ1lxYWhaeVFz?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-02-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Marotta Controls Selected to Support Next Generation Jammer – Low Band Program for the U.S. Navy - Yahoo Finance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM0dKeWNSYnMzLWExZU4tbkMwRVNMcXlwN3FqNmJ5bnB0Zi1SS3hZQk40bkVTU0ZuMi1PUFFTcVI3UXFlc1VXN1JtVU4tZ1IzTndfaW1DQ2ViV2hKWFVmSGR2Q2l5Ul9xcnNDd3RKQ2I2SFRsMXFOVFl2WTMzcXFCMGFCWnVGdVMxa3FpcVM4MVZQZ05XQkZ1d3IyYUhIV3JD?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-02-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "LHX DCF Analysis: Intrinsic Value $186 vs Price $264 - GuruFocus",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZVctYjdvVTM0TDZSRFZyM2VTTF82MEhvc0hwVjN0VUp2Rjh6V2pZWnNGcUFPLWQ1OVVDdVVnTG9rZTBTcnBnaEZVc0tFTmtUNkdZRlk0cFpKUjZpTk5rcC0tRjNkLTRuUFZzVzY4eVNEMm1rSnlUb2xWRFhfREFsaTNCakdpal9uamRqckxCZkpGQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rheinmetall-2026-09-02-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Rheinmetall Secures Award From Kongsberg Defence & Aerospace For MCT-30 Turret Machined Components Supporting USMC ACV-30 Program - ASDNews",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMDRZeEREZ3kyYjI3WGVnZHB0YUtBbXpFX0FjTzBTMjBwNFJwcnc0RDhsaGVYS01vQ3h4VEJyY3NMa0tSeUlTY3M3dXBaRHQtaDREdU5nSUYzMkt6YVBwbm1GaEt0NFhDN2ZwYnc1RV9PbjR5Ri1rMFF3dmdwZnhXN3c3Ny1SRVVKbE8yRUdqUUNRdDhGZnpnRkZXRWNYc013SUF1bW1oa2pQUUhVTnNqMWJZbzAzNm16Rk15T2tYbDVYWUNoTzJCOE5XT0NrY0ZvWVM5Uk5WSndmdFF5d05uLTdmU0tiMzF4enFFamNaa1c4VGhmclFlbThNdWkxczlsV1hr?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rheinmetall-2026-09-02-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall Delivers First Lynx XM30 Prototype to US Army - The Defense Post",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94OHVycVR4MG5HMzdXV1ZUMExYUmROempaM1NYbmlZX09rUWR2Z0RPX01zSVBCVThxcWVLZW5ocno5NlRhQ2tBMlBYMWJ2Z3lJQzQzYmd5Wi1RWVZBTngyclVQVmRrSTFWcDNtakRJNGN3aVlYejBfbnpRbXHSAYIBQVVfeXFMTnI5LW9IdmYta2ZkYjJwZGlrOFlsOWVlZjdhbkczbEMzclI4YjgxN2N6Ql9Mc1Zhb2ZjNUIxQ2tpUFZOakdqZWE0NVBFa2hBTG9PSy1EbEwwVlZzelkwaUd6LTBQbDUxVjZTQmpyT1VwT3BrYVBBdU9XcVFwZ0E4ck5Xdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drone_warfare": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 28,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 26,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_aero",
+        "count": 7
+      },
+      {
+        "id": "palantir",
+        "count": 6
+      },
+      {
+        "id": "rheinmetall",
+        "count": 3
+      },
+      {
+        "id": "elbit",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "earnings",
+        "count": 16
+      },
+      {
+        "id": "drone_warfare",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 292,
+    "dup_title": 102,
+    "too_old": 68,
+    "gate1_blocked": 29,
+    "gate2_blocked": 17,
+    "passed": 76,
+    "pass_rate": "40.0%",
+    "gate2_block_rate": "8.9%",
+    "gate2_samples": [
+      "RTX Corporation: More Missiles And Higher Commercial Maintenance Trigger Premium Price Tag (Rating D",
+      "Marvin & Palmer Associates Inc. Sells 19,049 Shares of RTX Corporation $RTX - MarketBeat",
+      "RTX Corporation $RTX Stock Position Lifted by Nissay Asset Management Corp Japan - MarketBeat",
+      "Glenview Trust Co Purchases Shares of 120,689 RTX Corporation $RTX - MarketBeat",
+      "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Increases Position in RTX Corpo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 28 則事件，焦點為韓華航太、Palantir Technologies、萊茵金屬相關動態：「Shield AI expands Tracker C-UAS integration with L3Harris...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Shield AI expands Tracker C-UAS integration with L3Harris VAMPIRE - Unmanned ...（無人機作戰、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Marotta Controls Selected to Support Next Generation Jammer – Low Band Progra...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

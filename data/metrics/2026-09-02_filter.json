@@ -1,0 +1,16 @@
+{
+  "total_raw": 292,
+  "dup_title": 102,
+  "no_date": 0,
+  "too_old": 68,
+  "gate1_fail": 29,
+  "gate2_fail": 17,
+  "passed": 76,
+  "gate2_samples": [
+    "RTX Corporation: More Missiles And Higher Commercial Maintenance Trigger Premium Price Tag (Rating D",
+    "Marvin & Palmer Associates Inc. Sells 19,049 Shares of RTX Corporation $RTX - MarketBeat",
+    "RTX Corporation $RTX Stock Position Lifted by Nissay Asset Management Corp Japan - MarketBeat",
+    "Glenview Trust Co Purchases Shares of 120,689 RTX Corporation $RTX - MarketBeat",
+    "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Increases Position in RTX Corpo"
+  ]
+}
