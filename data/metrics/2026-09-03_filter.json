@@ -1,0 +1,16 @@
+{
+  "total_raw": 209,
+  "dup_title": 75,
+  "no_date": 0,
+  "too_old": 51,
+  "gate1_fail": 25,
+  "gate2_fail": 14,
+  "passed": 44,
+  "gate2_samples": [
+    "RTX Outperforms Industry in the Past 6 Months: How to Play the Stock? - TradingView",
+    "Marvin & Palmer Associates Inc. Sells 19,049 Shares of RTX Corporation $RTX - MarketBeat",
+    "Northwestern Mutual Wealth Management Co. Has $106.97 Million Stock Holdings in RTX Corporation $RTX",
+    "RTX Corporation $RTX Stock Position Lifted by Nissay Asset Management Corp Japan - MarketBeat",
+    "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Increases Position in RTX Corpo"
+  ]
+}
