@@ -1,0 +1,16 @@
+{
+  "total_raw": 254,
+  "dup_title": 92,
+  "no_date": 0,
+  "too_old": 58,
+  "gate1_fail": 22,
+  "gate2_fail": 18,
+  "passed": 64,
+  "gate2_samples": [
+    "125,961 Shares in RTX Corporation $RTX Acquired by Nykredit A S - MarketBeat",
+    "Pratt & Whitney (RTX) invests in a site in Poland - marketscreener.com",
+    "RTX's Pratt & Whitney Investing $25 Million in Precision Parts Manufacturing Facility in Poland - ma",
+    "RTX Outperforms Industry in the Past 6 Months: How to Play the Stock? - Yahoo Finance",
+    "Here's Why RTX (RTX) Fell More Than Broader Market - Yahoo Finance"
+  ]
+}
