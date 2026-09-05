@@ -1,0 +1,194 @@
+{
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T11:32:42.526758Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "palantir-2026-09-05-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Palantir Billionaire Peter Thiel Just Bought Shares of This AI Stock That’s Climbed 200,000% Since Its IPO -- And It’s His Top Position. - The Motley Fool",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPTG51T2l1YmRZOEx1VEdwWG8xZTlSTmRyVlhQQk5OcnhJSGNhdV93dXdMUWlFdllhbmhINzIwVlZPdDVrQjFpb1RQYUlfY1paS1RHb3J6ZVV0blVnYnpNUHFzR1ZsS3V4X1pmbDdaR1RITlpXUmdfQXhic3QxY2JhQzhuSTVrWGNxRURYa01LTEExWi1VNldRQW0zdVR3VWtINm85MGF1U04yRTA4eC1TcmRRbEZDUHZpeVRRbG9IMktmT2g1b0F5c2ZnV2pQYURudUNadzBPa2J2YVQ3Z1dHN2JYWkg4eWx5eXhYR21weFAyNnlrNHV4ekd2X25CWFYydWRqcA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "elbit-2026-09-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Elbit Systems (NASDAQ:ESLT) Lowered to Hold Rating by Wall Street Zen - MarketBeat",
+      "companies": [
+        "elbit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMTdzdHpIRVVhVjV0NXdnM2Mzb2RybHZBYzY1NXd3b29qYjRlVDN3WWUtNTlkcjQ0X3FVY2xXbHBKdTRMdjV1d2V4MWN2T2EtQjk5Z1BtRV94aHZQM2JiMUJ2VmI0WWFlNU9DWjU5VVF6TlBLTjlHTmYtaG5XdEdSYjNjNFVmZ3pHb2hkQ0JQYV8wdjdlUVFzMjJDVTd5M2dIeGtaY051TTBCcHhINzRoVERtVl9qT2hNTS1RRmF6T2gxb2w3RFF2VQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "palantir-2026-09-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Palantir Billionaire Peter Thiel Just Bought Shares of This AI Stock That’s Climbed 200,000% Since Its IPO -- And It’s His Top Position. - finance.yahoo.com",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVThNRzZVZFVwdGR2eENPM2RmZjJuZXMzT1Z1T0xla2p4cHh5OEt3MG9HR0Vvc1dlZ0NIYzhDeGpDLXg2a3RFQjRfTzBvdHN2V1lxdEs4TjdwU1hXSmZNeW1sdDBDbDIyNm9mX01zX3lFaV9mSGNxbk42bTU4YTlMal9sMWlEclhyODR1RFZpQjlsME53a2gzSGZJbDVENU5GMFRJ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "palantir-2026-09-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Palantir Won a $127 Million Army Production Order and Still Fell 6%. Is the Valuation Finally Catching Up? - finance.yahoo.com",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZmpLeV9kNTlLSVlJNzlWZFlBY05tV1Roc1liRlZTWHh4TFNpU3FIaDBxRjJkV1VoTUtGVW10Y2ctN0tKZ1FEVlI3V09ES0FkREY2X3kxbXlqeW5LN3BEUVZOaUdQLTJpYTRheUFRZVBNbGo2Vlhjemp2T1pMSnFvM08zdWRoZnBXSnctM1Q0YWIwQXVzTHhveEdB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-05-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ukraine asks EU to fund first Patriot missiles buy",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "missile_defense"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/09/05/ukraine-asks-eu-to-fund-first-pac-3-patriot-buy/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "missile_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "palantir",
+        "count": 3
+      },
+      {
+        "id": "elbit",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "missile_defense",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 273,
+    "dup_title": 107,
+    "too_old": 76,
+    "gate1_blocked": 22,
+    "gate2_blocked": 19,
+    "passed": 49,
+    "pass_rate": "29.5%",
+    "gate2_block_rate": "11.4%",
+    "gate2_samples": [
+      "TD Waterhouse Canada Inc. Trims Position in RTX Corporation $RTX - MarketBeat",
+      "125,961 Shares in RTX Corporation $RTX Acquired by Nykredit A S - MarketBeat",
+      "RTX Outperforms Industry in the Past 6 Months: How to Play the Stock? - finance.yahoo.com",
+      "Northwestern Mutual Wealth Management Co. Has $106.97 Million Stock Holdings in RTX Corporation $RTX",
+      "L3Harris Technologies stock hits 52-week low at $258.43 - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為Palantir Technologies、艾爾比特相關動態：「Palantir Billionaire Peter Thiel Just Bought Shares of Th...」。主要關注主題為財報、飛彈防禦，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Palantir Billionaire Peter Thiel Just Bought Shares of This AI Stock That’s C...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Elbit Systems (NASDAQ:ESLT) Lowered to Hold Rating by Wall Street Zen - Marke...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

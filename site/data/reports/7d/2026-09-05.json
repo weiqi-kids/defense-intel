@@ -1,0 +1,147 @@
+{
+  "date": "2026-09-05",
+  "date_range": {
+    "start": "2026-08-30",
+    "end": "2026-09-05"
+  },
+  "generated_at": "2026-09-05T11:32:42.665010Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-08-31-032",
+      "date": "2026-08-31",
+      "title": "Japan seeks record $56B defense budget amid military buildup - Anadolu Ajansı",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 85,
+      "last_week": 66,
+      "week_over_week_change": "+29%",
+      "sentiment_this_week": 0.07
+    },
+    "industry_general": {
+      "this_week": 79,
+      "last_week": 57,
+      "week_over_week_change": "+39%",
+      "sentiment_this_week": 0.07
+    },
+    "drone_warfare": {
+      "this_week": 10,
+      "last_week": 17,
+      "week_over_week_change": "-41%",
+      "sentiment_this_week": 0.25
+    },
+    "defense_budget": {
+      "this_week": 4,
+      "last_week": 5,
+      "week_over_week_change": "-20%",
+      "sentiment_this_week": 0.75
+    },
+    "missile_defense": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rtx": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 5
+    },
+    "l3harris": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 6
+    },
+    "rheinmetall": {
+      "event_count": 24,
+      "sentiment_avg": 0.04,
+      "rank": 3
+    },
+    "palantir": {
+      "event_count": 26,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "hanwha_aero": {
+      "event_count": 26,
+      "sentiment_avg": 0.04,
+      "rank": 2
+    },
+    "elbit": {
+      "event_count": 13,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 337,
+        "last": 264,
+        "change_pct": 27.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-30",
+      "event_count": 13,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-31",
+      "event_count": 58,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-09-01",
+      "event_count": 101,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-09-02",
+      "event_count": 68,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-09-03",
+      "event_count": 42,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-04",
+      "event_count": 50,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-09-05",
+      "event_count": 5,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-30 ~ 2026-09-05）共 337 則事件，重點為「Japan seeks record $56B defense budget amid mil...」。財報、國防航太通用、無人機作戰為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "RTX",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "萊茵金屬",
+        "reason": "本週出現 24 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

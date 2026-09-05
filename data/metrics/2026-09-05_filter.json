@@ -1,0 +1,16 @@
+{
+  "total_raw": 273,
+  "dup_title": 107,
+  "no_date": 0,
+  "too_old": 76,
+  "gate1_fail": 22,
+  "gate2_fail": 19,
+  "passed": 49,
+  "gate2_samples": [
+    "TD Waterhouse Canada Inc. Trims Position in RTX Corporation $RTX - MarketBeat",
+    "125,961 Shares in RTX Corporation $RTX Acquired by Nykredit A S - MarketBeat",
+    "RTX Outperforms Industry in the Past 6 Months: How to Play the Stock? - finance.yahoo.com",
+    "Northwestern Mutual Wealth Management Co. Has $106.97 Million Stock Holdings in RTX Corporation $RTX",
+    "L3Harris Technologies stock hits 52-week low at $258.43 - Investing.com"
+  ]
+}
