@@ -1,0 +1,220 @@
+{
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T11:52:34.551781Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-09-06-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Corporation stock gains on stronger Q2 results - AD HOC NEWS",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUGpiVXZ1NjhYTlI5SWViOXh2NGdhMVljSGRRT2lMa0JBbWJmMXdNY216ODdKSEg4UThPQS0wQlBDalVPbXJBR3RueFFXdDdnR3FkZ3hTbzlwdUxkdTV5OEc1azNvQnRVNENMa3RWRHpOcEJIZGY3WXFzSDZjNXFIY0c2WnBoalFObXVTX0VVbHRtUUZsUnVzMlFKSWpkNi1DbjJKTHRHMjc3bXY5M3g4NW83cw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rheinmetall-2026-09-06-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall expects €12.4 billion from Germany’s Arminius plan for up to 5,500 Boxers, with potential value reaching €77 billion - Defence Industry Europe",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbEk1aTllUFlvVTdpSTRudWhsNFFUNHVfZWdJcTNNcVExQUJIcWI2VzNsbER6bU5sMXgtdzFzRmt1S3FTc205U3ptNGg2MHUtb0Z5ZzdsM2YyYVVNZGlISktpeGJVcW5OU1RZQ0tkWG9EMzFoRWtXR3ZHYkU1WW05SExwUEtwcUpUNEVuQnZEVEJiTGNVXzQ2aTZBLXB5S084dEVvc2JQb2RhWEZxZFA1bWktTzdncUh0aEJmTGp3VnBNR3dJNk9XVWZJLXUxVG55a0xkLTg5UENIc09rM2xPVnExZENrUGd3X2c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hanwha_aero-2026-09-06-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha Aerospace Supports Career Exploration for Children of Fallen Soldiers, Police Officers, and Firefighters - 아시아경제",
+      "companies": [
+        "hanwha_aero"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QQ2pfTThBZWhyWk5faHZEaWctYlJrM1hZSE96Wl9yX0hpazZkMmw1VjVwb2hOcmpMUmR0bEVYcFkzcmpiNzhMQ1dTVW1jZ09vdmlIRGtMYlFxY0NRZUV1VXVmemo?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "palantir-2026-09-06-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Palantir AI Growth: Q2 Results, AIP and PLTR Risks - techi.com",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBab0Yzc1g1SFJvWUdJRzFjQ0xRMUhYYWNTUVdGdHRrM1BmcmhXblZRSm1tUXgyUUJaNHRuRzJBNHlnNGFDUG9KRGlWQkw3SGNQV1pPTWdGaHFkS1RaOGdqeTJHNGt1VnQyOTRJaEpjWmVUVnBE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "palantir-2026-09-06-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Michael Burry Says Palantir's $432 Billion Valuation Could Fall Below $100 Billion - Startup Fortune",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR2hhYjNVV2tncWpQeExqMzQ4TnhfNE9sWUVGTDJvWDBjcTIzRVoyb3lqakNkeUpMVktkejUzTUVFZ1pwMy1iQldJQW1ta2ZRblJ2LXhIZzZfNUZtSTRxUU1mellRa0llVW5vMUtPaEhTWXl2T1ljWHJVVlBMMW5aT3ZOdDVWMHdNMWNtSnpORWNueHJMTW9ENE9aY0tzYXRoeUJ2V2NlSWVuVDQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_aero",
+        "count": 3
+      },
+      {
+        "id": "palantir",
+        "count": 2
+      },
+      {
+        "id": "rtx",
+        "count": 1
+      },
+      {
+        "id": "rheinmetall",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "industry_general",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 287,
+    "dup_title": 138,
+    "too_old": 71,
+    "gate1_blocked": 23,
+    "gate2_blocked": 20,
+    "passed": 35,
+    "pass_rate": "23.5%",
+    "gate2_block_rate": "13.4%",
+    "gate2_samples": [
+      "Compass Financial Management LLC Invests $1.19 Million in RTX Corporation $RTX - MarketBeat",
+      "How Is RTX Strengthening Growth via Advanced Aircraft Interiors? - Eastern Progress",
+      "William John Sempolinski Invests $1.48 Million in RTX Corporation $RTX - MarketBeat",
+      "125,961 Shares in RTX Corporation $RTX Acquired by Nykredit A S - MarketBeat",
+      "Here's Why RTX (RTX) Fell More Than Broader Market - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為韓華航太、Palantir Technologies、RTX相關動態：「RTX Corporation stock gains on stronger Q2 results - AD H...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "RTX Corporation stock gains on stronger Q2 results - AD HOC NEWS（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Rheinmetall expects €12.4 billion from Germany’s Arminius plan for up to 5,50...（財報、國防航太通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

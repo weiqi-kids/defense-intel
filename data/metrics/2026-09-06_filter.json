@@ -1,0 +1,16 @@
+{
+  "total_raw": 287,
+  "dup_title": 138,
+  "no_date": 0,
+  "too_old": 71,
+  "gate1_fail": 23,
+  "gate2_fail": 20,
+  "passed": 35,
+  "gate2_samples": [
+    "Compass Financial Management LLC Invests $1.19 Million in RTX Corporation $RTX - MarketBeat",
+    "How Is RTX Strengthening Growth via Advanced Aircraft Interiors? - Eastern Progress",
+    "William John Sempolinski Invests $1.48 Million in RTX Corporation $RTX - MarketBeat",
+    "125,961 Shares in RTX Corporation $RTX Acquired by Nykredit A S - MarketBeat",
+    "Here's Why RTX (RTX) Fell More Than Broader Market - Yahoo Finance"
+  ]
+}
