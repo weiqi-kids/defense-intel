@@ -1,0 +1,253 @@
+{
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T13:51:46.004156Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-09-07-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX stock holds firm after July earnings beat - AD HOC NEWS",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZnJaXzJqaFhENHlGamMwUW9jNWhuOEFrdVU0aTB5XzVqZ205QTJUa2loeXI5d3RvZ0VTMWR1VWpSbzdJcXNBT2RXUVhicEM1QzkwejdMUHdCRVpUaHpETTRiYXA4eEltc3ZoOGhnOTBuOVJpMjRqcDlyVGNBVXJaSmwyb29UQUsyOE9sOGNUZnZyUVprRFIzOUxkcU9Jb1FHZkFEUzlteGRwTk5G?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "l3harris-2026-09-07-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris: The Essential Pieces Behind Modern Warfare - Seeking Alpha",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWTZmSzBuckZMQjNnX2M1aUtES1pCTmNKNFdZcEttR00zVXY5RzBsLUU0d1ZMcHJSSWxpU1hsZkVWWnoxQ29TczYzUmZnYmgtaUFiemRET3BVOGt3YjEybXFyRmJxZ3VUc3huVWQ1RzdTR1lDNEJ1c1pnX1ctdXJwUFkzSkRJVS1GRXpCWGptdXc4dTU2cHBB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rheinmetall-2026-09-07-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall Canada wins US Navy MSU-200NAV spare parts contract - NavalToday",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRGZxZzFVNmRQQlBSdmFGLTJJa0lUZFVYbGFSRTVOZFZKOVd1RUpRbDZ4LWtUd2x6RjU0Sk5SX0QwZkZEcXBab214OVlqLWpvaWtTQno5SWtQekxkblg1Njl4a2NKMTdMT0hFYmtHMjluMEhNUkJ1Q1c1SVZVMTBQcjU1QnlsTlNEeXhYOWhfcFNLYlhzNmlFN3ptcnpqQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hanwha_aero-2026-09-07-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha Aerospace Offers Defense, Space Career Program for Children of Fallen Heroes - thelec.net",
+      "companies": [
+        "hanwha_aero"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53NmxwdV9xcFlwZFQtaTUxc3FLYXRHTHFFNFpNWkU3eFdqZFFFQ29rbXJxYzd0OEZHU1hUV0RkNlVBcGdZek9kQ0Y3Q0JUdHdtLVczemowUUNvekppZlQ3b1A4S2llVGM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_aero-2026-09-07-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "South Korea's Hanwha Aerospace Begins Mass Production of Arion-SMET Unmanned Vehicle with $36.9 Million Initial Contract - finance.biggo.com",
+      "companies": [
+        "hanwha_aero"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Ra2NaUHN0QmZMUVJ6Y01fOEZlUzlPcFhlNHJ3S0oxTW9rTGtSamM2U1Jsa0VOeHVnWnlpdXZmZFlrb3dDTUlBRHpWdGJ4cUh5UTRRRU1NZjR1UnNJVllxMkhkNUJJQ1ZSZDhZX3RjQ015MFVwaFE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "missile_defense": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 14,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_aero",
+        "count": 3
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "palantir",
+        "count": 2
+      },
+      {
+        "id": "rtx",
+        "count": 1
+      },
+      {
+        "id": "rheinmetall",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 10
+      },
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "missile_defense",
+        "count": 3
+      },
+      {
+        "id": "drone_warfare",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 287,
+    "dup_title": 139,
+    "too_old": 71,
+    "gate1_blocked": 22,
+    "gate2_blocked": 22,
+    "passed": 33,
+    "pass_rate": "22.3%",
+    "gate2_block_rate": "14.9%",
+    "gate2_samples": [
+      "RTX Corporation $RTX Shares Sold by HighTower Advisors LLC - MarketBeat",
+      "Amundi Raises Stock Position in RTX Corporation $RTX - MarketBeat",
+      "How Is RTX Strengthening Growth via Advanced Aircraft Interiors? - Eastern Progress",
+      "California State Teachers Retirement System Boosts Stock Position in RTX Corporation $RTX - MarketBe",
+      "Compass Financial Management LLC Invests $1.19 Million in RTX Corporation $RTX - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為韓華航太、L3Harris Technologies、Palantir Technologies相關動態：「RTX stock holds firm after July earnings beat - AD HOC NEWS」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "RTX stock holds firm after July earnings beat - AD HOC NEWS（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "L3Harris: The Essential Pieces Behind Modern Warfare - Seeking Alpha（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
