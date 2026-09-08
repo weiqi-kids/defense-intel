@@ -1,0 +1,239 @@
+{
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T12:28:47.773146Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-09-08-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "RTX Corporation stock holds near 200 dollars as investors digest record revenue and guidance - AD HOC NEWS",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOTFMaTNHamxQUFJRU0cyQkVxcFNha1hjenFNdjJlV0ZBV2xxUTVWQkJDckhBWVBoOV9ibF9aNUYxeUxCdmplZHdWcjVtcjJoYUtWSlpUUk9mRVVwZXl1endaQlZoLU5hRXk0UGRDN0lERnNHaEtraVFwZHdMZUlRX29pWmQzeEpRa21OaHo1RXFpOGJCTzdOUzRmeENVX1kxN2xKV3hKVWp6X3l0aDFpcXBOU2k4VGt5SC1TNWNrd25yZmpJWUVlaU1HY1dEQTQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "palantir-2026-09-08-014",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "What Is Palantir (PLTR) CEO Alex Karp Warning About In AI Security? - simplywall.st",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOTNYYnRTVVVrUmxRYkJkLXRQanVDUmVOR085UjdDYlExanYyT0QzZzJCcHNjcXZtTjRoUFJIMmc3TGM1UUJmT0h4cEhQcG9YUGNLYWtXNjhZUVJ2WDlZVktrTzIzZWZvV0VNcVQ4VC1mUExNUGJwSHZMek1EalBlZ1FZNnhGNjA1SktPM3p0ZVZZcWVGa3o1Y2hMaDMySlpIal9ueVJWYTdrRkhhbEhhTmxyZEVnR2psWThVNE0zWUpmN3NxaEtwbXdRb0E5S0g4djBZVGRfNNIB3AFBVV95cUxQRllVd2xrc0JFV1FpNU4xV1E4RHFSSUE2ckVfVTR6ay05OTVmY1N5aDJER1E5UFlDd2s0allSRWJkc0hwb3RGZTU5VW43U1JkbmJpSHpLbGJCb1Nob2o3a3J2VEc1XzdoUmszZUo5dzJGYmhzM3o1TWsyU3JIeVN2Z194T19mLW1EWEpkc21RSTVJZmNnOTJpOE9DZ2g4MGhyTHhTR2ZGTDkwQ0tuUkxkRmMyb2NNZm5fNVJmZUplSThiRHRQTWpqT3hRSm5tWldZbWFzekZBM2xYUjBM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rtx-2026-09-08-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Anchor Capital Advisors LLC Sells 7,564 Shares of RTX Corporation $RTX - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRmJyb2hOTEtZTEN5d1NxOTJOVmRTazlyaDB4QzZNMXc3MFRVN1VhQ3V3alF1ckdpYlFNSzJlMXg0Smdnd0NrRm9ZVGxQY1I2NVp3R2F2ODB6djczVGhRQWNUN2RBYXR0OEg5TkREUHFVTFZHTWlYVzYycGt2Z05WUTJtdGlXQTVtbmFieUlvVDBoNnJ4UU01YWV5RFJVTTg1MHJaN2lzRnRCdEFKNjBsRURHTE9hcUlaX25FdUNJRm9WUEpiUWdWRA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rheinmetall-2026-09-08-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Rheinmetall Delivers First Lynx XM30 Prototype to U.S. Army for Testing - Overt Defense -",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVXVaanhRX1JyVzRfUXBaa1RPY0NMblAxNmg2YkhNWkZGcnhCNHA4X2Y5UFFVd2x3S2lzQWZuSnl0cU1wcVpENDRjeTFDNkJjT1NzcGZMM2VKcUdfc3dOaUxQQ3hadkRwUGNSX1VKamI4QnFZamtzaml2ZUFHU2lUMWRPUl9XVnd0bHRaanlMMHRNanI0ZTQ5MGVRN0NyVDIxel9kN2ZyY1VsenVkeW5haTBlT0g4Y0pNTXYwcA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "aidc-2026-09-08-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AIDC wins 20-year Bombardier contract to expand business jet work - digitimes",
+      "companies": [
+        "aidc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTExFY3E3X3JSRTJRTTVDZ1REb09lOWEzeS1kU09DTGJFTER1Q242bTJITnFBMTAxS0EwbVVHMjByMHJYR3h4bmN2RUJIQ2FIQ2xMM3g0QnVCNjNmOXJfZ2xTU0V4djhZZ0xYanFBRnllR1BHY3A2QXVkSGthLWZBUGttRQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 15,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "palantir",
+        "count": 5
+      },
+      {
+        "id": "rtx",
+        "count": 2
+      },
+      {
+        "id": "rheinmetall",
+        "count": 2
+      },
+      {
+        "id": "aidc",
+        "count": 1
+      },
+      {
+        "id": "hanwha_aero",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 11
+      },
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "drone_warfare",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 143,
+    "too_old": 63,
+    "gate1_blocked": 21,
+    "gate2_blocked": 22,
+    "passed": 37,
+    "pass_rate": "25.9%",
+    "gate2_block_rate": "15.4%",
+    "gate2_samples": [
+      "How Is RTX Strengthening Growth via Advanced Aircraft Interiors? - Eastern Progress",
+      "Amundi Raises Stock Position in RTX Corporation $RTX - MarketBeat",
+      "RTX Corporation $RTX Shares Sold by HighTower Advisors LLC - MarketBeat",
+      "California State Teachers Retirement System Boosts Stock Position in RTX Corporation $RTX - MarketBe",
+      "Compass Financial Management LLC Invests $1.19 Million in RTX Corporation $RTX - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為Palantir Technologies、RTX、萊茵金屬相關動態：「RTX Corporation stock holds near 200 dollars as investors...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "RTX Corporation stock holds near 200 dollars as investors digest record reven...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "What Is Palantir (PLTR) CEO Alex Karp Warning About In AI Security? - simplyw...（財報）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

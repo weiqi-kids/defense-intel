@@ -1,0 +1,16 @@
+{
+  "total_raw": 286,
+  "dup_title": 143,
+  "no_date": 0,
+  "too_old": 63,
+  "gate1_fail": 21,
+  "gate2_fail": 22,
+  "passed": 37,
+  "gate2_samples": [
+    "How Is RTX Strengthening Growth via Advanced Aircraft Interiors? - Eastern Progress",
+    "Amundi Raises Stock Position in RTX Corporation $RTX - MarketBeat",
+    "RTX Corporation $RTX Shares Sold by HighTower Advisors LLC - MarketBeat",
+    "California State Teachers Retirement System Boosts Stock Position in RTX Corporation $RTX - MarketBe",
+    "Compass Financial Management LLC Invests $1.19 Million in RTX Corporation $RTX - MarketBeat"
+  ]
+}
