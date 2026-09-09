@@ -1,0 +1,273 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T12:37:34.203566Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-09-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "22-mile PAC-3 interceptor motors record $4.7B deal to expand Arkansas plants by 2027 - Interesting Engineering",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbGZGdENsVEQ3emZhd29pajlnYzBfVTZWQlpaTU5sLVBodDFNVURpSFpJbWVEeU1iUTBVdHktQmFSX3p3aFFJd0lpWWpyaVBJM2J3ak9WdFAzR3FlbDEtcnFQQjMwRVNYSGFSLXQ2Q0lnT253UzNxTkJIQjcyZnN2Z0ZXX0EyQ0hYNmNZ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rtx-2026-09-09-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Integrated Wealth Concepts LLC Purchases 77,120 Shares of RTX Corporation $RTX - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQa2V5S2doUGd5UnpXUzFRcXhPQ2JJcmtLbUpORlBHcXpLVDZFbGxwSkpiSFl5akVBeDFLM0pNTERFaHBEcnZwRTI0bnlqNmVEckh0ZW54blBDdExJbUVsOHoyZ3NjU09ZZjhnbnkwenRqVXFnQUpYT3hLOXBlczVsZC1FV3NtSG5UTGdrb1JabmNuTmhPOFhxQVM1b2h6eG5vVXdvTFM3QmNmLUQ4Yi15YXV4TGNkTURvZnVHVElpcUNraW1nRjMwcUhCQmo3dEJYN0M4?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rtx-2026-09-09-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "VIRGINIA RETIREMENT SYSTEMS ET Al Invests $8.54 Million in RTX Corporation $RTX - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYWRQUHNUd205MzdNVDBib0NibVlnNjUzT2hoVlYwT3FPQ1BXZ2d5LXBMT1V6NWJZQTJ4TXhKVC1vbmJhN09TSEJ2OXNZd2xXMmQwd1VnSWNIUGdja3lieGhhVjFPZFR4bEZtRS1KQzhfa1dyMXF0WGtLSFF5cjFDdnNWT3dPMjMzaXk5MmZQSFdIaVJGV01VLXpyUlB3ZUs2elZEUUNXbmR5QmFDcDlfSUtMNHVWOGM1NWx0Y0RoTkE4NHFiREt6U2YwbmVFaWJqSE0w?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "l3harris-2026-09-09-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Can L3Harris' PAC-3 Award Boost Its Missile Business Growth? - Zacks Investment Research",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNVdPZl9hVmttZHRnVTdrZ1gtQ2pUM0xTNXFoSDRpTGxNVXlUSDNpRkZaRVhPWXZhSkNkWDBIQ1F5ckpWT0lOcF94SXlqdGVzdUZERE1ISUVuOXlMdXl6aVg4eVV1bjUzRGMwX1R3ekVyMlZ4b3Z2Umt1UlFuWGV5S3JTT1paZXNNTkNjY0M2LVp2bTd5NjVlY2R2LWo5OExP?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rheinmetall-2026-09-09-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall releases key Battlesuite interfaces as open source - Rheinmetall",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONnVCcDJXeEFseVlILUVXelg2UktUUGU3NktrVHVBdjN0VU9wTkpZc0VYcE9QZjdNN2FXaGVkUVFJdlpnQ2JoMEpVVlRKVlhkOTNiVG5JZU1IMVZyaEVfeUR4S243UlgyaUVBMEZMVlUzbmtBZjBaaW9sdk42eWpDNkJ5dTRaSHI0N3V2cWhHVEtpQk1OSzhFcXpyeXFGYjdxN3ZySEdjWWF4TmlnRzEyQ2oxY0I?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.15,
+      "sentiment_7d_avg": null
+    },
+    "arms_export": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "missile_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "defense_budget": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 19,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "palantir",
+        "count": 5
+      },
+      {
+        "id": "rtx",
+        "count": 3
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "rheinmetall",
+        "count": 2
+      },
+      {
+        "id": "lockheed",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 12
+      },
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "drone_warfare",
+        "count": 5
+      },
+      {
+        "id": "arms_export",
+        "count": 1
+      },
+      {
+        "id": "missile_defense",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 284,
+    "dup_title": 116,
+    "too_old": 65,
+    "gate1_blocked": 16,
+    "gate2_blocked": 22,
+    "passed": 65,
+    "pass_rate": "38.7%",
+    "gate2_block_rate": "13.1%",
+    "gate2_samples": [
+      "RTX Corporation $RTX Shares Sold by Baird Financial Group Inc. - MarketBeat",
+      "Arizona State Retirement System Has $70.86 Million Stock Holdings in RTX Corporation $RTX - MarketBe",
+      "Allworth Financial LP Trims Stock Position in RTX Corporation $RTX - MarketBeat",
+      "Amundi Raises Stock Position in RTX Corporation $RTX - MarketBeat",
+      "RTX Corporation $RTX Shares Sold by HighTower Advisors LLC - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為Palantir Technologies、RTX、L3Harris Technologies相關動態：「22-mile PAC-3 interceptor motors record $4.7B deal to exp...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "22-mile PAC-3 interceptor motors record $4.7B deal to expand Arkansas plants ...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Integrated Wealth Concepts LLC Purchases 77,120 Shares of RTX Corporation $RT...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

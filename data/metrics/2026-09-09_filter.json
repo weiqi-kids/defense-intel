@@ -1,0 +1,16 @@
+{
+  "total_raw": 284,
+  "dup_title": 116,
+  "no_date": 0,
+  "too_old": 65,
+  "gate1_fail": 16,
+  "gate2_fail": 22,
+  "passed": 65,
+  "gate2_samples": [
+    "RTX Corporation $RTX Shares Sold by Baird Financial Group Inc. - MarketBeat",
+    "Arizona State Retirement System Has $70.86 Million Stock Holdings in RTX Corporation $RTX - MarketBe",
+    "Allworth Financial LP Trims Stock Position in RTX Corporation $RTX - MarketBeat",
+    "Amundi Raises Stock Position in RTX Corporation $RTX - MarketBeat",
+    "RTX Corporation $RTX Shares Sold by HighTower Advisors LLC - MarketBeat"
+  ]
+}
