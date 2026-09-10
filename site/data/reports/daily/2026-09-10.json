@@ -1,0 +1,238 @@
+{
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T12:34:49.513614Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-09-10-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "National Pension Service Grows Stock Position in RTX Corporation $RTX - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU05YWXlncWs1UWZtY0F1NEFudVNCeXNKREtFRHRWX1VqeU5SRVhyQ1RIdHdpaVBUb3ZId245azVkM3FaWFRoRGpleWdoVjhzNzBSOUFnTzNZM3hmREVJSExQUDYtaDRqQU1HMGdyZVMyd0VMSUEzbEV1bnNEcU1QQUhlSzg2LWZNOW10OVNOV0pXUkNxUWFoMHBHXzNocFF6eV8wcDMxS0Y5M3pwOGdGSDdXT0RvRTZ0RDdOQXltYmVlclg4WEM2ZA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rtx-2026-09-10-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Ventures And Xcimer Energy Corporation Enter Strategic Alliance To Develop Advanced Directed Energy Technology - marketscreener.com",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdHdtbUJ3Qk5jSVhPWTB5N3RuUXJ3cFJ6bEhYU2lxdkRvZWgtTHNENENpYlFfR3VCYXc3cUszSy1oZmd6RTNWbllZcVBEVUhKZnppTi0wTFJzTm9pOEJ4X3RIYXBkTkNFWE8xN1E4U1VmWkR4N29ncmVoekw5Y3JmTHl1YlB6X2RkWE1sWUtaak96OFpILW1kaEhIQmtlM045eFA5MDZBS196RUU0Q1Z5QjhGSHhhUUFieTJULTk4M2ZXX1ZMMEdNaWlVQ0hKa21wTWhxV0R3R2JQVjFMWnI0SXhKaEZvaHJh?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-09-10-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris to deliver VAMPIRE counter-unmanned systems to US Navy - navaltoday.com",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmtFS1Z5anFtaUpoY243MjljY3JpOTJjdWlnc3B3LWQ1OWQtelhBNGJjalZRTDYtRmJ5LWctV3Q1YVZnalpoOXVOYk10QnVmSkZ5ZXIxTUtXaThSbmVoaS1DVWszSzNObGpuaVE3alVaZ1J5eUJ3eDV4Yy1ESERudXJEVHZRZzJrbS1Ba2k3SklTOXgyUElacVRaVjRzMHJHZ1M4?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rheinmetall-2026-09-10-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall signe pour Ghost Bat - migflug.com",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OX1VxUks4RzhaVlFNSDdhOE92ell6RnU3dlUtUWJlMkpBZW5sTWt6NjRmRkx4T0Fkc1FDR3BOXzZ5TTZZZVN6MDJCcG5VSzlGamEwY0dxdzRYQ256WnhwZFZMcHlVVDNfYnVlaUZpaWxYR29MN3NaNGRB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rheinmetall-2026-09-10-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall Gets $7.3 Million Order to Supply Unmanned Vehicles to U.S. Marines - marketscreener.com",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbU0wVGxoVFdXVmZCZmRUSVRfWjJTS19uRTRITFB0RGtfNTdSa1ZJbXlOdmFkcV94UmxVTVBId0FGd1RFMmJfTHY4bjhkQU5MQnUycUlzWU1VRld5ckROc3ZDMXFZZFU2c1lpZElQSEFIcGZCa2JpU2RzSGpLeDNLU1M5dW9QYWxMNm52R1hZMkhrcGFTNGUtOWpnZTBGTUxSQ1VWNjMtcEk2QTRNLXJOMVBSYW5qVHNvOVpCYUJYRlFNRmdzT1dmb2Nn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 25,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 24,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rheinmetall",
+        "count": 7
+      },
+      {
+        "id": "palantir",
+        "count": 7
+      },
+      {
+        "id": "hanwha_aero",
+        "count": 3
+      },
+      {
+        "id": "rtx",
+        "count": 2
+      },
+      {
+        "id": "elbit",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 15
+      },
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "drone_warfare",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 283,
+    "dup_title": 103,
+    "too_old": 63,
+    "gate1_blocked": 21,
+    "gate2_blocked": 20,
+    "passed": 76,
+    "pass_rate": "42.2%",
+    "gate2_block_rate": "11.1%",
+    "gate2_samples": [
+      "Sequoia Financial Advisors LLC Has $114.20 Million Position in RTX Corporation $RTX - MarketBeat",
+      "RTX Corporation stock heads into the open after a 0.6 percent drop - ad-hoc-news.de",
+      "Engineers Gate Manager LP Purchases 85,686 Shares of RTX Corporation $RTX - MarketBeat",
+      "RTX Corporation $RTX Shares Sold by Baird Financial Group Inc. - MarketBeat",
+      "Allworth Financial LP Trims Stock Position in RTX Corporation $RTX - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 25 則事件，焦點為萊茵金屬、Palantir Technologies、韓華航太相關動態：「National Pension Service Grows Stock Position in RTX Corp...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "National Pension Service Grows Stock Position in RTX Corporation $RTX - Marke...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "RTX Ventures And Xcimer Energy Corporation Enter Strategic Alliance To Develo...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
