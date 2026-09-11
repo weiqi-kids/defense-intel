@@ -1,0 +1,223 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T12:29:49.057796Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-09-11-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Corporation $RTX Shares Bought by Corient Private Wealth LP - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ3NXenRIVzZXRFprUDdOQl9XcHdHU1BmXzVnQ3NJWEtBX1k0RWJYWHZuX1RVOUItbzVBc2JZZ1d0dEZHWTlNV29mR2VTUVFOYWxMamV2UzZnOWJ6X3FoU28yUHh1M2E0RWR4Wk5XbjBHUC1XNUExQkNodUxsbFRlam1KeW9ZSERoSERCVnRaY0stNkstZTZ1VVQydzBrTzRQcjJ2OVVzVy1KVHRCX25waGR3bHhuMHVKaDRaT1YtNGk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "l3harris-2026-09-11-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why L3Harris Technologies (LHX) Is Back In The Spotlight - simplywall.st",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbXFLbURtRjRtRWRTNG1wRFNpM0hjLTdNbkx2Vl9NUXg0SDRYWFR0RE84NllCalQ2UzVnQW5EU1dsbWwwVGszQWVTVE4xbmdyQ2xRdWxkbXJBaGhWMjVDUGRxMVJ4ZmZ6S2ZkaXFkTTEtWDI5RTg5VWwxbENIV01JY2cwb2Eyc241U3JkNXFRclBPMFhzSWxPZF9tOENLY1pvNVdOVXhLTU1xcHlnY244cnJXTmoxR0luRzBGUnllTl9RejVTYzN1R3gtZjdhalExOGfSAdcBQVVfeXFMT3pLQlNWV3luMnVLMGwzaWxNMmloeEhYVjZ4R1RIWXdIV1NNRFZ2QUF1VGlPcHAzQ1lBWW1JY0xVOXdwaHlDOXJocTY4VHoxTnJfajlWcTB1UDZsVGFSX3QwMVNmcjM3WkM2UTdWTjhxUWpqMFkyREV5LW5JQVNqNWZoOXZQeVdPVlN6STdXdXZTZmVVelF0cWZCMzdjc2YtUFd3RzdSdjJNUTllYVVNdTg5Nk5Hb2VXZ29uSjVFTk5sdFlCUE1YNzd1OWVlSlhfaXRqOTBFOGs?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-09-11-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris Technologies stock heads into the open after a 0.8 percent drop - ad-hoc-news.de",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaVFQZVdISGdWaGhBYzJiTVI2SUVHRU1JeFBtWml3U291dE5mY296dWVwZnhuUnBoM2YtWXdJSWtBOVpLcTBtcnJGV2lqZVlxY2JqcU9hTW5fMzRTMy1QV0EwRy1nc2Q3eDBtVmUtSXhZdGViQVdvaHQtQUJ2X0ZjdElnOGhYRTYzdXlvcUE3VlNaUG02YWJram80X2N0MkNHczZJNzhBclVycnpfV0RsdV9wYUp3M19BNFBQd0dlZzlVejg5QU9acFZjUDJvdHVB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rheinmetall-2026-09-11-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall UK builds the Wolf Pack to meet Britain’s mobility needs at home - Manufacturing Today",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZTQtYjJFMEtRcjNoWTFVZ1FDcjVKZjJzWkJBY09FLVFibkxWd29IX3F3MEhXbDQ1bzVTRVNlY3VOX0Nrc25hV3V4blN4RHZYX3ZkeTlKZE8xa3d6ZVBwN09DNFV0aXctQ1Q5Y2tqc04xd0F5bDU2SFdpcGVIVzBWWXgwRUhJMTdIMkt3MlM2WXRvLVlKTzBmQ19ENG1UX2N4dmd3OGMwMWVYOUp1M1dIcDRxOA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rheinmetall-2026-09-11-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall opens Battlesuite to open source developers - Calibre Defence",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb3lpMW1MdUpub2Z0RmVQeUh4SGduTkl2TUY5Tm43RXNqenBtRW1QUTFvVDBMT2ZVM01LZTdQazNKU3hsQTF3UmRvVFZDakt6cDJvUUJXajBpVVVBQnZvbnRQSkJtUHFvQ3RTTHJJcV8wRFhrVkZPTkZhVWgyeGVUc294RGFYdV91d004SzFIZnctdzA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 23,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_aero",
+        "count": 5
+      },
+      {
+        "id": "palantir",
+        "count": 4
+      },
+      {
+        "id": "l3harris",
+        "count": 3
+      },
+      {
+        "id": "rheinmetall",
+        "count": 3
+      },
+      {
+        "id": "rtx",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 14
+      },
+      {
+        "id": "industry_general",
+        "count": 12
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 281,
+    "dup_title": 132,
+    "too_old": 57,
+    "gate1_blocked": 18,
+    "gate2_blocked": 16,
+    "passed": 58,
+    "pass_rate": "38.9%",
+    "gate2_block_rate": "10.7%",
+    "gate2_samples": [
+      "The Zacks Analyst Blog Highlights Goldman Sachs, RTX, Abbott, NLI and Precipio - Yahoo Finance",
+      "RTX Corporation $RTX Shares Sold by Baird Financial Group Inc. - MarketBeat",
+      "Engineers Gate Manager LP Purchases 85,686 Shares of RTX Corporation $RTX - MarketBeat",
+      "Sequoia Financial Advisors LLC Has $114.20 Million Position in RTX Corporation $RTX - MarketBeat",
+      "Allworth Financial LP Trims Stock Position in RTX Corporation $RTX - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為韓華航太、Palantir Technologies、L3Harris Technologies相關動態：「RTX Corporation $RTX Shares Bought by Corient Private Wea...」。主要關注主題為財報、國防航太通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "RTX Corporation $RTX Shares Bought by Corient Private Wealth LP - MarketBeat（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Why L3Harris Technologies (LHX) Is Back In The Spotlight - simplywall.st（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

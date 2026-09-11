@@ -1,0 +1,16 @@
+{
+  "total_raw": 281,
+  "dup_title": 132,
+  "no_date": 0,
+  "too_old": 57,
+  "gate1_fail": 18,
+  "gate2_fail": 16,
+  "passed": 58,
+  "gate2_samples": [
+    "The Zacks Analyst Blog Highlights Goldman Sachs, RTX, Abbott, NLI and Precipio - Yahoo Finance",
+    "RTX Corporation $RTX Shares Sold by Baird Financial Group Inc. - MarketBeat",
+    "Engineers Gate Manager LP Purchases 85,686 Shares of RTX Corporation $RTX - MarketBeat",
+    "Sequoia Financial Advisors LLC Has $114.20 Million Position in RTX Corporation $RTX - MarketBeat",
+    "Allworth Financial LP Trims Stock Position in RTX Corporation $RTX - MarketBeat"
+  ]
+}
