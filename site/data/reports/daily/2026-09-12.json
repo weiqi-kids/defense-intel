@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T11:52:07.888212Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-09-12-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Corporation $RTX Shares Sold by The Manufacturers Life Insurance Company - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTEhoWi1GOXNQYjJweFlvS0VyUmFZMGlYTGdzQ21kN0dTeGJkS2plZ29SaWUtbmRGdWV3VktyanJLTUhVMmE0dVBCNjB0V3F0V0I1YVNYZGEwb0lBQ01SbF9Mb3JyeVRZLXRWV1VCb255dzhZekRJY0NWOVZkbEJYeEhKZU1ZZVFZd3FQMFdpLWlSNEd4QThjekxjWlMxVjRiMm42ZTl3QkhOcXRHcW4yeVV0bkM2X0FiRDhjZktrbmpYcjBGYm9lR01IOUhmQllaemc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "palantir-2026-09-12-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Palantir Stock Remains Attractive Even After a 50% Rally in August - Barchart.com",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdzdXQlFzNlNiSmhpaU5jMmpiS3JPTG5OYl8zY3pScUVsWC1NcjREMEh6clpQT3Vtc2dQYXRUbkV0MVdjZ0FtdXRKQ19lN0k4X3dHNGZzRU5lUndFRER5ZkM0b0dZcnJrZ1FGTW9PT0RPY3ZoT3pNSzlMdG5hU19mQmoyRTBIQ1poOHlkV0xadmhjOF9JdVhaQ0xIRE44YlN5WUppRktLRzVUVGU2X0E?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "palantir-2026-09-12-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Palantir and Nvidia Are Building a Sovereign AI Stack. Who Captures More of the Economics? - Yahoo Finance",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSzlYbVV0WFhYUlBjdDRkazM0MkpxS2xYbFExM1dhRlh4Wkh1ZC0tTUpocG9ob3BuMEQyc1pmM3U2Y3VXNEJGaHJvVU1QZFJQd2s2UmVHZy1zWVBOanVOX0x1dVFtSnRmWWlydnlpS2R2QUJXckQ4MFZza2VibU9wTjB1UVhOU056T1FqYVlzenc5RklNVHc0U0FKZ2l4NDJVbjY0?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "palantir-2026-09-12-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Palantir (PLTR) Is Building a Competitive Moat Around AI Sovereignty — and DA Davidson Says Clients Are Buying In - AlphaStreet",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWUFzMWp3MkVER21QSUlCRTNGcVFYTnRPM0NIS2E2VjYwN0tLYk1xcDJCVGEtRUhJYVZkcF8xWEh0RlRydnVWSjlMZHExX1BIMXBlaGluVEZsQkdFOU1SQkNEeDdrQ1ZKQzRuc1JyT0hmbFVXUHRfanMzRlpYX2xjOUxqZXFuSXZMWU82eGxqU0VHMlMzQkdaZGd5OWxPVGdUVVNJRFFhOFdxSFFoQTZBZHBzNFBTdGI1b1RhUHlEMXhILWM4ZUN5RG1OOVFtRjZrMFRlc0JB0gHWAUFVX3lxTE5ZQXMxancyRURHbVBJSUJFM0ZxUVhOdE8zQ0hLYTZWNjA3S0tiTXFwMkJUYS1FSElhVmRwXzFYSHRGVHJ2dVZKOUxkcTFfUEgxcGVoaW5URmxCR0U5TVJCQ0R4N2tDVkpDNG5zUnJPSGZsVVdQdF9qczNGWlhfbGM5TGplcW5JdkxZTzZ4bGpTRUcyUzNCR1pkZ3k5bE9UZ1RVU0lEUWE4V3FIUWhBNkFkcHM0UFN0YjVvVGFQeUQxeEgtYzhlQ3lEbU45UW1GNmswVGVzQkE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "palantir-2026-09-12-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Palantir (PLTR)’s CEO Bets his Own Money on Ukraine’s Ousted Tech-Warfare Architect - Yahoo Finance",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWlNpMWtnMmxaNlpUeXQ3eHBtZTNmVUZHems4ZVJ0Ql8tc0FDOEdaMlpZd252ZkhMUl9fTGpHV19kRjdLZnNBSWRhYmljdmxBRHhSSFBPdWdkcEJoRHFWMXBPVE9EOWRuQ01NM0wtSjNQb2NFdjZsSWdGYTBWWjF6VFM3RURJeDlfcW9YZ29NVzhtMnU4dEE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "palantir",
+        "count": 4
+      },
+      {
+        "id": "rtx",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 280,
+    "dup_title": 131,
+    "too_old": 63,
+    "gate1_blocked": 19,
+    "gate2_blocked": 16,
+    "passed": 51,
+    "pass_rate": "34.2%",
+    "gate2_block_rate": "10.7%",
+    "gate2_samples": [
+      "Sequoia Financial Advisors LLC Has $114.20 Million Position in RTX Corporation $RTX - MarketBeat",
+      "Engineers Gate Manager LP Purchases 85,686 Shares of RTX Corporation $RTX - MarketBeat",
+      "RTX Corporation $RTX Shares Sold by Baird Financial Group Inc. - MarketBeat",
+      "Allworth Financial LP Trims Stock Position in RTX Corporation $RTX - MarketBeat",
+      "Arizona State Retirement System Has $70.86 Million Stock Holdings in RTX Corporation $RTX - MarketBe"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為Palantir Technologies、RTX相關動態：「RTX Corporation $RTX Shares Sold by The Manufacturers Lif...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "RTX Corporation $RTX Shares Sold by The Manufacturers Life Insurance Company ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Palantir Stock Remains Attractive Even After a 50% Rally in August - Barchart...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

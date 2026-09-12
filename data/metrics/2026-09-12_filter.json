@@ -1,0 +1,16 @@
+{
+  "total_raw": 280,
+  "dup_title": 131,
+  "no_date": 0,
+  "too_old": 63,
+  "gate1_fail": 19,
+  "gate2_fail": 16,
+  "passed": 51,
+  "gate2_samples": [
+    "Sequoia Financial Advisors LLC Has $114.20 Million Position in RTX Corporation $RTX - MarketBeat",
+    "Engineers Gate Manager LP Purchases 85,686 Shares of RTX Corporation $RTX - MarketBeat",
+    "RTX Corporation $RTX Shares Sold by Baird Financial Group Inc. - MarketBeat",
+    "Allworth Financial LP Trims Stock Position in RTX Corporation $RTX - MarketBeat",
+    "Arizona State Retirement System Has $70.86 Million Stock Holdings in RTX Corporation $RTX - MarketBe"
+  ]
+}
