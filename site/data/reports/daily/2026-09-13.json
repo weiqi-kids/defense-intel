@@ -1,0 +1,216 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T13:01:47.764151Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rheinmetall-2026-09-13-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Rheinmetall stock falls as guidance cut and JPMorgan warning weigh on sentiment - ad-hoc-news.de",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTndRQnNGQWhqYmpIUk5HUm45cF9LcHpXUUNlMnJiQUQtXzhWZDBDWmc3Sk53bEVlTTdkYkdRYVFrODgyRFk3QlVwZVRCNE1wSHMyaUQ1RzJ0bHVJVzhteXdLSUpHT1RBVDlKVVkxcy1nMTRJM3NtZXhqenRkV3lLN1lmMjJGOGxHOFJBVjlMbWZndk9aNklNZnVzRWQwR2JTX2NER1R6d0ZmRTg2eTR2MmY1QmFnYVQtd0E3aUxMcGJqeWYta3FzT2k5bHg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rheinmetall-2026-09-13-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall's Order Book Swells Past €80 Billion as Shares Linger Near a 52-Week Low - ad-hoc-news.de",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYU5aT3UxcGtlNlI4MnJxLUV5TTROOXM5YnFPQ3dKMXJsWkdmSGRXMlNYVVJTb1c4T015Qm1mWW50T1U0V2hsdmpvbzUzbEJFYThnendOT2thVEQ2ZW05MXExTFhZdkwweHFHVlhWWXR3S2xUNkpaWlhsd3hUNjRRcDRKcFZfTUVIZkRZS3pKQ3dzdktxUGdIQUNjWjY3VzRPaFd0dktlQnBjQ3l3QXg4OFNzbW1sTmlhN2RXOENldktTQUY4UDBRUWFuRTkzTzZvZXNQdlVvblpFd3M?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "elbit-2026-09-13-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AfD Links Arms Production to Deportations as Israeli Elbit Eyes German Expansion - Palestine Chronicle",
+      "companies": [
+        "elbit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOTlwTGRrMm5jQ3ZhVjdoUWVZZUdSRDJPU0JSWFpWRlRTcW5ZeVdILVp2dGQ5QWtJOENNR0JSQUJzdEJaTzYxWkJRbTdTZUkza2x2SUZpanJBNHNTdjd5RFNZUjh3eHVqclBXMWs1U2x1eEdnY0ZsMDEwVmNFTGQtdXF1Z1dsVE4wSEpJcVQyX3JvTGdQSExsZktQZ181T25FQ1R1Y2tLS0k0NmNYbllta2ZSRWxBdUk?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "elbit-2026-09-13-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Elbit Systems America Renames Itself Twenty-Six Defense - israeldefense.co.il",
+      "companies": [
+        "elbit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16UGNzS2RtbmpHY0VSczlkSnhSNC1RMF9CWS1Bdlo4cGZIQ1JfalplTk51NVZ5c3FiU2ExVWpILW9XRVlrSS1DZ2lZLVo2RElLekwtLURwR0s?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "palantir-2026-09-13-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nebius And Palantir: Implications Of The New Partnership (NASDAQ:NBIS) - Seeking Alpha",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMU02QUlJTlhDYmdCWVVOd3JLNC1ndGVONmJaWUhaQkFTRlJYRlZFeTMzdGlESkR6cW5iSUFnLVJqMktNaGYwWVowR0ZlOWJwclFxaDgxb294bFlZV3FjYmpody1zNzhJRlF4NnNRWV9ZZnQ1bkNDWlFpZ1huWW9xaXotdHdZeWxJcm5lTlBtYjBoa25EbXU1NmRIYmE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.2,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rheinmetall",
+        "count": 2
+      },
+      {
+        "id": "elbit",
+        "count": 2
+      },
+      {
+        "id": "palantir",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 280,
+    "dup_title": 150,
+    "too_old": 68,
+    "gate1_blocked": 19,
+    "gate2_blocked": 21,
+    "passed": 22,
+    "pass_rate": "16.9%",
+    "gate2_block_rate": "16.2%",
+    "gate2_samples": [
+      "Sequoia Financial Advisors LLC Has $114.20 Million Position in RTX Corporation $RTX - MarketBeat",
+      "Engineers Gate Manager LP Purchases 85,686 Shares of RTX Corporation $RTX - MarketBeat",
+      "RTX Corporation $RTX Shares Sold by Baird Financial Group Inc. - MarketBeat",
+      "Allworth Financial LP Trims Stock Position in RTX Corporation $RTX - MarketBeat",
+      "L3Harris (LHX) Stock Looks Reasonable Following Its 51% 3 Year Run - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為萊茵金屬、艾爾比特、Palantir Technologies相關動態：「Rheinmetall stock falls as guidance cut and JPMorgan warn...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Rheinmetall stock falls as guidance cut and JPMorgan warning weigh on sentime...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Rheinmetall's Order Book Swells Past €80 Billion as Shares Linger Near a 52-W...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

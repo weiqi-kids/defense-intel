@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-13",
+  "total_events": 6,
+  "by_company": {
+    "rheinmetall": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    },
+    "elbit": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "palantir": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": -0.2
+    },
+    "industry_general": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
