@@ -1,0 +1,170 @@
+{
+  "date": "2026-09-14",
+  "date_range": {
+    "start": "2026-09-08",
+    "end": "2026-09-14"
+  },
+  "generated_at": "2026-09-14T14:37:41.162939Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "l3harris-2026-09-08-029",
+      "date": "2026-09-08",
+      "title": "L3Harris secures record $4.7 billion PAC-3 MSE propulsion deal from Lockheed Martin to expand U.S. interceptor production capacity - Defence Industry Europe",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "l3harris",
+      "company_b": "lockheed",
+      "co_mention_count": 6,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 72,
+      "last_week": 76,
+      "week_over_week_change": "-5%",
+      "sentiment_this_week": 0.03
+    },
+    "industry_general": {
+      "this_week": 48,
+      "last_week": 71,
+      "week_over_week_change": "-32%",
+      "sentiment_this_week": 0.03
+    },
+    "drone_warfare": {
+      "this_week": 14,
+      "last_week": 10,
+      "week_over_week_change": "+40%",
+      "sentiment_this_week": 0.04
+    },
+    "arms_export": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "missile_defense": {
+      "this_week": 2,
+      "last_week": 5,
+      "week_over_week_change": "-60%",
+      "sentiment_this_week": 0.0
+    },
+    "defense_budget": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "rtx": {
+      "event_count": 10,
+      "sentiment_avg": 0.1,
+      "rank": 3
+    },
+    "rheinmetall": {
+      "event_count": 21,
+      "sentiment_avg": -0.05,
+      "rank": 2
+    },
+    "aidc": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 8
+    },
+    "hanwha_aero": {
+      "event_count": 10,
+      "sentiment_avg": 0.05,
+      "rank": 4
+    },
+    "elbit": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "palantir": {
+      "event_count": 29,
+      "sentiment_avg": -0.03,
+      "rank": 1
+    },
+    "l3harris": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 6
+    },
+    "lockheed": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 313,
+        "last": 361,
+        "change_pct": -13.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-08",
+      "event_count": 61,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-09",
+      "event_count": 79,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-09-10",
+      "event_count": 63,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-09-11",
+      "event_count": 67,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-09-12",
+      "event_count": 13,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-13",
+      "event_count": 9,
+      "sentiment_avg": -0.17
+    },
+    {
+      "date": "2026-09-14",
+      "event_count": 21,
+      "sentiment_avg": 0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-08 ~ 2026-09-14）共 313 則事件，重點為「L3Harris secures record $4.7 billion PAC-3 MSE ...」。漢翔航空表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "RTX",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "萊茵金屬",
+        "reason": "本週出現 21 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "韓華航太",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,5 +1,418 @@
 [
   {
+    "id": "l3harris-2026-09-14-001",
+    "date": "2026-09-14",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "L3Harris Technologies : Advances Production of Proximity Sensors for US Air Force - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOMXZFaUJYUS03M0NIcjBmMkhZdkJWbVlVZjlGNXgyM20wR3ZvTmlPcDNCYVlvaGZEa0ZBc3BmVW9DNHZQR0d1UHJDcnF2Y3d0ekxJOHlUbDA4VHhGTHFDWVpLel9jaXYtMExLbGIyZ1",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMXZFaUJYUS03M0NIcjBmMkhZdkJWbVlVZjlGNXgyM20wR3ZvTmlPcDNCYVlvaGZEa0ZBc3BmVW9DNHZQR0d1UHJDcnF2Y3d0ekxJOHlUbDA4VHhGTHFDWVpLel9jaXYtMExLbGIyZ1dzNXhxRl8zTzNGWEFaZ3JxaVd2WEJJUWhZa2FFR3VwOWUtX3ZjRTYxX21fb1hEXzM4Y1YteWx2NDN2dEdYSU1MQmtCY0dlWUtLNnJzdlJjMy1KN2pYSHI2REQwcmQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-09-14-002",
+    "date": "2026-09-14",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "arms_export",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall supplies artillery ammunition to international customer - Rheinmetall",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNX2tzdjVyaWlWbGJOemFIVDllNnNrR0RTOXdoZW13Y3NOb3ZUNi1rc1JDc19IM1FGbzNOcG50Y2JaVmxaWV8tVHh6WWxPTUxIVlFmSVlBa2ljcG1CaXFMcVNHYWtPbTdKMm4xckpURk",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNX2tzdjVyaWlWbGJOemFIVDllNnNrR0RTOXdoZW13Y3NOb3ZUNi1rc1JDc19IM1FGbzNOcG50Y2JaVmxaWV8tVHh6WWxPTUxIVlFmSVlBa2ljcG1CaXFMcVNHYWtPbTdKMm4xckpURkhzeWJuNnl2SExZTGdhYlE5cWxMNE4tUUFoWGt5NnlMblFfR2pZeFZWV3A0WUZndmE3ZDFGMGhKZE1qSG1tY1VzMUlBeU50SGk4YXZfbzhDVHphYjVGVjlDUEtocFRWQUIxMDBKYlNn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-003",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Germany to order fourth new signals intelligence ship - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQMFB3Q2lZcUV0UG5FRlpLdmlxVk9ZajRMQVc4dnJya0NkdXNuUTJBWHFUUVdOYnJsOW42TTZIeUh5aUlmbFBLeW5uTVlaamY4ZGFyU2k2ME5qcjJJTFVMYzJFR1Z4SE5jWXV6SU9SOX",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMFB3Q2lZcUV0UG5FRlpLdmlxVk9ZajRMQVc4dnJya0NkdXNuUTJBWHFUUVdOYnJsOW42TTZIeUh5aUlmbFBLeW5uTVlaamY4ZGFyU2k2ME5qcjJJTFVMYzJFR1Z4SE5jWXV6SU9SOXc0ZmJDS0Z2NDBUeHI1Q0RWemJ0R19BT3dSanJZSkNhUEVYRU45cEtyS2lPeXNJWDQ5c1BRZkEyM0lWQzRTMVhlZTdXcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-09-14-004",
+    "date": "2026-09-14",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall Bags Artillery Ammunition Supply Contract - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd3JzSWVubHNoaTRzQTNfWEdKR21MY2NWWGIyRDFYN09ZaklWbkN5eXlabnNWMmFCVUgwLVk3SzZkTzluUWhWNmgwQkVvMmtreFI2emlFYzAtN2pQV1NSZ3dBZzAxRklJSXI2YTVCOV",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd3JzSWVubHNoaTRzQTNfWEdKR21MY2NWWGIyRDFYN09ZaklWbkN5eXlabnNWMmFCVUgwLVk3SzZkTzluUWhWNmgwQkVvMmtreFI2emlFYzAtN2pQV1NSZ3dBZzAxRklJSXI2YTVCOVpvNnY4aVRySG5XTVFZYWxpcWpoVDdSUmhqRUoxY0RhY1RxU1VxYlNQanFIeTZwTVhpQXI3RE5ta0JNZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-09-14-005",
+    "date": "2026-09-14",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall lands major 155mm ammunition order in low three-digit million-euro range, with production underway and delivery due in 2027 - Defence Industry Europe",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOd2dsZ1l4dGtOeVMwX1RTVDdyaktodmRNRU9TYU1uWVVaSnRtSzNpT1NlNGJNUmhTTGdQNnpqT19QNVlYUUtBVURQUWcxN2RCYk1sZ1pqLUNVNXc5S0lKdHp3NXZnSE1UN09yNFhpQn",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOd2dsZ1l4dGtOeVMwX1RTVDdyaktodmRNRU9TYU1uWVVaSnRtSzNpT1NlNGJNUmhTTGdQNnpqT19QNVlYUUtBVURQUWcxN2RCYk1sZ1pqLUNVNXc5S0lKdHp3NXZnSE1UN09yNFhpQndjbXJIQkhkX3hXU0xONEN1cVZwMG1BOFNjaFl6eURSVmVYVUthY2hRc3hqU0h0eU82TnIwLUNtbG50TUN3RVpXRTI3VFkxX2U5Q0J4QXJodklLd3YzTnRFTjNoc29POTJZSzNKcGk5NldJWVVWNzg1ZEx1SjgxWnFsTkNXdkZLMTRQbkpKQVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-09-14-006",
+    "date": "2026-09-14",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall Supplies Artillery Ammunition To International Customer - Contract Value In Three-Digit Millions Of Euros - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxOYk9RaWtmVU9xZTlzQnZ6NG5ibjBDczQ2VVZWZFZRbHZkMWJvUWs1T3B1WEVja1ZCVXE4S3llLUM2VGMxYVNLdVFVTktDTkZiQlc2cG5GQ0kyZ0RpaDZ3UTdjc2gydk1GaklnWjJPeD",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOYk9RaWtmVU9xZTlzQnZ6NG5ibjBDczQ2VVZWZFZRbHZkMWJvUWs1T3B1WEVja1ZCVXE4S3llLUM2VGMxYVNLdVFVTktDTkZiQlc2cG5GQ0kyZ0RpaDZ3UTdjc2gydk1GaklnWjJPeDhDdVJCN01aVGUwR1BiRC1zVVJOV1hVTkc0WFJjclozMjNQb091eU14SmFIMmtENEdvZDRZUHpZX25pNUJHU1ptSUx3czUzR0ppVVFvWDB6WnVpQXdKc2UyMmV5WFZ4QTUyYnpUTWFfN1BnSi1aZzUxS2laYWNzTy14dnpqR1ZVYzJXLTlRSU5pVk5GU0NRaDN0eGYyRGRQSXFNd0pPNFlWR09HSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-09-14-007",
+    "date": "2026-09-14",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall rises after major artillery shell order - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPU3UwazZVcXByeFdyalFjM1NLOFN5ZVRjSk0zQ2wwZ2FWblcxNTJicUs2bDFjZVd0X2dWbTNwS056YjBaOC1tc09xVWtaU1hwc0pibjR3MHlTaWk3cmtnT2JrME9kdkxtbEhWNkpMel",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU3UwazZVcXByeFdyalFjM1NLOFN5ZVRjSk0zQ2wwZ2FWblcxNTJicUs2bDFjZVd0X2dWbTNwS056YjBaOC1tc09xVWtaU1hwc0pibjR3MHlTaWk3cmtnT2JrME9kdkxtbEhWNkpMelU2R0xubEVFT2tjWUR2VDItTjhMbXREVklTRThqSTNBRGR0NWVnS2tDZDkzeXI1bVhyaUgybnBETVRNUTRmOFRCUVVBbmpraVA1MGMzSzcxMVJnZ0Q1N0MweWs1dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-09-14-008",
+    "date": "2026-09-14",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Hanwha Aerospace’s Chunmoo Push Expands From Middle East to Europe - 인사이트코리아",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE56bHhHdUhQYU9oMUdSTzU1VlFXZS1jbGVsd1ZBbUlyYUhuSjVseVpsaERUQ2hnNmV4b3YwNXFhbnpWTHRkZUZfUnRxNUwycmNGTVJwQlpHUDVrckQ5Y2Z6ckdnd1loajVMeW9hTWQ0WX",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56bHhHdUhQYU9oMUdSTzU1VlFXZS1jbGVsd1ZBbUlyYUhuSjVseVpsaERUQ2hnNmV4b3YwNXFhbnpWTHRkZUZfUnRxNUwycmNGTVJwQlpHUDVrckQ5Y2Z6ckdnd1loajVMeW9hTWQ0WXFGazQ5QS1R0gF3QVVfeXFMTnpseEd1SFBhT2gxR1JPNTVWUVdlLWNsZWx3VkFtSXJhSG5KNWx5WmxoRFRDaGc2ZXhvdjA1cWFuelZMdGRlRl9SdHE1TDJyY0ZNUnBCWkdQNWtyRDljZnpyR2d3WWhqNUx5b2FNZDRZcUZrNDlBLVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-009",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is the Defense Sector Gearing Up Again?... Profits Rise Despite Market Downturn - 아시아경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1oRUV1NHRNNllYckRNamRYTnlmSy1mZzF2OFV2cW14Q0RfUkJiSXZPc3hkSzNqcWhaVnI2QktfQldEb2hKa1RHVFQ5S2x6QzdLcVlYanY3SUdsSzNRNjNoM3JPYy1XUVJQWnlRaGlRcT",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oRUV1NHRNNllYckRNamRYTnlmSy1mZzF2OFV2cW14Q0RfUkJiSXZPc3hkSzNqcWhaVnI2QktfQldEb2hKa1RHVFQ5S2x6QzdLcVlYanY3SUdsSzNRNjNoM3JPYy1XUVJQWnlRaGlRcTVxdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "elbit-2026-09-14-010",
+    "date": "2026-09-14",
+    "companies": [
+      "elbit"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Diehl Defence and Elbit Systems demonstrate the capabilities of SkyStriker - Diehl Group",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQajhhckxpOFF4NmVsVjVyVERBZ2tpWmlmVHZCWVhRVkFKempFTE0xaWJoVVpoblJCUWpDeUd0aW40RXRHXzd3STFpS2xLVm9Bd1ZpcERMcWFzYVhvclBVZWY2M2tpa2c0U3NiS0w3NG",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQajhhckxpOFF4NmVsVjVyVERBZ2tpWmlmVHZCWVhRVkFKempFTE0xaWJoVVpoblJCUWpDeUd0aW40RXRHXzd3STFpS2xLVm9Bd1ZpcERMcWFzYVhvclBVZWY2M2tpa2c0U3NiS0w3NGRTbk5Gc0Q1aU03RXMwLUpTcWNZQ2F6U1BDWmVkTEJvMlZoRTkwYWlpUFVmaU9tdkhYUjFPTDNkOUstdGNfVkZSbE9uZTQ0aldocEFUdWhCZEo5Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-011",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Military-Grade Autonomous Systems - SPARTANAT.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9TUDQ0UDdTeDFnY29hQmh3dUw2VkhZb0dpeURMNzE2aFJIM2tlaVBhbThJSzdtYklmYk1RTTdWcTY2R3RDcFhXUDFSQUZwNmtueVVsczllMGgyRHRHZ2twUXhkT29lOWtmTkE?oc=5\" ",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TUDQ0UDdTeDFnY29hQmh3dUw2VkhZb0dpeURMNzE2aFJIM2tlaVBhbThJSzdtYklmYk1RTTdWcTY2R3RDcFhXUDFSQUZwNmtueVVsczllMGgyRHRHZ2twUXhkT29lOWtmTkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-09-14-012",
+    "date": "2026-09-14",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "NVIDIA and Palantir bring sovereign AI to supply chains ... - eeNews Europe",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOdVJjUWZrTUhIUmpsYUlmRnFPeTQyVjNzNXlNcVl0b0RZQmhFZk9qLWYxN1BUMUdNMUlpTU91dklUZy1mdEFCVG9HUWpZSkU0Q3hTMURSMzJxcXJaR1hDaFBQM0hQYW9pbEotYjl1ek",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdVJjUWZrTUhIUmpsYUlmRnFPeTQyVjNzNXlNcVl0b0RZQmhFZk9qLWYxN1BUMUdNMUlpTU91dklUZy1mdEFCVG9HUWpZSkU0Q3hTMURSMzJxcXJaR1hDaFBQM0hQYW9pbEotYjl1ek53UjNtTENadHVNTkpWX2hWeVN2Q01jaE9wUl9YeEstQzhUZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-09-14-013",
+    "date": "2026-09-14",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nvidia, Palantir said to restrict AI model use - breakingthenews.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxORDNTNlN1WTJza1lzbUJvQS1tRWtTZU1ORmM1MlV0UjlHUXl1cHJ3QVpoTXlpYW5VU01KbE40LWlKSHBRZ0M0aGRsSjd4LTRXMG5tQ2Njc3pGQ0FNaGdGUUdFX3hsbm4ycTcyaVpwWF",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORDNTNlN1WTJza1lzbUJvQS1tRWtTZU1ORmM1MlV0UjlHUXl1cHJ3QVpoTXlpYW5VU01KbE40LWlKSHBRZ0M0aGRsSjd4LTRXMG5tQ2Njc3pGQ0FNaGdGUUdFX3hsbm4ycTcyaVpwWFNHN2pZSXluc2VldUNWbkpCYklJWnRsN0VFU0x5eVI0R2Q2el9m?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-09-14-014",
+    "date": "2026-09-14",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "missile_defense"
+    ],
+    "impact": "neutral",
+    "title": "L3Harris gets $4.7 billion deal to help boost Patriot interceptor production",
+    "summary": "The multibillion-dollar deals comes as the domestic and global demand for Patriot interceptors far outpaces the supply.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/industry/2026/09/14/l3harris-gets-47-billion-deal-to-help-boost-patriot-interceptor-production/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-015",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "drone_warfare"
+    ],
+    "impact": "neutral",
+    "title": "Drone maker unveils ‘low-cost’ alternative to MQ-9 Reaper",
+    "summary": "Swarm Aero said its Gamera design will deliver more capabilities than the MQ-9 Reaper at a fraction of the cost. ",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/news/your-military/2026/09/14/drone-maker-unveils-low-cost-alternative-to-mq-9-reaper/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-016",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China changes law to mobilize all resources in case of conflict. Should neighbors worry?",
+    "summary": "China’s military will get every possible resource from the home front if needed during a war, according to a change in the law to take effect in October.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/09/14/china-changes-law-to-mobilize-all-resources-in-case-of-conflict-should-neighbors-worry/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-017",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "drone_warfare",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Swarm Aero debuts Gamera drone in bid to succeed Reaper",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/swarm-aero-debuts-gamera-drone-in-bid-to-succeed-reaper/\"><img width=\"1024\" height=\"572\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/20",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/09/swarm-aero-debuts-gamera-drone-in-bid-to-succeed-reaper/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lockheed-2026-09-14-018",
+    "date": "2026-09-14",
+    "companies": [
+      "lockheed"
+    ],
+    "topics": [
+      "drone_warfare",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lockheed boosts bet on Skunk Works’ Vectis stealth drone",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/lockheed-boosts-bet-on-skunk-works-vectis-stealth-drone/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/20",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/09/lockheed-boosts-bet-on-skunk-works-vectis-stealth-drone/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lockheed-2026-09-14-019",
+    "date": "2026-09-14",
+    "companies": [
+      "lockheed"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Everything We Just Learned About The Vectis Collaborative Combat Aircraft From The Skunk Works",
+    "summary": "<p>We have new details on Lockheed's tailless CCA, including about its exotic \"submerged\" air inlet and how its design puts a premium on survivability. </p>\n<p>The post <a href=\"https://www.twz.com/ne",
+    "sources": [
+      {
+        "name": "the_war_zone",
+        "url": "https://www.twz.com/news-features/everything-we-just-learned-about-the-vectis-collaborative-combat-aircraft-from-the-skunk-works",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-020",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "defense_budget",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A $1.5 Trillion Defense Budget Is on the Table. Here's the 1 Defense Stock I'd Buy First. - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPS3k2bjdTd21YbjlDNDBOaDhGSm9BR01jb0hldG5scm9YQVdTY0ZBeGlsc1BvYTZ2bFh4eGQ2azVqT3VCY3dhYURKTGtleWZDWFJJMlV3Yko5bGFPU0ZzMVR5V3p2UmhXbE9xNnRRcX",
+    "sources": [
+      {
+        "name": "google_defense_budget",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS3k2bjdTd21YbjlDNDBOaDhGSm9BR01jb0hldG5scm9YQVdTY0ZBeGlsc1BvYTZ2bFh4eGQ2azVqT3VCY3dhYURKTGtleWZDWFJJMlV3Yko5bGFPU0ZzMVR5V3p2UmhXbE9xNnRRcXpMNlFBaUFEZHAzaDhObEJnekNjd1BscGdScG1HeHJSNFVyeVB4dl9FQw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-021",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Australian defence business outlook 2026: growing budgets, harder markets - Strategic Analysis Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNTlB4VTBQejRWdTFyanlsV2FnV3VSTG1RRGJBaEZQcnRhVHQxb3FyS1V4Z2lhSXBNNW9VbVdjTFgwVU9qVERDUVI3TDVQcnhWUjcxWS1kdVJJV3BjcWM3TlZVQzBsbXpGSVVabmRXb1",
+    "sources": [
+      {
+        "name": "google_defense_budget",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTlB4VTBQejRWdTFyanlsV2FnV3VSTG1RRGJBaEZQcnRhVHQxb3FyS1V4Z2lhSXBNNW9VbVdjTFgwVU9qVERDUVI3TDVQcnhWUjcxWS1kdVJJV3BjcWM3TlZVQzBsbXpGSVVabmRXb1BJLTdFTDFOUm9jRm1LUWdRVk82Q3k0THhZM1dMN0JPYk9tNmswWjFqLWtOTF9yam9pWU9SOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rheinmetall-2026-09-13-001",
     "date": "2026-09-13",
     "companies": [
@@ -114,6 +527,64 @@
       {
         "name": "palantir",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMU02QUlJTlhDYmdCWVVOd3JLNC1ndGVONmJaWUhaQkFTRlJYRlZFeTMzdGlESkR6cW5iSUFnLVJqMktNaGYwWVowR0ZlOWJwclFxaDgxb294bFlZV3FjYmpody1zNzhJRlF4NnNRWV9ZZnQ1bkNDWlFpZ1huWW9xaXotdHdZeWxJcm5lTlBtYjBoa25EbXU1NmRIYmE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-09-13-007",
+    "date": "2026-09-13",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Palantir and Yandex’s Former Parent Company Nebius Enter Strategic Partnership - Мілітарний",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQTWpmMVVfVjFkRWtHaUZIRXdVRlBfZUJTUXgzZkV6bFhpU2lRU3JtTUFaMkRjY24wUmNKYUpqZ0oxVU5UZFZTaW9Jb1B4NlJVdzZLNHZCbWpvaTZQLUtab1g1VURGQ3FvTnpocG40Zl",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTWpmMVVfVjFkRWtHaUZIRXdVRlBfZUJTUXgzZkV6bFhpU2lRU3JtTUFaMkRjY24wUmNKYUpqZ0oxVU5UZFZTaW9Jb1B4NlJVdzZLNHZCbWpvaTZQLUtab1g1VURGQ3FvTnpocG40ZlRiVnJ2dmh3TTlTU2FNTHlzQ1BBU05WbTRId18wblZEcGZsTXdCdXcwSzJBUzdDdWFabWRHRkVVeXZVM1ZEcXNz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-09-13-008",
+    "date": "2026-09-13",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Former AIG CEO to join Palantir Technologies - The Business Journals",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZWRpMDluR0FkbzR6dUEzSC13bkVxeTZ3OHJYUWlyMUZkYzZlOXZBZG5XLWxKejk4aGJieEhYbG1FTGFwcDE3bjc0Qk5SUkJYWGV4QVEtRE9GcWZ1SzI2T3pKWTlsc0ZXN25faFJaTE",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZWRpMDluR0FkbzR6dUEzSC13bkVxeTZ3OHJYUWlyMUZkYzZlOXZBZG5XLWxKejk4aGJieEhYbG1FTGFwcDE3bjc0Qk5SUkJYWGV4QVEtRE9GcWZ1SzI2T3pKWTlsc0ZXN25faFJaTEdXT3IyUVBNNUU0c0RmMmJIVWl6N0hTVFRMUzRMaGFoR0NOMmIxWGdEeDB2SktoeXAzYkxzLTU5c09fZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-13-009",
+    "date": "2026-09-13",
+    "companies": [],
+    "topics": [
+      "defense_budget",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Taiwan Boosts Defense Spending Amid PRC Military Pressure - Legis1",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1NSVJJM0JOMVdxNUhsbkVVNTVnLTdoSEpWbVFHRnRfNEZyMzJua2JUV0RTSTlyOUlPRW1hTS1veG1EdVhLVXdCUFozMVo1QWtZZ0p0ZjY2Um45VUpoNmFkZEZqZ3FYQ3FkZ01DQ2hOUk",
+    "sources": [
+      {
+        "name": "google_defense_budget",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NSVJJM0JOMVdxNUhsbkVVNTVnLTdoSEpWbVFHRnRfNEZyMzJua2JUV0RTSTlyOUlPRW1hTS1veG1EdVhLVXdCUFozMVo1QWtZZ0p0ZjY2Um45VUpoNmFkZEZqZ3FYQ3FkZ01DQ2hOUkh4WFN3NWdsSFB5bWg?oc=5",
         "type": "rss"
       }
     ]
@@ -333,6 +804,48 @@
       {
         "name": "the_war_zone",
         "url": "https://www.twz.com/sea/ukraine-claims-first-ever-kill-of-a-drone-boat-by-another-drone-boat",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-09-12-012",
+    "date": "2026-09-12",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "drone_warfare",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "L3Harris says nationwide U.S. air traffic surveillance network offers homeland-defense head start against drones and cruise missiles - Defence Industry Europe",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdjVkNURlNHQ4TmtFaEJiRlRIdWQxaktxeHZSNk13RW5kWHZXMzgwV2NoY2pZNHdUN1I4TnkwRnJCTTVfbGdXX2JnMDVXNlRrWE1NRnJsWUNRR01DTS1zYzdCOUl0SXZlS1BtMWoyd0",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdjVkNURlNHQ4TmtFaEJiRlRIdWQxaktxeHZSNk13RW5kWHZXMzgwV2NoY2pZNHdUN1I4TnkwRnJCTTVfbGdXX2JnMDVXNlRrWE1NRnJsWUNRR01DTS1zYzdCOUl0SXZlS1BtMWoyd0FHenZBeDlEWTVWbFNDOE9EbEZzcEl0Z1d6SU9TZ0RxYXVIMlJubVYtZUgzMGc0SUZjMGcxZlo2NmJJTEIzMFhQWHd5WUN6VU1raHVZaXNGQzJLY2txUUxTeFZvT01xT1FYZ0VFdHZFNkZIb0VwcVpiM0xIWEhBdFNFU1d3b3g3OGJsQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-09-12-013",
+    "date": "2026-09-12",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Can Palantir Deploy Fast Enough To Move Its Stock Higher? - Trefis",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQZlZRU1ZrQVNIRnFyZC1ReHJRLTZGaHlYRTJwTXBsRDFueHM4dmdiRHZpV011eFNHZnJoQ2ZRMEJEU2RQNTZlNFVKeWZWZi1ORm5UbzBLNFFkcnowMWRiQmk3UTlMMkxQZGF0Q0RwTj",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZlZRU1ZrQVNIRnFyZC1ReHJRLTZGaHlYRTJwTXBsRDFueHM4dmdiRHZpV011eFNHZnJoQ2ZRMEJEU2RQNTZlNFVKeWZWZi1ORm5UbzBLNFFkcnowMWRiQmk3UTlMMkxQZGF0Q0RwTjg3RDByaHVfSVZ0ZGlnY3U3YzVYM3VrWFJsVzZhLVZSNVVPdjFhR01GcDJaNXRSc3lvaUp5NWl3bDhDQTU5aXdIaXZrMUtQU3BSSW9pWFBwTVhBT3ZLbHc?oc=5",
         "type": "rss"
       }
     ]
@@ -1603,6 +2116,44 @@
     ]
   },
   {
+    "id": "l3harris-2026-09-11-066",
+    "date": "2026-09-11",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Is L3Harris Technologies’ Stock Performance Compared to Other Aerospace & Defense Stocks - webull.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ielZQcDc4MV9PYnplU0NfekZaY1JFeGdqWV9nVWJSMGVOaWJqM2g3bUVHOE12RTh3b2dRRGdrMmtRd2tjS2VWbUEwbFhpcVcweDVLazR5eEY?oc=5\" target=\"_blank\">How Is L",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ielZQcDc4MV9PYnplU0NfekZaY1JFeGdqWV9nVWJSMGVOaWJqM2g3bUVHOE12RTh3b2dRRGdrMmtRd2tjS2VWbUEwbFhpcVcweDVLazR5eEY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-09-11-067",
+    "date": "2026-09-11",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Palantir's push for AI sovereignty resonates with clients: DA Davidson - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMWRXY254SzVfQ01yd2JROVdNS0ctUGZXdV9HYzRiMjVpdkdjc2RQMkJyZmdJYmN2aVd4UXU2V2tzN0ZvM1dScjhiU1g3dUhyaVhjaFlWOW5GVXZHc2FFXzd4X3Nhb2hFQXh6RGxuUm",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMWRXY254SzVfQ01yd2JROVdNS0ctUGZXdV9HYzRiMjVpdkdjc2RQMkJyZmdJYmN2aVd4UXU2V2tzN0ZvM1dScjhiU1g3dUhyaVhjaFlWOW5GVXZHc2FFXzd4X3Nhb2hFQXh6RGxuUmxoSG1idVNVV29EblhqUzU5QXhoaXg4X3c5Unp3Z2dwelV6RDZqdW9RVVBqQVRvdGt5VGJxRmUyWlNhQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rtx-2026-09-10-001",
     "date": "2026-09-10",
     "companies": [
@@ -2759,6 +3310,67 @@
       {
         "name": "palantir",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10akpWT3lPYnVqOVQ0eWhNZXEtdGpxaXlOTUhQWjhNamFLSUNoOG1wNDRwck1IRE5ISnBkMVhOZUtxaFZYX2JhQnRjU1F3MW5QdHN0V3Z1Nnd2eGwzMDBKcHN0R2ZtV3daQ2ViWGNR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-09-10-061",
+    "date": "2026-09-10",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Is L3Harris Technologies’ Stock Performance Compared to Other Aerospace & Defense Stocks - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOYVBWdG9lUmNYY2s3SUFXQVBqSFBNcnRvX01uYkkzNndjT2tRaDJpYnhHdjBnVnhlYkp5c3JGY01rZExVM256Uko5dVhxdzREMGZYdjRoSXNtWmFhek1kNmxnbUdYVFBDZHpyemp2dz",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYVBWdG9lUmNYY2s3SUFXQVBqSFBNcnRvX01uYkkzNndjT2tRaDJpYnhHdjBnVnhlYkp5c3JGY01rZExVM256Uko5dVhxdzREMGZYdjRoSXNtWmFhek1kNmxnbUdYVFBDZHpyemp2dzdwQlA3b0Y3WlJlZndzVEo3TFczTnIzcmJkRnRnVmhVVzd1OGxERHkwbTdJWl9VWXNXUFUwNk82eF9MaHgxczdpWTMzdHhvbmN0MFFsLW5DVV9wZTBtVVppNmhkVnN3QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-09-10-062",
+    "date": "2026-09-10",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace inks $506 mn Chunmoo rocket launcher deal with Croatia as NATO rearmament drives demand - kedglobal.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1YbW5sZUdoRk8tenNxWW5YUHFfNGNPejEtYURDQmZzUHQxMW8wOVJDY2ZfUHNfdm1SMDhiTjN6cXJMcTlQRlNvSU5SZmhFRmVySlYwUEtJSTZhOFNUUHBYSDhkTjF5emNrY3BEU19pYW",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YbW5sZUdoRk8tenNxWW5YUHFfNGNPejEtYURDQmZzUHQxMW8wOVJDY2ZfUHNfdm1SMDhiTjN6cXJMcTlQRlNvSU5SZmhFRmVySlYwUEtJSTZhOFNUUHBYSDhkTjF5emNrY3BEU19pYWZGWHY2dGVz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hanwha_aero-2026-09-10-063",
+    "date": "2026-09-10",
+    "companies": [
+      "hanwha_aero"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanwha Aerospace inks $477 mil. deal to export 18 Chunmoo rocket launchers to Croatia - The Korea Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY1ZYbnlnWkZ5TjRaZmZHMlgwZUNNNnE0SVZiMEh5MGNjRHVrOTAxa3BNMFVpb0wxbmRjdUpuSzhYXzE2b0ZUZ1hFS3hJeEJoeWlXenUycjRQNkpzOTBwT05feFVyU0VVV0NOTTZFMD",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY1ZYbnlnWkZ5TjRaZmZHMlgwZUNNNnE0SVZiMEh5MGNjRHVrOTAxa3BNMFVpb0wxbmRjdUpuSzhYXzE2b0ZUZ1hFS3hJeEJoeWlXenUycjRQNkpzOTBwT05feFVyU0VVV0NOTTZFMDg2SWFHSGVQVVNkWHJxc01adF9IbXloUkxyLXdNQUVwZm9BU2g1aTVLSFBVam0zbG5OWXgwT0NhVFdwZlF2ME10dUlqVi15THhmbWp5YXBHbUpaaU1XZU10SXFubVBtT25PR0ZqWktpRdIB3AFBVV95cUxPUGRXLVZ3M1hHQ1ItYmJxR1dFQ1lYZ1RJVUgzQkF2UExHS1hZcHRualIyTTd4WWhxcENUYlp5aHhLcnVUTmxCSkROaE51T1RZSXk1Y3pRMVlfV1ZCbjhidXlZaXNabUpKa18xUmlyVnFJM1ZQT1lCblhTRS0wZVEtcXlZNFJteVBNbTFBSUFSaEZmdGtWdnc1S2FGWFN1V0JwQ1FBVjdmdm5iajU5aUo2R0Y4MHZRcFBKY0IyUURVZThxVHhtZVdTY1VNclAzbFpPX3M5ZUs3Z0ZnZUJz?oc=5",
         "type": "rss"
       }
     ]
