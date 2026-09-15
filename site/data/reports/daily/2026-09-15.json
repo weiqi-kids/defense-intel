@@ -1,0 +1,249 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T13:02:36.345714Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-15-034",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Japan’s record defence budget request is really about AI - The Strategist | ASPI's analysis and commentary site",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeVEycUtFSmhPYkp0VWx0SDEtZHZESmhGVUtoaFRCSGpBN0xsQ3ViT3Q0QURYWXM5YjFsWVlvVjVIZU1KQnpibWc1VGlJdFlmNDZzbE9FNzlMVHJkdEs3bm16bjktX1FodWJ6YmxBbi14alBlV2tZZF9vNnNISjlxaGRMRWhYaUU3OXNRTWY2czBYYi1J?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rtx-2026-09-15-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bank of America Corp DE Lowers Stock Position in RTX Corporation $RTX - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVmZOQ2RDNFpDM2F5Y01USjhXazdBU3JacU03OWh5SE1pZFBVd05RUEV4VHBKLVdMTURJNjdLTUtHTG54WWpVeWtaMWtxSGFYV1ZTSkZTWDJCbFRncHpUVnMxYXhjV2V6aHlpRHRDSTlGVnAtNThkZ3VDOGFOd3R1amU4UUJFdzhvUXpqR1g3UHZYWkFDWlVabU1nQ2R5ZmhuRU1jNGRSWXdPdDhEYmRZbUN4ekFnNG03WUl4M0RCSzdyR09QM2ZtdA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rtx-2026-09-15-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX’s Pratt & Whitney advances F-35 engine upgrade toward production (RTX:NYSE) - seekingalpha.com",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZDZGNHZoYjZKR0hOcGV2X0REdmhHOUxKck1oYTVWenVtS2g2QXAwV1FuczJiMHZJWFlteUJBUGFtNGlXMXU2ZFEtVVRYcjNLMzFJT29SOU9CTkxaelpHUmM5WWJOc3l5Q2J0cUc0UmlaeExZeXJBRXM3OXJOY25BVm1lbXdNZnRQMW0zWHMxS1B6U2djUjJVSWxWSkI4b3RPQ3ZHTUhoQ1BhcEQyend5aXFzZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-15-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "F-35 upgrade clears key review for future weapons and sensors - Stock Titan",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVkZZdUZZcnMydGs4OFdEaEs3R21Da3RieWtkT1VxTWs1WTdRWUhpMFR1WHNWVnh0a05IV29jZkMzTXdqYzJldTIxeHlmNGZ3SGRoRzlZeUhnUEQ3c0tRVVFDOWJhaVIzM0tMeEdkLVphXzhsYjJwekJZMDV4SDhvTWRxRHNwX2haYjhaVFdFcUt2TS1QMmljNnVna3FVbWZQVFZaUW9FM3J2Vl83Z0dfQmQ0NA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "l3harris-2026-09-15-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "$L3Harris Technologies (LHX.US)$ Wow, finally turn green😃 - Moomoo",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaFk3SlBXa185TVBvWmtvM2JCUWZSTkJOeHJmQ3Bwd1oyUGdZa0taTFlacGdYNnRGemxhd1FLeWU4YUpxamlIQ3I0eWc0eng1R2xQc1lfYXNpRTRTTGlqbnM0VDdha3BwaWdWVl80dlZhSjdON0JPWGliODVzOVptR185WU92bldPTldkY2lzSGZSM29UeDV4Q0QxYjkyWDFNekt4dnRWbXY?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "defense_budget": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 36,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 33,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "l3harris",
+        "count": 5
+      },
+      {
+        "id": "palantir",
+        "count": 5
+      },
+      {
+        "id": "rheinmetall",
+        "count": 4
+      },
+      {
+        "id": "rtx",
+        "count": 2
+      },
+      {
+        "id": "hanwha_aero",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
+        "id": "earnings",
+        "count": 19
+      },
+      {
+        "id": "drone_warfare",
+        "count": 3
+      },
+      {
+        "id": "defense_budget",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 281,
+    "dup_title": 102,
+    "too_old": 62,
+    "gate1_blocked": 26,
+    "gate2_blocked": 15,
+    "passed": 76,
+    "pass_rate": "42.5%",
+    "gate2_block_rate": "8.4%",
+    "gate2_samples": [
+      "Sequoia Financial Advisors LLC Has $114.20 Million Position in RTX Corporation $RTX - MarketBeat",
+      "Engineers Gate Manager LP Purchases 85,686 Shares of RTX Corporation $RTX - MarketBeat",
+      "RTX Corporation $RTX Shares Sold by Baird Financial Group Inc. - MarketBeat",
+      "L3Harris (LHX) Stock Looks Reasonable Following Its 51% 3 Year Run - simplywall.st",
+      "Possible Bearish Signals With L3Harris Technologies Insiders Disposing Stock - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 36 則事件，焦點為L3Harris Technologies、Palantir Technologies、萊茵金屬相關動態：「Japan’s record defence budget request is really about AI ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Japan’s record defence budget request is really about AI - The Strategist | A...（財報、國防航太通用）",
+        "level": "red"
+      },
+      {
+        "text": "Bank of America Corp DE Lowers Stock Position in RTX Corporation $RTX - Marke...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
