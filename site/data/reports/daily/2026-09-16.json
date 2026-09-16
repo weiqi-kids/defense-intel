@@ -1,0 +1,251 @@
+{
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T13:00:12.688167Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-09-16-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX (NYSE: RTX) Reports $289B Backlog As Military And Commercial Aerospace Demand Drives Record Growth - foreignpolicyjournal.com",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.25
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQc01MV0ItTVdJT1JBeE1NcnIyX2dtcEcwdUdqSTJwZzU0YzV2aXo2ZEl4WTJPSXZvWnI0ZkFoYnV5b1h0UmN3aGVoMU1qc0NyejIwUXR1Q3ZhZWV5SUZRZ0JySGRySlVOUWs4TUtLUnliTm5JNVNSdVNfcmp0Umk4Mm5nakFsS0wzRXhwOWdObFBJcXhfTFhlNl9TN2dpbDNWdF9JNDNVdEVMRjdVU05SbHB3Y1NLN2dLRWd3NGNoTC1VUFpES3lldWpGNkhyWFBqX3lYZ3JwWndZOXY0YmVYbg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rtx-2026-09-16-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Highlights $289B Backlog as Aerospace, Defense Demand Powers Growth - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZDh0UkpGOF9OMTJKRlNFbkZPYVZ5a2Ztc1dmUlVkenZlMk5JT1NPUlpFMi1hdlNFakQ2Z0owMXZmUGx3VzU2Rk01eW43WWdVcktOSVVsSkU2SUFmVDJxQzFnNkJwNm9hWC1Kam5KRGpNM2NITkFsYlJXMktKRy1BUTJ3UzRMbGF2OFZPeDE3ZHZVZ08xNDdwWE1vWllpTmV3ek1OWWJLbU9zNVBTNlUxeTRuREVmSlFDLU1OVFQ3UG5YS2UwRUtGRg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-09-16-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris Technologies stock heads into the open after a 1.4 percent gain - ad-hoc-news.de",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQUp6NXlmSndXT1F1RG9FLWFOdGVZVUhPdE8xYS12ejFYb0dVQlA5eEZybFNWVUJPZVpBUWhmdWNPUm03U05BVllyeWVGUEVCS0xwQjNiOTZMbEJPSlJ1UGpXcnM3dGdyWkN0bTQ1OExjZ3RRUDFQcWFHZWNyRHZVQ203WDJLV0RvdzNXcVo4aW1iakVtQi0wb2VhbjlXLXFiVUZrNU1RZ2dvOG9ZUnZ0TkRCeDN6RFUtU2FVd3lIRWNzWWpaMnBCcTNrbVdwNGgt?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-16-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "3 European Defence Stocks With Long Term Revenue Tailwinds - simplywall.st",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVHhTX01IdkdEUUpwenFzYjNweFNCRm1yamhHb1hXUW9CcW42b05zNm5lNnJ0SEhHMHBvUTNxVGd6QUJMYTFNNk9La3NUeFpoWXMwYVYxMHpidzFqSEctTnJnYVlYdWpULU5QdmtfWTY2REptT29SeVpPUng1cGp5dTRIc2ltYU9JSThtUERtQlV2dkFYUVo2TzNVaFBmSkRXLXRPRjA0WDJqWUVVRkVYNmp5RHIweXNuMG1DWU1EYUc4WmNndFBhQ2lOSnpwSVZqRGfSAdcBQVVfeXFMUHNKMU5SNXd3bFhGRlFGdm5Wd0t0ZVBLeTd3LVVBa3loUGEyU0p2OE9fS0UtdUNSUlZlOHhsZ3hyc19TQ1NEcmNMR3BWeG84Q0pEVndzZFZaa1ZYNWctRjZ1X1gzcERZZ1FwZnllcHpyclA4WHYwUV9FdzlfVTd0QmpWRlc4OGNtQTFMM2hCSldXNk9QclhKUHFZN0xpMGpHWTRsN19TNUFqUklVQ2pGN2ZrWUQ5V0NZNFZ6OHg2cEprRVBFcWVfeXQtdDI1M0cyUU5BeHpfZmM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-16-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha Drone Completes Combat Flight Test - Businesskorea",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJcW1rWXJIWm1keXQ1eGlZM1RTVWpsclNKaUZCanQwajF2VUlyenlTTGRuYlZIZ01ta054MnlnT1JWendkeE52QlgyWmZMNnREcS1XWVdhRWFwdUx2eE8tMHFWNHc1b0pISm8tYjVvUWszTjJ3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "arms_export": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 25,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 22,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_aero",
+        "count": 7
+      },
+      {
+        "id": "palantir",
+        "count": 4
+      },
+      {
+        "id": "rtx",
+        "count": 3
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "elbit",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "earnings",
+        "count": 16
+      },
+      {
+        "id": "drone_warfare",
+        "count": 6
+      },
+      {
+        "id": "arms_export",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 280,
+    "dup_title": 105,
+    "too_old": 64,
+    "gate1_blocked": 21,
+    "gate2_blocked": 21,
+    "passed": 69,
+    "pass_rate": "39.4%",
+    "gate2_block_rate": "12.0%",
+    "gate2_samples": [
+      "What is RTX Corporation rStock | How RRTX Works, Use Cases and Values | MEXC - MEXC",
+      "RTX Corporation rStock (RRTX) Price, MarketCap, Charts and Fundamentals Info - BeInCrypto",
+      "Boeing (BA) and RTX (RTX) Gain From Pentagon Missile Buildup, But Is the Upside Priced In? - Yahoo F",
+      "L3Harris Is Down 30% and Guggenheim Calls It a Buy - Yahoo Finance",
+      "Pomerantz Law Firm Investigates Claims On Behalf of Investors of L3Harris Technologies, Inc. - LHX |"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 25 則事件，焦點為韓華航太、Palantir Technologies、RTX相關動態：「RTX (NYSE: RTX) Reports $289B Backlog As Military And Com...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "RTX (NYSE: RTX) Reports $289B Backlog As Military And Commercial Aerospace De...（財報、國防航太通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "RTX Highlights $289B Backlog as Aerospace, Defense Demand Powers Growth - Mar...（財報、國防航太通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

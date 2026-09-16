@@ -1,0 +1,16 @@
+{
+  "total_raw": 280,
+  "dup_title": 105,
+  "no_date": 0,
+  "too_old": 64,
+  "gate1_fail": 21,
+  "gate2_fail": 21,
+  "passed": 69,
+  "gate2_samples": [
+    "What is RTX Corporation rStock | How RRTX Works, Use Cases and Values | MEXC - MEXC",
+    "RTX Corporation rStock (RRTX) Price, MarketCap, Charts and Fundamentals Info - BeInCrypto",
+    "Boeing (BA) and RTX (RTX) Gain From Pentagon Missile Buildup, But Is the Upside Priced In? - Yahoo F",
+    "L3Harris Is Down 30% and Guggenheim Calls It a Buy - Yahoo Finance",
+    "Pomerantz Law Firm Investigates Claims On Behalf of Investors of L3Harris Technologies, Inc. - LHX |"
+  ]
+}

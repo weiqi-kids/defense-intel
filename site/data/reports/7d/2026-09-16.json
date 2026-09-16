@@ -1,0 +1,158 @@
+{
+  "date": "2026-09-16",
+  "date_range": {
+    "start": "2026-09-10",
+    "end": "2026-09-16"
+  },
+  "generated_at": "2026-09-16T13:00:12.809025Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "rheinmetall-2026-09-13-002",
+      "date": "2026-09-13",
+      "title": "Rheinmetall stock falls as guidance cut and JPMorgan warning weigh on sentiment - ad-hoc-news.de",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 84,
+      "last_week": 56,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.02
+    },
+    "drone_warfare": {
+      "this_week": 16,
+      "last_week": 12,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.0
+    },
+    "industry_general": {
+      "this_week": 72,
+      "last_week": 49,
+      "week_over_week_change": "+47%",
+      "sentiment_this_week": 0.02
+    },
+    "arms_export": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "missile_defense": {
+      "this_week": 1,
+      "last_week": 5,
+      "week_over_week_change": "-80%",
+      "sentiment_this_week": 0.0
+    },
+    "defense_budget": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rtx": {
+      "event_count": 10,
+      "sentiment_avg": 0.07,
+      "rank": 5
+    },
+    "l3harris": {
+      "event_count": 13,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "rheinmetall": {
+      "event_count": 21,
+      "sentiment_avg": -0.05,
+      "rank": 2
+    },
+    "hanwha_aero": {
+      "event_count": 18,
+      "sentiment_avg": 0.03,
+      "rank": 3
+    },
+    "elbit": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "palantir": {
+      "event_count": 28,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "lockheed": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 318,
+        "last": 324,
+        "change_pct": -1.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-10",
+      "event_count": 63,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-09-11",
+      "event_count": 68,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-09-12",
+      "event_count": 15,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-13",
+      "event_count": 10,
+      "sentiment_avg": -0.15
+    },
+    {
+      "date": "2026-09-14",
+      "event_count": 60,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-09-15",
+      "event_count": 77,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-16",
+      "event_count": 25,
+      "sentiment_avg": -0.01
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-10 ~ 2026-09-16）共 318 則事件，重點為「Rheinmetall stock falls as guidance cut and JPM...」。財報、國防航太通用、無人機作戰為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "RTX",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "萊茵金屬",
+        "reason": "本週出現 21 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
