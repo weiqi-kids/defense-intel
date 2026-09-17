@@ -1,0 +1,16 @@
+{
+  "total_raw": 279,
+  "dup_title": 92,
+  "no_date": 0,
+  "too_old": 63,
+  "gate1_fail": 20,
+  "gate2_fail": 16,
+  "passed": 88,
+  "gate2_samples": [
+    "What is RTX Corporation rStock | How RRTX Works, Use Cases and Values | MEXC - MEXC",
+    "Boeing (BA) and RTX (RTX) Gain From Pentagon Missile Buildup, But Is the Upside Priced In? - Yahoo F",
+    "RTX (RTX) Upgraded to Buy: Here's Why - Yahoo Finance",
+    "L3Harris Is Down 30% and Guggenheim Calls It a Buy - Yahoo Finance",
+    "L3Harris (LHX) Stock Looks Reasonable Following Its 51% 3 Year Run - simplywall.st"
+  ]
+}
