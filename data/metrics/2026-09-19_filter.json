@@ -1,0 +1,16 @@
+{
+  "total_raw": 285,
+  "dup_title": 147,
+  "no_date": 0,
+  "too_old": 65,
+  "gate1_fail": 21,
+  "gate2_fail": 10,
+  "passed": 42,
+  "gate2_samples": [
+    "Boeing (BA) and RTX (RTX) Gain From Pentagon Missile Buildup, But Is the Upside Priced In? - Yahoo F",
+    "RTX (RTX) Upgraded to Buy: Here's Why - Yahoo Finance",
+    "Possible Bearish Signals With L3Harris Technologies Insiders Disposing Stock - Moomoo",
+    "L3Harris Is Down 30% and Guggenheim Calls It a Buy - Yahoo Finance",
+    "Rheinmetall Stock: The Bull And Bear Case (NEOE:RHM:CA) - Seeking Alpha"
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "date": "2026-09-19",
+  "date_range": {
+    "start": "2026-09-13",
+    "end": "2026-09-19"
+  },
+  "generated_at": "2026-09-19T12:12:19.979302Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "general_dynamics-2026-09-16-034",
+      "date": "2026-09-16",
+      "title": "U.S. Army’s Bradley replacement race enters troop-testing phase with first XM30 prototypes from Rheinmetall and General Dynamics - Defence Industry Europe",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 88,
+      "last_week": 72,
+      "week_over_week_change": "+22%",
+      "sentiment_this_week": 0.0
+    },
+    "industry_general": {
+      "this_week": 80,
+      "last_week": 46,
+      "week_over_week_change": "+74%",
+      "sentiment_this_week": 0.03
+    },
+    "arms_export": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "missile_defense": {
+      "this_week": 4,
+      "last_week": 4,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "drone_warfare": {
+      "this_week": 20,
+      "last_week": 13,
+      "week_over_week_change": "+54%",
+      "sentiment_this_week": -0.02
+    },
+    "defense_budget": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rheinmetall": {
+      "event_count": 26,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "elbit": {
+      "event_count": 13,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "palantir": {
+      "event_count": 24,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "l3harris": {
+      "event_count": 15,
+      "sentiment_avg": -0.07,
+      "rank": 3
+    },
+    "hanwha_aero": {
+      "event_count": 13,
+      "sentiment_avg": 0.04,
+      "rank": 5
+    },
+    "lockheed": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "rtx": {
+      "event_count": 11,
+      "sentiment_avg": 0.11,
+      "rank": 6
+    },
+    "bae": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 375,
+        "last": 336,
+        "change_pct": 11.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-13",
+      "event_count": 11,
+      "sentiment_avg": -0.18
+    },
+    {
+      "date": "2026-09-14",
+      "event_count": 64,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-09-15",
+      "event_count": 82,
+      "sentiment_avg": -0.0
+    },
+    {
+      "date": "2026-09-16",
+      "event_count": 77,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-09-17",
+      "event_count": 82,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-09-18",
+      "event_count": 57,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-09-19",
+      "event_count": 2,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-13 ~ 2026-09-19）共 375 則事件，重點為「U.S. Army’s Bradley replacement race enters tro...」。財報、國防航太通用、無人機作戰為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "萊茵金屬",
+        "reason": "本週出現 26 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "艾爾比特",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Palantir Technologies",
+        "reason": "本週出現 24 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
