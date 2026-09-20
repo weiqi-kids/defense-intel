@@ -1,0 +1,16 @@
+{
+  "total_raw": 285,
+  "dup_title": 170,
+  "no_date": 0,
+  "too_old": 66,
+  "gate1_fail": 21,
+  "gate2_fail": 13,
+  "passed": 15,
+  "gate2_samples": [
+    "RRTX to MXN: RTX Corporation rStock Price in Mexican Peso - CoinGecko",
+    "RTX (RTX) Upgraded to Buy: Here's Why - Yahoo Finance",
+    "L3Harris Is Down 30% and Guggenheim Calls It a Buy - Yahoo Finance",
+    "Rheinmetall Stock: The Bull And Bear Case (NEOE:RHM:CA) - Seeking Alpha",
+    "Rheinmetall UK and Mercedes-Benz expand Team Wolf - Rheinmetall"
+  ]
+}
