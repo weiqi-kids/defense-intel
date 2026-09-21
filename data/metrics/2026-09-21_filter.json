@@ -1,0 +1,16 @@
+{
+  "total_raw": 285,
+  "dup_title": 134,
+  "no_date": 0,
+  "too_old": 73,
+  "gate1_fail": 22,
+  "gate2_fail": 19,
+  "passed": 37,
+  "gate2_samples": [
+    "RRTX to MXN: RTX Corporation rStock Price in Mexican Peso - CoinGecko",
+    "RTX (RTX) Upgraded to Buy: Here's Why - finance.yahoo.com",
+    "L3Harris Technologies stock heads into the open after a 1.38 percent drop - AD HOC NEWS",
+    "L3Harris Is Down 30% and Guggenheim Calls It a Buy - Yahoo Finance",
+    "Testing of modular and interconnected solutions for maritime operations - Rheinmetall"
+  ]
+}
