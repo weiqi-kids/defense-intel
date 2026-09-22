@@ -1,0 +1,253 @@
+{
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T13:00:07.892095Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-09-22-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Corporation stock heads into the open after a 0.2 percent gain - AD HOC NEWS",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUTRBMFhyZGQ2Z0IwU0h6bUN6V1Y5UUh4OFRoR2txOW1pd19ZYWhfU2ZtR2dWclh6SGxZQS1VTGp1ZFR6MUJ2eVpzS3hFS0x0UTR0dUVVQm80emduYUNOd2t0V2I4YUhOaUNxWjVCUDJtU3FCUU83OUV0OWwxS0tsZno4T1ltSm5GUWFDNHlnSmRnLTNUZTBRdU1lNDZGWUFsT1lrZHZvbElRdWlwam1TaVdvNHpuVzZYOFRMT3pyVTdrNlQ4WVNzRg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "l3harris-2026-09-22-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris gets $139M for US Navy submarine masts - NavalToday",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ1NiWEhOS1B3ZkJTOGpxczVmVVkxUGlhQUlTSGNxSHlxRVNISmNUSF9XRGhoNU4tandXbDZ5eGpsNkl6ajRMRVVORnRxQjR5NTc3d0xuY0l1Y1hoY2ViTDltZm53Q1VjbXo0Wm15QUZZY3c1RTdxZ0h2c1BMaDZka3VhekpFdVZMcnYyU3BPVDR5U0h6?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-22-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha Defense USA plans Arkansas munitions campus - Hanwha Group",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT3M2RWNwdk94UHE0SHV6WmpTRFJlWlR0TXhPUXp3YTdJWHU4QzY3MzFZNFdHUGNYNWptVlM2VW5rSVQ3dFFQSWpKaDQ2QU5RbjlYWU53RmhhNTNDbXNFYUtqd3pMV2tZYWVQTGMzS1E2YjZRMjdsX1pMemVpNUJGQm8teVphQk1QLU4tLUt1SURlVWlDTHd4dUZrX2dKZTY3dHYxbVp2WHZzUG5aQm13UDdfTVZZd2VDekZYR3lVWU1oTlJRNWRqeFZlUGhQcnBoLXc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hanwha_aero-2026-09-22-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha Aerospace teams with 43 South Korean firms on drones - upi.com",
+      "companies": [
+        "hanwha_aero"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM3hCdUF4Q3FQZkZueUU1cnNTMkFURjVvYlYtNW5ZRWlLNTJST2pwX3pnbGkwMGUtWjBpWXVuME16R2RFLVVYSDZrZ00zbFRncXBzblVJN2k4YVZ4YTVySnlMZ3NRcGNsQWF5SmttN0RmNGllanNxLWRsakIyeWN0clRLb0dfeHh4X1NIUGV5dTd6MEcyS3J5WkdmT3U2SDBVMEwtZ2RxZWNNQTTSAbABQVVfeXFMT2hlUmJKYklJc0ttX0RFLTZ6N0RibTZoOEgwQTF4VTFJcVlvSm1DLWYyVlhOejJxOGp3YWJNek1POUJBRjNZMTE0dzVHTWtSNzQwRkIyMG9TVHNxXzJWeWhqaVBoU1pFeUpwdmtpYVk0X1hENkVRVzdQcVlmbll0aGdzUTR1YUVHQU1ObVl5ZkQ2TE04OHd5U0JVWGpkalhOb0xwY0M1VHhkY3RROEdOLUE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_aero-2026-09-22-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha Aerospace Builds Arkansas Ammo Hub - Businesskorea",
+      "companies": [
+        "hanwha_aero"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2SUpfRDZMRTdQOEQ3Zy1qdXpHTXoxbHE5Q0Y5OG4yTUZKTVAyX2FsVmtDcmJUMjJGWFl6UTVCOUIxemk1dUhRWnZRYXdjRHVKX2FwUlItb0Z3WGZxM2ZMbW93THRYdUpzdzJrVVJMZHNDb3Vr?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "missile_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 31,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 31,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_aero",
+        "count": 8
+      },
+      {
+        "id": "rheinmetall",
+        "count": 5
+      },
+      {
+        "id": "palantir",
+        "count": 4
+      },
+      {
+        "id": "l3harris",
+        "count": 3
+      },
+      {
+        "id": "rtx",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
+        "id": "earnings",
+        "count": 11
+      },
+      {
+        "id": "drone_warfare",
+        "count": 2
+      },
+      {
+        "id": "missile_defense",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 122,
+    "too_old": 67,
+    "gate1_blocked": 24,
+    "gate2_blocked": 18,
+    "passed": 55,
+    "pass_rate": "33.5%",
+    "gate2_block_rate": "11.0%",
+    "gate2_samples": [
+      "RTX Corporation stock holds at USD 194.34 - AD HOC NEWS",
+      "RTX (NYSE:RTX): What’s Fueling the Latest Stock Debate? - Kalkine Media",
+      "RRTX to MXN: RTX Corporation rStock Price in Mexican Peso - CoinGecko",
+      "RTX (RTX) Upgraded to Buy: Here's Why - Yahoo Finance",
+      "RTX stock ends the day modestly higher at the close on the NYSE - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 31 則事件，焦點為韓華航太、萊茵金屬、Palantir Technologies相關動態：「RTX Corporation stock heads into the open after a 0.2 per...」。主要關注主題為國防航太通用、財報、無人機作戰，市場情緒中性。",
+    "signals": [
+      {
+        "text": "RTX Corporation stock heads into the open after a 0.2 percent gain - AD HOC NEWS（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "L3Harris gets $139M for US Navy submarine masts - NavalToday（財報、國防航太通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

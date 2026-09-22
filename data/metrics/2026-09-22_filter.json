@@ -1,0 +1,16 @@
+{
+  "total_raw": 286,
+  "dup_title": 122,
+  "no_date": 0,
+  "too_old": 67,
+  "gate1_fail": 24,
+  "gate2_fail": 18,
+  "passed": 55,
+  "gate2_samples": [
+    "RTX Corporation stock holds at USD 194.34 - AD HOC NEWS",
+    "RTX (NYSE:RTX): What’s Fueling the Latest Stock Debate? - Kalkine Media",
+    "RRTX to MXN: RTX Corporation rStock Price in Mexican Peso - CoinGecko",
+    "RTX (RTX) Upgraded to Buy: Here's Why - Yahoo Finance",
+    "RTX stock ends the day modestly higher at the close on the NYSE - AD HOC NEWS"
+  ]
+}
