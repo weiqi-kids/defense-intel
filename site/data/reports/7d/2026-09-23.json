@@ -1,0 +1,163 @@
+{
+  "date": "2026-09-23",
+  "date_range": {
+    "start": "2026-09-17",
+    "end": "2026-09-23"
+  },
+  "generated_at": "2026-09-23T13:12:13.488511Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hanwha_aero-2026-09-19-003",
+      "date": "2026-09-19",
+      "title": "Hanwha Aerospace and Lockheed Martin UK unveil updated 40mm infantry fighting vehicle - Asia Pacific Defence Reporter",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 84,
+      "last_week": 84,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.0
+    },
+    "industry_general": {
+      "this_week": 75,
+      "last_week": 72,
+      "week_over_week_change": "+4%",
+      "sentiment_this_week": 0.01
+    },
+    "missile_defense": {
+      "this_week": 4,
+      "last_week": 1,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": 0.0
+    },
+    "drone_warfare": {
+      "this_week": 21,
+      "last_week": 16,
+      "week_over_week_change": "+31%",
+      "sentiment_this_week": -0.02
+    },
+    "defense_budget": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "cybersecurity": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rtx": {
+      "event_count": 12,
+      "sentiment_avg": 0.13,
+      "rank": 4
+    },
+    "l3harris": {
+      "event_count": 12,
+      "sentiment_avg": -0.08,
+      "rank": 5
+    },
+    "rheinmetall": {
+      "event_count": 32,
+      "sentiment_avg": 0.03,
+      "rank": 1
+    },
+    "lockheed": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "hanwha_aero": {
+      "event_count": 21,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "elbit": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "palantir": {
+      "event_count": 28,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "bae": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 307,
+        "last": 385,
+        "change_pct": -20.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-17",
+      "event_count": 91,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-09-18",
+      "event_count": 63,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-09-19",
+      "event_count": 4,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-20",
+      "event_count": 16,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-21",
+      "event_count": 42,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-09-22",
+      "event_count": 63,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-09-23",
+      "event_count": 28,
+      "sentiment_avg": 0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-17 ~ 2026-09-23）共 307 則事件，重點為「Hanwha Aerospace and Lockheed Martin UK unveil ...」。財報、國防航太通用、無人機作戰為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "RTX",
+        "reason": "本週出現 12 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 12 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "萊茵金屬",
+        "reason": "本週出現 32 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

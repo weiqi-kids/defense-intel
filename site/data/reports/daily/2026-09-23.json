@@ -1,0 +1,250 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T13:12:13.347812Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-09-23-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Corporation stock falls as backlog supports long term growth - AD HOC NEWS",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU05JVnJrYWRSVERDZFl0UTA2b3NBUDhJMXc3d3ZYZnJlSGdSUEZVRGtkZ3VyUV9LRGtuNk96TzB2RWJlZGo5WGNHOTctZ0gxSHlNN3gxSzFCbXJPcUE0TTAwWk9mSElwSVhhN1FJTk1falowRWhxVEZodHAyVG9iQ2tXR2kzWkhVel9TbTNTUHhObkxMTS0xaU9KaVdOUDMweHFZRTdLSElyLTBWT0FNdnpIQVRhVkROdGI1S0IyLWozZVRXb1E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "l3harris-2026-09-23-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why Is L3Harris Technologies (LHX) Standing Apart From Its Peers? - kalkinemedia.com",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObTB6TGl4QmdJZkZyWFgzWC1oUTBLc0VoMDBveUVDZnRmYXB5dmxVVU9FcFBVclVpY2d0YVptSVFleHc0RV9XSWNYdFQ2OTkyNlNOZ3YwVDZsMDc5d2VrN19Gam4zbGVXOWg2czVXeTB1cUw2VWtDWHNYc1BWTHhoN0VURnNxSU1vdHVnZmw5dHBMSjNlRmVOaVlNTS1jV081YVBUbkxEcDctdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-23-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why the Army needs a clean sheet modern combat vehicle - Breaking Defense",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYk1tdFFXckNqRGQ1T01RcVRGVzFVT05UNExRWlJvWW1uOU8zQkVHYjhjUU5zaFJqbXotN254Qk9nZ1plQVBPQTg4emcxYUtscFNBZmhoVnA3UjBSVDRhcG5GMmMxdVA0YW1ZdXo0THdsWVZxQURJMExncUFrSmVza2M1d2QybjZuSi02dFVFLWV3UC16aGc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rheinmetall-2026-09-23-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall secures long-term support role for Germany’s four LNG-powered customs vessels, strengthening naval lifecycle business - Defence Industry Europe",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUHo4LXNuQ2dxWjNqa0g5NmRBai1nUl9OUmhDRERnQjVYRGd2NWU2dEJaNWdMV0dZX3V4bEhDY3BsRUxhOGhzWkplOXFPb180QVNJMGhsMzAwTjRjakt1SV95bmRydm4teTVtbGRpMFo4bkkxd3JhYnItbE9tUzlwc24xcWl3T01mMTZnelI2MmM0Y04td2s0TzY4MndTclFMbWxVOEdPQWREUXNWT1V4Z0pZMXBVcXJOUEFnb295V3NhMTN1endJa1Ezcl9fa0U1TEkycG9aTm5wel9fUFZzdEZfcF9xbnd6QjBwZQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rheinmetall-2026-09-23-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall Awarded Maintenance Contract On Four LNG Custom Vessels - TradingView",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQblU5aHp3bzltNi1WZENoSTJHVWdPd1V6VzNTOG5VUUJnQ2FwR0phTXpnZjJybEJzUnJXWDhKUk5iNC1wNGlLYTl3aXJZWnE4YXV6dzhQVHRyNnRHZlRyUENSR3dmWW5mZnFOMDlxUl9GRkkxSUtpUElFczllb0xVNXgzeHk4RGhWa2lNYXl2Tlpaa0FGTU9JR0FNS0k3UkdWb2x4YVZIUkVtUjV1cHdVY05KVjRrOHc0amptYXlsQkxxODN5YUwxNFc2bEtoYWZrTmhn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cybersecurity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 28,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 27,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rheinmetall",
+        "count": 8
+      },
+      {
+        "id": "palantir",
+        "count": 8
+      },
+      {
+        "id": "hanwha_aero",
+        "count": 4
+      },
+      {
+        "id": "elbit",
+        "count": 2
+      },
+      {
+        "id": "rtx",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 15
+      },
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "drone_warfare",
+        "count": 3
+      },
+      {
+        "id": "cybersecurity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 113,
+    "too_old": 68,
+    "gate1_blocked": 22,
+    "gate2_blocked": 19,
+    "passed": 64,
+    "pass_rate": "37.0%",
+    "gate2_block_rate": "11.0%",
+    "gate2_samples": [
+      "RTX Corporation stock falls 1.72 percent ahead of the open - AD HOC NEWS",
+      "RTX (NYSE:RTX) Price Target Cut to $223.00 by Analysts at Sanford C. Bernstein - MarketBeat",
+      "RTX (NYSE:RTX): What’s Fueling the Latest Stock Debate? - kalkinemedia.com",
+      "State Street Corp Has $2.64 Billion Stock Holdings in L3Harris Technologies Inc $LHX - MarketBeat",
+      "L3Harris Technologies stock gains on a new Navy award - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 28 則事件，焦點為萊茵金屬、Palantir Technologies、韓華航太相關動態：「RTX Corporation stock falls as backlog supports long term...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "RTX Corporation stock falls as backlog supports long term growth - AD HOC NEWS（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Why Is L3Harris Technologies (LHX) Standing Apart From Its Peers? - kalkineme...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

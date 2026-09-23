@@ -1,0 +1,16 @@
+{
+  "total_raw": 286,
+  "dup_title": 113,
+  "no_date": 0,
+  "too_old": 68,
+  "gate1_fail": 22,
+  "gate2_fail": 19,
+  "passed": 64,
+  "gate2_samples": [
+    "RTX Corporation stock falls 1.72 percent ahead of the open - AD HOC NEWS",
+    "RTX (NYSE:RTX) Price Target Cut to $223.00 by Analysts at Sanford C. Bernstein - MarketBeat",
+    "RTX (NYSE:RTX): What’s Fueling the Latest Stock Debate? - kalkinemedia.com",
+    "State Street Corp Has $2.64 Billion Stock Holdings in L3Harris Technologies Inc $LHX - MarketBeat",
+    "L3Harris Technologies stock gains on a new Navy award - AD HOC NEWS"
+  ]
+}
