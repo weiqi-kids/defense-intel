@@ -1,0 +1,16 @@
+{
+  "total_raw": 287,
+  "dup_title": 112,
+  "no_date": 0,
+  "too_old": 72,
+  "gate1_fail": 24,
+  "gate2_fail": 15,
+  "passed": 64,
+  "gate2_samples": [
+    "RTX Corporation $RTX Stock Position Raised by QRG Capital Management Inc. - MarketBeat",
+    "Envestnet Asset Management Inc. Lowers Position in L3Harris Technologies Inc $LHX - MarketBeat",
+    "L3Harris Technologies (NYSE:LHX) Hits New 1-Year Low - What's Next? - MarketBeat",
+    "Mwb Research Maintains Rheinmetall's Hold Rating, PT - marketscreener.com",
+    "AIDC delivers air force’s last two Brave Eagle trainers - Taipei Times"
+  ]
+}
