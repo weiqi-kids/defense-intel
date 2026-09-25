@@ -1,0 +1,16 @@
+{
+  "total_raw": 288,
+  "dup_title": 116,
+  "no_date": 0,
+  "too_old": 80,
+  "gate1_fail": 25,
+  "gate2_fail": 22,
+  "passed": 45,
+  "gate2_samples": [
+    "RTX Corporation $RTX Stock Position Raised by QRG Capital Management Inc. - marketbeat.com",
+    "Here's Why RTX (RTX) Fell More Than Broader Market - Yahoo! Finance Canada",
+    "RTX Corporation (RTX) Options Chain - Yahoo Finance - Yahoo! Finance Canada",
+    "RTX Corporation (RTX) Options Chain - Yahoo! Finance Canada",
+    "L3Harris Technologies, Inc. (LHX) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+  ]
+}
