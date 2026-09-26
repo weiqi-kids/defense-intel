@@ -1,0 +1,16 @@
+{
+  "total_raw": 288,
+  "dup_title": 125,
+  "no_date": 0,
+  "too_old": 76,
+  "gate1_fail": 19,
+  "gate2_fail": 21,
+  "passed": 47,
+  "gate2_samples": [
+    "RTX Corporation (RTX) Options Chain - Yahoo Finance - Yahoo! Finance Canada",
+    "RTX Corporation $RTX Stock Position Raised by QRG Capital Management Inc. - MarketBeat",
+    "Here's Why RTX (RTX) Fell More Than Broader Market - Yahoo! Finance Canada",
+    "Why Everyone Is Watching L3Harris Technologies (LHX) Right Now - simplywall.st",
+    "L3Harris Technologies Agencies, 2025 - OpenSecrets"
+  ]
+}
