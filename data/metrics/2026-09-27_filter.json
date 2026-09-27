@@ -1,0 +1,16 @@
+{
+  "total_raw": 288,
+  "dup_title": 138,
+  "no_date": 0,
+  "too_old": 73,
+  "gate1_fail": 20,
+  "gate2_fail": 17,
+  "passed": 40,
+  "gate2_samples": [
+    "RTX Corporation -D26 - Moomoo",
+    "RTX Corporation (RTX) Options Chain - Yahoo Finance - ca.finance.yahoo.com",
+    "RTX Corporation $RTX Stock Position Raised by QRG Capital Management Inc. - MarketBeat",
+    "L3Harris Technologies Agencies, 2025 - OpenSecrets",
+    "Why Everyone Is Watching L3Harris Technologies (LHX) Right Now - simplywall.st"
+  ]
+}

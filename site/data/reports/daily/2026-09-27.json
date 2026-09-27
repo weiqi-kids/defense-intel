@@ -1,0 +1,256 @@
+{
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T13:27:49.127561Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rheinmetall-2026-09-27-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "How Many 155 mm Shells Has Rheinmetall's New Plant, Built in Record Time, Delivered to Ukraine? - en.defence-ua.com",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeE9LZk5wZXBZc3lhSFhfVThjdFpMbkxrQlVjLXVFYnJQc3JWVHNhTVlsNHp1b01BaExyMGp3aTUyeEZuMHd4OGJSX0E3dG13VkxsNHVNZ2hmRzVNa2ZMTGR3TDNJY3d2WVV1clNqcEdjOS1Wb2FyOEFQT0Q0YkVLS2ZmVlBmQ01vbGRkeWdsY1dTQXU0blQ3dURzZk53dlFVRVhSYjZtaGdVa0hySkd4V0dGUEdGQW5MVGJPcW02RldKejIwcXo4ejNRUXZHUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rheinmetall-2026-09-27-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall has supplied Ukraine with millions of rounds of ammunition during the war: what weapons exactly are we talking about? - Українські Національні Новини (УНН)",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOM0d3SnV1eFl4a0Z1QXUxUml3Q0U3MjV3RFk1Y1VqVEVtNnZrRWQtRmc1SmJRejQxUndXRi02S2pNQVFfRFV2NEhuU3p4VXl4YldVTEpfVFQwWlJ1aTNib3BfMU1lMVRmZG4xd25ycXhuRHJGelFtamRfb1A1WGVMbW1FZ2pkWnFZTlYzYUI5UWhGQkVmV2pyZUJfNHROQjZnRHlwUVhuOXFLVzc1Q3gxZEI2QW1GbDVDSjBtdE1NX0pGU1FzQnJCOEEwV05VSVNzQnlKWXF1RC03V25IZmdTNG9jSVTSAeMBQVVfeXFMUEFQajh1NnRFQkNZeXdvY2gzNHhfb0c4Y0tpQlNqNmZVeHlNbGdZYmwyR1ZPajJUQkMzZF9FUktQNXdMVU1FZHhJem1XWDNFRXZZaU9ZNHpMWFNBbUY1M0sybzNtZWgyQ3Y1ck9aWmVJX1lVX01wLVh3UEtJdHJQUDE2OF9XNFlkUlc1Ry1ydF9UaEF5elV6NFRFYlVYc0EyQzJQTkZzTXJqNFJCX1N6cks3UzdyZ215ZFV1MmNQaUVva29fWHVBZUc3dHg1Y0tnYnllckQwNEtmYVdLTGJWeFJUbWc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rheinmetall-2026-09-27-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall's Order Streak Runs Into a Defense Sector Losing Its Appetite - AD HOC NEWS",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYmhtX2wyZDFNME96RmJfNDM3RFV1bk5TODVObVhPTEIydEY0SHJFUEpBWkR1VjctOU9zaklMbXRJTXhWcGZuSW5DLWF1eGJmVTBlZWx2dExIalNKTlprMFJwUVk1NEM0VEktXzBfT0o1UmNzVkI5SThHTEFuRWphYTJxZFdMY0h4bkFzT1pXOU1UZ29TaGZCRldaZG1pQ25ES05TcjVHUUFldHVoYXNxYlZLWDhtTEFvRFJBbHZEa0lkVUFpai1kQld6d3F0SXVVMGVZaXpCRFViTkEyTFE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "hanwha_aero-2026-09-27-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha Aerospace Apologizes for Controversial Hiring Guidelines, Pledges Prevention Measures - news.sbs.co.kr",
+      "companies": [
+        "hanwha_aero"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDeWt2SkJmcnQ3Y3lYSWNEUHNzRG9BZzJfSnZjVFQ3R0Y0d0J2MzI3bWpxLTcxQW14QWlWSGJYWERBYnZxZnNudGpFczRBaXBQVXJHY3ZPTFdwR01weV9mOHZYSk1Ldw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_aero-2026-09-27-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha Aerospace Apologizes for Unfair Hiring Guidelines - 조선일보",
+      "companies": [
+        "hanwha_aero"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVWRpMmhqeUJ0VldiMTdLYlJoYlRhRlU0NXVNdEQxMUxlNU5fQkZGZlEzc3BBeThqM0U1bmJQank4NVRtQzFVLTREMmdsbS1DZmZWREhvelpQOVJBUGxFSGNMX0UyOGg2WS1BLW0tQlVXNnRKaWpGT2ltOWdjdUU1WGQ4cC1oUnl2?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "defense_budget": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 21,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 17,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_aero",
+        "count": 7
+      },
+      {
+        "id": "rheinmetall",
+        "count": 5
+      },
+      {
+        "id": "palantir",
+        "count": 3
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "saab",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "earnings",
+        "count": 12
+      },
+      {
+        "id": "defense_budget",
+        "count": 2
+      },
+      {
+        "id": "drone_warfare",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 288,
+    "dup_title": 138,
+    "too_old": 73,
+    "gate1_blocked": 20,
+    "gate2_blocked": 17,
+    "passed": 40,
+    "pass_rate": "26.7%",
+    "gate2_block_rate": "11.3%",
+    "gate2_samples": [
+      "RTX Corporation -D26 - Moomoo",
+      "RTX Corporation (RTX) Options Chain - Yahoo Finance - ca.finance.yahoo.com",
+      "RTX Corporation $RTX Stock Position Raised by QRG Capital Management Inc. - MarketBeat",
+      "L3Harris Technologies Agencies, 2025 - OpenSecrets",
+      "Why Everyone Is Watching L3Harris Technologies (LHX) Right Now - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 21 則事件，焦點為韓華航太、萊茵金屬、Palantir Technologies相關動態：「How Many 155 mm Shells Has Rheinmetall's New Plant, Built...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "How Many 155 mm Shells Has Rheinmetall's New Plant, Built in Record Time, Del...（財報、國防航太通用）",
+        "level": "red"
+      },
+      {
+        "text": "Rheinmetall has supplied Ukraine with millions of rounds of ammunition during...（財報、國防航太通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
