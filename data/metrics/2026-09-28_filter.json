@@ -1,0 +1,16 @@
+{
+  "total_raw": 290,
+  "dup_title": 131,
+  "no_date": 0,
+  "too_old": 75,
+  "gate1_fail": 22,
+  "gate2_fail": 15,
+  "passed": 47,
+  "gate2_samples": [
+    "RTX Corporation -D26 - Moomoo",
+    "L3Harris Technologies (NYSE:LHX) Reaches New 52-Week Low After Analyst Downgrade - MarketBeat",
+    "Why Everyone Is Watching L3Harris Technologies (LHX) Right Now - simplywall.st",
+    "L3Harris Technologies Agencies, 2025 - OpenSecrets",
+    "L3Harris (LHX) Stock May Be 45% Undervalued On Fraud Investigation News - Yahoo Finance"
+  ]
+}
