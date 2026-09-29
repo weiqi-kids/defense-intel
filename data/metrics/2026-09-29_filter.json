@@ -1,0 +1,16 @@
+{
+  "total_raw": 288,
+  "dup_title": 119,
+  "no_date": 0,
+  "too_old": 69,
+  "gate1_fail": 24,
+  "gate2_fail": 21,
+  "passed": 55,
+  "gate2_samples": [
+    "RTX Corporation -D26 - Moomoo",
+    "RTX Corporation stock at USD 187.66 on September 28, 2026, down 0.92 percent - AD HOC NEWS",
+    "L3Harris Technologies Agencies, 2025 - OpenSecrets",
+    "Why Everyone Is Watching L3Harris Technologies (LHX) Right Now - simplywall.st",
+    "L3Harris Technologies (NYSE:LHX) Reaches New 52-Week Low After Analyst Downgrade - marketbeat.com"
+  ]
+}
