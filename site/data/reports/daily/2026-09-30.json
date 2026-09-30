@@ -1,0 +1,253 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T14:29:36.444124Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "palantir-2026-09-30-032",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "A Look at Palantir Technologies Inc (PLTR) After 0.3% Decline -- GF Value $182.09 vs Price $186.97 - GuruFocus",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbm9qR2NUN1J4UFRhLUE4NWJabXBQaERRS0JJOEU0U0ItVlQ1cHUzYmZuODBZMVBHZzNRbmpXSmxSQUxCNkt1MFd3OUt1Z0hfeHBaemR4OVdTeWl4SGhwOHF3YU1CREtMU3cxSGRSMW9Pa1NtU0ZpcWJnRDZqTC0tWlNPb3RvQU1naGJpY0FaRTVrTmlxeWEzLUZqOWRmX25vSFVXNmxxbjBRakk3ZGt2WGxRMkUzbUFXRVAtQmVuR01VWmtj?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rtx-2026-09-30-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Can Electronic Warfare Demand Support RTX's Defense Growth? - Yahoo Finance Singapore",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVkJlci1GQjEzc1BhOVFvOFA2QU5HQUs2UC1NeU5hSzRwVXBWNUdlSEVDQWtYQUlQQ2VyMmNEaTdBVmg5OWs2OFJ2bWVrcFV4UFdRNjFwQ2FwdkRNcEZqUFhZY1IzTVJ5Q25CSEdCSU84NzhmSUxnSkU2azlmdXdVdTFEc2prcXo4XzZ5XzQtXzc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rtx-2026-09-30-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What to Expect From RTX Corporation’s Next Quarterly Earnings Report - Barchart.com",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTzJwV2JYV1Q5dUp4T2FlTVVpUnRnQzdFaTNOaE1mS19UVmtfTElJSzAzSWhPTi1YUmNaZXJJQWdsR29aTW45Y3MtalJjZmRsSVJZTnZXdFVvVXlRM3VwaWdabllyNF81cDAtT0xZc3dVNlpVWlp2a2pLaDBXUFZDeFZMaUdfcm1QMnEtcEM1X3NRUWM4SjRNYnQyaU1SYko0WWJUX3NpVjI1dVZOUWRmTw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rtx-2026-09-30-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Corporation stock trades at EUR 164.93 ahead of earnings - AD HOC NEWS",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMTVpV29mTHJlU2gweVRDazlzSGxYM2pZdXdqUnlteG4zeE5teXlNRmRFcHpBeE5ONDJwRHVlVFhzLWNIcF9GRkNOVE5IMTA3eEFGbHhDUUFFX2o2RURjbmk5V1VWRmUxcTMwOUZnWU5JUElzRm9IYmNSMl9rMkVfSlBxcl9zakJ3VmxHcFFKcDRPRGNhNVpJbWF2cGVZLUo3RHJmMHc3MEJwbWo4ZHAxZlRqcWxiNFZ1S1dZRzhhSjY?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "l3harris-2026-09-30-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris lands contract worth over $6bn for THAAD - marketscreener.com",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "missile_defense",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZDh0SjNsVWJhLW9BZFFtQkJWZ0ZaX09GY2FqNC16Wlc5Y1NmR3ROQjJqVzFLQ3VOMnk4QWFVMnBLUV8xVkw3enZ3d2lENnZXNjh5aUhzSkthTnNzLWF1dmtvZHZUSlZxT21mWFdDOU5xVmZTNUxmWHg2cjVtMC1wRl90TEJIejQ1UjFHWEl6V3BXeml3X2ozS1U4WXZCNVBuMWY2bk1kRlFPUC1sMThOQVhlb2tFTWlIWVMyRGoybFYxbVFZUmhrUXcwU0lDdTJDQzdvVVF4ZW8?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "missile_defense": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 39,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 35,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_aero",
+        "count": 8
+      },
+      {
+        "id": "palantir",
+        "count": 6
+      },
+      {
+        "id": "rheinmetall",
+        "count": 5
+      },
+      {
+        "id": "rtx",
+        "count": 4
+      },
+      {
+        "id": "l3harris",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 24
+      },
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "drone_warfare",
+        "count": 4
+      },
+      {
+        "id": "missile_defense",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 291,
+    "dup_title": 109,
+    "too_old": 69,
+    "gate1_blocked": 24,
+    "gate2_blocked": 17,
+    "passed": 72,
+    "pass_rate": "39.6%",
+    "gate2_block_rate": "9.3%",
+    "gate2_samples": [
+      "RTX Corporation -D26 - Moomoo",
+      "Cash flow from investing activities of L3Harris Technologies Inc – HAN:HRS - TradingView",
+      "L3harris technologies stock hits 52-week low at 234.5 USD - Investing.com India",
+      "L3Harris Technologies (NYSE:LHX) Reaches New 52-Week Low After Analyst Downgrade - MarketBeat",
+      "Why Everyone Is Watching L3Harris Technologies (LHX) Right Now - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 39 則事件，焦點為韓華航太、Palantir Technologies、萊茵金屬相關動態：「A Look at Palantir Technologies Inc (PLTR) After 0.3% Dec...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "A Look at Palantir Technologies Inc (PLTR) After 0.3% Decline -- GF Value $18...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Can Electronic Warfare Demand Support RTX's Defense Growth? - Yahoo Finance S...（財報、國防航太通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

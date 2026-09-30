@@ -1,0 +1,16 @@
+{
+  "total_raw": 291,
+  "dup_title": 109,
+  "no_date": 0,
+  "too_old": 69,
+  "gate1_fail": 24,
+  "gate2_fail": 17,
+  "passed": 72,
+  "gate2_samples": [
+    "RTX Corporation -D26 - Moomoo",
+    "Cash flow from investing activities of L3Harris Technologies Inc – HAN:HRS - TradingView",
+    "L3harris technologies stock hits 52-week low at 234.5 USD - Investing.com India",
+    "L3Harris Technologies (NYSE:LHX) Reaches New 52-Week Low After Analyst Downgrade - MarketBeat",
+    "Why Everyone Is Watching L3Harris Technologies (LHX) Right Now - simplywall.st"
+  ]
+}
