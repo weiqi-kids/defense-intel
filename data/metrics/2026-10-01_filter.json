@@ -1,0 +1,16 @@
+{
+  "total_raw": 293,
+  "dup_title": 107,
+  "no_date": 0,
+  "too_old": 69,
+  "gate1_fail": 31,
+  "gate2_fail": 16,
+  "passed": 70,
+  "gate2_samples": [
+    "RTX Corporation -D26 - Moomoo",
+    "L3harris technologies stock hits 52-week low at 234.5 USD - Investing.com",
+    "L3Harris (LHX) Stock May Be 45% Undervalued On Fraud Investigation News - Yahoo Finance",
+    "L3Harris Technologies (NYSE:LHX) Reaches New 52-Week Low After Analyst Downgrade - MarketBeat",
+    "Rheinmetall Nordic opens new site in Skoppum - Rheinmetall"
+  ]
+}

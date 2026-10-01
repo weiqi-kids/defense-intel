@@ -1,0 +1,253 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T14:59:26.308280Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-10-01-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX wins radar deal as RTX Corporation stock draws 26 ratings - AD HOC NEWS",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWHQ3YnRNUHMyRmhXdnZrSzQybW5ULTFLS0U4WjNSSUlxX3BTNEF3YWN1REZYVFQ4T3Q4TU5vSExwY2FPRnI4a1ZaVUw2OUlzbWxVMTAxLWlIcVh1RTVQTWx6WFhCdUZKcVh4eEhqam1RRTlzMTdiQnZ0VW5sby0zZWVVT2gzMDAwVXFFN1VHUXFlY251RmlJT2N3c3UwblJwczMzcmZZeFgtRW9rWmt3NUJzQWxXSjN4ZF96MVpzd3d2UQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "l3harris-2026-10-01-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris Rochester wins $96.9M Marine Corps radio contract - Rochester Business Journal",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9raW1ONjFlUGpvM19uazFiZjU4c3NYaEdHWWJQZmhNYTFxUE5nNGFKcjlReFZxQmxHQ2l2eWtUbGEwZ2JhWGp4bkpzS2Z0NUtvdFlEbTZlNzVZZWszSHpGMy03XzNqT1hzS1RydXBJdldPdTYyQ2hjSHF5clBCNkU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-10-01-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris’ $6 Billion THAAD Win Comes at a Crucial Moment for the Stock - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "missile_defense",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSW5HYXQ4M05abFZLUmxPQmk3Nll0WW9lNnhXamtESmMzZDZ1bVRSTnJ6dVJuRzk5UWRmNHQxckZWTDBVa29maWtQcUh6TE52QTBHRHEtQWFxeWpyLWhBWURTSGp1Q1R0cjdOd0lYSzB4TjFEN2dlMkk3eTE0NUxrcEhZdlZib0tKZFVpdm5DNlNnZktVNVlNQUpKSFB4NHFjVlZ3ekV0bkY?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rheinmetall-2026-10-01-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall Opens New Site In Skoppum - TradingView",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1I1aXhtY0liRWtUdld2Q2JscW8teFFFZEFSc3JzOTBnSldyQ1ZGcTVKN09UTnkzUTZZRUpZMmtyX0hydGJydEdGLVZZMHJ4NENUYVJVQm9Bb1NQM0oyZkwxbGVKR0FZSng4c1ppRG00RlJZWmVBY3RwZFNwaDZrRW5GR0J3SnRSQlh1WUJidHlCenpqbTBQQzYzWEtJMjlLS0diWFNVamxYaDg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rheinmetall-2026-10-01-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall opens new defence facility in Norway to expand production, systems integration and long-term military customer support - Defence Industry Europe",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZ0swRWtVSnJJVzI5dmMzNG0wQjg4RHRIQXo4czFLbjg1MXI5WTEyWklQLURUd1Atd2MwYlFwQ213cGJaMjZlTDJtalFMVjZ0RmlmZFJpQmNxT29ZQ3pWamQyb05Gd2Jub3lGTTlZbGF3RC1HWHdNbnMwZThvVndWTmNBVzF5X2w1V3F3bDY4eEY4N2M3dGF1TDJJNDB6T1BSaTl6MmFBZ20yQWFBVF95RXdXMERldVNHUVdRREhxRFY1TzFKTXBqMEFBUFIxMWctN0N0QWNHdTRXWVMxbUdqZEdnSm1SLTgzUE56UzhnQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "missile_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 38,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 36,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_aero",
+        "count": 7
+      },
+      {
+        "id": "palantir",
+        "count": 6
+      },
+      {
+        "id": "rheinmetall",
+        "count": 5
+      },
+      {
+        "id": "l3harris",
+        "count": 4
+      },
+      {
+        "id": "elbit",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 21
+      },
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "drone_warfare",
+        "count": 2
+      },
+      {
+        "id": "missile_defense",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 293,
+    "dup_title": 107,
+    "too_old": 69,
+    "gate1_blocked": 31,
+    "gate2_blocked": 16,
+    "passed": 70,
+    "pass_rate": "37.6%",
+    "gate2_block_rate": "8.6%",
+    "gate2_samples": [
+      "RTX Corporation -D26 - Moomoo",
+      "L3harris technologies stock hits 52-week low at 234.5 USD - Investing.com",
+      "L3Harris (LHX) Stock May Be 45% Undervalued On Fraud Investigation News - Yahoo Finance",
+      "L3Harris Technologies (NYSE:LHX) Reaches New 52-Week Low After Analyst Downgrade - MarketBeat",
+      "Rheinmetall Nordic opens new site in Skoppum - Rheinmetall"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 38 則事件，焦點為韓華航太、Palantir Technologies、萊茵金屬相關動態：「RTX wins radar deal as RTX Corporation stock draws 26 rat...」。主要關注主題為財報、國防航太通用、無人機作戰，市場情緒中性。",
+    "signals": [
+      {
+        "text": "RTX wins radar deal as RTX Corporation stock draws 26 ratings - AD HOC NEWS（財報、國防航太通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "L3Harris Rochester wins $96.9M Marine Corps radio contract - Rochester Busine...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
