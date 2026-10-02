@@ -1,0 +1,16 @@
+{
+  "total_raw": 275,
+  "dup_title": 105,
+  "no_date": 0,
+  "too_old": 68,
+  "gate1_fail": 22,
+  "gate2_fail": 13,
+  "passed": 67,
+  "gate2_samples": [
+    "RTX Corporation -D26 - Moomoo",
+    "L3harris technologies stock hits 52-week low at 234.5 USD - Investing.com",
+    "Rheinmetall Nordic opens new site in Skoppum - rheinmetall.com",
+    "Korea taps LIG D&A, Hanwha to build KF-21 long-range air-to-air missile - CHOSUNBIZ - Chosunbiz",
+    "Hanwha's 'Korean SpaceX' ambitions grow as work begins on reusable rocket test vehicle - Korea Joong"
+  ]
+}
