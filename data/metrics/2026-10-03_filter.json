@@ -1,0 +1,16 @@
+{
+  "total_raw": 291,
+  "dup_title": 133,
+  "no_date": 0,
+  "too_old": 72,
+  "gate1_fail": 28,
+  "gate2_fail": 19,
+  "passed": 39,
+  "gate2_samples": [
+    "RTX Corporation schedules results: what it means for RTX Corporation stock - ad-hoc-news.de",
+    "Deferred cash retainers credit an L3Harris (LHX) director with 157.3 stock-linked units. - stocktita",
+    "L3harris technologies stock hits 52-week low at 234.5 USD - Investing.com",
+    "Rheinmetall Nordic opens new site in Skoppum - rheinmetall.com",
+    "Hanwha's 'Korean SpaceX' ambitions grow as work begins on reusable rocket test vehicle - Korea Joong"
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T12:55:29.860251Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rheinmetall-2026-10-03-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall's Space Ambitions Take Flight While Insiders and Analysts Signal Confidence - ad-hoc-news.de",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQ2pOQzhTbjVUYU1JUURlMEh4N2E3VW4zOGt2dktKdmw3YUpJVXRqa2sxWWhTcmctQXB3alNhcGM1OUprNXRyRVBmMU5VSm5UeVh0SFBidWVOcC1MTU5rWXZZN3h2LXM5UkVUN1VwVXRPSXJuS1cwQUs0N2RHQmFVY05BTVF1OGEtMVVfZXR0TlpkcDMyZ0JBRVdqenZNQjdBcjRGc015b1RUSzhpS0hpZHlkLW1kaFl5QWd4YWVIMnhzNWJTR0h4OTQ3alRuSkY2OEZqZ2h5ZWk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rheinmetall-2026-10-03-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall's Nordic Expansion and U.S. Army Order Keep Order Book Filling Despite 38% Year-to-Date - ad-hoc-news.de",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdUFkakc0SDFOd1phWUJTYW5aMER4MFg4RkJtVTZrNExNMXZqenJPZVFEbGJTTWhZeEtSQ0dDUDRaV1dTeTJIQ1NGUWlHVVRha01IREZJaEtEVENWanJyR2VBTVQwbE9sRXRseGZTa3lvOGF0NlctYXpZV29nbkZ5Z2wyaDV1MXJRWG5RTFc4ZS1hX2hMem12TXVKWnBlc2RjbjRBR2MzUHdIQ1F6TEQ1T0dSZFpkaXdhakl1SGc5b2ZWVC1vX19GWEhoV1NuRnAycVZJZGc4ZXBjSVQxOWc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rheinmetall-2026-10-03-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall opens Norway site as Rheinmetall stock trades at EUR 960.70 - ad-hoc-news.de",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZWgzNGZzZzFobS1QcmNKR3JEcFB1Vzk0aU43RktYSmVpTGxKVEc0LWVVUG52d0F4Z2huTW9reWQ1S2d1SzdMSEkzNktpazk3YlJPZ3dPY3hMU3V0dlA0dUZKUldoQ291TkgtOV9sQmhTb3lna1lFbUVMWUJOdE5ZX3hNWDE2QmZEcEdVRXVJZHBtS20zZXF6dWpDMm5USXFKOWNHMTBpTzdMc0V3NXNycTdKZ1ZHeDhucFJXQ2dMX1NLRzVGbkRQTmE4VWlNbmc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rheinmetall",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 291,
+    "dup_title": 133,
+    "too_old": 72,
+    "gate1_blocked": 28,
+    "gate2_blocked": 19,
+    "passed": 39,
+    "pass_rate": "24.7%",
+    "gate2_block_rate": "12.0%",
+    "gate2_samples": [
+      "RTX Corporation schedules results: what it means for RTX Corporation stock - ad-hoc-news.de",
+      "Deferred cash retainers credit an L3Harris (LHX) director with 157.3 stock-linked units. - stocktita",
+      "L3harris technologies stock hits 52-week low at 234.5 USD - Investing.com",
+      "Rheinmetall Nordic opens new site in Skoppum - rheinmetall.com",
+      "Hanwha's 'Korean SpaceX' ambitions grow as work begins on reusable rocket test vehicle - Korea Joong"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為萊茵金屬相關動態：「Rheinmetall's Space Ambitions Take Flight While Insiders ...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Rheinmetall's Space Ambitions Take Flight While Insiders and Analysts Signal ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Rheinmetall's Nordic Expansion and U.S. Army Order Keep Order Book Filling De...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
