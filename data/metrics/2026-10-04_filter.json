@@ -1,0 +1,16 @@
+{
+  "total_raw": 291,
+  "dup_title": 152,
+  "no_date": 0,
+  "too_old": 68,
+  "gate1_fail": 29,
+  "gate2_fail": 13,
+  "passed": 29,
+  "gate2_samples": [
+    "Deferred cash retainers credit an L3Harris (LHX) director with 157.3 stock-linked units. - Stock Tit",
+    "Rheinmetall Nordic opens new site in Skoppum - Rheinmetall",
+    "Hanwha's 'Korean SpaceX' ambitions grow as work begins on reusable rocket test vehicle - Korea Joong",
+    "Palestine Action group ‘armed with kebab skewers attacked Elbit Systems guards’ - The Jewish Chronic",
+    "Elbit Systems Lobbying Profile, 2023 - OpenSecrets"
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T13:36:34.967976Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-10-04-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "RTX vs. GD: Which Pentagon-Backed Dividend Will Outperform Over the Next Decade? - Yahoo Finance",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMXlXRE1jU3RKOVh5a0NjSGdObmFDcml2TEdSUHoxdGdMbHdLR3Joa2dXak1YWWthWGZHcVJtbVlDQ1FobTV1eEJPY3pOVkZhZHVSNVBlcU1sMnJrV05vTVI0VEN2NFhLTnVFb0l2UElmaFBuUTZQUFFZSGhPZ2xfbU5lUm1uMHQwRUdWanZyX0JEbDJQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "l3harris-2026-10-04-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris Technologies (LHX) Lands $6b THAAD Work, Is It 31% Below Fair Value? - Yahoo Finance",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "missile_defense",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYXdqaFZtenJlOEFBbWhlZk42X1RROWJwSUN6LTJHWDc1azNYSXZfS0ZFV0JnWkU5MEVYMnNWczRkUnVOaVAwWXdDd1ItbkxhTHpWMlU2bzl4dXZwX2ptcVNvLVNfWXpsdGw1emlzSHB2dWx1S1JGZkszT3hma04xc2RzeW9uR2Q4ektIZldMa1dYWFp5bHVmUkxOWW00VXpD?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-10-04-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris Technologies (LHX) After The $6b THAAD Win Looks Mispriced - Simply Wall Street",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "missile_defense",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcTRjbXd2N3FTRlFDckRDZ3JmaVdFeUtGYmt0R3hVRHkyUDhtN2ViQm5VLUsxM1B5OFExSVc1dko4VV9wM2pmZ0NENWZRenBBZGN2elBPR3BjMkUySVVCODJCdVFaX0l0eVBWakR3NmFBRzBWRzIxQXdtRms5RVRFaExCYncybVoybldvMzJ6N3prTTFqN1FZeWZoZ1NmOGN3VlRFZUNNMnVGbTZKZTROSTNZa3pNVDA2V2hWWUhHdWRiR25ydkN3cFRfV3pOQ2JCQlhPVXVudUJQd9IB3wFBVV95cUxQTXZnXy00QjZYb3J0QWpWYmNnMGxMeTYyYnd2SENGR3B3cy02ekt2R1VHOG1rSjlzeUVyclRvQVNMUjAyVmZfbmQtQUlmekNOdVpsS3JtUGxGMC1mZWdEYjFaOXBDclJqUUF6RkJtNlNVSTNYQmJHcWREWVpVdy14T3VBckZHWGxYTWdkaGNVeVdTbF8xUlBPdWZZSl9KQW9GSmlaUk5iSFNORXVYVktUdmN3ejFzV2o2b1JicEFfVmhDajhYTzRpY0VZN0tIYmxJNXhUTDBaSldTcTFpbkpB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "l3harris-2026-10-04-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris Technologies (NYSE:LHX) Stock Lifted to Buy by Wall Street Zen - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVFZzdU1HN2tsNFRTQlFNd3ExTldjeEp3MFFTMWZRNmVGOGprQ3Bad201NFM2SXlKQ2MwSTk4dThZemZNUVRNdVo1Vml0WXFLclFXRTdGQi1GY3Q4djJvTEhmV0xJWkZzNy00dlM5TzdmUnpuZU52WlNPT3k0SEtnaUtYMHlUYlc0TnItTXJLUG5TRE8zWldXUkd1SHJseVhSSkNkRlRsZFVRWVFpbFhadzdWcDRZMjRmWThSN0VST2FUZlZVbzktZUpOUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rheinmetall-2026-10-04-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall's Order Book Swells From Washington to Orbit, Yet the Stock Sits 6.3% Off Its 52-Week Lo - AD HOC NEWS",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMGd1eWxIc05IMEtiTFZkN3RDTWM2YjdOY2R5U2d1Wk84Y25KT2tLMmcyU01GZG5kYmRjY0cxeFJEVE5JUG5xUm1BbmVsbmROa1JuSGlCM1UyclBzMnlCWUtTUy1LOGxfaWo4NHZteUtBelZ5dkJ3QlVudTV1YmdXenMzUFV5ZHRsd0xPSDk5OFhwV19LTWYzdXFmY3BPM1JrSW1NczJJQm5ETzc3andibkN2UVVtN21ZUjljM094N0Q3QUFqR3NRRU5iVUFzN0p4UGRUZmNvNnNYQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "missile_defense": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rheinmetall",
+        "count": 5
+      },
+      {
+        "id": "l3harris",
+        "count": 3
+      },
+      {
+        "id": "rtx",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "missile_defense",
+        "count": 3
+      },
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "drone_warfare",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 291,
+    "dup_title": 152,
+    "too_old": 68,
+    "gate1_blocked": 29,
+    "gate2_blocked": 13,
+    "passed": 29,
+    "pass_rate": "20.9%",
+    "gate2_block_rate": "9.4%",
+    "gate2_samples": [
+      "Deferred cash retainers credit an L3Harris (LHX) director with 157.3 stock-linked units. - Stock Tit",
+      "Rheinmetall Nordic opens new site in Skoppum - Rheinmetall",
+      "Hanwha's 'Korean SpaceX' ambitions grow as work begins on reusable rocket test vehicle - Korea Joong",
+      "Palestine Action group ‘armed with kebab skewers attacked Elbit Systems guards’ - The Jewish Chronic",
+      "Elbit Systems Lobbying Profile, 2023 - OpenSecrets"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為萊茵金屬、L3Harris Technologies、RTX相關動態：「RTX vs. GD: Which Pentagon-Backed Dividend Will Outperfor...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "RTX vs. GD: Which Pentagon-Backed Dividend Will Outperform Over the Next Deca...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "L3Harris Technologies (LHX) Lands $6b THAAD Work, Is It 31% Below Fair Value?...（飛彈防禦、財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
