@@ -1,0 +1,266 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T16:40:42.748450Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "palantir-2026-10-05-020",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Peter Thiel Was an Early Outside Investor in Facebook and Co-Founded Both PayPal and Palantir Before Building a Hedge Fund Now Concentrated in Power and Energy Stocks. Here's What That Track Record Says About Following His Contrarian Bets. - The Motley Fool",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN3VMLVpHQS1RVTdKUlRsRnBvR1VsdDczcm1WWFFtZTgtbGsyS1lSMGhnZHk0Q2lyYTdEQUNoQUttWDZwc2ljN2dmQ0JEVm5fNWRlN010dC1VT1UyTllfNXRRaER0ZnNBOFk5eEtYOWlaOFRpd2IwTmRIX005YVZXMmR3VXktZF96YzlEUjlxaDhZSHo4d0NWag?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rtx-2026-10-05-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Corporation stock heads into October 20 earnings - AD HOC NEWS",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGZpSWc4Tjh0UFhzbW5rbmdZZnFpMURNUFJzdVVGdE5tM0ZLNjRYOXFyNDBVU2VoOW1ybGp0Z082Y3NBNFpOVUpaS0FDbV9oNjdFeXA1TVd4Y013eTdrMTloUTNjVE92UFJvaDJMS2pkUElnbzJxVE1hMVRwQ0JydHp2Y3hfQWFXUXpyRE00bF95SzAyMU9fZWxucXdpZm00b3RGMlRnekZQM3MyUzlWSXJMQTNWQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lockheed-2026-10-05-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lockheed Martin Stock Falls 3.8% in 3 Months: How to Play? - TradingView",
+      "companies": [
+        "lockheed"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTDJPMF9iUWZrdDVHMWlHS0dzRElkSUExMldtOXdyUlRtb3c0SkhiZ1YwbnpjeVlUTV9HLXR5MjhUZnNZZWs3Z1ktcHU4dVNQQ2o0enlQaEY3VmNCNGZ6Q014cHlTTDNCNHJWMUlWanBiRF9rc251Y3Y3eGpvR19LQWlDWVFGRWhUYWM4ZGFKWGprWm1MejlpQWdGeVA5cVZ6Y0QwMVpRdFMyN2FqVVZnWg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rtx-2026-10-05-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX secures SM-6 contract: RTX Corporation stock sits 16.69 percent below target - AD HOC NEWS",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUmZzek9HYVlQb25GbW04WXRja3NSTEVoQlBpbTdjM21YYTJkTGtZdDlLdWd2aDBZMEhzbGFKODhFbEY5bHdROTh4TlNTM3ZxTm1UQlJLXzBHblpvblVKWElKTjdDY3lkdFB0QTNwMGY0QUdEQWI3ZzZyZlF6ajBQZ19Pbm1Ba1dxZTZld2d1YWVnb0tFN0dwdjlFaWFoUUlyVWV5eHdSZ3BtQkJzdVpSQ2NpLXBraDR4YVpUaVM2TUQ5elNDX2RVV0piejJvQnlXeEZpS3pzSU1Gdw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "l3harris-2026-10-05-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris Sets Date for Third Quarter 2026 Earnings Release - businesswire.com",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSUY0T3NzMWMtZWNyWGprTVpjNWVvN18zN1B2RjlCZDNnOFYyZ1RGRlZMSzhlSnB2ejhNaFl5Y1dfQzE1d0ZlQ3JITWIzci14OWRRMDJObWFKOWtEdzRrbjlWUUQwNjFIcG9lbF9Qa3doemtDX2R3c2hZWmh2SHltZHFMZWlZSUxINDVtUjBYcEgyN1JuVThWRUVPS0FPd0ViXzljTVFwdzRwUEFpY0dsblYzeWpIdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.14,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "missile_defense": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "defense_budget": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 32,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 26,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "palantir",
+        "count": 7
+      },
+      {
+        "id": "rheinmetall",
+        "count": 5
+      },
+      {
+        "id": "l3harris",
+        "count": 4
+      },
+      {
+        "id": "rtx",
+        "count": 3
+      },
+      {
+        "id": "elbit",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 20
+      },
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "drone_warfare",
+        "count": 5
+      },
+      {
+        "id": "missile_defense",
+        "count": 2
+      },
+      {
+        "id": "defense_budget",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 277,
+    "dup_title": 128,
+    "too_old": 66,
+    "gate1_blocked": 27,
+    "gate2_blocked": 11,
+    "passed": 45,
+    "pass_rate": "30.2%",
+    "gate2_block_rate": "7.4%",
+    "gate2_samples": [
+      "RTX Corporation stock pre-market at EUR 165.28: plus 0.64 percent - AD HOC NEWS",
+      "Leonardo exhibits at \"ILA\" design and flying qualities of AW-249 helicopter - AVIONEWS",
+      "Rheinmetall Nordic opens new site in Skoppum - Rheinmetall",
+      "Hanwha's 'Korean SpaceX' ambitions grow as work begins on reusable rocket test vehicle - Korea Joong",
+      "Elbit Systems Lobbying Profile, 2023 - OpenSecrets"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 32 則事件，焦點為Palantir Technologies、萊茵金屬、L3Harris Technologies相關動態：「Peter Thiel Was an Early Outside Investor in Facebook and...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Peter Thiel Was an Early Outside Investor in Facebook and Co-Founded Both Pay...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "RTX Corporation stock heads into October 20 earnings - AD HOC NEWS（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

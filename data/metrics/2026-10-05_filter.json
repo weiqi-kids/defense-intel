@@ -1,0 +1,16 @@
+{
+  "total_raw": 277,
+  "dup_title": 128,
+  "no_date": 0,
+  "too_old": 66,
+  "gate1_fail": 27,
+  "gate2_fail": 11,
+  "passed": 45,
+  "gate2_samples": [
+    "RTX Corporation stock pre-market at EUR 165.28: plus 0.64 percent - AD HOC NEWS",
+    "Leonardo exhibits at \"ILA\" design and flying qualities of AW-249 helicopter - AVIONEWS",
+    "Rheinmetall Nordic opens new site in Skoppum - Rheinmetall",
+    "Hanwha's 'Korean SpaceX' ambitions grow as work begins on reusable rocket test vehicle - Korea Joong",
+    "Elbit Systems Lobbying Profile, 2023 - OpenSecrets"
+  ]
+}
