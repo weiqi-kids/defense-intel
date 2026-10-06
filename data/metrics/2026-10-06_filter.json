@@ -1,0 +1,16 @@
+{
+  "total_raw": 292,
+  "dup_title": 130,
+  "no_date": 0,
+  "too_old": 65,
+  "gate1_fail": 28,
+  "gate2_fail": 16,
+  "passed": 53,
+  "gate2_samples": [
+    "Bernstein cuts target for RTX Corporation stock to USD 223 - AD HOC NEWS",
+    "BNP Paribas Adjusts L3Harris Technologies Price Target to $260 From $310, Maintains Neutral Rating -",
+    "Leonardo exhibits at \"ILA\" design and flying qualities of AW-249 helicopter - AVIONEWS",
+    "BIZ-LIFTOFF-GERMAN-ARMS-GIANT-RHEINMETALL-1-DPA.jpg - Bryan College Station Eagle",
+    "Germany's DAX 40 Inches Up 0.09% to 25,254.21 as Rheinmetall Gains and Investors Guard the 25,000 Li"
+  ]
+}

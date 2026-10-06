@@ -1,0 +1,240 @@
+{
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T14:38:27.268887Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "palantir-2026-10-06-018",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Nvidia, Palantir, and Alphabet Are Sending Shockwaves Through Wall Street With This $17.5 Billion Warning - Yahoo Finance",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRWpKdnEwZHFfWVMtWW5EYWFLZDNiMnRhUmNWei1KTWFrSF9ZVWVPZzhrdlYwWk9Rd0Q1NlI0X1F1NmxhV0VsZ05iWG1aMzlxd25aVUltTXhkbGNMdTVXcmlQVXBKT2hGT0V4WmJjMVF4b24wbkhraHVQdHZtb09EV3k5anFEUEJWVTRfTDlTVk9FaEllNW9aLWN6MmpJYTRaeWlZVVEzOUE4d1Z4?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "palantir-2026-10-06-020",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Nvidia, Palantir, and Alphabet Are Sending Shockwaves Through Wall Street With This $17.5 Billion Warning - The Motley Fool",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTUtFd2hpakhjeXVQZ3U2UVJUS1Y2d2pjNWY4Tlk4SlYza21qT3FlaFFaQWpZV3Z3VlQ4STRTbmdfZnJnQkQyZUxCdkdkMmQ5WXgwNk1zUkxIVGFHbE54TE1xQjRET2xNN1NMYlhVT2pBbEV6WUM0X2FQVXUyMmdvQ0NBeHliUjM2Q3REMVluQ0s4MnU1R1h0Q2luSjlMNmd6YURKZENGOGdlMWdDUmlSMF9QNC1FdkY5R1JvMzU5MXFQdFllUXc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "palantir-2026-10-06-024",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Nvidia, Palantir, and Alphabet Are Sending Shockwaves Through Wall Street With This $17.5 Billion Warning - The Globe and Mail",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOaDM3cDVVTzloc0hremZyTU9XcU9nOUZFX3plR3ZuaGRoQmt6eWpWYVZXelk2ZVpKWC12cFBIbXBkNXJsSHFSQ25fRXdSWDc2U3BsRGhLU2h4SlZJR3hQR19mbkhjNDFyeGhmN2FqVmRzbGtPS2NYU2ozWTdLOEM5WUdxRlpNVTF5NkJvcFdLc3RHS2wwaHo4WnRBYmlIclp2WTBnOUFORW1MUVNaZHRYY050cUV6aTNZamZsWTVZYjZSdC1FR1ZxNDhoZ2txb2hLaWs5TlM0c0xuMGlSdUtObm1iQ21KdmltOWJiOUNBc3dLNloxUEhxX2Nfb21yRWxyNTV4UWRKZWNRbzVmd2c?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "l3harris-2026-10-06-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "BNP Paribas Adjusts L3Harris Technologies Price Target to $260 From $310, Maintains Neutral Rating - Moomoo",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWGtUYTJic3B0a2d6bVZMWGgxSTdQTWh1MkpoWmc5VWtVTk1ZZUZ6RlJIaW5WUmx2a2NxenhONlFfVUJxX0ZBd0o2ZDRtNC03c05lMHE4NjVDMDVhVGcwVEdBdXYzVXl5MlVxYTNyZGxtSjdXbE1NVkh6R2lxdTQ2b2dfNi1oMW9KVzQzQXQ0T3M3YTRKenFVT1FKajRjWHV1MzJiV1BiOWlSNUhYVTZr?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rheinmetall-2026-10-06-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall ICEYE Space Solutions provides the Bundeswehr with access to SAR satellites - Rheinmetall",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPY3FlbGhJSi1lWEY3Z3dNRkstY3l6MVhhMjQ4bl8wclhPWEVRY0tSUG0xR1QxTWpoa3JySU8yai1BUTBuRlBlVzdIeHlueGFHMzZvSzJhWjZETlhkcHlWM2ZjXzJJcDlSUVM5RFFGajFWekdkZUlyLXM2UDZ5ZzZ6ZlNzRDIxZnQ1M1lXMG9MTlZzaUloNjJKYy1ER2lFS0NLR1c3REtYUjVxelp5R3RfMU01T1ZOOEU1WThaWDl5bk5Jcm1uSm5YbVZKb1RVMWVTbFptVXl5UkN1cEhKdGNURVRFclRWTDNhLV92dDBsTFY?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.18,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 29,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 25,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "palantir",
+        "count": 9
+      },
+      {
+        "id": "rheinmetall",
+        "count": 6
+      },
+      {
+        "id": "hanwha_aero",
+        "count": 3
+      },
+      {
+        "id": "rtx",
+        "count": 1
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 17
+      },
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "drone_warfare",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 292,
+    "dup_title": 130,
+    "too_old": 65,
+    "gate1_blocked": 28,
+    "gate2_blocked": 16,
+    "passed": 53,
+    "pass_rate": "32.7%",
+    "gate2_block_rate": "9.9%",
+    "gate2_samples": [
+      "Bernstein cuts target for RTX Corporation stock to USD 223 - AD HOC NEWS",
+      "BNP Paribas Adjusts L3Harris Technologies Price Target to $260 From $310, Maintains Neutral Rating -",
+      "Leonardo exhibits at \"ILA\" design and flying qualities of AW-249 helicopter - AVIONEWS",
+      "BIZ-LIFTOFF-GERMAN-ARMS-GIANT-RHEINMETALL-1-DPA.jpg - Bryan College Station Eagle",
+      "Germany's DAX 40 Inches Up 0.09% to 25,254.21 as Rheinmetall Gains and Investors Guard the 25,000 Li"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 29 則事件，焦點為Palantir Technologies、萊茵金屬、韓華航太相關動態：「Nvidia, Palantir, and Alphabet Are Sending Shockwaves Thr...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Nvidia, Palantir, and Alphabet Are Sending Shockwaves Through Wall Street Wit...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Nvidia, Palantir, and Alphabet Are Sending Shockwaves Through Wall Street Wit...（財報）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
