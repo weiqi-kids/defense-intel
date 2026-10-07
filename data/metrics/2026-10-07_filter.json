@@ -1,0 +1,16 @@
+{
+  "total_raw": 291,
+  "dup_title": 113,
+  "no_date": 0,
+  "too_old": 76,
+  "gate1_fail": 27,
+  "gate2_fail": 17,
+  "passed": 58,
+  "gate2_samples": [
+    "What's behind RTX stock's weak performance? Reasons here - Seeking Alpha",
+    "L3Harris Technologies Inc (NYSE:LHX) Receives Average Recommendation of \"Moderate Buy\" from Brokerag",
+    "BNP Paribas Adjusts L3Harris Technologies Price Target to $260 From $310, Maintains Neutral Rating -",
+    "A Legacy of Innovation: 125 Years on the Camden Waterfront - L3Harris® Fast. Forward.",
+    "Germany's DAX 40 Inches Up 0.09% to 25,254.21 as Rheinmetall Gains and Investors Guard the 25,000 Li"
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T14:58:33.768789Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-10-07-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "RTX Outperforms Industry in the Past 3 Months: Should You Buy? - Yahoo Finance Australia",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcUZzc04tWkhEVkNzSjBlZkd5VzBUeUI3bVBfNDVhM3l0TDNHY09EdU14TkpQd2tqMk5jemFJVEtXaFBBVjRsQ3E3YnpEQmhwd1c5WjR5XzR1MENGVndoT1dGSXdhczJTUHB6MXlOWG45c0ZCczNTZm4yekVSSzNndWN3WVduZUE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-07-019",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "South Korean Space Stocks Plunge Despite Nuri Rocket Launch Success as Foreign Investors Sell on News - BigGo Finance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMc3JMb05RcXU4clBJZnhvUkVtMGlEWlhIeTI1N3Q4SGpQQkVJdkZGYkg3NGlDb3VxTEpwalhEMG02eVFwZzRYRzR1RGVMUmtRdlNyeUhQMjc4R3M1ZlRfb3hxSmtxTFMwcy1ESEw4UkVrb0pkT3c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rtx-2026-10-07-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Corporation stock heads into October 20 earnings with raised guidance - AD HOC NEWS",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMzl3NV9yRHpObC1xOUdva015UWJEQUZHZUFLYVhKNWtuSDc1QVdYQ0x2WEVpZjR5UnBfMEF4Zm1wMVpVekdnQmoxUGJwTFBTc1BPNzVzUl9tODlCUFNmTHVDZFYtcVV3VTgtRm9XZHF6ZG5jd1AyVS13UjN3bGJEa0t4MWdqaXhHQ3dNNFZrOXh3cmlIVWl3SkpLdThLWXBFZVYyaHNWWFJ6MVowcnJROVQxaGp6dGZZZ0RVbkpLOHlCNy0yaHlGZnhONFhYdmpFRFE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "l3harris-2026-10-07-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris Technologies stock hits 52-week low at $233.99 By Investing.com - Investing.com Canada",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYzBBSjFTTVRQZ1Q3QXRrd0VoMnZHdTAzRXZ4V3hOeVFyaElLTWZpa28xOElNMVhoVzJiWlA3cGlJN2h6X25kLVBzdmlsNnRId2xPX1kwS3JKYUphbnRFS09WWUJxbmYtSHdrWlpfNTJOMW0zZ0k4MndFSGpsSWFQMWxYQU1BM21mcHRTSndYUjNhY2tEeDVjQmJUdDNHSFdDMTNFMWR2LWRQT2dvZXBkczBjSQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rheinmetall-2026-10-07-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall gives German military direct access to dedicated radar satellites for Lithuania brigade and NATO eastern flank monitoring - Defence Industry Europe",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWERqSjIyaTZCUWo1am1rXzZiTWp6WmU0SUh2aVpaQU41MlJFMWEwRDZUZWt6cEFDUS05RUZDLVdaZnVQQUIwRy1YVjNQU0Mta2ppY0VjcFNLLVI3SXJjb05ReUkyZm5abXlXRHJXUnZIVi1JRjBzcWdIdEx1YVlLck5OWXJVSHMycU5tSjg5MDVNalV4R1M5TS0yNGZ5QzQ1Vm4xQzdQdjdqcFhiTXNLMU9PaVRpS05SUFdvX3lLWmdRWmtXcUFvaWtRTnVoOHk3YTJJY3pvQ2ZTODIydlUwRjYwMHpwVWg1akU5MjgxU29jQ2hn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "missile_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 29,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 24,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "rheinmetall",
+        "count": 6
+      },
+      {
+        "id": "palantir",
+        "count": 4
+      },
+      {
+        "id": "rtx",
+        "count": 3
+      },
+      {
+        "id": "hanwha_aero",
+        "count": 2
+      },
+      {
+        "id": "elbit",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 18
+      },
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "drone_warfare",
+        "count": 2
+      },
+      {
+        "id": "missile_defense",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 291,
+    "dup_title": 113,
+    "too_old": 76,
+    "gate1_blocked": 27,
+    "gate2_blocked": 17,
+    "passed": 58,
+    "pass_rate": "32.6%",
+    "gate2_block_rate": "9.6%",
+    "gate2_samples": [
+      "What's behind RTX stock's weak performance? Reasons here - Seeking Alpha",
+      "L3Harris Technologies Inc (NYSE:LHX) Receives Average Recommendation of \"Moderate Buy\" from Brokerag",
+      "BNP Paribas Adjusts L3Harris Technologies Price Target to $260 From $310, Maintains Neutral Rating -",
+      "A Legacy of Innovation: 125 Years on the Camden Waterfront - L3Harris® Fast. Forward.",
+      "Germany's DAX 40 Inches Up 0.09% to 25,254.21 as Rheinmetall Gains and Investors Guard the 25,000 Li"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 29 則事件，焦點為萊茵金屬、Palantir Technologies、RTX相關動態：「RTX Outperforms Industry in the Past 3 Months: Should You...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "RTX Outperforms Industry in the Past 3 Months: Should You Buy? - Yahoo Financ...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "South Korean Space Stocks Plunge Despite Nuri Rocket Launch Success as Foreig...（財報）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
