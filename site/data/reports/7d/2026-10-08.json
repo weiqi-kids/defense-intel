@@ -1,0 +1,167 @@
+{
+  "date": "2026-10-08",
+  "date_range": {
+    "start": "2026-10-02",
+    "end": "2026-10-08"
+  },
+  "generated_at": "2026-10-08T15:07:07.833297Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-10-02-062",
+      "date": "2026-10-02",
+      "title": "Russia Plans Record $200B Defense Budget as Healthcare, Education, Face Cuts - Kyiv Post",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 100,
+      "last_week": 104,
+      "week_over_week_change": "-4%",
+      "sentiment_this_week": 0.03
+    },
+    "industry_general": {
+      "this_week": 87,
+      "last_week": 90,
+      "week_over_week_change": "-3%",
+      "sentiment_this_week": 0.04
+    },
+    "defense_budget": {
+      "this_week": 6,
+      "last_week": 7,
+      "week_over_week_change": "-14%",
+      "sentiment_this_week": 0.17
+    },
+    "drone_warfare": {
+      "this_week": 22,
+      "last_week": 14,
+      "week_over_week_change": "+57%",
+      "sentiment_this_week": 0.02
+    },
+    "missile_defense": {
+      "this_week": 6,
+      "last_week": 6,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rtx": {
+      "event_count": 18,
+      "sentiment_avg": 0.19,
+      "rank": 3
+    },
+    "rheinmetall": {
+      "event_count": 34,
+      "sentiment_avg": -0.03,
+      "rank": 2
+    },
+    "aidc": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "hanwha_aero": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 5
+    },
+    "elbit": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 6
+    },
+    "palantir": {
+      "event_count": 38,
+      "sentiment_avg": 0.02,
+      "rank": 1
+    },
+    "l3harris": {
+      "event_count": 11,
+      "sentiment_avg": -0.05,
+      "rank": 4
+    },
+    "lockheed": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "leonardo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "general_dynamics": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 283,
+        "last": 380,
+        "change_pct": -25.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-02",
+      "event_count": 73,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-10-03",
+      "event_count": 14,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-04",
+      "event_count": 17,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-10-05",
+      "event_count": 49,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-10-06",
+      "event_count": 53,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-10-07",
+      "event_count": 38,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-10-08",
+      "event_count": 39,
+      "sentiment_avg": 0.08
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-02 ~ 2026-10-08）共 283 則事件，重點為「Russia Plans Record $200B Defense Budget as Hea...」。財報、國防航太通用、無人機作戰為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "RTX",
+        "reason": "本週出現 18 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "萊茵金屬",
+        "reason": "本週出現 34 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "韓華航太",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

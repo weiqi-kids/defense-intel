@@ -1,0 +1,16 @@
+{
+  "total_raw": 292,
+  "dup_title": 127,
+  "no_date": 0,
+  "too_old": 64,
+  "gate1_fail": 26,
+  "gate2_fail": 25,
+  "passed": 50,
+  "gate2_samples": [
+    "What's behind RTX stock's weak performance? Reasons here - Seeking Alpha",
+    "Is RTX (RTX) Cheap Following Its Pratt And Whitney A321XLR Engine Milestone? - Simply Wall Street",
+    "Susquehanna keeps Buy rating for RTX stock at USD 245 target - AD HOC NEWS",
+    "RTX (RTX) Registers a Bigger Fall Than the Market: Important Facts to Note - Yahoo Finance",
+    "Open Architecture Is the Battlefield Advantage - L3Harris® Fast. Forward."
+  ]
+}
