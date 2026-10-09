@@ -1,0 +1,16 @@
+{
+  "total_raw": 291,
+  "dup_title": 117,
+  "no_date": 0,
+  "too_old": 65,
+  "gate1_fail": 25,
+  "gate2_fail": 28,
+  "passed": 56,
+  "gate2_samples": [
+    "What's behind RTX stock's weak performance? Reasons here - Seeking Alpha",
+    "Is RTX (RTX) Cheap Following Its Pratt And Whitney A321XLR Engine Milestone? - Simply Wall Street",
+    "RTX Outperforms Industry in the Past 3 Months: Should You Buy? - TradingView",
+    "RTX (RTX) Registers a Bigger Fall Than the Market: Important Facts to Note - Yahoo Finance",
+    "5 L3Harris Systems Achieve Jailbroken Status at US Army Events - ASDNews"
+  ]
+}

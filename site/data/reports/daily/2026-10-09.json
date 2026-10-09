@@ -1,0 +1,252 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T14:51:10.444115Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-10-09-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "BA, SPCX, RKLB, RTX, PLTR Stock In Focus: Why Barclays Is Overweight On Aerospace And Defense Stocks? - Yahoo Finance",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZFNtQzdSZEZqdTVDRjRGLUdwVHRGZ0NpV0xEdmtxWG5UM01jRGF3eEZkRy1wQzZDWXZaLUpYcDhtQ2hpdjZENTJWZEVwSHNuVi05VUJ2eHNwVTFFVU1ELVc3a0RkR1p5c240azJ3bzVvbndJTFAyV0NQSmZWM0owX2ljdU5CUTlRNjFUYjNaWQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rtx-2026-10-09-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Corporation (RTX) Climbs 2.25% as Price Approaches Key Resistance Zone - Cup and Handle - www.dars.gov.et",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSE53M1JJQXpzUjg3YUpZQTMtU1U5UVdZWDY2bEwzdGg3eF96VjRLYVBlSk0tRHluWlhtTUUwQ2VEcnpEQlZHYmdSMkg3b2V4T08tTENsVjJHYzFBRVcyX0VSdGVXME0wSHIyX1ZFOHZvdjdtdVRYUGJMbTlWT0ZnLXpzS3Y3V3o1SVRfOWhaQk9qdHE2MnVBYl9SaTNIOHpjbjBiMFBRa2loREMxVVlab014QUU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-10-09-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Baird Adjusts Price Target on L3Harris Technologies to $350 From $420 - marketscreener.com",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONXZwSnF0OXpnY2t0M2hESVJuaV9EVGlCN0dpSVFVNUtibE5Vd285V3BEaWtlRXdLbnNZb2lUUF9xSVNHMDM2QUg5QXc4ZlBIVWVxUWdOUG01QnMwRUxtZnhldmdZY0txb3E0bnc5M2kyTDJJcjZOVnVZMXFGaWM5ZUlZVDVWOVdTNTEzLXlDYm9vdW9sbmVjQ2ZXR19YUVJYUG9qeFM1Z2M3X3FwaFoxdzlDVTJoQmlaZVh5Rg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rheinmetall-2026-10-09-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Land Forces 2026: Rheinmetall advances dual Boxer production - Janes",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaWhoRVFUMXN5SGV3bktNUS1tZGJ5eEJZVlFibUZHbUJDYzA5dXprVmd3eFhMSlJCN2lISE9qWWZyRGQwSUFPSkluZ1dkZkIxSFFzd290Y0Q4ckNKcV9zajdneVZNVTJhMWVHTmdOekxac1lRTVpSd3Q0OGdRNUdjTHpZdzFtTk9HbW9PTDdCeG44ckpuX0tiZDhDS1JzUGRCN3V6VmhlYktlS2wxME1lajU2bzBYbUlBV3JENXZxZ3pWV3VSMEZ2Uw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rheinmetall-2026-10-09-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall stock slips as Berenberg downgrades to Hold on uncertain outlook - Investing.com",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX1h4N2RQSjFWbUdENHlJUzc0XzBsb0ZxSm5JVkN6d3BZQWo1ZllGNk1tdnI5RGhiTDFxN3NiNkc0NUF4T2Y0cjRiVDdoaFB0bHhuY2p1bFl1S200Yy1oUUlScVN2WTVXRHc5XzdDUndNeWhwT1JWOVh1dUJYTkNUcnVRYWZVSnd3b2RVM2FPSWlRSGMwRHpFWU91ejN3WTlLUGZ6RE54My1NdksxWjZZeTdRdC11djJLNkFDZ0ctUVZPdDQ2SWxnd0NaTzZiQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "missile_defense": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 27,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rheinmetall",
+        "count": 6
+      },
+      {
+        "id": "rtx",
+        "count": 3
+      },
+      {
+        "id": "elbit",
+        "count": 3
+      },
+      {
+        "id": "palantir",
+        "count": 3
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 17
+      },
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "drone_warfare",
+        "count": 5
+      },
+      {
+        "id": "missile_defense",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 291,
+    "dup_title": 117,
+    "too_old": 65,
+    "gate1_blocked": 25,
+    "gate2_blocked": 28,
+    "passed": 56,
+    "pass_rate": "32.2%",
+    "gate2_block_rate": "16.1%",
+    "gate2_samples": [
+      "What's behind RTX stock's weak performance? Reasons here - Seeking Alpha",
+      "Is RTX (RTX) Cheap Following Its Pratt And Whitney A321XLR Engine Milestone? - Simply Wall Street",
+      "RTX Outperforms Industry in the Past 3 Months: Should You Buy? - TradingView",
+      "RTX (RTX) Registers a Bigger Fall Than the Market: Important Facts to Note - Yahoo Finance",
+      "5 L3Harris Systems Achieve Jailbroken Status at US Army Events - ASDNews"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為萊茵金屬、RTX、艾爾比特相關動態：「BA, SPCX, RKLB, RTX, PLTR Stock In Focus: Why Barclays Is...」。主要關注主題為財報、國防航太通用、無人機作戰，市場情緒中性。",
+    "signals": [
+      {
+        "text": "BA, SPCX, RKLB, RTX, PLTR Stock In Focus: Why Barclays Is Overweight On Aeros...（財報、國防航太通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "RTX Corporation (RTX) Climbs 2.25% as Price Approaches Key Resistance Zone - ...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
