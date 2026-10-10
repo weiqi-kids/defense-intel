@@ -1,0 +1,236 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T14:08:14.643832Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hanwha_aero-2026-10-10-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha Aerospace (Stove Tokenized Stock) - CryptoRank",
+      "companies": [
+        "hanwha_aero"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83UVFseUdHcERIMzNqNnhHZ2ZJaHhIYlZWMVd2eFdQMlJMcU9NT1dscFd2LXpyY0xCeVNWMFY1UTBRNFFKMVZBYWVyWVQ5ZXM0cHFHY3QtbVl1dE56aWcwQ2lueDVpVUdXZWhiME9jbXlId2dp?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "elbit-2026-10-10-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Paris Airport Workers Say They Blocked Shipment to Israeli Defense Firm Elbit - Haaretz",
+      "companies": [
+        "elbit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPSkd2ZkNWSzJLajlCc205bVd1M2FPWkV6LUkxcS0yb21RVmpBZno1eWt1aEFOcG5mRHNtUDVjMnZNb0s5YWZQbHBFeGZOTUpMaWZyUW43aDQtaG9oMVpJQUhDNERfSTVrd05pcWU1VjhJTGc4WTYzblFSbzJrYnVUTkhGcmhyOUxpMHZ5bS1vT1Y0THFoRFRUTE5UT3Y4SkNNdkhhekQ1cGxxM1g2ZW56OVh2RU15YUJFTnBwcUlQa21iRlZudHhaQW45RWUwZ0FQNkUwQzNkbkdva3NmVjIxemFja0tQSEplYTZaMDZfOS1pdG5zNktQZThLdm1tM2V4Q3E4X18wVWtocnAwa0hXak5kcTVvWmFI?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-10-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "French associations seek court order to halt shipment to Israeli arms company - Anadolu Ajansı",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaTN4Zkw0TWs1dHpJZUhza3pwdS1Zc3JLejFSRXJtMm5Qdkw3XzlNUk5iLS1sWDdhSE1LSXhLbzdBYTFNdmtSQmtUNFNJekpXbUMzM0FSd3RkeGtaMkdYNVVXdmgtU00yVFBrblQ2MEJ3WG80QzRUMWw5Nk43b1NWdmw5UDB0UzFOM3hJM2VlWm5hOGZ1a3VEdXJJX1g4QWdFRlhPS1BTRzZVSm5JdmJWV241S3lta1JW?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "palantir-2026-10-10-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Palantir AI probe leads to Met Police volunteer chief's dismissal - BBC",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTbkdlVTRaeGYtaFQxZGNYUjcwLU9ESUFjNWtSODNMYnlGQkhBMk5qMlVjNGlMYlZjWnRoTHhKdHhiQjc1SFMyRWVlVkxldHpaQ1dxM2JUa2ZPRmc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "palantir-2026-10-10-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Palantir Technologies (PLTR) Is Up 10.8% After Wall Street Upgrades and New Sovereign AI Partnership - Yahoo Finance",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQTdlNklpYjRJYmpMY2RvaEd4UEw2WHQxdk15emd0c3hNZ0tKZm9QaXNNN2ZHU3BfMnh0ZG5EYU9PUndCN0Z1LXQyMExRb1V0c0hzWkFvUkhfWXNKSk5Qemo0S2tWaEJYc1FsQVB4OUN5c0c0MHFZRl9BOTdYYVJEYlJPY0MwM1AwLWxfTVQ4clN0bUxsYjNzeDFWQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "palantir",
+        "count": 5
+      },
+      {
+        "id": "elbit",
+        "count": 2
+      },
+      {
+        "id": "hanwha_aero",
+        "count": 1
+      },
+      {
+        "id": "lockheed",
+        "count": 1
+      },
+      {
+        "id": "northrop",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "drone_warfare",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 289,
+    "dup_title": 121,
+    "too_old": 67,
+    "gate1_blocked": 28,
+    "gate2_blocked": 26,
+    "passed": 47,
+    "pass_rate": "28.0%",
+    "gate2_block_rate": "15.5%",
+    "gate2_samples": [
+      "What's behind RTX stock's weak performance? Reasons here - Seeking Alpha",
+      "RTX (NYSE:RTX) Upgraded at Barclays - MarketBeat",
+      "RTX Outperforms Industry in the Past 3 Months: Should You Buy? - TradingView",
+      "Is RTX (RTX) Cheap Following Its Pratt And Whitney A321XLR Engine Milestone? - Simply Wall Street",
+      "RTX (RTX) Registers a Bigger Fall Than the Market: Important Facts to Note - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為Palantir Technologies、艾爾比特、韓華航太相關動態：「Hanwha Aerospace (Stove Tokenized Stock) - CryptoRank」。主要關注主題為財報、國防航太通用、無人機作戰，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Hanwha Aerospace (Stove Tokenized Stock) - CryptoRank（財報、國防航太通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Paris Airport Workers Say They Blocked Shipment to Israeli Defense Firm Elbit...（財報、國防航太通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

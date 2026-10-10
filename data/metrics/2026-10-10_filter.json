@@ -1,0 +1,16 @@
+{
+  "total_raw": 289,
+  "dup_title": 121,
+  "no_date": 0,
+  "too_old": 67,
+  "gate1_fail": 28,
+  "gate2_fail": 26,
+  "passed": 47,
+  "gate2_samples": [
+    "What's behind RTX stock's weak performance? Reasons here - Seeking Alpha",
+    "RTX (NYSE:RTX) Upgraded at Barclays - MarketBeat",
+    "RTX Outperforms Industry in the Past 3 Months: Should You Buy? - TradingView",
+    "Is RTX (RTX) Cheap Following Its Pratt And Whitney A321XLR Engine Milestone? - Simply Wall Street",
+    "RTX (RTX) Registers a Bigger Fall Than the Market: Important Facts to Note - Yahoo Finance"
+  ]
+}
