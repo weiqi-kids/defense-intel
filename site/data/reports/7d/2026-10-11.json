@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-11",
+  "date_range": {
+    "start": "2026-10-05",
+    "end": "2026-10-11"
+  },
+  "generated_at": "2026-10-11T14:32:16.487475Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "palantir-2026-10-05-020",
+      "date": "2026-10-05",
+      "title": "Peter Thiel Was an Early Outside Investor in Facebook and Co-Founded Both PayPal and Palantir Before Building a Hedge Fund Now Concentrated in Power and Energy Stocks. Here's What That Track Record Says About Following His Contrarian Bets. - The Motley Fool",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 105,
+      "last_week": 106,
+      "week_over_week_change": "-1%",
+      "sentiment_this_week": 0.03
+    },
+    "drone_warfare": {
+      "this_week": 22,
+      "last_week": 19,
+      "week_over_week_change": "+16%",
+      "sentiment_this_week": 0.02
+    },
+    "industry_general": {
+      "this_week": 80,
+      "last_week": 90,
+      "week_over_week_change": "-11%",
+      "sentiment_this_week": 0.04
+    },
+    "missile_defense": {
+      "this_week": 6,
+      "last_week": 9,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    },
+    "defense_budget": {
+      "this_week": 4,
+      "last_week": 6,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.25
+    }
+  },
+  "company_7d_summary": {
+    "rtx": {
+      "event_count": 13,
+      "sentiment_avg": 0.19,
+      "rank": 3
+    },
+    "lockheed": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "l3harris": {
+      "event_count": 11,
+      "sentiment_avg": -0.05,
+      "rank": 5
+    },
+    "rheinmetall": {
+      "event_count": 26,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "aidc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "elbit": {
+      "event_count": 13,
+      "sentiment_avg": 0.04,
+      "rank": 4
+    },
+    "palantir": {
+      "event_count": 41,
+      "sentiment_avg": 0.03,
+      "rank": 1
+    },
+    "hanwha_aero": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 6
+    },
+    "leonardo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "general_dynamics": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "northrop": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 299,
+        "last": 381,
+        "change_pct": -21.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-05",
+      "event_count": 50,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-10-06",
+      "event_count": 57,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-10-07",
+      "event_count": 43,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-10-08",
+      "event_count": 70,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-10-09",
+      "event_count": 55,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-10",
+      "event_count": 16,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-11",
+      "event_count": 8,
+      "sentiment_avg": 0.19
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-05 ~ 2026-10-11）共 299 則事件，重點為「Peter Thiel Was an Early Outside Investor in Fa...」。財報、國防航太通用、無人機作戰為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "RTX",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "洛馬",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 11 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

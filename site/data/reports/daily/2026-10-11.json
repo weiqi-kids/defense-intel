@@ -1,0 +1,235 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T14:32:16.338873Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "palantir-2026-10-11-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Palantir: Staying Bullish At Record Highs As Q3 Approaches (NASDAQ:PLTR) - Seeking Alpha",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPek5GeFg1RC1RTTV3dFBfQndzZ25Zc1lici01QW1UTnBib0d6QU1JSmc2QnR5cDl1NFJVcDdheG1vM01DczNQVVVRS2FNcWZmRnVocmdRdWRlSTJGUjFiVDhMWks5RUNpS3VYWW5UdjMtb2dKb01rV1ctX3hlWnVkSXNmdmhQR1A3cmZmUkUyUmU3Znp5RUxhdHh3US16Zkk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "l3harris-2026-10-11-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris Technologies (LHX) Could Be 29% Undervalued On Its $6b THAAD Contract - Simply Wall Street",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "missile_defense",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQamUxMnlVMWMxT1U5azJmTkRPaTZFcTRKZ3BBMVhUeGg4cFR5ODZ2VzNMbzU2YXlqazU0ZFppeDRidXE0MFR4aXEydl9yVko3QlA2NzRDam9lM1VMTHVkTW1Wcm9acDllVl9ndzBQMHp0aDVIUFJQSFZJOU9rYi1Kb1QxSy01ZkszV0RBeGx2QkhETkRKblRGVzlyQUpWRWdfam05NWpBT2JVUXNfVXRRek02U3VIc3lLU3hKRGFGSEtCd0NaNC0wenl0UEFJUkp6elhfTGpIUF_SAd4BQVVfeXFMT0dPWlhpTUwtUm9WT25PLV9SMEJIeW5lelZhUVpnNUR3aTgtdEFTZXZGRHRDRFV0RGMwYWRGck1lZGQyVV9iR09DWWpCUGVPVjVKdkVSQ2Z4YmViUjJzQXdiM2lqOTlCVTNRcUo5QU1fd3lncFhWVUI4b1lWOGZ4WlduWFNIZE5fQnMwbFc3dF84cWx3bmpvcGl6eFhwa2dwMVV2Mko0ZE40OHlxd2pTOFRYblhFMEpuYXA5YUFmcE9NRG42VEt1ZXVfMFZpOWVTdUNXYWRQbnJTcXlVNlRR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rheinmetall-2026-10-11-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall Buys Black Sea Shipyard as Berenberg Urges Patience on the Growth Story - ad-hoc-news.de",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPN3FtUkZ1VlhuR1dzLTNtTFhFYlQ2aHpTbl80T1BMa3lrSGRZeENvQWU1ckZ0NE1YUDVtTFpFMDAyRnp0WTRDY0U2QldSRlRtLU5aTmp1QTJkMEVDaU8xQ0Iya3U4bkZlSDhkZ1JKcXJwLTFqRko0RlY4YXZkWWo4a0lCMkdVMjhXU0pLaXlZeFp1MzNVZVFjbUhfdFdDX1RQRnR2LUhtSXJSblVPOFdUbWpDZ2k3NFNSeTBId3FZX2lSSXRvdTRGV1U2UUNjOVlxbThwNXlTOHFPQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "elbit-2026-10-11-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Fate of French shipment to Elbit unclear after anti-Israel groups push for it to be nixed - The Times of Israel",
+      "companies": [
+        "elbit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMjVscTEwa3ZPcDVrdjB1M3FmRTlJWWtMMF9Md3BTNVBxdmRCdzRXUC1GeDE2eHUycGZ0emc2eGJRSmlrcTN3dkdOSVJ6U2xEOFg4bmN3RVU2UkFnTU1aNUNqajllUmlNc3NySnhhZ3NwUndzTlkxdnl1ZllPMHNFWVhtcktrYnRHN2U4QzVxc1RLdVZEZUtDZEVvV2VWamlqWWVYYTc3ZDgwVUg4YlVzR3NqMGY1UEQ1dUJEQdIBwgFBVV95cUxQZDJOYUc1SUVLVUtkYzBORnNWTnlBVjVZTTBHSlFWcEtJb3I3enpZcjFSZGE3ZE00NGFrWlRQc3VNNUZpOTBndDhId1RET19xcUVWbVNUVzhmM2tPbGVTdjBEV0F2bjNwU0lENngtY3ZkRzBxbW8yNVBfdkV1czVMVjN4UzkzXzR4WWpzRFRyMm9xdHFFR0NLbXpqMUw3SHBnWGp2Q25FN3NQMWlvcHlkR09FTjBVR2JtaWdGUklNbTViZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "elbit-2026-10-11-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Paris airport workers block shipment destined for Israeli defence firm Elbit - The Business Standard",
+      "companies": [
+        "elbit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM1dIa1I5TldOZURPcE5BLXhZZkhvb3JzRE13Q00wczcxS3IxZUFlU1ZqVWRocEg3a2QyVTZYbmdXUXVfZFhJVDhwSkZ5OXZsU0c5NlgzZXRGbWp2NUU5SWhsX0txSG9wYWgtdnBweEQ1ZmVUZE9kV1hiVW51WUs0S0V1Z0dSc01OSDF1YmJrTVZhQTNMV1V6QjNaSy1NNUVPOGdhRUdQc0tlLTlrMk1V?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "missile_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.19,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "elbit",
+        "count": 2
+      },
+      {
+        "id": "palantir",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "rheinmetall",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "missile_defense",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 289,
+    "dup_title": 154,
+    "too_old": 74,
+    "gate1_blocked": 26,
+    "gate2_blocked": 18,
+    "passed": 17,
+    "pass_rate": "12.6%",
+    "gate2_block_rate": "13.3%",
+    "gate2_samples": [
+      "RTX Outperforms Industry in the Past 3 Months: Should You Buy? - TradingView",
+      "Is RTX (RTX) Cheap Following Its Pratt And Whitney A321XLR Engine Milestone? - Simply Wall Street",
+      "What's behind RTX stock's weak performance? Reasons here - Seeking Alpha",
+      "Five L3Harris Systems Achieve Jailbroken Status at US Army Events - L3Harris® Fast. Forward.",
+      "BNP Paribas Adjusts L3Harris Technologies Price Target to $260 From $310, Maintains Neutral Rating -"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為艾爾比特、Palantir Technologies、L3Harris Technologies相關動態：「Palantir: Staying Bullish At Record Highs As Q3 Approache...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Palantir: Staying Bullish At Record Highs As Q3 Approaches (NASDAQ:PLTR) - Se...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "L3Harris Technologies (LHX) Could Be 29% Undervalued On Its $6b THAAD Contrac...（飛彈防禦、財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

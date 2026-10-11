@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-11",
+  "total_events": 8,
+  "by_company": {
+    "l3harris": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "rheinmetall": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "elbit": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "palantir": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "missile_defense": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 8,
+      "sentiment_avg": 0.19
+    },
+    "industry_general": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

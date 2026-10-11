@@ -1,0 +1,16 @@
+{
+  "total_raw": 289,
+  "dup_title": 154,
+  "no_date": 0,
+  "too_old": 74,
+  "gate1_fail": 26,
+  "gate2_fail": 18,
+  "passed": 17,
+  "gate2_samples": [
+    "RTX Outperforms Industry in the Past 3 Months: Should You Buy? - TradingView",
+    "Is RTX (RTX) Cheap Following Its Pratt And Whitney A321XLR Engine Milestone? - Simply Wall Street",
+    "What's behind RTX stock's weak performance? Reasons here - Seeking Alpha",
+    "Five L3Harris Systems Achieve Jailbroken Status at US Army Events - L3Harris® Fast. Forward.",
+    "BNP Paribas Adjusts L3Harris Technologies Price Target to $260 From $310, Maintains Neutral Rating -"
+  ]
+}
