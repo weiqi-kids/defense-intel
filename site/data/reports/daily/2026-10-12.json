@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T17:12:15.883507Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "l3harris-2026-10-12-010",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "L3Harris Technologies (LHX) Secures $250 Million Lockheed Martin Contract for Rocket Propulsion Units - GuruFocus",
+      "companies": [
+        "l3harris",
+        "lockheed"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMENSQ0Z3S2FZMWloR1BPZXd6MXAxaXlRRWxBZHR6dWppaVhTNGFJeWpJYzFoNkk5LVpZYjJXMzJwZVFNaW1LQkZDZVdNUU50cS1BZnFsX3NIdm92bTNORWRaM2lVa0V4cUZoR1ExUVpEMkpwNWFMQTlFVDRSa0kyaFp3Zk5ZbUIxR3ZYVHpXLXhXcUwwRDlCckc2NFNsMEVOTlpxQ294bC1fOHh0Q2JtaERiZmYwc1dQaDZncUJuRFc0cHdRbmp1US1TTTQ0QVVDNXVZ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "l3harris-2026-10-12-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "L3Harris Awarded Solid Rocket Motor Contract with Record Production - Business Wire",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPclNqcEt5VEFYSDE5MTVSU3VQdlUwa3p1cTJGUTZQbnIwSUVpN2lZa01XZ1dSYXdoWXV0TjlFejc4VWZnRmdjVWRwQk90THpXNTRDeWd5ZGdsVElyd1ZMa25JbklFOXQ1NU90M20tTk9UUi1MdVNfRTVrV1M5aXdwUzd1ZS05dXhPZ2tLZGJmMTcwTXZSbnIzVUxGaFJpcGNNSG53eE13NTFMalRXUm9vTGxRZ09JYWdfYjg0blc0XzAxUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "palantir-2026-10-12-029",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Palantir Stock Hits New Record High, Wipes Out Its Nearly 50% Drawdown - Benzinga",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbVlCdDZ0WFBWaUZiU2FQa18wNDZtRFNVQ2xvYlVRTU4tQUpNWVlENHhXeGt0Q09DYmlVTTlqbjFON0w0TnlGa3dWM0pLbzRVQ2s3c0RVRVU2ZXdpak93OFlFQnlzNVBub3ZrcjF4bklEY0NCOTJDUG5wS0k4UGZoYWJIUi1YanFHVFBwaGJIQkxZdGJCdFU5ekUzR3dqSFVHd294UURpbWJMVjVTV3d5M1hBQUluNy1ITEs4b3EwelRlOGw0ZHJ6Tg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-12-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "These industrials stocks stand out for profitability as Q3 earnings begin - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYjc5VWwzNW5LellDdFJMQ2Zhd2g2WUtrcnd3a3U4cWo0MHppdDJPaF9XeU52UW5IQUhsSEhBMVJrekVCY1gwaXJXd1JDZEMzWGxpZ09rdHEybmtvUTVDUlZialpKYVhPSWlEVGx5MllPOGdWQ0hTQjlKakRFVkRZaFVOemhKSXVJMEEtbDJGWFFXODJWWDJVSF84LUFuWmMxaFFTREhVeGtqOWg4RjN6TFY3b0IzTzM0WERCQlpzNC1oT0VCeVBrRW9qWUowWUpBcFE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rtx-2026-10-12-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX's Raytheon Wins US Navy Contract to Develop Advanced Radar Detection - marketscreener.com",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT1ZTdnIwaGtUaTdwZkl5QXIzM29rOXk1RVVUS0YwT0ZrWjNZSFlxZDJNeDB1Q3B5N293S2xlMHFHNjhqQkVESUJ6bVdlOGdQbEpSSHJacXhpb041WjlTcmthZHdXeWw3bFZzd3hxVldkQktZTFU3WGxDYWU1RUtieUhtYXRodjU2dUFaQlNfMHNzRENzN2VSSTBHajA2OGZNZ01MaV9ZN1VmOUNDWE43WUoyYmd3azVhZ0ZnSG5Cc28zX28?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 27,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "missile_defense": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "arms_export": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 47,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 39,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "palantir",
+        "count": 10
+      },
+      {
+        "id": "rtx",
+        "count": 5
+      },
+      {
+        "id": "l3harris",
+        "count": 5
+      },
+      {
+        "id": "rheinmetall",
+        "count": 3
+      },
+      {
+        "id": "elbit",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 27
+      },
+      {
+        "id": "earnings",
+        "count": 21
+      },
+      {
+        "id": "drone_warfare",
+        "count": 4
+      },
+      {
+        "id": "missile_defense",
+        "count": 3
+      },
+      {
+        "id": "arms_export",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 290,
+    "dup_title": 127,
+    "too_old": 67,
+    "gate1_blocked": 26,
+    "gate2_blocked": 18,
+    "passed": 52,
+    "pass_rate": "31.9%",
+    "gate2_block_rate": "11.0%",
+    "gate2_samples": [
+      "RTX Corporation (RTX) Options Chain - Yahoo Finance - Yahoo! Finance Canada",
+      "What's behind RTX stock's weak performance? Reasons here - Seeking Alpha",
+      "RTX Outperforms Industry in the Past 3 Months: Should You Buy? - TradingView",
+      "Is RTX (RTX) Cheap Following Its Pratt And Whitney A321XLR Engine Milestone? - Simply Wall Street",
+      "Five L3Harris Systems Achieve Jailbroken Status at US Army Events - L3Harris® Fast. Forward."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 47 則事件，焦點為Palantir Technologies、RTX、L3Harris Technologies相關動態：「L3Harris Technologies (LHX) Secures $250 Million Lockheed...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "L3Harris Technologies (LHX) Secures $250 Million Lockheed Martin Contract for...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "L3Harris Awarded Solid Rocket Motor Contract with Record Production - Busines...（財報）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 290,
+  "dup_title": 127,
+  "no_date": 0,
+  "too_old": 67,
+  "gate1_fail": 26,
+  "gate2_fail": 18,
+  "passed": 52,
+  "gate2_samples": [
+    "RTX Corporation (RTX) Options Chain - Yahoo Finance - Yahoo! Finance Canada",
+    "What's behind RTX stock's weak performance? Reasons here - Seeking Alpha",
+    "RTX Outperforms Industry in the Past 3 Months: Should You Buy? - TradingView",
+    "Is RTX (RTX) Cheap Following Its Pratt And Whitney A321XLR Engine Milestone? - Simply Wall Street",
+    "Five L3Harris Systems Achieve Jailbroken Status at US Army Events - L3Harris® Fast. Forward."
+  ]
+}
