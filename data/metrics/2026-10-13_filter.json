@@ -1,0 +1,16 @@
+{
+  "total_raw": 288,
+  "dup_title": 111,
+  "no_date": 0,
+  "too_old": 64,
+  "gate1_fail": 25,
+  "gate2_fail": 16,
+  "passed": 72,
+  "gate2_samples": [
+    "RTX Corporation (RTX) Options Chain - Yahoo Finance - Yahoo! Finance Canada",
+    "L3Harris to Provide Night-Vision Systems to US Army - L3Harris® Fast. Forward.",
+    "Goldman Sachs Adjusts Price Target on L3Harris Technologies to $361 From $405 - Moomoo",
+    "LHX - L3Harris: Not Cheap, But Increasingly Difficult to Ignore - Simply Wall Street",
+    "Five L3Harris Systems Achieve Jailbroken Status at US Army Events - L3Harris® Fast. Forward."
+  ]
+}
