@@ -1,0 +1,16 @@
+{
+  "total_raw": 289,
+  "dup_title": 108,
+  "no_date": 0,
+  "too_old": 63,
+  "gate1_fail": 23,
+  "gate2_fail": 15,
+  "passed": 80,
+  "gate2_samples": [
+    "2nd Circ. Seems Doubtful Of RTX Corp. Investors' Appeal - Law360",
+    "RTX Corporation (RTX) Options Chain - Yahoo Finance - Yahoo! Finance Canada",
+    "L3Harris and US Army Successfully Demonstrate First Red Wolf Flight from an MH-60 - L3Harris® Fast. ",
+    "L3Harris (LHX) Stock May Be 44% Undervalued Following VAMPIRE Deliveries - Yahoo Finance",
+    "L3Harris to Provide Night-Vision Systems to US Army - L3Harris® Fast. Forward."
+  ]
+}
