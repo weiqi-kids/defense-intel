@@ -1,0 +1,16 @@
+{
+  "total_raw": 288,
+  "dup_title": 122,
+  "no_date": 0,
+  "too_old": 63,
+  "gate1_fail": 27,
+  "gate2_fail": 24,
+  "passed": 52,
+  "gate2_samples": [
+    "RTX (NYSE:RTX) Given New $214.00 Price Target at Sanford C. Bernstein - MarketBeat",
+    "2nd Circ. Seems Doubtful Of RTX Corp. Investors' Appeal - Law360",
+    "RTX Corporation (RTX) Options Chain - Yahoo Finance - Yahoo! Finance Canada",
+    "RBC Cuts Price Target on L3Harris Technologies to $265 From $310, Keeps Sector Perform Rating - www.",
+    "L3Harris and US Army Successfully Demonstrate First Red Wolf Flight from an MH-60 - L3Harris® Fast. "
+  ]
+}
