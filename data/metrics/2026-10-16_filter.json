@@ -1,0 +1,16 @@
+{
+  "total_raw": 286,
+  "dup_title": 128,
+  "no_date": 0,
+  "too_old": 65,
+  "gate1_fail": 23,
+  "gate2_fail": 17,
+  "passed": 53,
+  "gate2_samples": [
+    "2nd Circ. Seems Doubtful Of RTX Corp. Investors' Appeal - Law360",
+    "RTX Corporation (RTX) Options Chain - Yahoo Finance - Yahoo! Finance Canada",
+    "L3Harris Technologies, Inc. (LHX) options chain - Yahoo Finance Australia",
+    "L3Harris Technologies Is Maintained at Outperform by Bernstein - Moomoo",
+    "L3Harris (LHX) Stock May Be 44% Undervalued Following VAMPIRE Deliveries - Yahoo Finance"
+  ]
+}
