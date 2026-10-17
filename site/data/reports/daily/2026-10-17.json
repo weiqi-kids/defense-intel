@@ -1,0 +1,229 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T11:54:17.764331Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "palantir-2026-10-17-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Stocktwits Defense Watch: RTX Continues Deal Momentum, Ondas-Palantir Launch AI Firm As AeroVironment Strike Four International Deals - Yahoo Finance",
+      "companies": [
+        "palantir",
+        "rtx"
+      ],
+      "related": {
+        "customers": [
+          "palantir"
+        ],
+        "suppliers": [
+          "rtx"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNREVSUF9QTzEtLV9CRUZJcnpjeHdvbWc1c3l3d1Z3bDROdzVxNFg3amR4MWN0eVhmRlF2a0EwbHk3S01LdVFzRkxPZlNKRWEzSmdDbkxTLUN2LWhxMk9PVnM0UnJ3RUtvNGpmbWd2YjRPWFc0Z21IajVPaVFyTEdER1pGOEtuSVRYSDh6eks1aC0zMTNVaW5oR0d1NDBYSmNsUnJvUlNB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rtx-2026-10-17-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Corporation schedules third-quarter results for October 20 - ad-hoc-news.de",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFRTMjU2cnpWeW1FZk9SYWMxN044OHlkTnc5UkozZzNxcWRlbHprUHhCQ1FBcnVmM19jWXZKSUdhNkx3ZUxMMVlIZ3dUMGZXZG1zUFFUSGdINnM1RFlrdEptSVM5cHpLb0FUUTg1bDZzTTV1dXc1Zy1aZmtvWTlLb1kzdVZ3U1AxVkxWM1JmWURIMy1hZnVfMFFBOUoyYTJBbHBzMWs4ZEZWTXFTc0xLSnNvWkJIcWVLbE9NSVZsMkJ1NGs?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rheinmetall-2026-10-17-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall's Spanish Ammo Line Opens as Berenberg Cuts to Hold and Bulls Bet on Year-End Budgets - ad-hoc-news.de",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWlhYMTZBUnJwTWR6cWlrMXhneHJIUFJkWTZLbWlqZEo0SUtBUDgzb0xIcDA4WTZWMUhwTGZPZGtXem5oOGdHbWNtcFJPNzM0SkM0Ry1mekJJN3hadzRzVG1VTEtvSTlaSXFUQ2dFZU9IUFZaRi1sSTdESUtwOVJ3TWNSS2tyUWNzNXVlcmxVVEV3c3ktblhSVzQ5OTlWd040aFBiMTVwUjFQNXJfR1lwUGgwQ05qNFVzVjBRSThZdWlBMWdPMXVrQktVNUEtYktIM0oxRzZaUjBfWFN0Q0E?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "elbit-2026-10-17-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Defense firm Elbit Systems expands operations in Europe with new Swedish facility - The Jerusalem Post",
+      "companies": [
+        "elbit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Tc0JHOEtLRHpKek01TE5WQ21IOXNGU05OZ3FxeFNEMGQzVnhHZTVMbU1ZS0pLd0w1bkQ5NHh5czdOTVRRR2JERk9JTzlDVVY1VVpScnEzb1dsUjFZY1E3aXEwOA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "palantir-2026-10-17-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Palantir patient data tech rejected by many NHS trusts in England - The Guardian",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWTRqdnpXQ2ZSM0pGMlY2Q0RJUncxenJHcC1fdEI1Sm1qWkhSNUxBNDJFQ0RYSXgxbnV2dDhjSUVqTEpQSmZ2dUx3aVJqZzl2LU5Pc3Rlb3c1cHYtQ0psZkZCVkNPVHhmTC1BYmlYTFVFVFR2WDhESzhEbFZJeGgzWWZsQ1prZXMtNDkyeFJQaFJfYWo3UEdobEJuWVJLWWp4TnpDaHktdVdsVHpsMXBqMWc2aV8yRzg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "palantir",
+        "count": 2
+      },
+      {
+        "id": "rtx",
+        "count": 2
+      },
+      {
+        "id": "rheinmetall",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "elbit",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 285,
+    "dup_title": 130,
+    "too_old": 63,
+    "gate1_blocked": 24,
+    "gate2_blocked": 16,
+    "passed": 52,
+    "pass_rate": "33.5%",
+    "gate2_block_rate": "10.3%",
+    "gate2_samples": [
+      "Why RTX (RTX) Stock Is Up Today - Quiver Quantitative",
+      "RBC Cuts Price Target on L3Harris Technologies to $265 From $310, Keeps Sector Perform Rating - Yaho",
+      "L3Harris to Provide Night-Vision Systems to US Army - L3Harris® Fast. Forward.",
+      "L3Harris (LHX) Stock May Be 44% Undervalued Following VAMPIRE Deliveries - Yahoo Finance",
+      "Why Did Rheinmetall (XTRA:RHM) Stock Climb As Fresh Attention Builds? - Simply Wall Street"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為Palantir Technologies、RTX、萊茵金屬相關動態：「Stocktwits Defense Watch: RTX Continues Deal Momentum, On...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Stocktwits Defense Watch: RTX Continues Deal Momentum, Ondas-Palantir Launch ...（國防航太通用）",
+        "level": "red"
+      },
+      {
+        "text": "RTX Corporation schedules third-quarter results for October 20 - ad-hoc-news.de（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

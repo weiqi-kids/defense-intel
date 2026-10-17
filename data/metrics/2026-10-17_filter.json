@@ -1,0 +1,16 @@
+{
+  "total_raw": 285,
+  "dup_title": 130,
+  "no_date": 0,
+  "too_old": 63,
+  "gate1_fail": 24,
+  "gate2_fail": 16,
+  "passed": 52,
+  "gate2_samples": [
+    "Why RTX (RTX) Stock Is Up Today - Quiver Quantitative",
+    "RBC Cuts Price Target on L3Harris Technologies to $265 From $310, Keeps Sector Perform Rating - Yaho",
+    "L3Harris to Provide Night-Vision Systems to US Army - L3Harris® Fast. Forward.",
+    "L3Harris (LHX) Stock May Be 44% Undervalued Following VAMPIRE Deliveries - Yahoo Finance",
+    "Why Did Rheinmetall (XTRA:RHM) Stock Climb As Fresh Attention Builds? - Simply Wall Street"
+  ]
+}
