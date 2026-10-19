@@ -1,0 +1,16 @@
+{
+  "total_raw": 285,
+  "dup_title": 126,
+  "no_date": 0,
+  "too_old": 63,
+  "gate1_fail": 20,
+  "gate2_fail": 17,
+  "passed": 59,
+  "gate2_samples": [
+    "Why RTX (RTX) Stock Is Up Today - Quiver Quantitative",
+    "RTX Corporation (RTX) stock price, news, quote and history - Yahoo Finance Australia",
+    "RTX Corporation (RTX) Options Chain - Yahoo! Finance Canada",
+    "RBC Cuts Price Target on L3Harris Technologies to $265 From $310, Keeps Sector Perform Rating - Yaho",
+    "L3Harris (LHX) Stock May Be 44% Undervalued Following VAMPIRE Deliveries - Yahoo Finance"
+  ]
+}
