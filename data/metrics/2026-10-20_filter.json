@@ -1,0 +1,16 @@
+{
+  "total_raw": 287,
+  "dup_title": 107,
+  "no_date": 0,
+  "too_old": 65,
+  "gate1_fail": 18,
+  "gate2_fail": 19,
+  "passed": 78,
+  "gate2_samples": [
+    "L3Harris Technologies Inc $LHX Stock: TD Waterhouse Canada Inc. Trims Holdings - MarketBeat",
+    "RBC Cuts Price Target on L3Harris Technologies to $265 From $310, Keeps Sector Perform Rating - Yaho",
+    "L3Harris’ “Rock Lobster” Acoustic Communications System Advances AUKUS Undersea Warfare Capabilities",
+    "L3Harris and US Army Successfully Demonstrate First Red Wolf Flight from an MH-60 - L3Harris® Fast. ",
+    "Rheinmetall, MSC jointly acquire Romanian shipyard - Reuters"
+  ]
+}
