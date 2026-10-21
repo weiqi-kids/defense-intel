@@ -1,0 +1,16 @@
+{
+  "total_raw": 277,
+  "dup_title": 121,
+  "no_date": 0,
+  "too_old": 54,
+  "gate1_fail": 24,
+  "gate2_fail": 14,
+  "passed": 64,
+  "gate2_samples": [
+    "RTX Stock Is Falling Tuesday: What's Going On? - RTX (NYSE:RTX) - Benzinga",
+    "6,748 Shares of RTX Corporation $RTX Bought by QP Wealth Management LLC - MarketBeat",
+    "L3Harris’ “Rock Lobster” Acoustic Communications System Advances AUKUS Undersea Warfare Capabilities",
+    "L3Harris Technologies Inc $LHX Stock: TD Waterhouse Canada Inc. Trims Holdings - MarketBeat",
+    "Rheinmetall, MSC jointly acquire Romanian shipyard - Reuters"
+  ]
+}

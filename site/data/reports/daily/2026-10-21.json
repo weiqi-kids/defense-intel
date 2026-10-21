@@ -1,0 +1,251 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T13:21:12.341297Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-21-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Defense Earnings Week Opens With Three Raised Forecasts and Two Record Backlogs - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQXN2aW94TTBwRUkxYVJKaS1lWGVJN05XM1NXMnBhQWE0dTZLWGszUWtoekNDNmhtSFp2ZTVBRW1vX1AtS0UxOWM1QzFrMC1LamxDUlZMZVJDTzJVTFpHa1pYNDVYTG80dm1VSEs5elIwSzJIdmFVbW1LVDQ4N1lNUXoxeUlKajAyYjdtV0dnN0lGYU9wVWY0NXY2VjJ3UWRSaDFyX1RaYTdYWFlJTjZ6bFQ4dEM5ejJ6RkV6ZURockU3SWFOYWlTcjJXSVU5N293Tl9fa3JZNA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-21-016",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "S. Korean Defense Stocks Plunge Despite Export Momentum - Businesskorea",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rMWpRYW4yN2RjaUtRek1Bc0pZYm1nR3dreG40ZHFjeFQ2SGJsaGFyNHRjaVNsQzlNVFVkaUtMQXI1SERnWkFuNHlDQjFvYWhia2NrWjBLMUhqS25KZlZFZUYxbDB1MmJuRThmcGhhUnFnNXVa?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rtx-2026-10-21-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Q3 Deep Dive: Defense Awards and Commercial Aftermarket Drive Upward Guidance - Yahoo Finance",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWTM5S241WlMzbFBSd0VHX0lPLTV3VjJqc1BtQXlVVFBvUl9ORDdCcXA4bURPcmExTTJRZmttOGpRZldWWGw4b3R3ZjFBM2RxZG01eDdfQnV1bEJSLXFPMVJUUkkxQUxLdV91S3NYNzBHbmkwaGhsUmpQS2tsVE1ZdEpJWXhUaHJGRmVaSkNfRE5aM0k?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rtx-2026-10-21-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Launches Air Traffic Control Surveillance System - marketscreener.com",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZlNoNl9aZnpUSmp3MUQ3cU1pQWx6UGI0QThtVXlKM1gxWWx5akdlN1haZDdHS0RnZ0o5VUtLbTBwX2RKV2hOc1VOWkVOT1d6S0s2ZU5ZWXZ1RVFBLWktUnFQUjQyLWY0LU9Cam1uMlJWWFpQVkhSd2I4WG9NeHRZWFlkeXJmcnd0ektjdXdpOXZQTEdYazFzOTlkSm53X0VpMXhEN3NZN18?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "l3harris-2026-10-21-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris Wins $876 Million Next Generation Jamming Contract - The Motley Fool",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYkhfNUtwV1hSOXFCMG1SVzFUUUduSlhiTk9kVUxCbUplWXFaMGZsYlVsdTVkS0J0QWlLbXRkd0lfWC1HNmxKUTFXbzZ5VEpuX1V1elo5SVF6NGt4WnpwYW5aakRObkIzb3ZpWkJlbkIxSWEwM25KU2t0YXhOOVptU1Z1N2xST1VreUd5Q1JlSmQxS2dDVlpYOHgtR3JtUlZuTTYxQ3RHSQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "arms_export": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 25,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "palantir",
+        "count": 6
+      },
+      {
+        "id": "rtx",
+        "count": 5
+      },
+      {
+        "id": "l3harris",
+        "count": 5
+      },
+      {
+        "id": "elbit",
+        "count": 2
+      },
+      {
+        "id": "rheinmetall",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 14
+      },
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "drone_warfare",
+        "count": 2
+      },
+      {
+        "id": "arms_export",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 277,
+    "dup_title": 121,
+    "too_old": 54,
+    "gate1_blocked": 24,
+    "gate2_blocked": 14,
+    "passed": 64,
+    "pass_rate": "41.0%",
+    "gate2_block_rate": "9.0%",
+    "gate2_samples": [
+      "RTX Stock Is Falling Tuesday: What's Going On? - RTX (NYSE:RTX) - Benzinga",
+      "6,748 Shares of RTX Corporation $RTX Bought by QP Wealth Management LLC - MarketBeat",
+      "L3Harris’ “Rock Lobster” Acoustic Communications System Advances AUKUS Undersea Warfare Capabilities",
+      "L3Harris Technologies Inc $LHX Stock: TD Waterhouse Canada Inc. Trims Holdings - MarketBeat",
+      "Rheinmetall, MSC jointly acquire Romanian shipyard - Reuters"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為Palantir Technologies、RTX、L3Harris Technologies相關動態：「Defense Earnings Week Opens With Three Raised Forecasts a...」。主要關注主題為財報、國防航太通用、無人機作戰，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Defense Earnings Week Opens With Three Raised Forecasts and Two Record Backlo...（財報、國防航太通用）",
+        "level": "red"
+      },
+      {
+        "text": "S. Korean Defense Stocks Plunge Despite Export Momentum - Businesskorea（財報、國防航太通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
