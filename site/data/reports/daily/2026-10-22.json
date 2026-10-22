@@ -1,0 +1,268 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T13:21:06.264804Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-10-22-002",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Are RTX Corporation and Northrop Grumman Ready to Break Out? - MarketBeat",
+      "companies": [
+        "rtx",
+        "northrop"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaHR5X21DM0xwTzVKeGhtbi04MXhGWTdrZ0VnT2V0Y0ZSdUJhV3gtN2haV3pjNFVlRHFjOFExV1g5bVVKNUFRVm5JMWVtcjlNYVM1eURReUVUZm96ZkNveWR6Q2lwM2FWN1VYRkt3Tm13bFExdTE2ZXNPNjdaTzFscmdMbk9JWFowbnk1TnVYM3VmWmxrQWwwWXhGNWs?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "leonardo-2026-10-22-011",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Leonardo, Rheinmetall secure 3.7-billion-euro contracts with Italian army, MF daily says - Reuters",
+      "companies": [
+        "leonardo",
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUTRsc0ZXdXpzRHMwQ1N0b2JueXRyQXlXWjB0TU8yOXVVQnA0ZlN2aEVwMmxBZ2ZGcFZUMzRTVHdhdlhXZ1dxQ1Nvb3FmYzRsb1p0RXRpM21ob240VUc2TEZzUUdXdnN4RndPUkw4Z1JnUFM0UjZDY2FTQVJLeDgxTHI3NnIzLVRvYTFpZGk1YXhFV05MM3RHTFFJRmtWYlZDNklHS3Myck1jZ1FxeXo2QWE4LV9IazM2VjlHeXlRSm9DZ1NVSUlGanAzekp5cHM1ZFY3dldkVGZvT1k?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "leonardo-2026-10-22-018",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Leonardo-Rheinmetall, €3.7bn in contracts for Italian Army - marketscreener.com",
+      "companies": [
+        "leonardo",
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTmNUdTl0aXk5UHBVNDR0UG1KbklmTTcxSmdwUnI2ZmtiNEQydzE0Z2tVTWtRQzNfNC1IZXhiU0ZrVmZIUk1ZSW1SS25RelBzU2Z6MGFmbWJsMko1WXNfMEJsTHlSdmpYU2dsVi01WlJJcFJxOXVDVC1aYzlUbjg5d1hSQ1hoSlE2Q1RLbW5MWTZwdERUVEMyNVRwbndIQkt4dkJ6SE1XX3NwLXFqcHFKbU9DZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "palantir-2026-10-22-034",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Palantir Stock: Buy, Sell, or Hold After a Research Firm's AI Warning? - The Motley Fool",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX0w3MVl6YmhXZ1V6eEZxQTNBTDNGSWx0QU1obDFjOHY0V1FrU0l1WFZ5SHVzd2pKRmFZYWgtcHdQbEVmd3Fnajh2eW11MWdOSE1yTTR4ZWUxZldQaENzV2Q3QUo2U216azhEbk9lRGFjMkhNN1JjZ3dHZjJMdkJuZlJuR3h3SmFsY25TcEFZMDVSS1ZkaHpXSg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lockheed-2026-10-22-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lockheed Martin posts earnings beat, but Quant rating keeps it outside top five defense stocks - TradingView",
+      "companies": [
+        "lockheed"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSm1KaklBNm8wVzJXdzRzT0g4eTFIZHlCNzJPckFGVERhSVJGdVExVW9UMGhNdVVScS1kNWltVUY1Q2hyc18tYXRPVXhKWGNob3NYUkRGb1JIaHByLS1hVTNhNTJoTHRoOU82WTI0dzVNeHdmOW84ZHVwMlpJNERzZW9fbEFjRGpPQmhFVWlDR1FKcVFNSl9ydkZKU0JJbzIyaWZjMzYyb05XR3I4RDdFb2NwUHdVeVdFOTFweW5JMmJESVlZSGdNblluUjk3U1dkci1Hc3NuZy1sa2JUcXNHWHJLM3hxTWdTLW9QSw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cybersecurity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "leonardo",
+      "to": "rheinmetall",
+      "relation": "co_mention",
+      "co_mention_count": 5,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 42,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 40,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_aero",
+        "count": 9
+      },
+      {
+        "id": "l3harris",
+        "count": 7
+      },
+      {
+        "id": "rheinmetall",
+        "count": 7
+      },
+      {
+        "id": "palantir",
+        "count": 7
+      },
+      {
+        "id": "leonardo",
+        "count": 5
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 21
+      },
+      {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
+        "id": "drone_warfare",
+        "count": 3
+      },
+      {
+        "id": "cybersecurity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 289,
+    "dup_title": 109,
+    "too_old": 64,
+    "gate1_blocked": 25,
+    "gate2_blocked": 13,
+    "passed": 78,
+    "pass_rate": "43.3%",
+    "gate2_block_rate": "7.2%",
+    "gate2_samples": [
+      "RTX Corporation : BNP Paribas Raises Target P - Moomoo",
+      "DA Davidson Adjusts Price Target on RTX to $201 From $219, Maintains Neutral Rating - www.marketscre",
+      "RTX Stock Is Falling Tuesday: What's Going On? - RTX (NYSE:RTX) - Benzinga",
+      "RTX Positioned for 2027 Growth as Missile Agreements, Pratt Margins Improve, RBC Says, RBC Says - Ya",
+      "L3Harris adds Kimberly Fields to its board - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 42 則事件，焦點為韓華航太、L3Harris Technologies、萊茵金屬相關動態：「Are RTX Corporation and Northrop Grumman Ready to Break O...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Are RTX Corporation and Northrop Grumman Ready to Break Out? - MarketBeat（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Leonardo, Rheinmetall secure 3.7-billion-euro contracts with Italian army, MF...（財報）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

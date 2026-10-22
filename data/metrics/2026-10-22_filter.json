@@ -1,0 +1,16 @@
+{
+  "total_raw": 289,
+  "dup_title": 109,
+  "no_date": 0,
+  "too_old": 64,
+  "gate1_fail": 25,
+  "gate2_fail": 13,
+  "passed": 78,
+  "gate2_samples": [
+    "RTX Corporation : BNP Paribas Raises Target P - Moomoo",
+    "DA Davidson Adjusts Price Target on RTX to $201 From $219, Maintains Neutral Rating - www.marketscre",
+    "RTX Stock Is Falling Tuesday: What's Going On? - RTX (NYSE:RTX) - Benzinga",
+    "RTX Positioned for 2027 Growth as Missile Agreements, Pratt Margins Improve, RBC Says, RBC Says - Ya",
+    "L3Harris adds Kimberly Fields to its board - TradingView"
+  ]
+}
