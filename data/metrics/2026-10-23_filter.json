@@ -1,0 +1,16 @@
+{
+  "total_raw": 287,
+  "dup_title": 127,
+  "no_date": 0,
+  "too_old": 72,
+  "gate1_fail": 26,
+  "gate2_fail": 17,
+  "passed": 45,
+  "gate2_samples": [
+    "News | RTX's Pratt & Whitney Canada introduces certified PT9 engine - RTX",
+    "RTX Corporation Shs Estimates – TSX:RTX - TradingView",
+    "RTX Stock Is Falling Tuesday: What's Going On? - RTX (NYSE:RTX) - Benzinga",
+    "RTX Positioned for 2027 Growth as Missile Agreements, Pratt Margins Improve, RBC Says, RBC Says - Ya",
+    "MSC joins Rheinmetall in €138m Romanian shipyard takeover - Splash247"
+  ]
+}

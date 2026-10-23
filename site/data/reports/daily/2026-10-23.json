@@ -1,0 +1,224 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T12:59:48.349623Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-10-23-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Corporation $RTX Stock: Robeco Institutional Asset Management B.V. Increases Stake - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRlI1MzA1c0RDM3FmdW9LSFgwTVQ4VE5wcUNyVl9rSnlMMGotMGU2TXVvS01aOUdDTmw3Tko0ZnNkaFU0ZkNfa040S05MSThqUDY1c0FHaEx3cjU2M0djZEpuMFNkOWs2ZEhQNWpnbmMtWURDTWVoM3Y2SnN5TC0xMGRoTHc5emUzSTZzQlNYc0laejE0cWQzaS1YNGVLcGRGZzNQbl9yT1FBT1JtdUNBSnRrSGJnaGI1YTJIc0EwZG9LRmNwVEJRMm90Vl93LXEtV04wbVAzSF85UU0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "l3harris-2026-10-23-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris Technologies (LHX) Declares $1.25 Quarterly Dividend; 2% Yield - StreetInsider",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZFptWmQtc29oUTlGc3J3UHAtWWFjRFVjMzhsVDg3V1lCZEk0cnNOTXlaZGdnSTZ1UHhKRF9kd0s5V2MtV1dfZnkxNnFWTmw2WTR5VjlSS3RfUXhFVEFSUHE5amh4YmI4VkRIUjhETTZ1eVhYYlBLQVVKMUE3b29QVVYtVElCRklkUVpxVkRkdGtnbnZPcGxRc051OGRQaFVka1lLY2tUbHQ4SHhEYUg5S2JYUVVxR01vTHROMXEzVDdPSWtLei1ESDdIQi10Q01O?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-10-23-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris Announces Quarterly Dividend - StreetInsider",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONzFJWnlIVnBtYm4zQ3ZtNmloX0E3bGVNNzhxN2tfT242R3VwSndVMHFDVU9PRDJ3QU92ZUdWajQtM1ZKeDNhVlJPNW9sNXFISVMyMlRPcGpTSXRQN1lXSjRCTWpLZktveXoyQ2d1bzdySHJBWWxweGNrdE1yN0s0QjYwZ0haQV9fanZPd2k4b2pNZVhMOGZCOHpkTQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rheinmetall-2026-10-23-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall launches factory to produce heavy-caliber weapons for tanks and more - RBC-Ukraine",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdEZvWlk5NkhveG12bXhDN1dxZnRpU2tsYnZoSzQ1aXhCeWVWVl9VSDNNYXJicG1qMi1wQ1VvU3lnbGFiWGRONkh5cWZZMmN5QnVEOXVrVkZ2VVZsR0lHbHpHY2Uyc3ktRjJjRk42cTdJRUpNSmdzaE5sUjJ1LWswWTlKMFZyZFBRZloxbE1jUjE3a3hjSE1uTg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_aero-2026-10-23-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha Aerospace Breaks Into U.S. Self-Propelled Howitzer Market, Speeds Up Local Production Network Buildout… In Talks With 70-Plus Component Suppliers - BigGo Finance",
+      "companies": [
+        "hanwha_aero"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pZUNJSVRTWXNCZlIyVldfa3liSHU2dWhQaDd4Z2xpeWlBR1AySGI5alJDQ3BnaWF2V3hQUHJIQjkwRDNZSDNCbUNObzVhNllCWlRtRURDblMzVWF2ZmVuMnZzMTBmSncza1paUXRrWDIwUXZtMHc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 12,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rheinmetall",
+        "count": 4
+      },
+      {
+        "id": "l3harris",
+        "count": 3
+      },
+      {
+        "id": "palantir",
+        "count": 2
+      },
+      {
+        "id": "rtx",
+        "count": 1
+      },
+      {
+        "id": "hanwha_aero",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "industry_general",
+        "count": 6
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 287,
+    "dup_title": 127,
+    "too_old": 72,
+    "gate1_blocked": 26,
+    "gate2_blocked": 17,
+    "passed": 45,
+    "pass_rate": "28.1%",
+    "gate2_block_rate": "10.6%",
+    "gate2_samples": [
+      "News | RTX's Pratt & Whitney Canada introduces certified PT9 engine - RTX",
+      "RTX Corporation Shs Estimates – TSX:RTX - TradingView",
+      "RTX Stock Is Falling Tuesday: What's Going On? - RTX (NYSE:RTX) - Benzinga",
+      "RTX Positioned for 2027 Growth as Missile Agreements, Pratt Margins Improve, RBC Says, RBC Says - Ya",
+      "MSC joins Rheinmetall in €138m Romanian shipyard takeover - Splash247"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為萊茵金屬、L3Harris Technologies、Palantir Technologies相關動態：「RTX Corporation $RTX Stock: Robeco Institutional Asset Ma...」。主要關注主題為財報、國防航太通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "RTX Corporation $RTX Stock: Robeco Institutional Asset Management B.V. Increa...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "L3Harris Technologies (LHX) Declares $1.25 Quarterly Dividend; 2% Yield - Str...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
