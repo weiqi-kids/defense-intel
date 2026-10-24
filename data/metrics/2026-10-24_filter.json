@@ -1,0 +1,16 @@
+{
+  "total_raw": 277,
+  "dup_title": 139,
+  "no_date": 0,
+  "too_old": 64,
+  "gate1_fail": 21,
+  "gate2_fail": 15,
+  "passed": 38,
+  "gate2_samples": [
+    "RTX Corporation Shs Estimates – TSX:RTX - TradingView",
+    "Are RTX Corporation and Northrop Grumman Ready to Break Out? - The Globe and Mail",
+    "What Does RTX (RTX) Altimeter Upgrade Push Mean For Business Aviation? - Yahoo Finance",
+    "RTX Positioned for 2027 Growth as Missile Agreements, Pratt Margins Improve, RBC Says, RBC Says - Ya",
+    "L3Harris Technologies, Inc. Estimates – NYSE:LHX - TradingView"
+  ]
+}

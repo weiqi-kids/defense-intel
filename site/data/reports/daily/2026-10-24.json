@@ -1,0 +1,243 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T12:23:09.272516Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "l3harris-2026-10-24-002",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Lockheed Martin, RTX, L3Harris, HII Land Fresh Pentagon Contracts This Week: Stocktwits Defense Watch - Stocktwits",
+      "companies": [
+        "l3harris",
+        "rtx",
+        "lockheed"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN0lMenVxczlWQXAtY0dsc09WeXdGQndLd0xmakVnd0ZlM1VGZmw2MVgxaEZjcmpDclJhaXBZcHZHNlhXQi1FTXoyc210VDZXMWkxS2tmM0g3X09DMXlKOF96a1dCSmx6WEphT2ZUazhVNWctTEI2ZnliX1hhSFpxdHJjc19HQkc4djlqazVNdFFrcVpMNFc5S3phdjZDVjc2RFU4TXlaejhRQ3dHQjI1X01HaHZoeFFEM2FUYzllTnluNTYycnY4QlBGTGJUM20z?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "leonardo-2026-10-24-004",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Media report Leonardo and Rheinmetall contracts for Italian army worth $4.16 billion — Defense News - UA.NEWS",
+      "companies": [
+        "leonardo",
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMHZiYTY3TVhMSXZVYUY5NVRoMklkRzkyS2NMS0tfQ1FhcW5RejlyYXRCSG1kUm11VjA2aUZkekhGNGVhSE43OVozbEpNYnhZUkQtMlgxUVBQeGpNSXBiU012OExyUG54Nk8tZWFCWXQtaUFGOE1JaVYxdG00eTRvME9BZmFIWWtyOWxYOV9kM21yRWJtcWR6dC1VTEs0RHpReXZHTmVJWDRIT2hUblFaQzlMcnBFZkFzWWg0dGpGQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-24-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "A 229% increase: Türkiye’s record-breaking defence and security budget for 2027 - Defence24.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXJoclk3Y2xiWDdmNXQtOVVTUjRxZWtuMGx2V2lBRmJkanFPMkJtNnQ3YVF3aGRqbFhRMnVZbmdvVHMxRU11eDYwZ0ktMzN6Zm9tRlJqaHRERGFnUEItVEJ1Vlo5REtJY2JGbTM3TTFDQ3JiNkJxNVEtd05pZGVQcUVjWEg1d1duZnhRRHRWNlpRcTYyV2J4MlAzRW1fMWdGSUlnNTIyQnhxRDlv?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rtx-2026-10-24-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Corporation Q3: Crushing Operational Expectations But Valuation Limits The Upside - Seeking Alpha",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSXRfc0NMLXdqZXhFSkdsYVZEbU9DSl9UZERmd05KVFlZNEswMjhjdE51NU9OUFNLVHRRTG03QnBMLUxob0NfdExGWEpfLW5paHF0MF9GU3prQkVkQjJfR2FHWEkwNkR3UGxTcFlGZkJKYnBQVVA3dFFsN0xWNWVxdHZxa2F2V3AySlU4NXA5VDVwMlBNNWxmdXZoaF84UC1qajFpMC1jOTJabGRVVnRTcmlucw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-24-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "US Army advances ramjet interceptor for longer-range drone defense - Interesting Engineering",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRHVmRFhVeEt4dTYtd21XWTk4MGFBbllfcDdBSWhzVDFVc2s1NW41WV8wQ1h5aXlWVHFxcFBxamVfZ05MNlh3NmZSMU1kdlF4ZHlTaHNRVmxiYlZWMVhDRHZqdEthTmh1NDJ2X01jNHR0Q0pkS2JxcFFLVmVBTVA2ZVp3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.19,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "palantir",
+        "count": 4
+      },
+      {
+        "id": "rtx",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "lockheed",
+        "count": 1
+      },
+      {
+        "id": "leonardo",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "drone_warfare",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 277,
+    "dup_title": 139,
+    "too_old": 64,
+    "gate1_blocked": 21,
+    "gate2_blocked": 15,
+    "passed": 38,
+    "pass_rate": "27.5%",
+    "gate2_block_rate": "10.9%",
+    "gate2_samples": [
+      "RTX Corporation Shs Estimates – TSX:RTX - TradingView",
+      "Are RTX Corporation and Northrop Grumman Ready to Break Out? - The Globe and Mail",
+      "What Does RTX (RTX) Altimeter Upgrade Push Mean For Business Aviation? - Yahoo Finance",
+      "RTX Positioned for 2027 Growth as Missile Agreements, Pratt Margins Improve, RBC Says, RBC Says - Ya",
+      "L3Harris Technologies, Inc. Estimates – NYSE:LHX - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Palantir Technologies、RTX、L3Harris Technologies相關動態：「Lockheed Martin, RTX, L3Harris, HII Land Fresh Pentagon C...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Lockheed Martin, RTX, L3Harris, HII Land Fresh Pentagon Contracts This Week: ...（財報、國防航太通用）",
+        "level": "red"
+      },
+      {
+        "text": "Media report Leonardo and Rheinmetall contracts for Italian army worth $4.16 ...（財報、國防航太通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
