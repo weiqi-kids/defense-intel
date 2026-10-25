@@ -1,0 +1,16 @@
+{
+  "total_raw": 277,
+  "dup_title": 159,
+  "no_date": 0,
+  "too_old": 63,
+  "gate1_fail": 23,
+  "gate2_fail": 10,
+  "passed": 22,
+  "gate2_samples": [
+    "RTX Corporation Shs Estimates – TSX:RTX - TradingView",
+    "RTX Positioned for 2027 Growth as Missile Agreements, Pratt Margins Improve, RBC Says, RBC Says - Ya",
+    "L3Harris Technologies, Inc. Estimates – NYSE:LHX - TradingView",
+    "Rheinmetall opens the UK Gun Hall in Telford - Rheinmetall",
+    "Rheinmetall, MSC jointly acquire Romanian shipyard - Reuters"
+  ]
+}
