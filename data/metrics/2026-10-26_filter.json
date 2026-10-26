@@ -1,0 +1,16 @@
+{
+  "total_raw": 278,
+  "dup_title": 137,
+  "no_date": 0,
+  "too_old": 64,
+  "gate1_fail": 18,
+  "gate2_fail": 10,
+  "passed": 49,
+  "gate2_samples": [
+    "What Does RTX (RTX) Altimeter Upgrade Push Mean For Business Aviation? - Yahoo Finance",
+    "RTX Positioned for 2027 Growth as Missile Agreements, Pratt Margins Improve, RBC Says, RBC Says - Ya",
+    "L3Harris Technologies, Inc. Estimates – NYSE:LHX - TradingView",
+    "Rheinmetall opens the UK Gun Hall in Telford - Rheinmetall",
+    "Rheinmetall, MSC jointly acquire Romanian shipyard - Reuters"
+  ]
+}
