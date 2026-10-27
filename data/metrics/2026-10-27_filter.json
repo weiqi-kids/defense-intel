@@ -1,0 +1,16 @@
+{
+  "total_raw": 268,
+  "dup_title": 129,
+  "no_date": 0,
+  "too_old": 58,
+  "gate1_fail": 21,
+  "gate2_fail": 10,
+  "passed": 50,
+  "gate2_samples": [
+    "RTX Corporation $RTX Stock Sold by Arnhold LLC - MarketBeat",
+    "What Does RTX (RTX) Altimeter Upgrade Push Mean For Business Aviation? - Yahoo Finance",
+    "L3Harris Is Building a Ramjet-Powered Missile for the US Army—for Only $60 Million - The National In",
+    "L3Harris Adds Independent Director to Support Growth - The Globe and Mail",
+    "Rheinmetall opens the UK Gun Hall in Telford - Rheinmetall"
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T13:50:42.139668Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-10-27-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Better Defense Stock to Own Through 2030: Palantir vs. RTX Corporation - The Motley Fool",
+      "companies": [
+        "rtx",
+        "palantir"
+      ],
+      "related": {
+        "customers": [
+          "palantir"
+        ],
+        "suppliers": [
+          "rtx"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMzk1cE1NS0QxM2JRNnFadkxMTk5RQmxVZGFVMEU2THdLd21mSThxcnlFMlUzeUM1M2ZVOFNYM0VMcHJxM3JoSFJuaUtFTXlUbHBGWXA0d0pqQVl3U2RBYVg0UHRXaUc0N2U2bWxxbUV1V0pYQThsX1hsY0NxWTh3cTFyanVwd18xY3F6UldJbzdfZnN0MDk0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rtx-2026-10-27-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Corporation $RTX Stock Holdings Raised by Oppenheimer & Co. Inc. - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOGkxZERxeExBeWZZQml3WE4teU52NEpMeFZ1amxXR3dBVzRJVkg5LTRQVVQyVm1FUFh6Vl8yeFZxdkc5MUktVXBrdGZXaGVfNHNJYTIwR21vb2I3cU5tZkNwR3Q3R1J1VVVhZTRETzJWUFZtVEdKLUVXZTIxTkpaUEJVTlhiT2kxaG5HX2xfNkcyNGdMVjhWYXZFckx6WG1ET0FvaHRTSUQ0aGM0NUpQNlVSS3pMZGI2SzVJQ2xWOC1VUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rtx-2026-10-27-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Corporation $RTX Shares Newly Acquired by Insight Wealth Partners LLC - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWFd5OFR6TFFSUXlFM0cwa3Y1TnE1SDJtV2piQVlRT04zWXplVHMtRS0yMS1SU1AzUkRVSFdlNWpnSUJsSXd6YVdRQ0xId0xTWmJuUzlRMFFkYkRicS02eWVZMGoyTk9GQ1E5eHhPcFVKVWZxN3BwRUJjNjRDT1l4V0dDSUR1amtYeEJpaUdSWWs2ZVVwMlJjbXpLQzRoZjM3ODIyNWJ2WmdEQnZVZVQ1Q0c1UGhlSk1VdmhYY3hVNnFMWGNzZ29JSFYzbHpRQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rheinmetall-2026-10-27-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Deutsche Bank Research Lowers Rheinmetall PT, Maintains Buy Rating - marketscreener.com",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQel90OURMRmpNMU1VenBPbGN2S0F6aEJLbDc0MFNjZ1VadzhFUDRWTm82MHVZM2FJWHBQand1WlRLdldZbjZuXzhCU1hVb2hwYjRvamFEQXc5aDU0V3AwTmFBV3pxdF8za01FTUFrdTdPQzZfM3dESTdnQUlCSExiVlB0aTQxT0NWeDdhRXNVeENEQ3VXZzBPMnRscjZ3aHVVNmJpRkl5WkhiRWJDeTJYcHVhWW5iUGdOQXc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rheinmetall-2026-10-27-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall AG : Gets a Buy rating from Deutsche Bank - marketscreener.com",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORVFPTmNNOHdxU0d5a2RXTEUyUS1qNy0yZWNVTURWY0tPT1dETFVPRE45Wm9Tdm1Vajhvc1cxZUVmaUN4UURyRENSZElSajVIVEpYalF6V2N2WVF4QjVmSXBtU3FqZEZYeFpGaXk2ZWo4ZUh4NEFfWmYxNzR2Q3JFZF96T2FfYmRJQ2FnUWZEM1M1RF9OMmgtV3dmWGRMamJfVFp0ZVYzaw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 24,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "palantir",
+        "count": 7
+      },
+      {
+        "id": "rtx",
+        "count": 3
+      },
+      {
+        "id": "rheinmetall",
+        "count": 3
+      },
+      {
+        "id": "elbit",
+        "count": 2
+      },
+      {
+        "id": "hanwha_aero",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 14
+      },
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "drone_warfare",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 268,
+    "dup_title": 129,
+    "too_old": 58,
+    "gate1_blocked": 21,
+    "gate2_blocked": 10,
+    "passed": 50,
+    "pass_rate": "36.0%",
+    "gate2_block_rate": "7.2%",
+    "gate2_samples": [
+      "RTX Corporation $RTX Stock Sold by Arnhold LLC - MarketBeat",
+      "What Does RTX (RTX) Altimeter Upgrade Push Mean For Business Aviation? - Yahoo Finance",
+      "L3Harris Is Building a Ramjet-Powered Missile for the US Army—for Only $60 Million - The National In",
+      "L3Harris Adds Independent Director to Support Growth - The Globe and Mail",
+      "Rheinmetall opens the UK Gun Hall in Telford - Rheinmetall"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為Palantir Technologies、RTX、萊茵金屬相關動態：「Better Defense Stock to Own Through 2030: Palantir vs. RT...」。主要關注主題為財報、國防航太通用、無人機作戰，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Better Defense Stock to Own Through 2030: Palantir vs. RTX Corporation - The ...（國防航太通用）",
+        "level": "red"
+      },
+      {
+        "text": "RTX Corporation $RTX Stock Holdings Raised by Oppenheimer & Co. Inc. - Market...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
