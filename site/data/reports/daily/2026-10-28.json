@@ -1,0 +1,236 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T14:45:09.625644Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rheinmetall-2026-10-28-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Shield AI and Rheinmetall Barzan Advanced Technologies to advance autonomy for ISR on Qatari Unmanned Surface Vessels (USVs) – Shield - shield.ai",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUXRfZHExRE8za19OdXJQRUlmdXRmRF9oWjFLSW1ndHVhN25ObzBKV2g3NGdBVVVYOUZpSTB6UTh4UVl2MW4wQ3dkbEgtTlBvN1BHa2p1UF8zR0RRX2dsaEtpeDJiNjNiVTlIcGpMeFRsOEV4SzA0RVd0RkFub1NXRy14NG1nRlNqT3A3bjliLUJPS25melhhbW1lb1ZFeWlLVl9fNHBTaF9DTnBwNm5jOGZHOUhpRUdvTlZDdnpiZkpNLWUzU2w4YS0zdFVuZmN1NVBxbnJHVWM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hanwha_aero-2026-10-28-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha Aerospace explores Lithuanian production roles for mobile air defence system - Defence Industry Europe",
+      "companies": [
+        "hanwha_aero"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ2tiVnhFcm9TRVFCcEVtYTJocFBMZVJuNTlpYzRyTm5fbVJWb1BYem9qUF9xTUctU0s3ak1QSmhpdzY5S0pnYlJnbmJrMjFtMm1pYllYSW1weVRxYXZvYzUzNmpLQ2ZHVWU0UkRlOWxhYXJkNk5JTTNQeXRmV0hUTkR0WlNoVjVqV3Rza1I1R0xEZ1BjdzVsSVpYdDdKVEdLQ3EzRXhRYVQteWdTakYzU1N3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-28-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "[COVER STORY] Debate grows over KAI privatization as Hanwha aims to expand stake - The Korea Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSzNtdzhQOGJXakt5bG80TkZocFJ0M3llZFBDa3N0V2RIclNnaHhqMEljbFJjN2xXaEhLM1Q1S2o5QnJBeHJEVTB2ZDRVNWdJX3k5NFhNd1hZb2h3aWN1cWVpNXdZSEhkTENPMW15ZTlzZFEtcF95a2U0UHBaUDNWZy1hclV1b2lLNUd5RUtEWjVoTnN0Y2ZxQUVnbFFQdjFIUXBMOER0cU4yTXBhelZJcHB0d1ZYZFJCZjRtUXdYQkJVYl9JUGxOZklxTXQ4czA0WDhROUJB0gHWAUFVX3lxTE9LM213OFA4YldqS3lsbzRORmhwUnQzeWVkUENrc3RXZEhyU2doeGowSWNsUmM3bFdoSEszVDVLajlCckF4ckRVMHZkNFU1Z0lfeTk0WE13WFlvaHdpY3VxZWk1d1lISGRMQ08xbXllOXNkUS1wX3lrZTRQcFpQM1ZnLWFyVXVvaUs1R3lFS0RaNWhOc3RjZnFBRWdsUVB2MUhRcEw4RHRxTjJNcGF6VklwcHR3VlhkUkJmNG1Rd1hCQlViX0lQbE5mSXFNdDhzMDRYOFE5QkE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-28-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha Defense USA to Acquire Controlling Stake in Hanwha Philly Shipyard - marketscreener.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc3NqYkp5YnRjQlJIMm83cDBCaXBxb2N3VUNVU3FfV0d3NFVjeWpLUERGTFViM1BZZXQ1NmNhOUVJQS1YYm9WOGQtd1luT1h0alJNR3hFMmNzNlBQT3dmTllQOVJSMVNWLXZTWGREM2NCMFc5d3VhNUlyVXNjNTFjYTZSbDdfMXlRQlc3dXpyLW5WamxtT0tSVGM4R2o1cWRCUEw3TjhWX1BxV2ZWdXVUU2Yxck1uQnJ5NTRpakZiVk9hMXQx?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "elbit-2026-10-28-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Elbit Systems Stock And Defense Shares Facing Middle East Election Risk - Yahoo Finance",
+      "companies": [
+        "elbit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQckR3YWlMUXA1WTU1LUZzREtYSWxzX0hPQ2ZYckI3QV8xYWdNdFk1cU1UUC01a3ZxYV8xMW8yUjV2VDNmbkVsYnptUWVEVTRJMFI1MFVTRmp6NTVPRnFmR3N0VThYdWlTSG5STkpyWGYwN2c2cU1CVXFkbnNnVHFIS19Vb2sxcGdZZ2FRbllyWV85aXZjSmlzV19vQ0hEZENM?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drone_warfare": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 21,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "elbit",
+        "count": 7
+      },
+      {
+        "id": "palantir",
+        "count": 5
+      },
+      {
+        "id": "rheinmetall",
+        "count": 1
+      },
+      {
+        "id": "hanwha_aero",
+        "count": 1
+      },
+      {
+        "id": "saab",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 15
+      },
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "drone_warfare",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 255,
+    "dup_title": 119,
+    "too_old": 57,
+    "gate1_blocked": 24,
+    "gate2_blocked": 10,
+    "passed": 45,
+    "pass_rate": "33.1%",
+    "gate2_block_rate": "7.4%",
+    "gate2_samples": [
+      "RTX CFO to present at the Baird 2026 Global Industrial Conference - www.marketscreener.com",
+      "L3Harris hails new rocket motor facility - Camden News",
+      "L3Harris Is Building a Ramjet-Powered Missile for the US Army—for Only $60 Million - The National In",
+      "L3Harris Technologies, Inc. Estimates – NYSE:LHX - TradingView",
+      "Rheinmetall and MSC Win Mangalia Shipyard Auction; Damen has challenged the process and outcome Rhei"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為艾爾比特、Palantir Technologies、萊茵金屬相關動態：「Shield AI and Rheinmetall Barzan Advanced Technologies to...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Shield AI and Rheinmetall Barzan Advanced Technologies to advance autonomy fo...（無人機作戰、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Hanwha Aerospace explores Lithuanian production roles for mobile air defence ...（財報、國防航太通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

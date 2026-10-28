@@ -1,0 +1,16 @@
+{
+  "total_raw": 255,
+  "dup_title": 119,
+  "no_date": 0,
+  "too_old": 57,
+  "gate1_fail": 24,
+  "gate2_fail": 10,
+  "passed": 45,
+  "gate2_samples": [
+    "RTX CFO to present at the Baird 2026 Global Industrial Conference - www.marketscreener.com",
+    "L3Harris hails new rocket motor facility - Camden News",
+    "L3Harris Is Building a Ramjet-Powered Missile for the US Army—for Only $60 Million - The National In",
+    "L3Harris Technologies, Inc. Estimates – NYSE:LHX - TradingView",
+    "Rheinmetall and MSC Win Mangalia Shipyard Auction; Damen has challenged the process and outcome Rhei"
+  ]
+}
