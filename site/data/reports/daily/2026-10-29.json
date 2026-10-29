@@ -1,0 +1,256 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T14:52:24.402124Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "l3harris-2026-10-29-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "L3Harris raises outlook after record backlog in Q3 2026 earnings - Quartz",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSjl1cy00R0RBZjFhVjlaczd6MUhjd1BfZlpIc2RZbHJNM3VJZFpRN1BuUmJ5eEZDemlUN1NiLVRmcVRReGFFSVNubXNrMUlKS1RPMXBuU2lFeWEzOGZYY19LbVI0TW1Rb0RISTRHRzZVc1llaUxDQ1FNNUMzUnVaSg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "l3harris-2026-10-29-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "L3Harris Raises Yearly Guidance After Notching Record Backlog - WSJ",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdTNwaUxfdEhsazI0M0llOV9DMElyVXRlTC1xYzdJY1E1OGJFdmcxN0dJWFU5bmJ6WFlXTTRNSG9UT09SSmxLd3kwcDd1TG5DNTBidUhMZnhUb1JaUkozSjJrY0h1TlNmeDV1c1hvcVJmbWxPTmZmb2s1bndCSy1vVkxHaEJpSFFRWkRWV0pOcEh5OGtaQmlWbHVlVDhwYW02QU5tVXRYTGNXZUts?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-10-29-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "L3Harris (LHX) Surpasses Q3 Earnings and Revenue Estimates - Yahoo Finance",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT3VobUtIakd5Q0FsQlJySUJGcDJnNldfZHctSURCcldLT3I5d2JKR0dvWG9DY21yTkVBR1dVSmlXVlZqTmF1c0ZPYm9HcTBvT3E4YkhtQ3FpTUVtU0FuWHE0MUVzSFFBU05uRFlUWEs2aHlvNWR4X2JfUVNkdXo5Y0FPcTAwQlZFenIxeFlqaDdRRHAyUE8wSWZuM0NCR0NN?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "l3harris-2026-10-29-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "L3Harris Delivers Record Backlog and Strong Third-Quarter Results - L3Harris® Fast. Forward.",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLTNSUGRXeVlPc0xRTmRyN1AyLUNOb08wS0RORGd0UEJFMVZnRXhhUlN3czl5Ml84azZHeVR1c0NEYzIzYzBRQVpnY1QxWVc2OGgyMVlhVkU5eWZNdEN1OHh2Y3JpUDRqOVdQTG9UUkkzVW16NlJJS1JYMHRFS2JfXzVaSG5CaVBJN0FlaEdLYW9GT3RwelUyRDRkNUVtamJtbGtCdmxfbm9jMlR6MGpsSjhJQ3ZpTkQyYXlOY3Bn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "hanwha_aero-2026-10-29-032",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Hanwha Aerospace swings to Q3 net loss due to delayed weapons deliveries - The Korea Times",
+      "companies": [
+        "hanwha_aero"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMGstd0s5VU13VDB4QVBxZjh5TWJERjdYZDB1V1lVcXVyb0tPaEMwaXZEcjJZUjM3T2xBZ3g5VGlIREluSC1aUl8yWDhNZGY5OVdxaHpDQ19CNmZJb2E4V3BJa001bmhuSnVSRmQycUpDMGRMdkZySERLRFhFQl9lelRQZmNKZDh6Sks1dXI5V0VJNmpIZGE5bFoyN0hqbzMwVHJYRGtBTGZHZGVyNjRUc2hiWERnVGs2akt1TURvMl85R0xCSjN5d293RHhQd9IBzgFBVV95cUxNMGstd0s5VU13VDB4QVBxZjh5TWJERjdYZDB1V1lVcXVyb0tPaEMwaXZEcjJZUjM3T2xBZ3g5VGlIREluSC1aUl8yWDhNZGY5OVdxaHpDQ19CNmZJb2E4V3BJa001bmhuSnVSRmQycUpDMGRMdkZySERLRFhFQl9lelRQZmNKZDh6Sks1dXI5V0VJNmpIZGE5bFoyN0hqbzMwVHJYRGtBTGZHZGVyNjRUc2hiWERnVGs2akt1TURvMl85R0xCSjN5d293RHhQdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 42,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.15,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "missile_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 58,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 46,
+      "negative": 8
+    },
+    "top_companies": [
+      {
+        "id": "l3harris",
+        "count": 14
+      },
+      {
+        "id": "hanwha_aero",
+        "count": 12
+      },
+      {
+        "id": "palantir",
+        "count": 7
+      },
+      {
+        "id": "rheinmetall",
+        "count": 6
+      },
+      {
+        "id": "rtx",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 42
+      },
+      {
+        "id": "industry_general",
+        "count": 25
+      },
+      {
+        "id": "drone_warfare",
+        "count": 2
+      },
+      {
+        "id": "missile_defense",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 270,
+    "dup_title": 94,
+    "too_old": 51,
+    "gate1_blocked": 18,
+    "gate2_blocked": 12,
+    "passed": 95,
+    "pass_rate": "54.0%",
+    "gate2_block_rate": "6.8%",
+    "gate2_samples": [
+      "RTX Corporation $RTX Stock Sold by D.A. Davidson & CO. - MarketBeat",
+      "RTX Corporation $RTX Stock Holdings Boosted by Bokf Na - MarketBeat",
+      "What Could Rare Earth Supply Risks Mean For L3Harris Technologies (LHX)? - Yahoo Finance",
+      "L3Harris Technologies : Third Quarter 2026 News Release - www.marketscreener.com",
+      "L3Harris Technologies Inc $LHX Stock Purchased by Conning Inc. - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 58 則事件，焦點為L3Harris Technologies、韓華航太、Palantir Technologies相關動態：「L3Harris raises outlook after record backlog in Q3 2026 e...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "L3Harris raises outlook after record backlog in Q3 2026 earnings - Quartz（財報）",
+        "level": "red"
+      },
+      {
+        "text": "L3Harris Raises Yearly Guidance After Notching Record Backlog - WSJ（財報）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

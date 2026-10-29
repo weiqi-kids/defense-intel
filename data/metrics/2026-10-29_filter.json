@@ -1,0 +1,16 @@
+{
+  "total_raw": 270,
+  "dup_title": 94,
+  "no_date": 0,
+  "too_old": 51,
+  "gate1_fail": 18,
+  "gate2_fail": 12,
+  "passed": 95,
+  "gate2_samples": [
+    "RTX Corporation $RTX Stock Sold by D.A. Davidson & CO. - MarketBeat",
+    "RTX Corporation $RTX Stock Holdings Boosted by Bokf Na - MarketBeat",
+    "What Could Rare Earth Supply Risks Mean For L3Harris Technologies (LHX)? - Yahoo Finance",
+    "L3Harris Technologies : Third Quarter 2026 News Release - www.marketscreener.com",
+    "L3Harris Technologies Inc $LHX Stock Purchased by Conning Inc. - MarketBeat"
+  ]
+}
