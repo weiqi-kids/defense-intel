@@ -1,0 +1,16 @@
+{
+  "total_raw": 279,
+  "dup_title": 107,
+  "no_date": 0,
+  "too_old": 61,
+  "gate1_fail": 21,
+  "gate2_fail": 19,
+  "passed": 71,
+  "gate2_samples": [
+    "7,907 RTX Corporation $RTX Shares Sold by Everett Harris & Co. CA - MarketBeat",
+    "RTX Corporation (RTX) Seasonal returns chart - Yahoo Finance Australia",
+    "RTX Corporation (RTX) Seasonal returns chart - Yahoo Finance Singapore",
+    "Bernstein Adjusts Price Target on L3Harris Technologies to $335 From $318 - www.marketscreener.com",
+    "L3Harris Technologies (LHX) PT Raised to $293 at UBS - StreetInsider"
+  ]
+}
