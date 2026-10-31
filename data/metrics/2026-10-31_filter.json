@@ -1,0 +1,16 @@
+{
+  "total_raw": 269,
+  "dup_title": 129,
+  "no_date": 0,
+  "too_old": 50,
+  "gate1_fail": 23,
+  "gate2_fail": 13,
+  "passed": 54,
+  "gate2_samples": [
+    "RTX Corporation (RTX) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+    "RTX Corporation (RTX) Seasonal returns chart - Yahoo Finance Australia",
+    "What Could Rare Earth Supply Risks Mean For L3Harris Technologies (LHX)? - Yahoo Finance",
+    "Rheinmetall to supply anti-tank missile firing Schakal infantry vehicles - Interesting Engineering",
+    "Germany is investigating a possible arson attack at a Rheinmetall site - Українські Національні Нови"
+  ]
+}
