@@ -1,0 +1,236 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T14:38:51.558161Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-11-01-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Corporation $RTX Stock: Sumitomo Mitsui Trust Group Inc. Reduces Position - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbk45Q3hrRHhITW05cHhuc2pCZmllYjl4R3hnZU5qTkJlSVlDNUtzWXV0b2JYb09vTVl3T3FtZlIwNnM1VVA1amxEYkVfRVE5eEdycDduV09ydEhselgtNFpHYkVENGhUTkdnNkNicFl5aGtCS2tKd2EyMldMM0xLWHcxZjVrcElQaU1EWmpyclFHMkxfc3ZVWGRxekRHSVJqZ0UxTVRoeUtBOUh5UUN3amRnUWVyQkx0N25PWjBFM0F2cW5PRDQ1UlNYa1UtYS1t?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rtx-2026-11-01-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Can RTX Corporation (NYSE:RTX) Sustain Its Growth Momentum? - Kalkine Media",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUmp5Q3E1ZTZXX0xJZEhxU1k5c0VwNGJEVjFSM2JfZ2cyUUE0LTFKbmMyTmVZVFRoVFd4djVPWUpWVGw4dXNTOUpzeXliR29nRmI2V3RvamF6MnhKbWxIYlpma1RpLTBoNWRqSVVvdHFueHEzUGFzcjNmNGtCdWVYa2trUW5nMEVxc3dsclN5dC1IbmkxelpJN29pdDhJdWh5OGRj?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-11-01-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris Q3: A Strong Buy After The Earnings Surprise (NYSE:LHX) - Seeking Alpha",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNjBURlBaRF9OMGpIbmVSeXg1SU15UHJXaThFYlVidFg4T1ZrRDFQRGIwRjNTZXY1Umo5M2duaGtxQ2ROTTRYTDA5MjlaaUIxTVZ4NEtVTERfd2dYVmprclNaZWpUSDFmVG9HdDZvWi1tT0JqMVFkNUpiVVEyYXFUamVCaUcxYmZOWUpEcmhrWmhiVXFzaUFwdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "l3harris-2026-11-01-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris Technologies Inc $LHX Stock Position Increased by SFE Investment Counsel - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOXAtTjQ1RkJzWFkxd1JHb3haWEZFckFSOEYxMHdZRkMzanJFdnlxd0dxX2FNNXpCUDBmandVUFdsc18yN0hCQkhSR2RZczA2SzBsV0lieUVXNndWREFqeEFHS2xENU5fMTVYT0dwbU9tOC1jWnlGU0FpcnVQQ1JOZmZIZFlSNXdCeHBtc1JrNDRvYlhETFJYLTNVUVIwNjF5YnVyQ1JZMVcyTVJqMWJrek5HMmJlY3p0SllyU29ELUtoVUdxUDZYM2RRR1lKLUxkS29XZlhlMlo?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "l3harris-2026-11-01-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris (LHX) Stock Looks Undervalued Against Its Future Cash Flow - Simply Wall St",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWmlXZ0xwb012QURLTThON21KVjZCVmxSMWE0TmtWUlBTNXdsQkFBME45NTVITGZ6NDdTb3hBU2dMaVRJbGFPY0ktYklGaHI5OEtPNTdFTVVTdXE0djV3S2htbndqSFpPZ3BOSkhrR2tkZlVBYVZkWHp6OVJoQzhBNllCaWZzVlVCYXJ3R2phaDVMT0RpV21GbUNFLXY4SDQ4MUtKdHZ5UVJyNkxJV1hxRGh1d3ZFb3E2RnhkWDVKbHdNbWlpb1JmeFptazhuRFVsNTFJdTB1ZUdyOUE1bS1F0gHfAUFVX3lxTE9aaVdnTHBvTXZBREtNOE43bUpWNkJWbFIxYTROa1ZSUFM1d2xCQUEwTjk1NUhMZno0N1NveEFTZ0xpVElsYU9jSS1iSUZocjk4S081N0VNVVN1cTR2NXdLaG1ud2pIWk9ncE5KSGtHa2RmVUFhVmRYeno5UmhDOEE2WUJpZnNWVUJhcndHamFoNUxPRGlXbUZtQ0UtdjhINDgxS0p0dnlRUnI2TElXWHFEaHV3dkVvcTZGeGRYNUpsd01taWlvUmZ4Wm1rOG5EVWw1MUl1MHVlR3I5QTVtLUU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 14,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "palantir",
+        "count": 5
+      },
+      {
+        "id": "rtx",
+        "count": 3
+      },
+      {
+        "id": "l3harris",
+        "count": 3
+      },
+      {
+        "id": "elbit",
+        "count": 3
+      },
+      {
+        "id": "rheinmetall",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 10
+      },
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "drone_warfare",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 269,
+    "dup_title": 149,
+    "too_old": 52,
+    "gate1_blocked": 23,
+    "gate2_blocked": 13,
+    "passed": 32,
+    "pass_rate": "26.7%",
+    "gate2_block_rate": "10.8%",
+    "gate2_samples": [
+      "UBS Adjusts L3Harris Technologies Price Target to $293 From $264, Maintains Neutral Rating - Moomoo",
+      "What Could Rare Earth Supply Risks Mean For L3Harris Technologies (LHX)? - Yahoo Finance",
+      "L3Harris Technologies, Inc. (LHX) Seasonal returns chart - Yahoo Finance Singapore",
+      "Rheinmetall and Silvus Technologies, a Motorola Solutions Company, Strengthen Airspace Security - Ya",
+      "Rheinmetall to supply anti-tank missile firing Schakal infantry vehicles - Interesting Engineering"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為Palantir Technologies、RTX、L3Harris Technologies相關動態：「RTX Corporation $RTX Stock: Sumitomo Mitsui Trust Group I...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "RTX Corporation $RTX Stock: Sumitomo Mitsui Trust Group Inc. Reduces Position...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Can RTX Corporation (NYSE:RTX) Sustain Its Growth Momentum? - Kalkine Media（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

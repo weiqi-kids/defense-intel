@@ -1,0 +1,16 @@
+{
+  "total_raw": 269,
+  "dup_title": 149,
+  "no_date": 0,
+  "too_old": 52,
+  "gate1_fail": 23,
+  "gate2_fail": 13,
+  "passed": 32,
+  "gate2_samples": [
+    "UBS Adjusts L3Harris Technologies Price Target to $293 From $264, Maintains Neutral Rating - Moomoo",
+    "What Could Rare Earth Supply Risks Mean For L3Harris Technologies (LHX)? - Yahoo Finance",
+    "L3Harris Technologies, Inc. (LHX) Seasonal returns chart - Yahoo Finance Singapore",
+    "Rheinmetall and Silvus Technologies, a Motorola Solutions Company, Strengthen Airspace Security - Ya",
+    "Rheinmetall to supply anti-tank missile firing Schakal infantry vehicles - Interesting Engineering"
+  ]
+}
