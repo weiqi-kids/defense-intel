@@ -1,0 +1,16 @@
+{
+  "total_raw": 255,
+  "dup_title": 102,
+  "no_date": 0,
+  "too_old": 54,
+  "gate1_fail": 21,
+  "gate2_fail": 14,
+  "passed": 64,
+  "gate2_samples": [
+    "5,498 RTX Corporation $RTX Shares Sold by Heritage Investors Management Corp - MarketBeat",
+    "RTX Corporation (RTX) Seasonal returns chart - Yahoo Finance Australia",
+    "Here's How Much $100 Invested In L3Harris Technologies 15 Years Ago Would Be Worth Today - Benzinga",
+    "Morgan Stanley Upgrades L3Harris Technologies (LHX) to Overweigh - GuruFocus",
+    "Space company creating Melbourne 'star engineering hub,' 100 new jobs - Florida Today"
+  ]
+}
