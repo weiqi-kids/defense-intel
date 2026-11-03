@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T17:37:45.711387Z",
+  "updated_at": "2026-11-03T15:40:24.543835Z",
   "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -58,17 +58,17 @@
       "name": "通用動力",
       "ticker": "GD",
       "currency": "USD",
-      "ar": 2398000000,
-      "ar_prev": 2254000000,
-      "ar_qoq": "+6%",
+      "ar": 2529000000,
+      "ar_prev": 2398000000,
+      "ar_qoq": "+5%",
       "ar_period": "QoQ",
-      "inventory": 9097000000,
-      "inv_prev": 9177000000,
-      "inv_qoq": "-1%",
+      "inventory": 9124000000,
+      "inv_prev": 9097000000,
+      "inv_qoq": "+0%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "hanwha_aero",

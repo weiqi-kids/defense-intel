@@ -1,0 +1,16 @@
+{
+  "total_raw": 280,
+  "dup_title": 131,
+  "no_date": 0,
+  "too_old": 58,
+  "gate1_fail": 20,
+  "gate2_fail": 11,
+  "passed": 60,
+  "gate2_samples": [
+    "B of A Securities maintains L3Harris Technologies at Buy, raises price target to $375 from $325 - Tr",
+    "Here's How Much $100 Invested In L3Harris Technologies 15 Years Ago Would Be Worth Today - Benzinga",
+    "Rheinmetall AG : Berenberg sticks Neutral - www.marketscreener.com",
+    "Rheinmetall Adds Passive RF Sensors to Skynex: A Quieter Eye for the 1,000-Round Gun - Envanter Medy",
+    "Rheinmetall to supply anti-tank missile firing Schakal infantry vehicles - Interesting Engineering"
+  ]
+}
