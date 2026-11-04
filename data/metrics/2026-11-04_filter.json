@@ -1,0 +1,16 @@
+{
+  "total_raw": 269,
+  "dup_title": 106,
+  "no_date": 0,
+  "too_old": 57,
+  "gate1_fail": 18,
+  "gate2_fail": 14,
+  "passed": 74,
+  "gate2_samples": [
+    "RTX Corporation $RTX Stock Purchased by Provenance Wealth Advisors LLC - MarketBeat",
+    "RTX Corporation (RTX) Seasonal returns chart - Yahoo Finance Singapore",
+    "RTX Corporation $RTX Shares Sold by AIA Group Ltd - MarketBeat",
+    "L3Harris: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+    "Morgan Stanley Upgrades L3Harris Technologies (LHX) to Overweigh - GuruFocus"
+  ]
+}
