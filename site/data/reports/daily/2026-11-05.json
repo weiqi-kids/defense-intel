@@ -1,0 +1,267 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T15:59:05.003624Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rheinmetall-2026-11-05-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Rheinmetall shares plunge 17% after outlook cut as military contracts stall - CNBC",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMk84R0loaHlmVk5iMGU4Rm9BY05UaXlrczFBMGlCTVJJc0RBdzM1M3kzRWNxbDQzRnozSTlWZ1RTM1hCcDM0d245bDFNMktPdHpwQklTN3cyT0hfVjRjSU1yLWtCWHpZV3QwSmx1VGR4U04xLTRPTlRzcThCUC0taHFR0gGHAUFVX3lxTE9wd3M1RmtFQ1VSeXVad1JBZDBuUXRHbTlqbGRRcWdYVzQ1VG1pUUNjcXhXUG9QVEpkTkxtOXMzLWFkaTgwTVJPTUIwd2tFbWVNcDRuTEFfWVI2V1JkeXU5eG9ZdzN2S0o1VEIwdE5Sb01fYzlra0hlTHlTcXJLVWs2b1FmYlptVQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rheinmetall-2026-11-05-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Rheinmetall Shares Plunge After Order Delays Force Arms Maker to Trim Guidance Again - WSJ",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcG5vUmpPcnZVd0hzakhCekNSS283STBkV0d4TVVhSkxsdm1nTVRPZE94ZURLdmNXcWxpdnFmTEpRVVZPdGJzQ1AtdWxyTURCU0V1OXpkMmRGV0p2YXZ2eWhTaFRkT0FuekduUTdNSzdLal9QamlqUmItMVJabkl0MExWdzVfVnlGblhPQTlRZjFIQ3lpaFlhM3JEdUxnTmI1RXRZcl9TRXNrT3dOUTNQQVJINDNxUmVIalFRcTh0eWxSaUNTT2FjTGN6VQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rheinmetall-2026-11-05-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "German defense giant Rheinmetall shares plunge 17% after cutting 2026 forecasts - Anadolu Ajansı",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaXJnQ2h5YzNUb3gweEFUX2Q1UDdyb0pUZm9KZTY4SE90dVpGS0ludjJLUGc1dDNuOFcyV29GZnFSUUZsS1VvaWlFT0hwVktVczVRSzZCQjNMdDNSMVFBTXlIdWxzT2JBcDJaLUJuTFp0MTE0djQ3dEU2OVdZMHdsQzUxQzQ2bDlYcXNuVHhVYTZpWk5jV2JHU29wZTNhczFtUU5GQVBZUmZHaWRVdlB5a1d4WmpOMnYwYTN3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rheinmetall-2026-11-05-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Financial report for Q3 2026 – Record growth and a high level of profitability - Rheinmetall",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeGp0NG9PbVM0dzNvVTZ4R2dZX2pMZlAzSzlieng5MGJ6dWlQQk5OSE8yN3B2UmpzZHFsRFdGcjZ5aEw0eGlQRVpTS3I0bE9iRXBoUHpra0VQYWtXVVVxTWczLTM1UE1FX1BvQ0Qxbm9XWkF2NGxFZTkwRlJMUkRmWm1ldlN6d3Q5NjZzRWNMNGcybGdCMDRxdnBOaU1oS2x4RmpEc1Zjcm9tSl8xWFhhSQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rheinmetall-2026-11-05-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Rheinmetall plunges 16% after cutting 2026 outlook - Breakingthenews.net",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZDVjVTB3QnJPQnJ0bnNuZ1ExVjIyTTdma0lxM0gzX0ZnZ3ZUOHVCWnloVDY2cjZqNXcxVGQwNUF4LU9uTEotdWpKMzA0dFNJYkVTMlNhVjJJX2RvcHUwdnZnWmZOLWlwczkzWGZ0amJRWXhacHdvbTlKNnBwMnoxSTVVSlBHa2x5cDFjVjNIS0hmRkRfSHdMUG53?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 38,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.11,
+      "sentiment_7d_avg": null
+    },
+    "missile_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "defense_budget": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 49,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 41,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "rheinmetall",
+        "count": 17
+      },
+      {
+        "id": "hanwha_aero",
+        "count": 11
+      },
+      {
+        "id": "palantir",
+        "count": 8
+      },
+      {
+        "id": "l3harris",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 38
+      },
+      {
+        "id": "industry_general",
+        "count": 23
+      },
+      {
+        "id": "missile_defense",
+        "count": 1
+      },
+      {
+        "id": "drone_warfare",
+        "count": 1
+      },
+      {
+        "id": "defense_budget",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 268,
+    "dup_title": 106,
+    "too_old": 59,
+    "gate1_blocked": 16,
+    "gate2_blocked": 16,
+    "passed": 71,
+    "pass_rate": "43.8%",
+    "gate2_block_rate": "9.9%",
+    "gate2_samples": [
+      "RTX Corporation $RTX Position Increased by Kestra Private Wealth Services LLC - MarketBeat",
+      "RTX Corp Stock (RTX) Moved Down by 3.07% on Nov 4: Drivers Behind the Movement - TradingKey",
+      "A Look at L3Harris Technologies Inc (LHX) After 6.5% Decline -- GF Value $272.14 vs Price $259.74 - ",
+      "Should L3Harris Stock Holders Look At Lockheed Martin Instead? - Trefis",
+      "L3Harris: 3 Key Takeaways for Long-Term Investors - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 49 則事件，焦點為萊茵金屬、韓華航太、Palantir Technologies相關動態：「Rheinmetall shares plunge 17% after outlook cut as milita...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Rheinmetall shares plunge 17% after outlook cut as military contracts stall -...（財報、國防航太通用）",
+        "level": "red"
+      },
+      {
+        "text": "Rheinmetall Shares Plunge After Order Delays Force Arms Maker to Trim Guidanc...（財報）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 268,
+  "dup_title": 106,
+  "no_date": 0,
+  "too_old": 59,
+  "gate1_fail": 16,
+  "gate2_fail": 16,
+  "passed": 71,
+  "gate2_samples": [
+    "RTX Corporation $RTX Position Increased by Kestra Private Wealth Services LLC - MarketBeat",
+    "RTX Corp Stock (RTX) Moved Down by 3.07% on Nov 4: Drivers Behind the Movement - TradingKey",
+    "A Look at L3Harris Technologies Inc (LHX) After 6.5% Decline -- GF Value $272.14 vs Price $259.74 - ",
+    "Should L3Harris Stock Holders Look At Lockheed Martin Instead? - Trefis",
+    "L3Harris: 3 Key Takeaways for Long-Term Investors - Yahoo Finance"
+  ]
+}
