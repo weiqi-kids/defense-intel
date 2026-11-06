@@ -1,0 +1,238 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T15:30:57.287367Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rheinmetall-2026-11-06-013",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Rheinmetall Remains Under Pressure After Reactions to Profit Warning - www.marketscreener.com",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX2pZMVNJU2NGRnhmcHY2ZjltVE9FaEJ2S1ROdng0ellLakNmbDVlaW1JUzlodHZCS19LTkgtbzZ5QkpHRTJaU3FMbmJrWXRUZEs5RnlibUJocUplWHZzWHVLRU51b0tZaDVoVHBBWkxsZ01XU1ROZXVSUzVCZGlNclRSdnZER2E5czgzbkpMWl9mQUY1Y18xTmhmLUJOU1U1NlFxSC16cHRXdW1PNC0xYm1PSWQ3ckNFU0otQXRR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "palantir-2026-11-06-020",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Palantir Technologies Stock Extends An 8-Day Losing Streak To A 22% Loss - Trefis",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMTF1TlpBa0xiaUdzUFlsem5ka0x6aFA0LVQ2cTEyZE4teGh6c2tCSVRjdmllMTRLUENJZElQUUdualdZNEhOaUR2S25tT3NSMGU4THI0TEFSQkgwTGlldHdSX2tYdnJCMTM5X2czbzRNallzTXVLWER1NWY0cEFONmlZa1FDLURxclZDWDB5elV2NUZFYkhPU3Jkb1VMN25ITUlQdFNUUWxhOGM4RENReUhXZUVHNGxWWjBVMERYUzlxMDV2R2FfakcyTHo?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rtx-2026-11-06-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Where Did RTX Stock's Gains Really Come From? - Yahoo Finance",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUXNrR0VlVkdidTQxVi1KeV9lWi1MZS0wSkMzQ1RoTjd4V1JEYTRnWXlsUG1TUko4d1o5WmhtMjNEM3RWQ2VmR040d0NvZDhTNXp1YXA2RHBpNHNOWE9vRU1CeklpQWs1elYtZHpMTTdnbEpvWVZLbWhmR0N2X3ZLOW9adF9EX012UXhtZnBlSXNfcDI2S0E?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rtx-2026-11-06-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Corporation $RTX Stock: Chicago Partners Investment Group LLC Grows Holdings - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPM2lScWpIUVdUVHNQNnVtalNHODZvZUdTSVBjUERWZUdOWm4zWVcxVGlIaHpPSFJjZ2luVGtaby1UWTU5WENIQ2FEU0ZTVzN2Q1BJbzl3T3B6b1FoR3F0ME9EQlgxdWladEpqU25QUlRKYk1LWU1xaU92eFdPLUdydEpZMjRwTHZvWThNeDBLSzBRVEluT1VQeHlCZGo2SjR4dnhDRDFDSzlBRnhhaWRMcnQ3eWplcFhMQlVqOFhGTmFXX2sybXNJODEtMEdiTkNWamI3dzRB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rtx-2026-11-06-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Corporation $RTX Shares Purchased by B&D White Capital Company LLC - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX29uOHQwQ0s1QzBtMDZ5Z0JfcHZYMnk2NkFON3NwOEVXM282LVZiTGh1QXJvTlZwNmlFUHpuMzBkYUNzZDMzRThNT0pQM0lrdXp6SE5jcnBCQi0tNEJwNFl5cjNvU2VTRzdqZXUxZzRYckRXYkpTdVowZ3pqSTJia3Bia29pLVVFM1BXd2hIWUJNMzVJYTIxZUluMEt5MjV4Y09EVkZwTW4zWlVnOXBEWEM3RElGT3pCQ1hNczdMdjVJbjlSUHhaaQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "defense_budget": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 33,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 30,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "rheinmetall",
+        "count": 9
+      },
+      {
+        "id": "palantir",
+        "count": 7
+      },
+      {
+        "id": "rtx",
+        "count": 5
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "hanwha_aero",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 23
+      },
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "defense_budget",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 269,
+    "dup_title": 111,
+    "too_old": 56,
+    "gate1_blocked": 15,
+    "gate2_blocked": 16,
+    "passed": 71,
+    "pass_rate": "44.9%",
+    "gate2_block_rate": "10.1%",
+    "gate2_samples": [
+      "RTX Corp Stock (RTX) Moved Down by 3.07% on Nov 4: Drivers Behind the Movement - TradingKey",
+      "43,522 RTX Corporation $RTX Shares Sold by Commonwealth Equity Services LLC - MarketBeat",
+      "A Look at L3Harris Technologies Inc (LHX) After 6.5% Decline -- GF Value $272.14 vs Price $259.74 - ",
+      "B&D White Capital Company LLC Acquires New Position in L3Harris Technologies Inc $LHX - MarketBeat",
+      "B of A Securities maintains L3Harris Technologies at Buy, raises price target to $375 from $325 - Tr"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 33 則事件，焦點為萊茵金屬、Palantir Technologies、RTX相關動態：「Rheinmetall Remains Under Pressure After Reactions to Pro...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Rheinmetall Remains Under Pressure After Reactions to Profit Warning - www.ma...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Palantir Technologies Stock Extends An 8-Day Losing Streak To A 22% Loss - Tr...（財報）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

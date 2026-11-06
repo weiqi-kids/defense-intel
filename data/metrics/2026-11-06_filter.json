@@ -1,0 +1,16 @@
+{
+  "total_raw": 269,
+  "dup_title": 111,
+  "no_date": 0,
+  "too_old": 56,
+  "gate1_fail": 15,
+  "gate2_fail": 16,
+  "passed": 71,
+  "gate2_samples": [
+    "RTX Corp Stock (RTX) Moved Down by 3.07% on Nov 4: Drivers Behind the Movement - TradingKey",
+    "43,522 RTX Corporation $RTX Shares Sold by Commonwealth Equity Services LLC - MarketBeat",
+    "A Look at L3Harris Technologies Inc (LHX) After 6.5% Decline -- GF Value $272.14 vs Price $259.74 - ",
+    "B&D White Capital Company LLC Acquires New Position in L3Harris Technologies Inc $LHX - MarketBeat",
+    "B of A Securities maintains L3Harris Technologies at Buy, raises price target to $375 from $325 - Tr"
+  ]
+}
