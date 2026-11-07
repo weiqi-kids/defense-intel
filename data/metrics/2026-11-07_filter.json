@@ -1,0 +1,16 @@
+{
+  "total_raw": 268,
+  "dup_title": 138,
+  "no_date": 0,
+  "too_old": 59,
+  "gate1_fail": 20,
+  "gate2_fail": 7,
+  "passed": 44,
+  "gate2_samples": [
+    "RTX Corp Stock (RTX) Moved Down by 3.07% on Nov 4: Drivers Behind the Movement - TradingKey",
+    "Should L3Harris Stock Holders Look At Lockheed Martin Instead? - Trefis",
+    "DAX 40 Falls to 25,820.36 as the AI Sell-Off and a Rheinmetall Slide Weigh on Frankfurt - BBN Times",
+    "Palantir Stock Investors Just Got Great News From a Wall Street Analyst (Hint: The Stock Could Soar)",
+    "Palantir Technologies Inc. (PLTR) Delivered Explosive AI Growth: Is the Stock Still Worth Watching? "
+  ]
+}
