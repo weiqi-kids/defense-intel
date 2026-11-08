@@ -1,0 +1,163 @@
+{
+  "date": "2026-11-08",
+  "date_range": {
+    "start": "2026-11-02",
+    "end": "2026-11-08"
+  },
+  "generated_at": "2026-11-08T14:40:46.834384Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "l3harris-2026-11-02-012",
+      "date": "2026-11-02",
+      "title": "L3Harris Technologies (LHX) Beat Expectations And Raised Guidance, Is The Upside Already Priced In? - Simply Wall St",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 132,
+      "last_week": 133,
+      "week_over_week_change": "-1%",
+      "sentiment_this_week": -0.02
+    },
+    "industry_general": {
+      "this_week": 107,
+      "last_week": 86,
+      "week_over_week_change": "+24%",
+      "sentiment_this_week": 0.0
+    },
+    "arms_export": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "missile_defense": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "drone_warfare": {
+      "this_week": 17,
+      "last_week": 15,
+      "week_over_week_change": "+13%",
+      "sentiment_this_week": 0.12
+    },
+    "defense_budget": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rtx": {
+      "event_count": 15,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "l3harris": {
+      "event_count": 22,
+      "sentiment_avg": 0.09,
+      "rank": 4
+    },
+    "rheinmetall": {
+      "event_count": 36,
+      "sentiment_avg": -0.13,
+      "rank": 2
+    },
+    "elbit": {
+      "event_count": 24,
+      "sentiment_avg": 0.06,
+      "rank": 3
+    },
+    "palantir": {
+      "event_count": 48,
+      "sentiment_avg": -0.02,
+      "rank": 1
+    },
+    "saab": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "hanwha_aero": {
+      "event_count": 21,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "leonardo": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 399,
+        "last": 389,
+        "change_pct": 2.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-02",
+      "event_count": 98,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-11-03",
+      "event_count": 65,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-11-04",
+      "event_count": 68,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-11-05",
+      "event_count": 94,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-11-06",
+      "event_count": 54,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-11-07",
+      "event_count": 15,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-11-08",
+      "event_count": 5,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-02 ~ 2026-11-08）共 399 則事件，重點為「L3Harris Technologies (LHX) Beat Expectations A...」。財報、國防航太通用、無人機作戰為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "RTX",
+        "reason": "本週出現 15 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 22 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "萊茵金屬",
+        "reason": "本週出現 36 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

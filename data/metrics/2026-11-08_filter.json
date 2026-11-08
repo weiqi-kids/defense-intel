@@ -1,0 +1,16 @@
+{
+  "total_raw": 268,
+  "dup_title": 161,
+  "no_date": 0,
+  "too_old": 57,
+  "gate1_fail": 17,
+  "gate2_fail": 11,
+  "passed": 22,
+  "gate2_samples": [
+    "RTX Corporation (RTX) stock price, news, quote and history - Yahoo Finance Australia",
+    "RTX Corporation $RTX Shares Bought by Ethic Inc. - MarketBeat",
+    "RTX Corporation $RTX Stock Acquired by Sanders Capital LLC - MarketBeat",
+    "Should L3Harris Stock Holders Look At Lockheed Martin Instead? - Trefis",
+    "Analysts Are Bullish on Top Industrial Goods Stocks: SIA Engineering Co (SEGSF), L3Harris Technologi"
+  ]
+}
