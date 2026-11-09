@@ -1,0 +1,16 @@
+{
+  "total_raw": 268,
+  "dup_title": 114,
+  "no_date": 0,
+  "too_old": 57,
+  "gate1_fail": 21,
+  "gate2_fail": 17,
+  "passed": 59,
+  "gate2_samples": [
+    "RTX's Raytheon completes third flight test of U.S. Army training rocket (RTX:NYSE) - Seeking Alpha",
+    "RTX Corporation (RTX) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "RTX Corporation stock heads into Baird conference with higher targets - ad-hoc-news.de",
+    "RTX Corporation $RTX Shares Acquired by Pictet Asset Management Holding SA - MarketBeat",
+    "L3Harris Technologies (NYSE:LHX) Stock Rated Buy in New Coverage at Citigroup - MarketBeat"
+  ]
+}

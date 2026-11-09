@@ -1,0 +1,250 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T18:04:44.911366Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-09-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Weekly Recap: Sales growth, raised cash-flow outlook and record backlog - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVHpORGZiZzBlX0t0SkJudTdEb21RNzM3SWhOSG0zZmpLbHJld3FqOTlUdlZ5Uk1rTTJKUmpYaUJ1N0gyYmdpOWNRenBGWkltczlDdGNuaGpSRVRaeHV0QVJPY1JMV1VBZXBnX3hvaklDbDE0RHpqT19LbzRDTTV2LW03UkpuN3dYRDlYLVlzXzhQWGFCTnh5dmUyLTdkX1pNQUt4UnlUQjNRYkFLek1PSVhOZllFSVZlQjFsblU4R1ZZQUlpRkczNURENA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "palantir-2026-11-09-041",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Nvidia, Palantir, and Tesla Are Sending Shockwaves Through Wall Street With This $53 Billion Warning - The Globe and Mail",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOY2EzeFNCSHQ4dnNIWDNTRVZNMm1MXzZHM2UwR2R6aExQbWM1c3Y4Slo4bVpqZ3VlNkp1NUp2ZHJOdlNIQWp1d3M2SVZkZEhZdXlWRjdaSENBV2Q0VFNIZkpGWC12SThRRm9ndEhMQWpiVEM5UkZIRHVybkY0bllxTHlvSVZQVjlzMUZSUFNvSi1yeUdjUHBBS24tMl93bVVFVWFqWE1kWWxNWUxyY3dmX2xIYXRrdzJ0LVh6YklVeWlPbElUS2VxWWFqMlRwQy1WN3RTT1Bpc0kyX3FsQXlLRWVtQ2ppTHJMaS13d09XM2NWQzUtM3d0S1V0QWkzUC1HUHp0QUlrNA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rtx-2026-11-09-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Corporation (RTX) stock price, news, quote and history - Yahoo Finance UK",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jNjFhTnc3QnUydWJVbXJYU1pGUEFJMlhSWWsxQ2ZJTF93V241b3h3a01kRmZ4bzZ5ZWVTSGF0N0g1MWpYbTJzbHJ0VXhzbkpqUUJZYkc2ck8xdWplVHVReA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rtx-2026-11-09-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "M Holdings Securities Inc. Makes New $2.56 Million Investment in RTX Corporation $RTX - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYVZMd0ZHbDhacVl0TTZwOW5pLVFyRUpfdXZLX1V4NG05Q1lCOWRfczVsdFI2ZXNfNmVYa05YdVRLVUNZZW5qWXBUbW5Ob3B3NVFteGhiMzZCZDRXR2h2cG1sSGx3Ykxtc1VKTnhadU5ySGRzVGM5Ry1kTmVNTnlrcW9yVDhqUUhYNGFxZ3RJSjJ1TmJqTFozY3RScGhrLXQ2WGwzcDNGdUl2ODRhNTRpUnl3dmNqc283OXgxSVZ6NkZRR2RGTnlpQ3U5d3lZS0h2LTZsUkhKVVl4dw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rtx-2026-11-09-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Corporation stock heads into Baird conference after raised outlook - ad-hoc-news.de",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMTBTZGVrV0hpelAwM2k4U3ZuRV91dGxYRm03UVFFQ1JhU3pRSm1qV09nNC00MF8zTEVLTW1BTTJqUDN0QjFiUkY5eTJaTGpiVDBOOFRLNXgtYm5RZmZSVlBOMFM3ZlJydmNGdVZueF9YMXlJVGRmNTFDYkRpUE9VU1J2MGt5bFBseW1CcVJwZmNGcE1JTGhJb1V1QVRqcmJHNl83V3ZMUGQ3Ym5oWjh0a3hGRFFJeTFzbnE2UGxGbHJzd092V09ueDhxNjBsZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 32,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 30,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "arms_export": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 52,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 44,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_aero",
+        "count": 11
+      },
+      {
+        "id": "rheinmetall",
+        "count": 7
+      },
+      {
+        "id": "palantir",
+        "count": 6
+      },
+      {
+        "id": "rtx",
+        "count": 5
+      },
+      {
+        "id": "l3harris",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 32
+      },
+      {
+        "id": "industry_general",
+        "count": 30
+      },
+      {
+        "id": "drone_warfare",
+        "count": 6
+      },
+      {
+        "id": "arms_export",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 268,
+    "dup_title": 114,
+    "too_old": 57,
+    "gate1_blocked": 21,
+    "gate2_blocked": 17,
+    "passed": 59,
+    "pass_rate": "38.3%",
+    "gate2_block_rate": "11.0%",
+    "gate2_samples": [
+      "RTX's Raytheon completes third flight test of U.S. Army training rocket (RTX:NYSE) - Seeking Alpha",
+      "RTX Corporation (RTX) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "RTX Corporation stock heads into Baird conference with higher targets - ad-hoc-news.de",
+      "RTX Corporation $RTX Shares Acquired by Pictet Asset Management Holding SA - MarketBeat",
+      "L3Harris Technologies (NYSE:LHX) Stock Rated Buy in New Coverage at Citigroup - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 52 則事件，焦點為韓華航太、萊茵金屬、Palantir Technologies相關動態：「Weekly Recap: Sales growth, raised cash-flow outlook and ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Weekly Recap: Sales growth, raised cash-flow outlook and record backlog - Tra...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Nvidia, Palantir, and Tesla Are Sending Shockwaves Through Wall Street With T...（財報）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
