@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T18:04:40.670115Z",
+  "updated_at": "2026-11-10T15:59:07.809904Z",
   "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -92,17 +92,17 @@
       "name": "Kratos Defense & Security Solutions",
       "ticker": "KTOS",
       "currency": "USD",
-      "ar": 171300000,
-      "ar_prev": 194500000,
-      "ar_qoq": "-12%",
+      "ar": 191200000,
+      "ar_prev": 171300000,
+      "ar_qoq": "+12%",
       "ar_period": "QoQ",
-      "inventory": 235900000,
-      "inv_prev": 225700000,
-      "inv_qoq": "+5%",
+      "inventory": 244500000,
+      "inv_prev": 235900000,
+      "inv_qoq": "+4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "l3harris",
@@ -126,17 +126,17 @@
       "name": "李奧納多",
       "ticker": "LDO.MI",
       "currency": "EUR",
-      "ar": 4636000000,
-      "ar_prev": 4397000000,
-      "ar_qoq": "+5%",
+      "ar": 4488000000,
+      "ar_prev": 4636000000,
+      "ar_qoq": "-3%",
       "ar_period": "QoQ",
-      "inventory": 8488000000,
-      "inv_prev": 1152000000,
-      "inv_qoq": "+637%",
+      "inventory": 1624000000,
+      "inv_prev": 8488000000,
+      "inv_qoq": "-81%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "lockheed",
@@ -194,17 +194,17 @@
       "name": "萊茵金屬",
       "ticker": "RHM.DE",
       "currency": "EUR",
-      "ar": 2654000000,
-      "ar_prev": 1741000000,
-      "ar_qoq": "+52%",
+      "ar": 2649000000,
+      "ar_prev": 2654000000,
+      "ar_qoq": "-0%",
       "ar_period": "QoQ",
-      "inventory": 6248000000,
-      "inv_prev": 5717000000,
+      "inventory": 6792000000,
+      "inv_prev": 6248000000,
       "inv_qoq": "+9%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-06-30"
+      "alert": false,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "rtx",

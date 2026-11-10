@@ -1,0 +1,16 @@
+{
+  "total_raw": 267,
+  "dup_title": 119,
+  "no_date": 0,
+  "too_old": 54,
+  "gate1_fail": 20,
+  "gate2_fail": 11,
+  "passed": 63,
+  "gate2_samples": [
+    "RTX Corp Stock (RTX) Moved Up by 3.32% on Nov 9: Drivers Behind the Movement - TradingKey",
+    "RTX's Raytheon completes third flight test of U.S. Army training rocket (RTX:NYSE) - Seeking Alpha",
+    "L3Harris Technologies, Inc. (LHX) Seasonal returns chart - Yahoo Finance Australia",
+    "White House nominates Palantir's LoSapio to lead Homeland Security's cyber agency - Reuters",
+    "Revealed: Palantir lobbied minister to stretch AI tools’ reach to NHS GP records - The Guardian"
+  ]
+}
