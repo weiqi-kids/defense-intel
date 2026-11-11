@@ -1,0 +1,16 @@
+{
+  "total_raw": 266,
+  "dup_title": 131,
+  "no_date": 0,
+  "too_old": 58,
+  "gate1_fail": 20,
+  "gate2_fail": 10,
+  "passed": 47,
+  "gate2_samples": [
+    "RTX Corp Stock (RTX) Moved Up by 3.32% on Nov 9: Drivers Behind the Movement - TradingKey",
+    "RTX's Raytheon completes third flight test of U.S. Army training rocket (RTX:NYSE) - Seeking Alpha",
+    "Leonardo DRS to Produce DAIRCM Defensive System for USMC UH-1Y and AH-1Z - The Aviationist",
+    "Exclusive: Ex-Met Police chief is paid adviser for Palantir - TBIJ",
+    "Palantir Stock: The 1 Number That Could Fuel Its Next Rally - The Motley Fool"
+  ]
+}
