@@ -1,0 +1,254 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T16:29:05.744062Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-11-12-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "RTX Outperforms Industry in the Past Year: Should You Buy? - The Globe and Mail",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRmFJUE44NmJVUVgwb2FlZDhDblh6UVY2LWR4OVBnYmxoeURpOEt4ZjhPWlp5M1NPSDFKVlFaa1hReUoxZ0VLVU9hZ2ZLbjVhZmROazJ3aE5NVF9CQXBwTkl3R3ZBNEtBdEh5bUZBaUpjdHlVdnFiNENEZmJfdEJhZTNTbXVHZnpBMlBTRjdBak5ZSEVCNnptYXA2Vi1BUk5fdV9nUm9WNlVRTkYyNHFybUJPbUxlVHVZQkZFTUJPOTdiQTdwb1YzQ202SjdDM2JaaVdPbUhTb3ZGUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "l3harris-2026-11-12-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "L3Harris (LHX) Stock May Be 33% Undervalued As Record Backlog Grows - Yahoo Finance Singapore",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56bFpzM1VzSjZ4dUlndVN5TWdPaUdSNGhFUjJpVUMxTGVac2tKa1JsdGZSRWcwejdqLUFuUFBDTmprbG9GUjdnOHdONEtIZW5ZVkdMc0xZazhoQWt6alFkU01wZWN1VnRoMFQ1VDVybElLcGNlX1RSakxvTWhmMTA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-11-12-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris Technologies (LHX) Featured In Global Loitering Munitions Market Report - Yahoo Finance",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQVY4Mk9FdGVJTzFhamZEczJWUkppTGhkNXJwcjVZNlF0akE2Zk5MUlE0UUUwRHF4V045ZXNDSXk4MjhHRWQtc3h3LTh0bVl6NUFPUHlkUkV1U0JqdmRWZVppY053WG4zdzZGSkNqaFZyYnphMTNvNkNUa2JTTFJFRmRLbmFfdkVidUNTODkyS1g2SENLdDREOGhXYlQ4cTlmN3JDbGd6bF9Bdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "l3harris-2026-11-12-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Deutsche Bank Adjusts L3Harris Technologies PT to $252 From $241, Maintains Hold Rating - www.marketscreener.com",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdzNWUjN3SDlhdTJOamR5NC0xVjlwZG1POFRoc1REXzAyTkdrVVBvamV6S1NwNEJHem1xOVVHLXRCOWxlMGFpckZKNFAyVjJkbjRrQ2hCVkRvVW1Rd09reUhLZzRzV1VYZk9YVnhld2V4UzBER1g0QlFoQ3FxdjdOM2x1eVZFcFpPZllyb0hGUF9PTlZRMWZfUGl5SjlNM21FOXdfZzVkemdIYkFqVzdrazlsbWFuNTE1Y3RvWUJjcWYzaXowVVBzVkdxR0JaaE1RMlNR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "l3harris-2026-11-12-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris Technologies Inc $LHX Stock: King Luther Capital Management Corp Reduces Stake - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdWNEa0lCRUVIdVZEUy1DbTVPRVVReXJsQkVzRzRienl1aGUyRlZVTEVKMGE0aDVtal92Z1hPX0ZPX1dBTTh3WFIwNUZCdlhLeUhMdUFLejRLLTBUdUhTUXNzOWlLbGlrcUc1ZjVKSVpnVGtIOVRhQnk3a1BxbHpiUDhadXdiUXBrNDJrN29acDdJMUhGV1NERTBPSkRva3dMMXBqc1A0THZrdGhCNE4zSXRNaDFkdlJXMXhCYnUwMktjcXNDVjZJUEwtMlBTZGdyQ2lENmtxQnlUUFhMcHZv?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "defense_budget": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 36,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 34,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "elbit",
+        "count": 12
+      },
+      {
+        "id": "palantir",
+        "count": 9
+      },
+      {
+        "id": "l3harris",
+        "count": 5
+      },
+      {
+        "id": "hanwha_aero",
+        "count": 3
+      },
+      {
+        "id": "rtx",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 22
+      },
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "drone_warfare",
+        "count": 1
+      },
+      {
+        "id": "defense_budget",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 268,
+    "dup_title": 120,
+    "too_old": 55,
+    "gate1_blocked": 20,
+    "gate2_blocked": 9,
+    "passed": 64,
+    "pass_rate": "43.2%",
+    "gate2_block_rate": "6.1%",
+    "gate2_samples": [
+      "RTX Corp Stock (RTX) Moved Up by 3.32% on Nov 9: Drivers Behind the Movement - TradingKey",
+      "RTX's Raytheon completes third flight test of U.S. Army training rocket (RTX:NYSE) - Seeking Alpha",
+      "L3Harris Technologies, Inc. (LHX) Latest Press Releases & Corporate News - Yahoo! Finance Canada",
+      "Alembic Global Adjusts L3Harris Technologies Price Target to $349 From $383 - marketscreener.com",
+      "Leonardo DRS to Produce DAIRCM Defensive System for USMC UH-1Y and AH-1Z - The Aviationist"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 36 則事件，焦點為艾爾比特、Palantir Technologies、L3Harris Technologies相關動態：「RTX Outperforms Industry in the Past Year: Should You Buy...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "RTX Outperforms Industry in the Past Year: Should You Buy? - The Globe and Mail（財報）",
+        "level": "red"
+      },
+      {
+        "text": "L3Harris (LHX) Stock May Be 33% Undervalued As Record Backlog Grows - Yahoo F...（財報）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 268,
+  "dup_title": 120,
+  "no_date": 0,
+  "too_old": 55,
+  "gate1_fail": 20,
+  "gate2_fail": 9,
+  "passed": 64,
+  "gate2_samples": [
+    "RTX Corp Stock (RTX) Moved Up by 3.32% on Nov 9: Drivers Behind the Movement - TradingKey",
+    "RTX's Raytheon completes third flight test of U.S. Army training rocket (RTX:NYSE) - Seeking Alpha",
+    "L3Harris Technologies, Inc. (LHX) Latest Press Releases & Corporate News - Yahoo! Finance Canada",
+    "Alembic Global Adjusts L3Harris Technologies Price Target to $349 From $383 - marketscreener.com",
+    "Leonardo DRS to Produce DAIRCM Defensive System for USMC UH-1Y and AH-1Z - The Aviationist"
+  ]
+}
