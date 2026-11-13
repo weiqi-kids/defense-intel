@@ -1,0 +1,16 @@
+{
+  "total_raw": 270,
+  "dup_title": 109,
+  "no_date": 0,
+  "too_old": 65,
+  "gate1_fail": 22,
+  "gate2_fail": 12,
+  "passed": 62,
+  "gate2_samples": [
+    "RTX Corp Stock (RTX) Moved Up by 3.32% on Nov 9: Drivers Behind the Movement - TradingKey",
+    "RTX (NYSE:RTX) Shares Down 1.4% - Should You Sell? - MarketBeat",
+    "Leonardo DRS to Produce DAIRCM Defensive System for USMC UH-1Y and AH-1Z - The Aviationist",
+    "Borussia Dortmund won't extend controversial sponsorship with arms manufacturer Rheinmetall - Bozema",
+    "Borussia Dortmund won't extend controversial sponsorship with arms manufacturer Rheinmetall - Eagle-"
+  ]
+}

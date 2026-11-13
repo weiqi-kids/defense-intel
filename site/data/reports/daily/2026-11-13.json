@@ -1,0 +1,234 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T15:49:49.241157Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-11-13-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Russell Investments Group Ltd. Buys 175,334 Shares of RTX Corporation $RTX - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMnpYYUJKV2xlQ1NHYVRlUXpUTzZoQlJkS2pFU25mWGR0RFlOVlIzYnA3X0xvQTBWTl9BM2szZDV5S2pnRk5XT29HVS1pcGdUZTJSWnUtcUhuTFNmYmJ5bjJZNkpZY2JMSjFCMEdGNHhLWTBFYVlGdzM0MjRmTWZZeTQtaHF4RFFmbVBDXy04RjNfQjVLSi1yYm1mZ0E3bEZhbEpDN3BCUUR1X2dMV1J6RmJ6ZHFJQnVmc0RKdWpnbWNtc0NFQXBEMU5iYlM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-13-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Golden Dome’s $185 Billion Question: Who Actually Gets Paid? - MarketBeat",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNktELWJxRVFzcENFd3dGMzBibXdFeGtVVW0zQjJ2UWc0bUVVeGM4RW5JajhFXzlsbDBBdHo4ZjliVWlUek5OVTdlVWRLdGJFeXpGTzNMSEk5ckR6Q1FmdG1FaWE2aUQ3aDFUckwxQk9jcjlKZ0V1cmxQZlpmWGVNQXgwRzJRSGh1MDh2N3k3TnliZF9RemgyZQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rheinmetall-2026-11-13-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Dortmund to end controversial partnership with arms maker Rheinmetall - Yahoo Sports",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUHZvYnVuLW9qY29Fel9iUGJvVkppdFg2TElKWWhoVmlNdmp2dGVPMXIwWHBGLU1qRVQ1aXRRemxwMGlsanJ0aUFyRzVUNDFkQTdBakdXbUE4YlIwSUpMX1IwSmg5b3JhaUZPUWlVU0pzY1gwcEdwekJwM21xWTZ1TTN0bFBPTVNTVnJFT2hjM3kxeFJDM2lR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rheinmetall-2026-11-13-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall stock price target cut to €1,099 by Citi on guidance concerns - Investing.com",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZkJJaXhhVEdLWV9mWW0xNks5a0dFaUFXdEMzYlhkN0Y1Vm9vNGVrUFN4dktVZlUzY1BEMkNjbVBxNk9ZMDdVdENXUElpNVpkY2NvQlZsYkx0QkEyOFZSZDBVREppRWRnbDdURGRrS2d4Yks1OERCdGd3WnpjTmZ2RlUtYVpBbzdVbTR3ZHBrSFBUMnhIblN3ZWVMcnVPd0p1VXhmSEVUNnV4VENWS3NNNzFXYW9fcHB0RFpPZEVIN0dILXVTMlVJd0xrVXFnQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rheinmetall-2026-11-13-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Borussia Dortmund won't extend controversial sponsorship with arms manufacturer Rheinmetall - chronicleonline.com",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQWml4dEdna2h5UTRNaUFFcEY4WDBqQXkyTDhxamFJZ0dwZXBfLTIwRFNZMFUwZmJLem9IeGNiRzNZWHlsalNoUEEzYW83NG1SQ0RwTnA0c2NYR1dDTWQ1dTlGbUdLeGFFemhFRDU3RThWaXNlR1pKd2IyMUFyQWFVUFVJZ3RlYmJaaVR4UndzN2tqdlhwYUV1NjhrX2R5M1FETVctck9EcUpnWlh4ZkpMdENwb19sdHhOSU9sMFlXT09wRUd0cWR0TVFqYU5USjFldVF3N0lyQ3B5YnRZOV81S0tGRGRWMGIzTzNPWHJ1b3JydVNHWUlDbzNTakVPaHk3RWIwUU1JVXJVV1QwdjUxeUhvZVc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 32,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 29,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "rheinmetall",
+        "count": 8
+      },
+      {
+        "id": "hanwha_aero",
+        "count": 7
+      },
+      {
+        "id": "elbit",
+        "count": 4
+      },
+      {
+        "id": "palantir",
+        "count": 4
+      },
+      {
+        "id": "rtx",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 19
+      },
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "drone_warfare",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 270,
+    "dup_title": 109,
+    "too_old": 65,
+    "gate1_blocked": 22,
+    "gate2_blocked": 12,
+    "passed": 62,
+    "pass_rate": "38.5%",
+    "gate2_block_rate": "7.5%",
+    "gate2_samples": [
+      "RTX Corp Stock (RTX) Moved Up by 3.32% on Nov 9: Drivers Behind the Movement - TradingKey",
+      "RTX (NYSE:RTX) Shares Down 1.4% - Should You Sell? - MarketBeat",
+      "Leonardo DRS to Produce DAIRCM Defensive System for USMC UH-1Y and AH-1Z - The Aviationist",
+      "Borussia Dortmund won't extend controversial sponsorship with arms manufacturer Rheinmetall - Bozema",
+      "Borussia Dortmund won't extend controversial sponsorship with arms manufacturer Rheinmetall - Eagle-"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 32 則事件，焦點為萊茵金屬、韓華航太、艾爾比特相關動態：「Russell Investments Group Ltd. Buys 175,334 Shares of RTX...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Russell Investments Group Ltd. Buys 175,334 Shares of RTX Corporation $RTX - ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Golden Dome’s $185 Billion Question: Who Actually Gets Paid? - MarketBeat（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
