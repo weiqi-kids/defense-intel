@@ -1,0 +1,16 @@
+{
+  "total_raw": 271,
+  "dup_title": 135,
+  "no_date": 0,
+  "too_old": 72,
+  "gate1_fail": 22,
+  "gate2_fail": 14,
+  "passed": 28,
+  "gate2_samples": [
+    "L3Harris runs the FAA network reported to have crashed before Friday's nationwide ground stop - Naci",
+    "L3Harris Under Scrutiny After FAA Nationwide Ground Stop: What We Know About the US Flight Outage - ",
+    "Alembic Global Adjusts L3Harris Technologies Price Target to $349 From $383 - marketscreener.com",
+    "Leonardo DRS to Produce DAIRCM Defensive System for USMC UH-1Y and AH-1Z - The Aviationist",
+    "Borussia Dortmund Ends Rheinmetall Sponsorship Amid Fan Backlash - 조선일보"
+  ]
+}

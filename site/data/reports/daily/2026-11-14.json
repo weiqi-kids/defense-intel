@@ -1,0 +1,209 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T14:41:07.270303Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "l3harris-2026-11-14-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "L3Harris Shares Climb as Rocket Motor Demand Drives Record Backlog - Daily Voice Of Asia",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUDREUktKWVVwVWFVbk8wLXNIMHFyd2hTb2g3T3EyUlJGVkRCSGJiLW1DMGhMNm91MEFQM2dDbDAzYTNJdkRlQVNHWWZ3WU5jR1pMRjNGT3JjeEtwdFZRZV91cmhNd2ZydGN5LWVzQ1U1bnpOcExLcEhyREJkd0ZHRjBhanlDMmlUakdFSWZkazR0U1RpempFMVJKUmhTU2pJaEE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-14-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "[Weekend Money] Defense Stocks Slump... But Growth Drivers Remain Intact - 아시아경제",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zbmVUWDhKZ2tNWFFvRXQ1UTI3V2xsblowclBvTU1OWVM5eWNPWUVjcXRNZ1pYbDJVZklNRVB6S1Ftcl9TQzgxM3pKQkNCd1otSEQwMG9JVGZZWV9aaEJfNjJUVjk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-14-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Japan plans to raise defence spending to 60tril yen over next five years - The Star",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc1NUY051ZkhHQVdYbWhTV2NqZG5yazJaZHowLWlHOHk1ZTQ4VXdPNmhpcE1DZ0F5SHREYmNtRFlqVC1oTU1mYk5SLVpuRU5KcDBOa0lBaFdjU0ZsSkU5bzdnLVFEbHN3ak1MU0NEYXdFQlZsQy04dFN4Qk9wMFJicEdPdHV1R3JpbUJhTjFVVzRpbEl5Qm81blNkUzdoRjZsOHFfVEhpTFhJQ3VCVkk2ZXVsNml3WkNfeFB0aVJqSDFtYU01MzVxdklvYk91SlFv?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rheinmetall-2026-11-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bundesliga club Borussia Dortmund decide against renewing controversial sponsorship deal with Germany's largest arms maker Rheinmetall - Goal.com",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN0RKWW40TXhOQTQxM3lWUUw0UlJLM2hxUEdleU1XNkRYM2tWWUhfbTYwTl9WSmtqRDN1TjBZc1F0c1lEa2hFU0JUX1o5cGxINEMybkpZZ1dxd3pLYVZ3QlMzMV9ka0dmMjh5MHk3UFh3V2ZQLTBlWFU0UlVqaFVWZWthRGlremJfbmgxMDdoUGtvdGdNd2FnZmhSNkpTcjZ3TGdwNF9CU0NsS0VxQmZucmhlQXMxVHNDbnNyRm5iR2RZSVRhWmk5c0pR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "elbit-2026-11-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Elbit awarded $260 million PULS contract by unnamed European NATO country - Envanter Medya",
+      "companies": [
+        "elbit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Fc3M0TFlBODNuWHZRZkpnMU16cVRTbFJjTXgtbG52VU00THJWMmcxejFObUZEVUtoWlVYd2dnSnNuZEpRTUFVRVdBRFNOY2R1Zk1OU0VXcjBiMzFTTzlSWDdGMEthUFA0dzBjNXdEM016Wi1WT01USw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "rheinmetall",
+        "count": 1
+      },
+      {
+        "id": "elbit",
+        "count": 1
+      },
+      {
+        "id": "palantir",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 271,
+    "dup_title": 135,
+    "too_old": 72,
+    "gate1_blocked": 22,
+    "gate2_blocked": 14,
+    "passed": 28,
+    "pass_rate": "20.6%",
+    "gate2_block_rate": "10.3%",
+    "gate2_samples": [
+      "L3Harris runs the FAA network reported to have crashed before Friday's nationwide ground stop - Naci",
+      "L3Harris Under Scrutiny After FAA Nationwide Ground Stop: What We Know About the US Flight Outage - ",
+      "Alembic Global Adjusts L3Harris Technologies Price Target to $349 From $383 - marketscreener.com",
+      "Leonardo DRS to Produce DAIRCM Defensive System for USMC UH-1Y and AH-1Z - The Aviationist",
+      "Borussia Dortmund Ends Rheinmetall Sponsorship Amid Fan Backlash - 조선일보"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為L3Harris Technologies、萊茵金屬、艾爾比特相關動態：「L3Harris Shares Climb as Rocket Motor Demand Drives Recor...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "L3Harris Shares Climb as Rocket Motor Demand Drives Record Backlog - Daily Vo...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "[Weekend Money] Defense Stocks Slump... But Growth Drivers Remain Intact - 아시아경제（財報、國防航太通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
