@@ -1,0 +1,16 @@
+{
+  "total_raw": 271,
+  "dup_title": 141,
+  "no_date": 0,
+  "too_old": 66,
+  "gate1_fail": 22,
+  "gate2_fail": 16,
+  "passed": 26,
+  "gate2_samples": [
+    "RTX: The $340 Billion Reason To Stay Bullish (NYSE:RTX) - Seeking Alpha",
+    "RTX Corp Stock (RTX) Moved Up by 3.32% on Nov 9: Drivers Behind the Movement - TradingKey",
+    "L3Harris upgrade to communications system preceded ground stop: Duffy - Seeking Alpha",
+    "L3Harris Under Scrutiny After FAA Nationwide Ground Stop: What We Know About the US Flight Outage - ",
+    "U.S. probes L3Harris role in FAA outage that halted flights for hours - Briefs Finance"
+  ]
+}
