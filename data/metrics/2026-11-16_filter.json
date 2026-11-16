@@ -1,0 +1,16 @@
+{
+  "total_raw": 270,
+  "dup_title": 107,
+  "no_date": 0,
+  "too_old": 76,
+  "gate1_fail": 21,
+  "gate2_fail": 18,
+  "passed": 48,
+  "gate2_samples": [
+    "RTX: The $340 Billion Reason To Stay Bullish (NYSE:RTX) - Seeking Alpha",
+    "What's Going On With L3Harris Stock on Monday? - Benzinga",
+    "Why is L3Harris Technologies stock sliding today? - Investing.com",
+    "L3Harris upgrade to communications system preceded ground stop: Duffy - Seeking Alpha",
+    "L3Harris Stock Falls After Officials Link Its Router to FAA Shutdown - TradingView"
+  ]
+}
