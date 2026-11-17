@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T17:43:44.031088Z",
+  "updated_at": "2026-11-17T17:16:22.229225Z",
   "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -7,17 +7,17 @@
       "name": "漢翔航空",
       "ticker": "2634.TW",
       "currency": "TWD",
-      "ar": 9538706000,
-      "ar_prev": 9466938000,
-      "ar_qoq": "+1%",
+      "ar": 10789808000,
+      "ar_prev": 9538706000,
+      "ar_qoq": "+13%",
       "ar_period": "QoQ",
-      "inventory": 16841326000,
-      "inv_prev": 15371416000,
-      "inv_qoq": "+10%",
+      "inventory": 17068161000,
+      "inv_prev": 16841326000,
+      "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "bae",

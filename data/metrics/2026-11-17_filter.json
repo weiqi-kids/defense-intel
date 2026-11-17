@@ -1,0 +1,16 @@
+{
+  "total_raw": 272,
+  "dup_title": 86,
+  "no_date": 0,
+  "too_old": 68,
+  "gate1_fail": 26,
+  "gate2_fail": 20,
+  "passed": 72,
+  "gate2_samples": [
+    "RTX: The $340 Billion Reason To Stay Bullish (NYSE:RTX) - Seeking Alpha",
+    "L3Harris upgrade to communications system preceded ground stop: Duffy - Seeking Alpha",
+    "FAA Air Traffic Ground Stop Investigation: HPE Juniper Routers, Cisco Routers, And The Aftermath Of ",
+    "What's Going On With L3Harris Stock on Monday? - Benzinga",
+    "Why is L3Harris Technologies stock sliding today? - Investing.com"
+  ]
+}

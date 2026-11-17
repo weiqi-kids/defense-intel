@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-17",
+  "total_events": 47,
+  "by_company": {
+    "rtx": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "northrop": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "l3harris": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "rheinmetall": {
+      "count": 3,
+      "sentiment_avg": -0.17
+    },
+    "elbit": {
+      "count": 16,
+      "sentiment_avg": 0.28
+    },
+    "palantir": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "bae": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 26,
+      "sentiment_avg": 0.12
+    },
+    "industry_general": {
+      "count": 19,
+      "sentiment_avg": 0.08
+    },
+    "drone_warfare": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
