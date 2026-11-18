@@ -1,0 +1,16 @@
+{
+  "total_raw": 280,
+  "dup_title": 96,
+  "no_date": 0,
+  "too_old": 73,
+  "gate1_fail": 33,
+  "gate2_fail": 17,
+  "passed": 61,
+  "gate2_samples": [
+    "RTX : A new family of engines, designed fast - www.marketscreener.com",
+    "Can DeepStrike JR3 Strengthen RTX's Precision Fires Growth? - Yahoo Finance",
+    "Northrop Grumman: A 29% Selloff Is Not Enough (NYSE:NOC) - Seeking Alpha",
+    "What's Going On With L3Harris Stock on Monday? - Benzinga",
+    "Why is L3Harris Technologies stock sliding today? - Investing.com"
+  ]
+}

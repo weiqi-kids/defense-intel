@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T17:16:22.229225Z",
+  "updated_at": "2026-11-18T16:51:45.968969Z",
   "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -75,17 +75,17 @@
       "name": "韓華航太",
       "ticker": "012450.KS",
       "currency": "KRW",
-      "ar": 3317996767000,
-      "ar_prev": 3085682941000,
-      "ar_qoq": "+8%",
+      "ar": 2815814709000,
+      "ar_prev": 3317996767000,
+      "ar_qoq": "-15%",
       "ar_period": "QoQ",
-      "inventory": 7502229389000,
-      "inv_prev": 8624875685000,
-      "inv_qoq": "-13%",
+      "inventory": 8129833421000,
+      "inv_prev": 7502229389000,
+      "inv_qoq": "+8%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "kratos",
