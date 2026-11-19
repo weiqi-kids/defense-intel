@@ -1,0 +1,246 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T16:59:00.185006Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "palantir-2026-11-19-017",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Russian charged with spying on Palantir employees for Moscow - The Record from Recorded Future News",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMaHBISlVkRjVNNkxVbUlLNjA5cEtNTGYxOHc3WWQ4ZE9hZkhpWFBCaGkzUFl3T2dScUZwa1I4dHU4UHFCaVl3OWM0M29Kd3MzbzRPY3ZjNFhRZ2dyWjFVamlza3c4TDVBaGQyT0NrR0dObVRHbWlkcTh2UTBPWTQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rheinmetall-2026-11-19-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall, Dutch Defence Ministry Sign MoU On Military Vehicle Technologies - TradingView",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcnh4VjFtU2lkQS16ZEFWb0hCaElJT0lVOEdIeW9jLUdENVVUdDB6VlBTM2c4WlRuWF9FLVBuRXNBV0JTZk1IalcxdGxoa002d1NUa1UzSDlQUnU3alBWaTVpY1ZjbWRiR3ppd25LNDhmN091bXdFY3I1V25POHNKT2drNVJSbWo4X2IzdzlwMkNyYkMydzI4VDRVdlg4eE1EMFZWc2ZHVjVkc0MydlBiZjhDbTZWcDRGd2VOX1ZENFNRZElFZFJUTW16VXNjNzF4VlQ2UHc2NC1tNEhPN0FN?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rheinmetall-2026-11-19-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "47 People Glue Themselves to the Road in Rheinmetall Protest - The Berliner",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaExOaWFqc0RiS3ZYQ1EzbUpNYklyUU1ST1BNaVhWSVRNbERJdWpHRWdISkFwVnZlTmEwcV9fTzNjQnJ1WGl2VU9iNWtZZ0xlYTg5ZnlZbEpKVi1jUFFWNFlkWXp0dkVnQTFwQ2UtZkxKMGoxa05ySktRX1JRMC1iWFFSMzRVRkp2UGwycWhJZS1RNkhYNUVWaF9ZeEtkU29IekRxMm1TWlQtNVdiTENn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rheinmetall-2026-11-19-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall and the Netherlands want to strengthen their cooperation, but stock continues to fall - marketscreener.com",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQTGl6RDBmQTQ3d2FnUUJZUE1oSzlHSC00SHFKMUZkdVByejRWWmg3YnJZSEVZODBDbTRfXzNtenJ1QUJhN0pLYXVqT1FYcHdQcmNsbG8zX0VMQjBCUFB5VnprNEhaZ2hfZ2xIRGh3Yl9LcnJMTklIRVY0eEd4REt2NHN3d2V1dWtmYkk4ejdQQWY2RS04Vk9MVUZoLUlVQ3A1VDlaRm9MRGV1WDVtMWJGR3BURFExTVVKRmZWbzJNbmlGZUFhVE5YU3dycTNqNmtuQ0dKRlBUcEFQel8wdk5mOE9MR0JoRzhfUVVFV3ZZQVFUWjZYUnMzS2JNRl9jeTZPZ0hBNlB5UQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rheinmetall-2026-11-19-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rheinmetall and Dutch defence ministry agree to explore unmanned systems, hybrid propulsion and vehicle technologies - Defence Industry Europe",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTUhnaGRWTmtUeVdkNHBUbm81SjlMSXZlVkZyYno0dGpFNzVVSmJ1Y2RadThkYW1RNzdVNk44dnAzM091cWxJQ3U1S2Nzam92S1Fra0JYd0psN3lxcnRPS1BaZ2gySmtIN2tfaFZSV25DaEk4M25oUG9hemFKc3E3WG51bzVMem9uR2g0dkoxZzhKS29VSG0zTUZ4ODRoeWN4bkl5d0dnN3ZocUZfazBRQWVveExid2pEZnIzNDJuTDRsOS1lMHREUWJodV9SWGFFQnR3SXozaXFBdjJH?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "missile_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 29,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 26,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rheinmetall",
+        "count": 7
+      },
+      {
+        "id": "palantir",
+        "count": 5
+      },
+      {
+        "id": "elbit",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "earnings",
+        "count": 14
+      },
+      {
+        "id": "drone_warfare",
+        "count": 4
+      },
+      {
+        "id": "missile_defense",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 281,
+    "dup_title": 94,
+    "too_old": 73,
+    "gate1_blocked": 32,
+    "gate2_blocked": 22,
+    "passed": 60,
+    "pass_rate": "32.1%",
+    "gate2_block_rate": "11.8%",
+    "gate2_samples": [
+      "RTX: The $340 Billion Reason To Stay Bullish (NYSE:RTX) - Seeking Alpha",
+      "Gold, Silver and Crude Slide Hard as Volatility Jumps on the Week - Quantisnow",
+      "Can DeepStrike JR3 Strengthen RTX's Precision Fires Growth? - Yahoo Finance",
+      "FAA oversaw and signed off on repair work before nationwide ground stop - The Washington Post",
+      "What's Going On With L3Harris Stock on Monday? - Benzinga"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 29 則事件，焦點為萊茵金屬、Palantir Technologies、艾爾比特相關動態：「Russian charged with spying on Palantir employees for Mos...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Russian charged with spying on Palantir employees for Moscow - The Record fro...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Rheinmetall, Dutch Defence Ministry Sign MoU On Military Vehicle Technologies...（財報、國防航太通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

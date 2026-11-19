@@ -1,0 +1,16 @@
+{
+  "total_raw": 281,
+  "dup_title": 94,
+  "no_date": 0,
+  "too_old": 73,
+  "gate1_fail": 32,
+  "gate2_fail": 22,
+  "passed": 60,
+  "gate2_samples": [
+    "RTX: The $340 Billion Reason To Stay Bullish (NYSE:RTX) - Seeking Alpha",
+    "Gold, Silver and Crude Slide Hard as Volatility Jumps on the Week - Quantisnow",
+    "Can DeepStrike JR3 Strengthen RTX's Precision Fires Growth? - Yahoo Finance",
+    "FAA oversaw and signed off on repair work before nationwide ground stop - The Washington Post",
+    "What's Going On With L3Harris Stock on Monday? - Benzinga"
+  ]
+}

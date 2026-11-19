@@ -1,0 +1,168 @@
+{
+  "date": "2026-11-19",
+  "date_range": {
+    "start": "2026-11-13",
+    "end": "2026-11-19"
+  },
+  "generated_at": "2026-11-19T16:59:00.287998Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "rtx-2026-11-13-033",
+      "date": "2026-11-13",
+      "title": "The Zacks Analyst Blog Highlights GE Aerospace, Howmet Aerospace, RTX and Lockheed Martin - Yahoo Finance",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 87,
+      "last_week": 89,
+      "week_over_week_change": "-2%",
+      "sentiment_this_week": 0.03
+    },
+    "earnings": {
+      "this_week": 112,
+      "last_week": 124,
+      "week_over_week_change": "-10%",
+      "sentiment_this_week": 0.06
+    },
+    "drone_warfare": {
+      "this_week": 18,
+      "last_week": 10,
+      "week_over_week_change": "+80%",
+      "sentiment_this_week": 0.0
+    },
+    "defense_budget": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    },
+    "arms_export": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "missile_defense": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "lockheed": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "rtx": {
+      "event_count": 12,
+      "sentiment_avg": 0.04,
+      "rank": 4
+    },
+    "rheinmetall": {
+      "event_count": 27,
+      "sentiment_avg": -0.08,
+      "rank": 2
+    },
+    "hanwha_aero": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "elbit": {
+      "event_count": 36,
+      "sentiment_avg": 0.15,
+      "rank": 1
+    },
+    "palantir": {
+      "event_count": 26,
+      "sentiment_avg": 0.06,
+      "rank": 3
+    },
+    "l3harris": {
+      "event_count": 12,
+      "sentiment_avg": 0.08,
+      "rank": 5
+    },
+    "northrop": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 8
+    },
+    "bae": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 317,
+        "last": 344,
+        "change_pct": -7.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-13",
+      "event_count": 52,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-11-14",
+      "event_count": 24,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-11-15",
+      "event_count": 17,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-16",
+      "event_count": 67,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-11-17",
+      "event_count": 78,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-11-18",
+      "event_count": 50,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-11-19",
+      "event_count": 29,
+      "sentiment_avg": 0.05
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-13 ~ 2026-11-19）共 317 則事件，重點為「The Zacks Analyst Blog Highlights GE Aerospace,...」。諾格情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "諾格",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "RTX",
+        "reason": "本週出現 12 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "萊茵金屬",
+        "reason": "本週出現 27 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
