@@ -1,0 +1,226 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T16:33:17.569639Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "palantir-2026-11-20-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Months before, Anthropic's record IPO, Palantir’s Alex Karp 'blamed' AI labs of drug addicting everyone b - The Times of India",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOS2MzbnlOa0JDenNYa3YtSk9SX2tpNklmTVgwekZoRnNyRG9xQ3kzZ2hDUnJ2Y3pCb01oUjAyZERUZVZEOXR6WFRRZ2NDWTB5LTh3QXBMX3ozQUZkN0N3SmZsQ2JRR0t0dFNURkFrMi1fRGFzYmlRclRFYzRyaGJoOEg0eTNDU3lqbFFJV0F4QjFSOG1hR282NWtzeHBYWE5TNk5WUGlaNFl5WGZ1WVlMbHhRMWhNTWE4MUYtNmlqWEJHSDcxQU9WaUlqY09rUVItaE5nR1daelN1bVY3cENqOGJTbEgzMXB6SjRtbENtTTBlaWxFOGZJTy1oM0sxWG9HSGJwWXM3TlY2Z0RQYTF1QmNR0gGXAkFVX3lxTFA2VkJBUmZaZGxWQmxYeFRfWXJZZ0V2VFJ2RHZwY196MUtmVmlRdDZzUklKRTRLNGxDdGZyY29Xd0ZTQm5RS0tpTFQtMnRuZmRmTTJ2M2VWMDNhaU9HLUNTWk9IMUs3NTBqVy1WalJPWmtfMFZSZ1hhbWp3WHVwNXRwWU1PdzNZUlhOZ05yUFJ1RXNCc0wzZkIyX0Zvc2ZGNXd6MlhidzVEcXFxS1JYOERnbUxrU3FDdFZNcFNoNENtZXV1M0htWHl2Sm10SklBVkgteng1bUYxYklCYU1yQnVudUJlUHhfWHJ6TE5ITThGSDhnSzYzMDVnUGdkRlZZOG5RVWNnbmNDZ0hnOE5sVXJuU29ab0R6Yw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hanwha_aero-2026-11-20-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha Aerospace’s 3.6 Trillion Won K9 Deal Advances as India Discusses Third Order - THE ELEC, Korea Electronics Industry Media",
+      "companies": [
+        "hanwha_aero"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43Vk9meDFaSEJwVGpMU1Q2ZjdXX3paS2JrU2thWUdHdTMtUjJvX2trWjRyOWhUaHhxY2l1Znl3czJLX19yWm9EMDJEOF9ZY1VFWGpjNjFMWkpBWjdlSTZ6ZXFIeHlLeDA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-20-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hanwha Tests UGV, Counter-Drone Integration With Romanian Military Network - Businesskorea",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiQmVsVUo3eVRHM0F0TDJmX2xwWHpVX0NUWEN4MzNMam5TNEYybWZhSzB6YVdMX1I1NEQ2dXN5SUtsTkpfcWRSbUt2aUM2WHpSU0YwOGNVQTZweWNXcVdrTHdSdmJuT1lrWklsZndrNmFCWnE3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-20-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Romania receives first upgraded IAR-99 jet trainer aircraft - Janes Defence Intelligence",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdGNCTVBHam0tWS1nZmdiZU4zVHI1R29vRlRhb1g0bDNuUVJFaFRKU1ROZ0NmaEhzVzFYb2FCaWdPdjBrT3k5ZklQUFF4MHg4UjlONFhUMjhYLVlzV21jYWs2TUVjN2JOLWRGZHdqcnV5SDNCcF8tbVJGWG1ta0NlZld3T1JtQ3JoX2xjNWQ4MnpXWU15RWJHTkR3U2dUR1FsMUxmQmZISjJNVVJZcW80djFPRl90eUxRcXo4a2NQeFRwZ21XVTZj?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "palantir-2026-11-20-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ondas, Palantir and Regna AI Host Key Defense Technology Leaders to Accelerate the Path from AI Innovation to Fielded Capability - Ondas inc.",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdDcxZnVjTkVBT2pnRGQzRjlwVGFCbnlmaEh1a3NIcVgzVC1Iby05T1kwckJ2SGdvSWdtY2FRUzRPVThmSmRwWkRUV2FVRkF3VTNLSHFzbWxGVFJPeFBtZDhIbGktRlhoQnMzeWdKSEE1Z2tpTXp6czhHOTJBNDdZZVFkWFpYSUhYY2tTSllxNnZDQ1hPTk9Wb3pKY1VoR3JoejU0dg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.15,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "palantir",
+        "count": 6
+      },
+      {
+        "id": "hanwha_aero",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 10
+      },
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "drone_warfare",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 271,
+    "dup_title": 113,
+    "too_old": 69,
+    "gate1_blocked": 26,
+    "gate2_blocked": 16,
+    "passed": 47,
+    "pass_rate": "29.7%",
+    "gate2_block_rate": "10.1%",
+    "gate2_samples": [
+      "Cibc World Market Inc. Sells 152,231 Shares of RTX Corporation $RTX - MarketBeat",
+      "Gold, Silver and Crude Slide Hard as Volatility Jumps on the Week - Quantisnow",
+      "Northrop Grumman: A 29% Selloff Is Not Enough (NYSE:NOC) - Seeking Alpha",
+      "FAA oversaw and signed off on repair work before nationwide ground stop - The Washington Post",
+      "What's Going On With L3Harris Stock on Monday? - Benzinga"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為Palantir Technologies、韓華航太相關動態：「Months before, Anthropic's record IPO, Palantir’s Alex Ka...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Months before, Anthropic's record IPO, Palantir’s Alex Karp 'blamed' AI labs ...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Hanwha Aerospace’s 3.6 Trillion Won K9 Deal Advances as India Discusses Third...（財報、國防航太通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

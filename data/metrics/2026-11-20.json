@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-20",
+  "total_events": 15,
+  "by_company": {
+    "hanwha_aero": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "palantir": {
+      "count": 6,
+      "sentiment_avg": 0.17
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 10,
+      "sentiment_avg": 0.15
+    },
+    "industry_general": {
+      "count": 10,
+      "sentiment_avg": 0.05
+    },
+    "drone_warfare": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

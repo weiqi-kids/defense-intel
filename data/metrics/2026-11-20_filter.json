@@ -1,0 +1,16 @@
+{
+  "total_raw": 271,
+  "dup_title": 113,
+  "no_date": 0,
+  "too_old": 69,
+  "gate1_fail": 26,
+  "gate2_fail": 16,
+  "passed": 47,
+  "gate2_samples": [
+    "Cibc World Market Inc. Sells 152,231 Shares of RTX Corporation $RTX - MarketBeat",
+    "Gold, Silver and Crude Slide Hard as Volatility Jumps on the Week - Quantisnow",
+    "Northrop Grumman: A 29% Selloff Is Not Enough (NYSE:NOC) - Seeking Alpha",
+    "FAA oversaw and signed off on repair work before nationwide ground stop - The Washington Post",
+    "What's Going On With L3Harris Stock on Monday? - Benzinga"
+  ]
+}
