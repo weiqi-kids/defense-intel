@@ -1,0 +1,249 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T15:50:43.780053Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rtx-2026-11-21-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Advisors Asset Management Inc. Buys New Position in RTX Corporation $RTX - MarketBeat",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNUVrcmdTenNualRnYndGNnVKSzVBU3BaZjFYbnpyUHRIM1JXNUpPN1F1QlNuZ3NZUUxycHRTekJjanJNSmR4aHMzQ3NhRWpPM1plRWwxSjcyVzZWbnZfZ0xfMnV5V3pjdTNWWGRLX1ZwVHBOaXZNTGg3c1RIOXlocGlTLWtnRnJIMHdnWWxqVHRFY3BLd2VVWGJJbDdiVVJXQzdabFRsYXRHT21aSzlBYU5WSkQ0QUF2YjVDX25GRDB1a3JZRl90RXU3NA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "l3harris-2026-11-21-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is L3Harris Technologies (LHX) A Bargain After Recent Weakness? - Yahoo Finance",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORGNmeWtfdUxVcTZLZHh5M2FNRDVsRVlhM2dTQ0VOZ3oxaFdkWDI0YWdlZFhBbTZ0RlFMUFpHMV9mZVhXdXY0bUV2T2RhNlJIVmxSMjV4LVduQ3RGclZNUWRhN1FEZXp2SU5yNE54cGhYblVEcUtIUUNRVzJWQXlydmdkZWZyeU9sNlBVNmFvaGNvblBMOVBtWnJYR3dKRHhkTW1xTEZBMkw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "elbit-2026-11-21-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Elbit Systems Ltd. (ESLT) stock price, news, quote and history - Yahoo Finance Singapore",
+      "companies": [
+        "elbit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIdUdHay15amRnLWprTThjMXpZQ1h0Snp2TTZPazVGQllDcEpsSkxsMW1hczlzVGpPY1pRUVMtZDhkNlVUQl9neEVyVjctZXFac0E?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-21-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "New weapons deals with Israel under discussion - eKathimerini.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUkhGa1pGenh6aVppZEl5SEpLZmFZbW9MNGVhSnl0aGx0UXlCT3dpSS1BMW4wTl9rRmRqRUp3Um5hVUdiT2N1amtWazU3MG1LNGVMMTVpelhCSDliMDI4WGh1TzFjWkJJOWdvT21CekVVZEd2YVZFQ18wQmVuX0NjanBXQkJpRWtZODRjWkVOcXZpQ1lPZ2tPa2ZkckxVREhBUEFBSXg1OTk2Y0RO?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "palantir-2026-11-21-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Institutional Flow in Palantir Technologies (PLTR): 61% of the Options Money Is in Puts - Moomoo",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdUNUSGYzNzJLbURlOENMNnRwMmQ0UDNJZWoyTHRvVGxyUklIZVJ6QjVrbVZMd0FaX3VDOEVCaVc3N3pqdkkzQ3VYajV4SGU4amRrR1ZEdkN6akNyanA2QlFFQl8wTlBkV0FJRDlGNnBMZklFZkI0MHZlbHRHdk9hSlF4eDN6LTNiRHdTN0RTbWQzSGw3b0RHcXJWLWZCc2Jtd1NxMnhvTjBHQVlaenNya0l5dzFaVWk5NmlLVw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "missile_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cybersecurity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "palantir",
+        "count": 4
+      },
+      {
+        "id": "rtx",
+        "count": 1
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "rheinmetall",
+        "count": 1
+      },
+      {
+        "id": "elbit",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "missile_defense",
+        "count": 1
+      },
+      {
+        "id": "cybersecurity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 271,
+    "dup_title": 124,
+    "too_old": 73,
+    "gate1_blocked": 23,
+    "gate2_blocked": 20,
+    "passed": 31,
+    "pass_rate": "21.1%",
+    "gate2_block_rate": "13.6%",
+    "gate2_samples": [
+      "RTX Corporation $RTX Holdings Cut by State Street Corp - MarketBeat",
+      "RTX: The $340 Billion Reason To Stay Bullish (NYSE:RTX) - Seeking Alpha",
+      "Gold, Silver and Crude Slide Hard as Volatility Jumps on the Week - Quantisnow",
+      "FAA oversaw and signed off on repair work before nationwide ground stop - The Washington Post",
+      "Rheinmetall Could Gain Upside From Iceye's Avio Bid - Aviation Week"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為Palantir Technologies、RTX、L3Harris Technologies相關動態：「Advisors Asset Management Inc. Buys New Position in RTX C...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Advisors Asset Management Inc. Buys New Position in RTX Corporation $RTX - Ma...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Is L3Harris Technologies (LHX) A Bargain After Recent Weakness? - Yahoo Finance（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

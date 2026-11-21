@@ -1,0 +1,16 @@
+{
+  "total_raw": 271,
+  "dup_title": 124,
+  "no_date": 0,
+  "too_old": 73,
+  "gate1_fail": 23,
+  "gate2_fail": 20,
+  "passed": 31,
+  "gate2_samples": [
+    "RTX Corporation $RTX Holdings Cut by State Street Corp - MarketBeat",
+    "RTX: The $340 Billion Reason To Stay Bullish (NYSE:RTX) - Seeking Alpha",
+    "Gold, Silver and Crude Slide Hard as Volatility Jumps on the Week - Quantisnow",
+    "FAA oversaw and signed off on repair work before nationwide ground stop - The Washington Post",
+    "Rheinmetall Could Gain Upside From Iceye's Avio Bid - Aviation Week"
+  ]
+}
