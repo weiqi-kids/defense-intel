@@ -1,0 +1,206 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T15:49:45.022321Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-22-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Greece in talks for another €1 billion in Israeli defense deals, report says - CTech",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Cc3VfM0NfTThHQzVWMW51RVRPZ0J6YUstMEhkX0hZOUFPZ0JmaFE0R2FsdUoxSEFrTVlHM2Q1U0xKZm1xdEVHTjNXc3dKZXE0TnJLbnpKS1AwdFd1eERRWllyWUtxN2c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "elbit-2026-11-22-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "India tests Suryastra system based on Elbit’s PULS - Globes - Israel Business News",
+      "companies": [
+        "elbit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbFpZVUVIQ2hFN28tcl9GODc0OTEwY2dzUVBaTWRsTWc5VEtVODBsZFExMTc1b2ZkZWJoODhRM2MtZjFVb2lvMi1jcWpwUEluSUdodlg3SGpINGFSNzVoVDFkZjg1aEpaYkVjUUhDQkloNFQwaVlTdGY2Z3JRSHh4eUdTaTlxN2FNdjgyVzE0cDNSVVdLa1ZfOS1ERQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "elbit-2026-11-22-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Romania Receives First Upgraded IAR-99 Trainer Jets with Elbit Avionics - Israel Defense",
+      "companies": [
+        "elbit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRUU1uTGFmamVmTlQ3WmdWanB6OWdNejFWT1ppR2pDaTQ1UmFQbnducGFJV0RkZXlBN25NOUNHMlM0YVEtZDdmMnZJdENNUEhvaWlsRlEySk4?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "elbit-2026-11-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Elbit Systems Weighs Investment in Radomatics in Exchange for Options - Israel Defense",
+      "companies": [
+        "elbit"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GVzQwaU03LWpPeC16WmVTRW5GdjZxbzUzaVNpbHF3dDcyNGtUakdndy1lbFNlOGFSZUlkelhveE9oTlhNWmlTdExhbDJtMTd2QzhVXzV1MFQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "palantir-2026-11-22-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Palantir targeted by Russian intelligence - Defence24.com",
+      "companies": [
+        "palantir"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBBaWY1dXUwQzB1SXB3VFZ1bkQ0ek9Cc3JVWDZmSWpMWlJsUjhfN1U1MnMxaHBlb0RqMVJ0QlBlWXd5V2g4NU5BcEVVM05DelY2SzlXc2hScXkwc0JfRGpqVEpfcmIwa0R3Z3BzOTQteHdLYnpiMlVWbVF0YlY?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "elbit",
+        "count": 3
+      },
+      {
+        "id": "palantir",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 281,
+    "dup_title": 142,
+    "too_old": 88,
+    "gate1_blocked": 22,
+    "gate2_blocked": 15,
+    "passed": 14,
+    "pass_rate": "10.1%",
+    "gate2_block_rate": "10.8%",
+    "gate2_samples": [
+      "Can DeepStrike JR3 Strengthen RTX's Precision Fires Growth? - Yahoo Finance",
+      "RTX: The $340 Billion Reason To Stay Bullish (NYSE:RTX) - Seeking Alpha",
+      "RTX Corporation $RTX Holdings Cut by State Street Corp - MarketBeat",
+      "Gold, Silver and Crude Slide Hard as Volatility Jumps on the Week - Quantisnow",
+      "FAA oversaw and signed off on repair work before nationwide ground stop - The Washington Post"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為艾爾比特、Palantir Technologies相關動態：「Greece in talks for another €1 billion in Israeli defense...」。主要關注主題為國防航太通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Greece in talks for another €1 billion in Israeli defense deals, report says ...（財報、國防航太通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "India tests Suryastra system based on Elbit’s PULS - Globes - Israel Business...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

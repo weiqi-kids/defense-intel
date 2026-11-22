@@ -1,5 +1,105 @@
 [
   {
+    "id": "unknown-2026-11-22-001",
+    "date": "2026-11-22",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Greece in talks for another €1 billion in Israeli defense deals, report says - CTech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Cc3VfM0NfTThHQzVWMW51RVRPZ0J6YUstMEhkX0hZOUFPZ0JmaFE0R2FsdUoxSEFrTVlHM2Q1U0xKZm1xdEVHTjNXc3dKZXE0TnJLbnpKS1AwdFd1eERRWllyWUtxN2c?oc=5\" targ",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Cc3VfM0NfTThHQzVWMW51RVRPZ0J6YUstMEhkX0hZOUFPZ0JmaFE0R2FsdUoxSEFrTVlHM2Q1U0xKZm1xdEVHTjNXc3dKZXE0TnJLbnpKS1AwdFd1eERRWllyWUtxN2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "elbit-2026-11-22-002",
+    "date": "2026-11-22",
+    "companies": [
+      "elbit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "India tests Suryastra system based on Elbit’s PULS - Globes - Israel Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNbFpZVUVIQ2hFN28tcl9GODc0OTEwY2dzUVBaTWRsTWc5VEtVODBsZFExMTc1b2ZkZWJoODhRM2MtZjFVb2lvMi1jcWpwUEluSUdodlg3SGpINGFSNzVoVDFkZjg1aEpaYkVjUUhDQk",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbFpZVUVIQ2hFN28tcl9GODc0OTEwY2dzUVBaTWRsTWc5VEtVODBsZFExMTc1b2ZkZWJoODhRM2MtZjFVb2lvMi1jcWpwUEluSUdodlg3SGpINGFSNzVoVDFkZjg1aEpaYkVjUUhDQkloNFQwaVlTdGY2Z3JRSHh4eUdTaTlxN2FNdjgyVzE0cDNSVVdLa1ZfOS1ERQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "elbit-2026-11-22-003",
+    "date": "2026-11-22",
+    "companies": [
+      "elbit"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Elbit Systems Weighs Investment in Radomatics in Exchange for Options - Israel Defense",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GVzQwaU03LWpPeC16WmVTRW5GdjZxbzUzaVNpbHF3dDcyNGtUakdndy1lbFNlOGFSZUlkelhveE9oTlhNWmlTdExhbDJtMTd2QzhVXzV1MFQ?oc=5\" target=\"_blank\">Elbit Sy",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GVzQwaU03LWpPeC16WmVTRW5GdjZxbzUzaVNpbHF3dDcyNGtUakdndy1lbFNlOGFSZUlkelhveE9oTlhNWmlTdExhbDJtMTd2QzhVXzV1MFQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "elbit-2026-11-22-004",
+    "date": "2026-11-22",
+    "companies": [
+      "elbit"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Romania Receives First Upgraded IAR-99 Trainer Jets with Elbit Avionics - Israel Defense",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRUU1uTGFmamVmTlQ3WmdWanB6OWdNejFWT1ppR2pDaTQ1UmFQbnducGFJV0RkZXlBN25NOUNHMlM0YVEtZDdmMnZJdENNUEhvaWlsRlEySk4?oc=5\" target=\"_blank\">Romania ",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRUU1uTGFmamVmTlQ3WmdWanB6OWdNejFWT1ppR2pDaTQ1UmFQbnducGFJV0RkZXlBN25NOUNHMlM0YVEtZDdmMnZJdENNUEhvaWlsRlEySk4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "palantir-2026-11-22-005",
+    "date": "2026-11-22",
+    "companies": [
+      "palantir"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Palantir targeted by Russian intelligence - Defence24.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBBaWY1dXUwQzB1SXB3VFZ1bkQ0ek9Cc3JVWDZmSWpMWlJsUjhfN1U1MnMxaHBlb0RqMVJ0QlBlWXd5V2g4NU5BcEVVM05DelY2SzlXc2hScXkwc0JfRGpqVEpfcmIwa0R3Z3BzOTQteH",
+    "sources": [
+      {
+        "name": "palantir",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBBaWY1dXUwQzB1SXB3VFZ1bkQ0ek9Cc3JVWDZmSWpMWlJsUjhfN1U1MnMxaHBlb0RqMVJ0QlBlWXd5V2g4NU5BcEVVM05DelY2SzlXc2hScXkwc0JfRGpqVEpfcmIwa0R3Z3BzOTQteHdLYnpiMlVWbVF0YlY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rtx-2026-11-21-001",
     "date": "2026-11-21",
     "companies": [
@@ -209,6 +309,101 @@
       {
         "name": "breaking_defense",
         "url": "https://breakingdefense.com/2026/11/senate-gearing-up-to-investigate-ukraines-access-to-starshield/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rtx-2026-11-21-012",
+    "date": "2026-11-21",
+    "companies": [
+      "rtx"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "RTX, 3M and Illinois Tool Works Just Fell. Their Dividend Stories Are Still Growing - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYWlCT01zMzgwcDlRLVB0UnloaFNDY2ZrUGxpc2hMbXF2VVJVYkxaWXpCMUlXY0dMTkY4aUJudUhtQWdlNi1PNWRUd3EwYUJ2VV9SMHNmRTJrTTItVTVRNm9RN3JJU0F6U1Y4U09TRn",
+    "sources": [
+      {
+        "name": "rtx",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYWlCT01zMzgwcDlRLVB0UnloaFNDY2ZrUGxpc2hMbXF2VVJVYkxaWXpCMUlXY0dMTkY4aUJudUhtQWdlNi1PNWRUd3EwYUJ2VV9SMHNmRTJrTTItVTVRNm9RN3JJU0F6U1Y4U09TRnJtMVl4YWVNUUhRN3VmOE9nNXFlUHJDOFNEYnRtX281OGFKeHh3MU5kQnd3OVh4SFlYYjZsaHFJRUhBdlRpU2ZlWHJyMVRHdnA3Q1lQdkVyVnVSM00?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rheinmetall-2026-11-21-013",
+    "date": "2026-11-21",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rheinmetall’s Humanoid Combat Robots: Ambitious Vision or Battlefield Reality - DEFENSEMAGAZINE.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPUkFWLXFwVUJxNXJwS0EyanZ6SUNLRVc2d28ta2U1M29sYS1EQjY1aUJfeExyaWJ0RjNZU2Q5SlhQbXVYZGdYaDlTSjB1QUdDZnJWUzQtdWZWakVCVGlkUmNYaFdlNWhFUmpyQkFvMW",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUkFWLXFwVUJxNXJwS0EyanZ6SUNLRVc2d28ta2U1M29sYS1EQjY1aUJfeExyaWJ0RjNZU2Q5SlhQbXVYZGdYaDlTSjB1QUdDZnJWUzQtdWZWakVCVGlkUmNYaFdlNWhFUmpyQkFvMW00bXZ4NUU0Q3dMN2VzSHVEeTVuQjU0OEtIcXNXS0l4U3JfeTNpUVRtQUxkcnRDc0N0c1lmMm9HN1VyMHowX0ZlX0JDV1dDQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-21-014",
+    "date": "2026-11-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "South Korean Army Transfers K9 Thunder Howitzer Expertise to Poland, Laying Groundwork for Expanded Exports to Eastern Europe - 파이낸셜뉴스",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tVllTQlA3b0RHbUpVRzl4d3E3V3VEWUg3SUVWOUJIY2ZIejZ5UEpVQ1pzQ1VUQVcwUUJkZDhSaTg0RkRVYm1mUzVHSFYyT2FUaHlYN2J2UHA?oc=5\" target=\"_blank\">South Ko",
+    "sources": [
+      {
+        "name": "hanwha_aero",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tVllTQlA3b0RHbUpVRzl4d3E3V3VEWUg3SUVWOUJIY2ZIejZ5UEpVQ1pzQ1VUQVcwUUJkZDhSaTg0RkRVYm1mUzVHSFYyT2FUaHlYN2J2UHA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-21-015",
+    "date": "2026-11-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Greece and Israel Discuss Up to €1 Billion in New Defence Deals - Greek City Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOUkw5MXBUV2wzbS11MEJXMTU0NEZ2clp2bEhueTEtLVpmUFAxYVF6dU1ONFpWWXZWdmRESmhOTWtEY29IdEpxNjRTWG55a0dTSmdkM1U2dFZ6WURUUjM0aTFiVXFJMk1YZ3FBZ0E4S1",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUkw5MXBUV2wzbS11MEJXMTU0NEZ2clp2bEhueTEtLVpmUFAxYVF6dU1ONFpWWXZWdmRESmhOTWtEY29IdEpxNjRTWG55a0dTSmdkM1U2dFZ6WURUUjM0aTFiVXFJMk1YZ3FBZ0E4S1VVUHdHbUZwNWJDSkVWQTQzOTRCcjZrcVNZWnpqQjFReTdsaWVyYVRESk5TUzc2LUtY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-21-016",
+    "date": "2026-11-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Despite Hegseth memo, Canada hasn’t seen changes to defense relationship with US, says DefMin",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/11/canada-hasnt-seen-changes-to-defense-relationship-with-us-says-mcguinty/\"><img width=\"1024\" height=\"576\" src=\"https://breakingdefense.com/wp-content/upl",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/11/canada-hasnt-seen-changes-to-defense-relationship-with-us-says-mcguinty/",
         "type": "rss"
       }
     ]
@@ -2902,6 +3097,64 @@
     ]
   },
   {
+    "id": "rheinmetall-2026-11-18-055",
+    "date": "2026-11-18",
+    "companies": [
+      "rheinmetall"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rheinmetall falls 2.26% in Wednesday's session - Global Banking & Finance Review",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNOFlsSUxMTzFVYVBpS1h1NWxzU3E5R1FWNUVTYmMzbnJvN21PTkg1NmY2N3dDQktoYS1nUDJoNWp3Y2g2UmNwbkJ0T0MyaG84ZHEyZFNiM0VLaGlWam9RYnlYUzdLa3ctR29yNjc4UV",
+    "sources": [
+      {
+        "name": "rheinmetall",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOFlsSUxMTzFVYVBpS1h1NWxzU3E5R1FWNUVTYmMzbnJvN21PTkg1NmY2N3dDQktoYS1nUDJoNWp3Y2g2UmNwbkJ0T0MyaG84ZHEyZFNiM0VLaGlWam9RYnlYUzdLa3ctR29yNjc4UVlqNlY0eFY3UkpvYlJSU0xuNUdR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "elbit-2026-11-18-056",
+    "date": "2026-11-18",
+    "companies": [
+      "elbit"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Elbit Systems awarded approximately $170 million contract to establish and operate an advanced training and simulation center for the IDF Artillery Corps - Defense and Munitions",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAJBVV95cUxQQ0lPRGlUcWRLNnctSndJMGxPXzBnNmVqS0lpTW9CUlNIcGlucnQ3OEJwNnhHc0JLa05FQllIdkZ2WW10a1BFOEx5cGFIdnFzWG5RY1dabFdjbjR5eTh6d2dIYUI5cUx2VGJ1SWctS1",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQQ0lPRGlUcWRLNnctSndJMGxPXzBnNmVqS0lpTW9CUlNIcGlucnQ3OEJwNnhHc0JLa05FQllIdkZ2WW10a1BFOEx5cGFIdnFzWG5RY1dabFdjbjR5eTh6d2dIYUI5cUx2VGJ1SWctS1RqZzRtZGtlSVVKQ21hRUx2XzJOaFhuVWVJUVRJY0EyTGhORDhVWHVsM3NsLVl0RGowb0ZiYll2aTN0bXRzODV5TEY0M3BkTHNNZW5qTFZSUVJNRHhqRlN1TTRNN2h5TXRnTl9OcWdxMEpHakU2MlVpWk5YU25SeUxpTU95Z1MwLUt2NVlDQTE3NjFNTzE4eFM4X3NkUnNfZGxIbmJNdU1CQVpEd2NQa3RFYTB1MjU3V3lpLXNFVTBMNw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-057",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The House Article | How Will Britain Meet Its Defence Spending Targets? - Politics Home",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQN1Q3UDAzU0Z0dVlUNXZ0eXoxWTFkdlQ1UnNmbjRqbzRmZDFHcjFzWHVtazh1emtFY1N4RVdGQ1dCMGtCZTZiLWktVFhjY3BJSjRtN0JlVzR3YVlzaG5nVnN3UVBxZFVoa3hrUWY5dE",
+    "sources": [
+      {
+        "name": "google_defense_budget",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN1Q3UDAzU0Z0dVlUNXZ0eXoxWTFkdlQ1UnNmbjRqbzRmZDFHcjFzWHVtazh1emtFY1N4RVdGQ1dCMGtCZTZiLWktVFhjY3BJSjRtN0JlVzR3YVlzaG5nVnN3UVBxZFVoa3hrUWY5dENDcmoxMlU5NjU2N3hfdlZiZjU5bFA3QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rtx-2026-11-17-001",
     "date": "2026-11-17",
     "companies": [
@@ -4460,6 +4713,26 @@
       {
         "name": "elbit",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcnVHcDlZRFBJWkxOZ2ZXdUwtVUtneG5tenRKNDdWbkpZdmRaUjh3RmJVZW5nWWptQnkwRFlLYlJGWkVaR0ZndmxsOW5nRUp2WUVUM2RLc0RNZEpuVUo4Y0ppMUFVRXZmWGxmaXlJN1E0M3djaG9haDc1OWE4UXBxUzRGVmhxcHJQSElUeUlGRnJ5Rkhl?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "elbit-2026-11-17-082",
+    "date": "2026-11-17",
+    "companies": [
+      "elbit"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Elbit Systems Beats On Earnings And Points To Faster 2027 Growth, But Flat Sequential Sales And Slower Backlog Adds Meet A Wary Market - Finviz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxQQVlkZERWakY5ZU9QRGFnV09VNDRtZ1dxck5sLU5nSEMwdThWdWttSWwzVmhWN2lrZlFUOXZORVJDaDdKSUNMTEJsNmZpd1ZwcDU2STJieVRsVkxPaV9mTk5kNU5jWXRraWdiZFBMVE",
+    "sources": [
+      {
+        "name": "elbit",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQQVlkZERWakY5ZU9QRGFnV09VNDRtZ1dxck5sLU5nSEMwdThWdWttSWwzVmhWN2lrZlFUOXZORVJDaDdKSUNMTEJsNmZpd1ZwcDU2STJieVRsVkxPaV9mTk5kNU5jWXRraWdiZFBMVExUWDh5Zk9PdnNJZ1FaRTNmbzVyenpIeVp2cEJiZEJVWktpTDZ0bk9RQlM0X0pfQUVjZFB5RE9DN2ZTMkM2S0t1WG4zRkVMRkF1bUUtLVc0azQtazlCa0l5dmdhWVBSZ2hQWGpzVmlvRmFrT3Q4Q1lJOHp1NGVKZXVYZ3hMa0hjTW45VFRvakNJ?oc=5",
         "type": "rss"
       }
     ]

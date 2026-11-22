@@ -1,0 +1,16 @@
+{
+  "total_raw": 281,
+  "dup_title": 142,
+  "no_date": 0,
+  "too_old": 88,
+  "gate1_fail": 22,
+  "gate2_fail": 15,
+  "passed": 14,
+  "gate2_samples": [
+    "Can DeepStrike JR3 Strengthen RTX's Precision Fires Growth? - Yahoo Finance",
+    "RTX: The $340 Billion Reason To Stay Bullish (NYSE:RTX) - Seeking Alpha",
+    "RTX Corporation $RTX Holdings Cut by State Street Corp - MarketBeat",
+    "Gold, Silver and Crude Slide Hard as Volatility Jumps on the Week - Quantisnow",
+    "FAA oversaw and signed off on repair work before nationwide ground stop - The Washington Post"
+  ]
+}
