@@ -1,0 +1,16 @@
+{
+  "total_raw": 270,
+  "dup_title": 108,
+  "no_date": 0,
+  "too_old": 79,
+  "gate1_fail": 25,
+  "gate2_fail": 17,
+  "passed": 41,
+  "gate2_samples": [
+    "How Much RTX Do You Really Get Through 3 ETFs? - Yahoo Finance",
+    "Jefferies Says Raytheon's Dual Sourcing Move For Tomahawk Component Is A 'Modest Incremental Negativ",
+    "Can DeepStrike JR3 Strengthen RTX's Precision Fires Growth? - Yahoo Finance",
+    "FAA oversaw and signed off on repair work before nationwide ground stop - The Washington Post",
+    "Rheinmetall Pitches US-Systems-Equipped GMF 140 Frigate to U.S. Navy - Naval News"
+  ]
+}
