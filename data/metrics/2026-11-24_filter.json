@@ -1,0 +1,16 @@
+{
+  "total_raw": 267,
+  "dup_title": 92,
+  "no_date": 0,
+  "too_old": 72,
+  "gate1_fail": 24,
+  "gate2_fail": 25,
+  "passed": 54,
+  "gate2_samples": [
+    "Can Valox Engines Strengthen RTX's Uncrewed Aircraft Growth? - Yahoo Finance",
+    "RTX (RTX) Stock Looks Fully Priced Despite Its 161% Five Year Run - Yahoo Finance",
+    "Is RTX Corporation (NYSE:RTX) Showing Signs Of Renewed Strength? - Kalkine Media",
+    "Jefferies Says Raytheon's Dual Sourcing Move For Tomahawk Component Is A 'Modest Incremental Negativ",
+    "Mizuho initiates coverage of L3Harris Technologies at Outperform, sets price target at $310 - Tradin"
+  ]
+}

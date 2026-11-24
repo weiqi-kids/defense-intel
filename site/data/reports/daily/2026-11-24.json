@@ -1,0 +1,270 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T19:15:40.728989Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hanwha_aero-2026-11-24-012",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Hanwha Aerospace: K9 Maker's Q3 2026 Loss, Backlog and Exports - Envanter Medya",
+      "companies": [
+        "hanwha_aero"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYV9ISjVma1hQdG1FU2ZhRXJ3ZUROSHNnOXk4bWZwNHFod01kekF6OVNCWVhpeUFyaEFHNUZEbWhJc244M2hkMnpFdUpxVEh4dENwbzFIN3Zyb25yRUNGOWhKT1dHYk4ySGsyRmZZTEZNSjVvdy1DU3F5aGd1ZlVoVUtn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-24-040",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "State Duma Approves 2027-29 Budget With Record Military Spending - The Moscow Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "defense_budget",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNODJuRzFxVlZDQ1V2Rzg4Vm9KQ1Z0Y1VrQ1BDWVo0RDBtbVJZdUE0WDhIQlRvdl9MR0ZpbjlIVmxicXF5dU1QZVJiZ2dDNGRNNENzNnJaRXphTWNGU3NLU1Q3aDcyMmJLVVNiWEhEVEpKYnRRNUs5UkZ6QnQxMVlaUjdhX1dhSTFpbTU3enB3M1dVZzN2bVpDcU4yWHV4RkdOb2IzOHVhTmM0bjZVOFQzajZrNA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rtx-2026-11-24-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX's Raytheon selected to advance development of new submarine-launched missile for U.S. Navy - RTX Corporation",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdFd2T202WXdOOEF3TkJMaVhiUl9TUFkzRE9LclBFTkJDTU9jb0NUaV9ESUlLX3RPeWlyY19OVTJhQ3JBTGpOZjBFczIwUnJWV2wyakZzQU1Ya1dGTEFhaGs3ZVhkaGc0VExGRGFhVkxFa2xBdUlRQS1ZeEVPLU9meVVSTXpoUTU1ODg2M0FNcVhUcFBlZXJSTzdySFZpZWRnVEc3OHB2VDVZMXE3MGpNMkFqT0c0cTgwdHFaNGhWVEVWREdNLWc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rtx-2026-11-24-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX's Raytheon to Develop Nuclear Cruise Missile for Navy - marketscreener.com",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORTR0YWY3THRwWkdkMHhTMTEzUUtyVlRiSGMzREZQdWd4a3JmVTh3dXRiZmJZUDNUdTl4OUlvdzROX3U1N2FyYlVTMUo0bWNtMktwWjU2WkJ1TzVxMTUtOEtkZnVLNHBGZkFTT2Q4bktSVTdsVEdhMmJaZTRadmsyX0dfS2pPMjBhUGhMbXNTMzNuM3p6bnI0d1RxZjRncmYzTTZ1UFNIRUpoclhvX0JN?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "northrop-2026-11-24-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Can Counter-Drone Demand Strengthen Northrop Grumman's Growth? - The Globe and Mail",
+      "companies": [
+        "northrop"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdG9rM3Z5TXdSQnQ1NGZFeE80d2tpT1RuYnFxbUFlaU9wejZFT1hIVHJZZ0xBVks0aHF1M1BtZXpXRzZSUU5PcFY0VE4yWjBfZnlEU2pVcS13T19NekpSTF9UTEl2ZjF3Y3dDbG1QY3ZCWGZna2VwZ2UyYlBURDJ4RjBkREM1Y0t3dDdtQ2NPXzdQSmp4dW5kanJSZHJ4X1k0V1A0ZGJNRVgyRUJ3d0xDMVVzdXNGNHdKLTJaYTVNdEpLbVdvT2k4ZTU4YUZvQ1RCbHJMUUxCSWIwVWps?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "drone_warfare": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 31,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "arms_export": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "defense_budget": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 44,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 38,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_aero",
+        "count": 9
+      },
+      {
+        "id": "elbit",
+        "count": 5
+      },
+      {
+        "id": "rtx",
+        "count": 4
+      },
+      {
+        "id": "palantir",
+        "count": 3
+      },
+      {
+        "id": "rheinmetall",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 31
+      },
+      {
+        "id": "earnings",
+        "count": 18
+      },
+      {
+        "id": "drone_warfare",
+        "count": 5
+      },
+      {
+        "id": "defense_budget",
+        "count": 2
+      },
+      {
+        "id": "arms_export",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 267,
+    "dup_title": 92,
+    "too_old": 72,
+    "gate1_blocked": 24,
+    "gate2_blocked": 25,
+    "passed": 54,
+    "pass_rate": "30.9%",
+    "gate2_block_rate": "14.3%",
+    "gate2_samples": [
+      "Can Valox Engines Strengthen RTX's Uncrewed Aircraft Growth? - Yahoo Finance",
+      "RTX (RTX) Stock Looks Fully Priced Despite Its 161% Five Year Run - Yahoo Finance",
+      "Is RTX Corporation (NYSE:RTX) Showing Signs Of Renewed Strength? - Kalkine Media",
+      "Jefferies Says Raytheon's Dual Sourcing Move For Tomahawk Component Is A 'Modest Incremental Negativ",
+      "Mizuho initiates coverage of L3Harris Technologies at Outperform, sets price target at $310 - Tradin"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 44 則事件，焦點為韓華航太、艾爾比特、RTX相關動態：「Hanwha Aerospace: K9 Maker's Q3 2026 Loss, Backlog and Ex...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hanwha Aerospace: K9 Maker's Q3 2026 Loss, Backlog and Exports - Envanter Medya（財報、國防航太通用）",
+        "level": "red"
+      },
+      {
+        "text": "State Duma Approves 2027-29 Budget With Record Military Spending - The Moscow...（國防預算、財報、國防航太通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
