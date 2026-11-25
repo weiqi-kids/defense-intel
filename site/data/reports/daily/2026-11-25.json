@@ -1,0 +1,267 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T18:19:58.628747Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "kratos-2026-11-25-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Kratos Defense vs. L3Harris: Which Company Has a Competitive Edge? - Yahoo Finance",
+      "companies": [
+        "kratos",
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN3FsSXlwN3NPVnJrOG0wWnZVQ0VHQWozT3UwckprdGxET3o4NWV6SG5kZkhzOFp3UloxUU5QZ1BnQkFRZ0lEMTVCSXZCdUtqcnlhTm5TOVhjQlYtTlRTQ09oa29zXzFLa3RtWFhSNXA5RWd1djVKd0JuZGRIQm9jX0VQaUZMMHVoMk5ZZUFBeE4tektiQjFzaWtHVEVhck4t?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-25-052",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Myanmar military spending hits record high as budget deficit widens - Myanmar Now",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "defense_budget",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdkRqcG9HbTl1M0preU05ZlFMazNhdlhhNmlEbU94ZmFMTHNUYlBlYlg0bVQ0dWlEUUNyNm9FWkhiTmZSelc3SlRpRzZKdlB0M0ZRX1VXb2N2bWpvN3ZBQ1RqaUhGb0xscXdPNDhxS19YT055LTd2TDNsQTl3VF9kdHpxQjdTV1VzVk5BSlNCeUMtUi01Zk5YbTZzeEtvVnBwRXc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rtx-2026-11-25-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Corporation: An Extensive Backlog And Growing Service Sales Support A Buy (NYSE:RTX) - Seeking Alpha",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVjBEdHNPS3lRRnIyNkU4RzRRTlFtb05sVUFXNG5NT2d2dW5KQjA3Z2k4UFBhNVp0dHl3Tm1OUV94S21lQ2RjVW1MdWdkV2hPVGVDVVZkM0Njc0xDaWxTZGRqZXBoWS12TkpnU09BalAyUEZxTUJYVnVZdGlYa3BRODRvcURRNVg1cllBQzRuSV9qRzF6NHVUN2JPUjJyX1dvbVYtZnJVaGZqUFpvTG1vcFhsRW1JVXJS?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rtx-2026-11-25-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Corporation: Tariff Refunds Flattered Q3 2026, But The Stock Still Trades 12.7% Above Its Average - Seeking Alpha",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTmxSRGx2VVczRzAtUk1qZ05tbHk2RTBnNmZERUxKZ0U4cllVYzhoNDJuTjBHQVdLeUtIMFNuaWZ6dWMyTEtfN3ZZOUpKcy02d3R6bmtpNU1jc0NpSjJCeko1WS11YlVGeFZLcW9nbE94U1NLWUh2dUU3aWNhUjR6TzBUSjY1d0wxVGRmcXplU0MyMlNqUDlVVmNZTDJKb3ItMUNPOXRLN1NoLVJibzdTeE9hRTl2WEVxX2xxNTZZN0J2cEltZVNSdmVZdjc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "l3harris-2026-11-25-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris Technologies Stock Outlook: Is Wall Street Bullish or Bearish? - Barchart.com",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV1k2cEJsNElhanNSRmhnTkFhenJabi1ycExrVXhEMHhRdno5bXphNG1JZDB6cl9fZUFLS0FtdS1WLXZmTkdwM19sNkNvLWFmQ09NMVF5ZFlFZk5SLWo0YldFUjk1ODlyXy1WWks2a3VhZ3JIR1htdmtLLWY1N2tGR2xNeGZRNkU2bkhPb3VPRVlXS0laemRYamMwQmZmOGRRQlM0MXNnekdsNWkweWhNX1licw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 34,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "arms_export": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "defense_budget": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 53,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 47,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "hanwha_aero",
+        "count": 15
+      },
+      {
+        "id": "palantir",
+        "count": 11
+      },
+      {
+        "id": "l3harris",
+        "count": 6
+      },
+      {
+        "id": "rtx",
+        "count": 2
+      },
+      {
+        "id": "elbit",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 34
+      },
+      {
+        "id": "earnings",
+        "count": 23
+      },
+      {
+        "id": "defense_budget",
+        "count": 4
+      },
+      {
+        "id": "drone_warfare",
+        "count": 3
+      },
+      {
+        "id": "arms_export",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 267,
+    "dup_title": 101,
+    "too_old": 62,
+    "gate1_blocked": 17,
+    "gate2_blocked": 14,
+    "passed": 73,
+    "pass_rate": "44.0%",
+    "gate2_block_rate": "8.4%",
+    "gate2_samples": [
+      "RTX (RTX) Stock Looks Fully Priced Despite Its 161% Five Year Run - Yahoo Finance",
+      "Mizuho initiates coverage of L3Harris Technologies at Outperform, sets price target at $310 - Tradin",
+      "L3Harris Router, 400 Fired Engineers and the 4-Hour Ground Stop: Aviation Writer Darryl Campbell on ",
+      "L3Harris to Present at Two Upcoming Investor Conferences - Business Wire",
+      "Bernstein maintains its stance on Rheinmetall ahead of CMD - www.marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 53 則事件，焦點為韓華航太、Palantir Technologies、L3Harris Technologies相關動態：「Kratos Defense vs. L3Harris: Which Company Has a Competit...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Kratos Defense vs. L3Harris: Which Company Has a Competitive Edge? - Yahoo Fi...（國防航太通用）",
+        "level": "red"
+      },
+      {
+        "text": "Myanmar military spending hits record high as budget deficit widens - Myanmar...（國防預算、財報、國防航太通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

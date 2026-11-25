@@ -1,0 +1,16 @@
+{
+  "total_raw": 267,
+  "dup_title": 101,
+  "no_date": 0,
+  "too_old": 62,
+  "gate1_fail": 17,
+  "gate2_fail": 14,
+  "passed": 73,
+  "gate2_samples": [
+    "RTX (RTX) Stock Looks Fully Priced Despite Its 161% Five Year Run - Yahoo Finance",
+    "Mizuho initiates coverage of L3Harris Technologies at Outperform, sets price target at $310 - Tradin",
+    "L3Harris Router, 400 Fired Engineers and the 4-Hour Ground Stop: Aviation Writer Darryl Campbell on ",
+    "L3Harris to Present at Two Upcoming Investor Conferences - Business Wire",
+    "Bernstein maintains its stance on Rheinmetall ahead of CMD - www.marketscreener.com"
+  ]
+}

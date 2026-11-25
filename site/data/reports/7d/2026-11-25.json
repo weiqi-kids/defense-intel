@@ -1,0 +1,174 @@
+{
+  "date": "2026-11-25",
+  "date_range": {
+    "start": "2026-11-19",
+    "end": "2026-11-25"
+  },
+  "generated_at": "2026-11-25T18:19:58.736522Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "palantir-2026-11-19-017",
+      "date": "2026-11-19",
+      "title": "Russian charged with spying on Palantir employees for Moscow - The Record from Recorded Future News",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 118,
+      "last_week": 83,
+      "week_over_week_change": "+42%",
+      "sentiment_this_week": 0.02
+    },
+    "earnings": {
+      "this_week": 92,
+      "last_week": 120,
+      "week_over_week_change": "-23%",
+      "sentiment_this_week": 0.05
+    },
+    "drone_warfare": {
+      "this_week": 16,
+      "last_week": 15,
+      "week_over_week_change": "+7%",
+      "sentiment_this_week": 0.0
+    },
+    "missile_defense": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "cybersecurity": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "arms_export": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "defense_budget": {
+      "this_week": 7,
+      "last_week": 4,
+      "week_over_week_change": "+75%",
+      "sentiment_this_week": 0.29
+    }
+  },
+  "company_7d_summary": {
+    "rheinmetall": {
+      "event_count": 13,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "elbit": {
+      "event_count": 21,
+      "sentiment_avg": 0.05,
+      "rank": 3
+    },
+    "palantir": {
+      "event_count": 34,
+      "sentiment_avg": 0.09,
+      "rank": 1
+    },
+    "hanwha_aero": {
+      "event_count": 27,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "rtx": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 6
+    },
+    "l3harris": {
+      "event_count": 8,
+      "sentiment_avg": -0.0,
+      "rank": 5
+    },
+    "northrop": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 7
+    },
+    "aidc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "kratos": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 275,
+        "last": 371,
+        "change_pct": -25.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-19",
+      "event_count": 56,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-11-20",
+      "event_count": 35,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-11-21",
+      "event_count": 16,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-22",
+      "event_count": 8,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-23",
+      "event_count": 45,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-11-24",
+      "event_count": 62,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-11-25",
+      "event_count": 53,
+      "sentiment_avg": 0.05
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-19 ~ 2026-11-25）共 275 則事件，重點為「Russian charged with spying on Palantir employe...」。諾格情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "諾格",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "萊茵金屬",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "艾爾比特",
+        "reason": "本週出現 21 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
