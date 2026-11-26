@@ -1,0 +1,254 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T18:00:37.022901Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-26-025",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Missiles instead of butter. Israel sets a record for military spending - Defence24.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "defense_budget",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSUNVRWxqYkQyWl9WOVAwbmJDSkJFamhvUmlwVWVHU3lQTnlXOXhBTGVHVWVtSzlTU0ZVbkhMYUF4MnZROWt2c3RrbUpWcENoU3F5Z0VUVXM4c3pwbERFVFNJMGFycnZKM25Gb0tqV3g5LW5VZzk5djJjNnI2VGNTcEZGYWZmUW5wYVBMeTZNQjZETWozY0dsajVodWYzZGlnUWsxQ3ZwS1dmUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rtx-2026-11-26-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX vs. HEI: Which Defense Stock Has Greater Upside Potential? - TradingView",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSUU3b3BmZTFwY0Z5eGZSa1VTaVVzbDd5UXB0My04WDJaak9xOHNpczRnRmVEVnlHLWdxRk9ONjZzTmMwZkJWX1VzZDk3aDBQREt4dFEyTmJvT3Bjc09jTHJKMU1DN2V5NVdHbFYwc0d2dWI5QlVkZUhBNUl1Qmo1Y2NZN0Q2QzlSZGtvb1owYjZKVFp4SU9vRXRnVTBkb0VfYVdZZEhGUjBnNEZWYkVETWNhbDlfZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rtx-2026-11-26-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Is Down More Than 10% From Its August High, but $1,000 From Five Years Ago Is Still Worth More Than $2,000 - 24/7 Wall St.",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZ29Fd3pZdHQ1MjlmM2ZweGdYQ25GQWFsT1kwT014cHk5Q0g1N052bnBYUDZYek1xbkZUUkhQTDBJcndZOVctTVB4RDlsdHF3Wk1VdnVvSWpKYU1fTVRHdDBUcXRfSUVYTTY2bUxETjh3TXdNN1RnYml3TExqdUVjRmU2azR6aFhyOWNyMlVRS0Q2blNQZnFkZjBCcmhDOFJXVlUxOUQ5LVNZOVBDYXpmbEhKd0d0c004a0p1SHFnckpBVW9CalloS3ZIRzFnRWpYRnZOOUppOFdiMFRzYkhNcm93?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rtx-2026-11-26-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX Wins $2.52B Contract to Sustain F-35 Fighter Jet Engines Worldwide - Defense Mirror",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZlNTZVRsdmwtOEFoQ3hwNFVUaVZ1ZlJNYVczR0p2OG1LY0xPMFMwZndXMmRpYXpIMmRaV3puYTNkWDU2UTBmSTJTTWxFLUVCVXJCWko1N1Bxd0RKLThfamxid2pabklMQ3otSEZoX1ZDNlVLZWxUWEJpSUNCV1VmcW9uLXdpOFVsNmNWZ3o1LXByc1czZWJ2Sk1lUHppMzdYcm9lMXNQUlo3Y1k?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "l3harris-2026-11-26-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "L3Harris (LHX) Stock Still Looks Cheap Despite Its 46% Run - Yahoo Finance",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQamhmSVlNV1NaMFh4R3dkSFNrQWpwVVo4WWVKOV91d1JQSVRMaUx1RnhBZTZNcDJEaUdkV3pNZDdtYS1xU3JzNUJjQ3g4WkVveEVIbHIwQmYxc3lQZVhEb0JCREw2MVZaeFVjcVBQME9FeC12TUgtMkNTbHpKZk1BWGZEdG43dHhESVg3RjF5emNhRXhONkdybXdsRQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "defense_budget": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.75,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 23,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "palantir",
+        "count": 5
+      },
+      {
+        "id": "rheinmetall",
+        "count": 4
+      },
+      {
+        "id": "rtx",
+        "count": 3
+      },
+      {
+        "id": "hanwha_aero",
+        "count": 3
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 17
+      },
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "drone_warfare",
+        "count": 5
+      },
+      {
+        "id": "defense_budget",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 268,
+    "dup_title": 123,
+    "too_old": 66,
+    "gate1_blocked": 20,
+    "gate2_blocked": 18,
+    "passed": 41,
+    "pass_rate": "28.3%",
+    "gate2_block_rate": "12.4%",
+    "gate2_samples": [
+      "113,377 Shares of RTX Corporation $RTX Acquired by Jump Financial LLC - MarketBeat",
+      "RTX Corporation $RTX Position Reduced by Dodge & Cox - MarketBeat",
+      "RTX (RTX) Stock Looks Fully Priced Despite Its 161% Five Year Run - Yahoo Finance",
+      "Mizuho initiates coverage of L3Harris Technologies at Outperform, sets price target at $310 - Tradin",
+      "Should Early Debt Repayment Require Action From L3Harris Technologies (LHX) Investors? - Simply Wall"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為Palantir Technologies、萊茵金屬、RTX相關動態：「Missiles instead of butter. Israel sets a record for mili...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Missiles instead of butter. Israel sets a record for military spending - Defe...（國防預算、財報、國防航太通用）",
+        "level": "red"
+      },
+      {
+        "text": "RTX vs. HEI: Which Defense Stock Has Greater Upside Potential? - TradingView（財報、國防航太通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

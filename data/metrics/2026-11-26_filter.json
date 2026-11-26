@@ -1,0 +1,16 @@
+{
+  "total_raw": 268,
+  "dup_title": 123,
+  "no_date": 0,
+  "too_old": 66,
+  "gate1_fail": 20,
+  "gate2_fail": 18,
+  "passed": 41,
+  "gate2_samples": [
+    "113,377 Shares of RTX Corporation $RTX Acquired by Jump Financial LLC - MarketBeat",
+    "RTX Corporation $RTX Position Reduced by Dodge & Cox - MarketBeat",
+    "RTX (RTX) Stock Looks Fully Priced Despite Its 161% Five Year Run - Yahoo Finance",
+    "Mizuho initiates coverage of L3Harris Technologies at Outperform, sets price target at $310 - Tradin",
+    "Should Early Debt Repayment Require Action From L3Harris Technologies (LHX) Investors? - Simply Wall"
+  ]
+}
