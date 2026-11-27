@@ -1,0 +1,251 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T17:45:47.889081Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-27-028",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Russia passes record defence budget since Soviet era, military spending may top $1.3 trillion - Moneycontrol.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "defense_budget",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQejlrRDZ4RGxFamVmS0ZWT0p2WHpWUjAyZ0d5ZHNjY1NiYmpoM1J1TGFZT2ZJWm9GOF9kWkt5TUFaOWdSWXVnLU9FbDZwUVdVVUEzbi1Pb25HMVk2RE5ObDJPb0pWMEpnc1BrZGthcjlFNWwxQ0djZGI1OF83Rzl2a2pDcVFvcVhwUW1fSllRa215WDNaZEE3dzI3ZldHX3JVQ19QUXlMdThXb2pLYlhtcUpkd21GQmpIaTlFOGdMVUszNjI4ZVFpbDlRR0JORDBkSi1DSUNqNVMyNTJ6NWpBS1lR0gHnAUFVX3lxTE9laUwtUENiMlZDMVJLQk1JSmRlcHdYTldxZUlyYmZrNlExdFVlcW03c09rVkhhaXU2cDJVRWQ2QU1RTS1RU2VtWUNBLTVqLTJuYlZfYlRfOWppaFo1a1JUYm5yU1ZWOWg0Q1hsY0tIb1NRUmw5Vks3a1B1aDR1cVlCRlljdFRmMDVkWW1hVl92ZXB2ODAwVXJhU3BqTmRrLVdpVW5FZ1dndmhjWVVIRGo2OHhfeDN4VTBRNVlubjFrTHFkNVdIamFUOTBUb2lmSHZ4d1p5VEk1NnVzelIzdUFiTWdLd2QyQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rtx-2026-11-27-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RTX : Pratt & Whitney expands aerospace manufacturing capabilities in Kalisz - www.marketscreener.com",
+      "companies": [
+        "rtx"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbE5LR3E4NXNud29VTk1lS2VnQmI4blp3cDZSbHQyMUQwQ2pxcndnRGdZZGRrUDRpMHhKM2RhM3A4cXVGaV9LMEZtSjdRbC1IY1BJaXFqanE1Si15dTRNNmlDUmktSTFQYS1vME9FRlNHSno0MXJPOTdpdjlwVEpHY250TU4zY1B2XzVlcS16dGNUd0UyRzhySGNOMXZyTkpxQlhIQ3NxeVkxUG5DdVlxMWlsR3IzQzJDUURJY1RJekVSa1E?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-11-27-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Can L3Harris' Australian Defense Award Expand Its All-Domain Reach? - TradingView",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU1czaVFWaWFGdkRTNHo0cVJsV2xKTHZ5UE1DUjA3ZlZkNUhCQUd4b0stUXdZelAwUDNqVDJIekZ3MFFDVmRZdUNabXpKRHFCbU9BY09HYUxOTXlicXd0eF9iUVQ2MXN5SnNEZzJJQlFlX0Q2ZUFZbmVGMjhvMW5KS0RfRWRsekdRZVlkQ3VFTVpxMzRSMnhFUVBuMFplMldVSGpXbDI1VExXQ0d5RF8xcGNwZHhXaVR2VzlVOGxn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rheinmetall-2026-11-27-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Arms Maker Rheinmetall Slashes Midterm Forecasts After Order Setbacks - WSJ",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdi1ZaGdYRUZoSlRpUEVMRkJaU19VMXVqMHkxTUwxeFhTZVd5VXpidHowd09hdDkydTlaMFR0MkVzeFNOUDRXcnZ2dWdhdHByUkRNSEVsMW91WjZwVm8zN19zY18xSVhEQWJiX19fUnZlUkRZZExCXzI4RHloSGZPaTFpM1dRMUNORXJxTTEydE1OMjI2akZoYUpVQ1B0dUt5NXlYLWFpOW1fclJIQ1M5Smd1SVliUVk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rheinmetall-2026-11-27-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Two Italians Working for Rheinmetall Killed in Drone Attack in Kuwait - The Defense Post",
+      "companies": [
+        "rheinmetall"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "drone_warfare",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fR0FucGxDbTM4QTVOMFhLYi1XYkk1cWJiTGs0eE44SmREYk82SldXZ2xwZVdmV3pVZnF3cTVMS1FaZGt5TXpsczRlVHhOTXRfejN1amx3dXFvWXNZLUFwLVpST3QzQkF1YkI0TDF4SUxmTHF3VnB3NWRubTA3eHfSAYQBQVVfeXFMUGg3dThJMVR2TVBfcXV1VnBPNEJ3WkV5Wnd2OFNHeHRQcU9Dbm9YU2E1VHVUWGVZSGVPbDREQ2RubTBPcXJ2WXFpNjh4RmE2bWNnNzlwdWVMMk02Unc2WEw2d2x4dGpxME8tQ0pRVjg3WHN5dTVidVlwM3dYcHRhVzNMZWJj?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.21,
+      "sentiment_7d_avg": null
+    },
+    "drone_warfare": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "defense_budget": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 30,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 25,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rheinmetall",
+        "count": 12
+      },
+      {
+        "id": "palantir",
+        "count": 7
+      },
+      {
+        "id": "rtx",
+        "count": 1
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 18
+      },
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "drone_warfare",
+        "count": 5
+      },
+      {
+        "id": "defense_budget",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 266,
+    "dup_title": 128,
+    "too_old": 64,
+    "gate1_blocked": 17,
+    "gate2_blocked": 13,
+    "passed": 44,
+    "pass_rate": "31.9%",
+    "gate2_block_rate": "9.4%",
+    "gate2_samples": [
+      "Peak Asset Management LLC Acquires 108,775 Shares of RTX Corporation $RTX - MarketBeat",
+      "L3Harris to Host Investor Site Visit and Webcast - Business Wire",
+      "Mizuho initiates coverage of L3Harris Technologies at Outperform, sets price target at $310 - Tradin",
+      "L3Harris to Host Investor Site Visit and Webcast - The Joplin Globe",
+      "Rheinmetall reins in growth ambitions as Europe's rearmament boom hits hurdles - CNBC"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 30 則事件，焦點為萊茵金屬、Palantir Technologies、RTX相關動態：「Russia passes record defence budget since Soviet era, mil...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Russia passes record defence budget since Soviet era, military spending may t...（國防預算、財報、國防航太通用）",
+        "level": "red"
+      },
+      {
+        "text": "RTX : Pratt & Whitney expands aerospace manufacturing capabilities in Kalisz ...（財報、國防航太通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

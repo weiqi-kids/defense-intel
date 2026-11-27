@@ -1,0 +1,16 @@
+{
+  "total_raw": 266,
+  "dup_title": 128,
+  "no_date": 0,
+  "too_old": 64,
+  "gate1_fail": 17,
+  "gate2_fail": 13,
+  "passed": 44,
+  "gate2_samples": [
+    "Peak Asset Management LLC Acquires 108,775 Shares of RTX Corporation $RTX - MarketBeat",
+    "L3Harris to Host Investor Site Visit and Webcast - Business Wire",
+    "Mizuho initiates coverage of L3Harris Technologies at Outperform, sets price target at $310 - Tradin",
+    "L3Harris to Host Investor Site Visit and Webcast - The Joplin Globe",
+    "Rheinmetall reins in growth ambitions as Europe's rearmament boom hits hurdles - CNBC"
+  ]
+}
